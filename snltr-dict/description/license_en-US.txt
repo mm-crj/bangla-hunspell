@@ -1,0 +1,83 @@
+Bangla Spell Checker
+----------------------------------------------------------------------
+WHAT IS "Bangla Spell Checker"?
+
+Bangla Spell Checker is a complete spell checker for Bangla language.
+
+----------------------------------------------------------------------
+Society for Natural Language Technology Research
+
+About Us
+English is still the primary medium of interaction with computers.
+Consequently, a large section of the  population in India  is not
+able to reap the benefits of the technology. Though the issue  of
+localization of interface has  been discussed in different  forum,
+the goal is yet to be achieved.
+
+In spite of the fact that desktop publishing has come of age for
+Bangla and other Indian languages and there are several software
+available for Bangla, the problem persists due to the absence of 
+
+      i) standardization of Bangla encoding, 
+     ii) encoding compliant font design,
+    iii) availability of compliant keyboard layouts etc.
+
+The lack of adherence to standard does not allow  the  computing
+activities  in  Indian  languages  to  be  inter-operable across
+computing platforms.
+
+In order to make the computing activities Bangla compatible,  it
+is essential to establish  a proper standard. Though a number of
+organizations have taken up language  processing activities, the
+necessity  of  establishing  proper coherence among them is very
+much felt, in order to deliver useful products.
+
+Language Technology  research  has  to  focus  on two components,
+written text as well as spoken language .Besides text processing,
+speech generation and recognition are two very  important  areas
+in  which  research  and  development  have  to be focused. This 
+development will not only result in  more natural human-computer 
+interfaces, but will also empower the physically challenged like 
+those with speech impairment and  visual  impairment, to benefit 
+from computer technology.
+
+The Society  for  Natural Language Technology Research  has been
+formed to address the above mentioned requirements.  The society 
+has   been  seeded  by  the  Govt.  of  West  Bengal  (Dept.  of 
+Information  Technology)  with  initial   funding  and  support.
+Operationally, the society aims to carry out its activities in a
+multipolar    manner,    involving  other  academic and research 
+institutes as well as industries.
+----------------------------------------------------------------------
+
+OTHER QUESTIONS
+
+If you have questions regarding Bangla Spell Checker or licenses send
+electronic mail to info@nltr.org.
+----------------------------------------------------------------------
+ADDRESSES
+
+Registered Office :
+  	Department of Information Technology
+  	Govt. of West Bengal
+  	4, Camac Street, 7th Floor
+  	Kolkata-700016
+
+Working Office :
+  	Module 130
+  	SDF Building, Salt Lake
+  	Sector-V, Kolkata 700091
+	
+Phone No. : +91 33 65332223
+Email: info@nltr.org
+URL: http://www.nltr.org
+----------------------------------------------------------------------                      
+Dated: 02 January 2015
+
+copyright (c) 2015 SNLTR.
+
+                         
+
+
+
+

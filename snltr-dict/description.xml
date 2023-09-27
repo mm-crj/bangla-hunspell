@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created with OpenOffice.org API plug-in for NetBeans Version 2.0.3-->
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="2.0"/>
+    <identifier value="snltr.snltrSpellChecker"/>
+    <registration>
+        <simple-license accept-by="user" suppress-on-update="false" >
+            <license-text xlink:href="description/license_bn-IN.txt" lang="bn-IN" />
+            <license-text xlink:href="description/license_en-US.txt" lang="en-US" />
+        </simple-license>
+    </registration>
+    <simple-license accept-by="user" suppress-on-update="false" >
+        <license-text xlink:href="description/license_bn-IN.txt" lang="bn-IN" />
+        <license-text xlink:href="description/license_en-US.txt" lang="en-US" />
+    </simple-license>
+    <publisher>
+        <name xlink:href="http://www.nltr.org/SNLTR/index.php?lang=bn" lang="bn">ভাষা প্রযুক্তি গবেষণা পরিষদ</name>
+        <name xlink:href="http://www.nltr.org" lang="en">Society for Natural Language Technology Research</name>
+    </publisher>
+    <release-notes>
+        <src xlink:href="http://www.nltr.org/SNLTR/index.php?lang=bn" lang="bn"/>
+        <src xlink:href="http://www.nltr.org" lang="en"/>
+    </release-notes>
+    <display-name>
+        <name lang="bn">বাংলা বানান পরীক্ষক</name>
+        <name lang="en">Bangla Spell Checker</name>
+    </display-name>
+    <icon>
+        <default xlink:href="images/logo.png" />
+        <high-contrast xlink:href="images/logo_hc.png" />
+    </icon>
+    <extension-description>
+        <src xlink:href="description/desc_bn.txt" lang="bn" />
+        <src xlink:href="description/desc_en.txt" lang="en" />
+    </extension-description>
+</description>
