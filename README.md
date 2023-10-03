@@ -6,7 +6,7 @@
  - [ ] Use wikisource to classify words in to parts of speach (helps with suffixies)
 
 ## Resources
-- [ ] [This will be of great help.](https://nltr.itewb.gov.in/downloads.php)
+- [ ] [SNLTR](https://nltr.itewb.gov.in/downloads.php)
 - [ ] [Hindi-hunspell](https://github.com/Shreeshrii/hindi-hunspell).
 - [ ] [sanskrit-hunspell](https://github.com/Shreeshrii/hindi-hunspell/issues/1)
 - [ ] [Bangla TypeFoundry](https://banglatypefoundry.com/spellchecker/)
