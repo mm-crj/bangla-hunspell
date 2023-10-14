@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 #
 # Loop over EPUB files in the 'epub' directory
-for epub_file in ./epubs/*.epub; 
+for epub_file in ./epubs/new/*.epub; 
 do
 # # Extract the base filename without extension
     base_filename=$(basename "$epub_file" .epub)
