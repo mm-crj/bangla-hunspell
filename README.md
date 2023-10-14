@@ -1,7 +1,7 @@
 # Suddo Bangla-hunspell
 ## To Do
  - [ ] Generate word frequency lists from corpus of old books in wikisource(in progess)
- - [ ] [To understand the dic aff format]([url](https://sites.google.com/a/chromium.org/dev/developers/how-tos/editing-the-spell-checking-dictionaries)).
+ - [ ] To understand the dic aff format([url](https://sites.google.com/a/chromium.org/dev/developers/how-tos/editing-the-spell-checking-dictionaries)).
  - [ ] Find a way to test find word coverage, preferably in firefox or libre writer.
  - [ ] Use wikisource to classify words in to parts of speach (helps with suffixies)
 
