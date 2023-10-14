@@ -1,0 +1,2993 @@
+---
+contributor: Wikisource
+identifier: 'https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF'
+language: bn
+rights:
+- GNU Free Documentation License
+- 'Creative Commons BY-SA 3.0'
+source: 'https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF'
+title: মেজদিদি
+---
+
+![](title.xhtml)
+
+[]{#title.xhtml}
+
+মেজদিদি
+-------
+
+### 
+
+\
+![](images/Accueil_scribe.png)\
+
+##### 
+
+\
+
+###### ৭ অক্টোবর, ২০২৩ তারিখে উইকিসংকলন থেকে রপ্তানিকৃত
+
+[]{#c0________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork" itemid="http://www.wikidata.org/entity/Q110221355"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c0________.xhtml#pracchada .pagenum .ws-pagenum
+page-number="প্রচ্ছদ"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7"}
+
+::: {.wst-center .tiInherit}
+[[**মেজদিদি**]{style="font-size:249%;"}]{style="font-size: 144%;"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:10em;"}
+ 
+:::
+
+![](images/c15___________________________________.jpg_350px___________________________________.jpg){.mw-file-element}
+
+::: {.wst-dhr style="visibility:hidden; line-height:10em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+[**: প্রাপ্তিস্থান :**]{style="font-size: 120%;"}
+
+[**কামিনী প্রকাশালয়**]{style="font-size:182%;"}
+
+**১১৫, অখিল মিস্ত্রি লেন,**
+
+**কলিকাতা---৯**
+:::
+:::
+
+[ ]{#c0________.xhtml#page .center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt3" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt5" lang="bn"}
+[]{#c0________.xhtml#prakasaka .pagenum .ws-pagenum
+page-number="প্রকাশক"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8"}
+
+::: {.poem}
+প্রকাশক:\
+শ্যামাপদ সরকার\
+১১৫, অখিল মিস্ত্রি লেন,\
+কলিকাতা-৯\
+\
+\
+\
+প্রথম প্রকাশ:\
+৫ই মাঘ---১৩৭০\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+মুদ্রাকর:\
+শ্রীমথুর মোহন গাঁতাইত\
+কামিনী প্রিণ্টার্স\
+১২, যতীন্দ্র মোহন এভিনিউ\
+কলিকাতা-৭০০০০৬
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt6" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt8" lang="bn"}
+[]{#c0________.xhtml#sironama .pagenum .ws-pagenum page-number="শিরোনাম"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+::: {.wst-running-header .wst-running-header-3 .wst-running-header-default}
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+[***মেজদিদি***]{style="font-size:249%;"}
+:::
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:20em;"}
+ 
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt9" typeof="mw:Transclusion"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:300px; text-align:justify;" about="#mwt10" typeof="mw:Transclusion"}
+::: {.subheadertemplate .__auxtoc .ws-summary style="width:30em; max-width: 100%; margin-left:auto; margin-right:auto; box-sizing: border-box; padding-left:.5em; padding-right:.5em; "}
+::: {style="display:flex; align-items: baseline"}
+**পরিচ্ছেদসমূহ**[]{style="flex:1 0; min-width:1em"}[[ ]{typeof="mw:Entity"}(মূল
+গ্রন্থে নেই)]{style="font-size: 90%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[**সূচীপত্র**]{style="font-size:182%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[**মেজদিদি**]{style="font-size: 144%;"}
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+পরিচ্ছেদ
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[মেজদিদি ---
+এক](#c1___________________.xhtml "মেজদিদি/মেজদিদি/এক")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[মেজদিদি ---
+দুই](#c2____________________.xhtml "মেজদিদি/মেজদিদি/দুই")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[মেজদিদি ---
+তিন](#c3____________________.xhtml "মেজদিদি/মেজদিদি/তিন")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[মেজদিদি ---
+চার](#c4____________________.xhtml "মেজদিদি/মেজদিদি/চার")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[মেজদিদি ---
+পাঁচ](#c5_____________________.xhtml "মেজদিদি/মেজদিদি/পাঁচ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[মেজদিদি ---
+ছয়](#c6____________________.xhtml "মেজদিদি/মেজদিদি/ছয়")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[মেজদিদি ---
+সাত](#c7____________________.xhtml "মেজদিদি/মেজদিদি/সাত")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[মেজদিদি ---
+আট](#c8___________________.xhtml "মেজদিদি/মেজদিদি/আট")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.wst-center .tiInherit}
+[**আঁধারে আলো**]{style="font-size: 144%;"}
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[আঁধারে আলো ---
+এক](#c9______________________.xhtml "মেজদিদি/আঁধারে আলো/এক")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[আঁধারে আলো ---
+দুই](#c10_______________________.xhtml "মেজদিদি/আঁধারে আলো/দুই")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[আঁধারে আলো ---
+তিন](#c11_______________________.xhtml "মেজদিদি/আঁধারে আলো/তিন")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[আঁধারে আলো ---
+চার](#c12_______________________.xhtml "মেজদিদি/আঁধারে আলো/চার")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[আঁধারে আলো ---
+পাঁচ](#c13________________________.xhtml "মেজদিদি/আঁধারে আলো/পাঁচ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[আঁধারে আলো ---
+ছয়](#c14_______________________.xhtml "মেজদিদি/আঁধারে আলো/ছয়")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt17" typeof="mw:Transclusion"}
+
+[ ]{about="#mwt18"}
+:::
+
+[]{#c1___________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%8F%E0%A6%95">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c1___________________.xhtml#id-5 .pagenum .ws-pagenum
+page-number="৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB"}
+
+::: {.wst-center .tiInherit}
+॥এক॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"} কেষ্টর মা মুড়ি-কড়াই
+ভাজিয়া, চাহিয়া-চিন্তিয়া, অনেক দুঃখে কেষ্টধনকে চৌদ্দ বছরেরটি করিয়া
+মারা গেলে, গ্রামে তাহার আর দাঁড়াইবার স্থান রহিল না। বৈমাত্রিয় বড় বোন
+কাদম্বিনীর অবস্থা ভাল। সবাই কহিল, যা কেষ্ট, তোর দিদির বাড়িতে গিয়ে
+থাক্‌ গে। সে বড়মানুষ, বেশ থাকবি যা।
+
+[ ]{style="display:inline-block; width:2em;"}মায়ের দুঃখে কেষ্ট
+কাঁদিয়া-কাটিয়া জ্বর করিয়া ফেলিল। শেষে ভাল হইয়া ভিক্ষা করিয়া শ্রাদ্ধ
+করিল। তার পরে ন্যাড়া মাথায় একটি ছোট পুঁটলি সম্বল করিয়া দিদির বাড়ি
+রাজহাটে আসিয়া উপস্থিত হইল। দিদি তাহাকে চিনিত না। পরিচয় পাইয়া এবং
+আগমনের হেতু শুনিয়া একেবারে অগ্নিমূর্ত্তি হইয়া উঠিল। সে নিজের নিয়মে
+ছেলেপুলে লইয়া ঘরসংসার পাতিয়া বসিয়াছিল-অকস্মাৎ এ কি উৎপাত।
+
+[ ]{style="display:inline-block; width:2em;"}পাড়ার যে বুড়োমানুষটি
+কেষ্টকে পথ চিনাইয়া সঙ্গে আসিয়াছিল তাহাকে কাদম্বিনী খুব কড়া-কড়া
+দু-চার কথা শুনাইয়া দিয়া কহিল, ভারী আমার মাসীমার কুটিমকে ডেকে এনেছেন,
+ভাত মারতে। সৎমাকে উদ্দেশ করিয়া বলিল, বজ্জাত মাগী জ্যান্তে একদিন খোঁজ
+নিলে না, এখন মরে গিয়ে ছেলে পাঠিয়ে তত্ব করেচেন। যাও বাপু, তুমি পরের
+ছেলে ফিরিয়ে নিয়ে যাও---এসব ঝঞ্ঝাট আমি পোয়াতে পারব না।
+
+[ ]{style="display:inline-block; width:2em;"}বুড়ো জাতিতে নাপিত। কেষ্টর
+মাকে ভক্তি করিত, মা ঠাকরুণ বলিয়া ডাকিত। তাই এত কটুক্তিতেও হাল ছাড়িল
+না। কাকুতিমিনতি করিয়া বলিল, দিদি-ঠাকরুণ, লক্ষ্মীর ভাঁড়ার তোমার। কত
+দাস-দাসী, অতিথি-ফকির, কুকুর-বেড়াল এ-সংসারে পাত পেতে মানুষ হয়ে যাচ্ছে,
+এ-ছোড়া দু'মুঠো খেয়ে বাইরে পড়ে থাকলে তুমি জানতেও পারবে না। বড় শান্ত
+সুবোধ ছেলে দিদি-ঠাকরুণ! ভাই []{#c1___________________.xhtml#id-6
+.pagenum .ws-pagenum page-number="৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AC"}﻿বলে
+না নাও, দুঃখী অনাথ বামুনের ছেলে বলেও বাড়ির কোণে একটু থাঁই দাও দিদি।
+
+[ ]{style="display:inline-block; width:2em;"}এ স্তুতিতে পুলিশের দারোগার
+মন ভেজে, কাদম্বিনী মেয়েমানুষ মাত্র। কাজেই সে তখনকার মত চুপ করিয়া রহিল।
+বুড়া কেষ্টকে আড়ালে ডাকিয়া দুটা শলা-পয়ামর্শ দিয়া চোখ মুছিয়া বিদায়
+লইল।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট আশ্রয় পাইল।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনীর স্বামী নবীন
+মুখুজ্যের ধান-চালের আড়ত ছিল। তিনি বেলা বারোটার পর বাড়ি ফিরিয়া কেষ্টকে
+বক্র কটাক্ষে নিরীক্ষণ করিয়া প্রশ্ন করিলেন, এটি কে?
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী মুখ ভারী করিয়া
+জবাব দিল, তোমার বড়কুটুম গো, বড়কুটুম। নাও, খাওয়াও পরাও, মানুষ
+কর-পরলোকের কাজ হোক।
+
+[ ]{style="display:inline-block; width:2em;"}নবীন, সৎ-শাশুড়ীর
+মৃত্যু-সংবাদ পাইয়াছিলেন, ব্যাপারটা বুঝিলেন, কহিলেন, বটে। বেশ নধর গোলগাল
+দেহটি ত!
+
+[ ]{style="display:inline-block; width:2em;"}স্ত্রী কহিলেন, বেশ হবে না
+কেন? বাপ আমার বিষয়-আশয় যাকিছু রেখে গিয়েছিলেন, সে সমস্তই মাগী ওর গব
+ভরে ঢুকিয়েচে। আমি তো তার একটি কানা-কড়িও পেলুম না।
+
+[ ]{style="display:inline-block; width:2em;"}বলা বাহুল্য, এই বিষয়-আশয়
+একখানি মাটির ঘর এবং তৎসংলগ্ন একটি বাভাবি-নেবুর গাছ। ঘরটিতে বিধবা মাথা
+গুঁজিয়া থাকিতেন এবং নেবুগুলি বিক্রি করিয়া ছেলের ইস্কুলের মাহিনা
+যোগাইতেন।
+
+[ ]{style="display:inline-block; width:2em;"}নবীন রোষ চাপিয়া বলিলেন,
+খুব ভাল।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী কহিলেন, ভাল নয়
+আবার! বড়কুটুম যে গো! তাঁকে তার মত রাখতে হবে ত! এতে আমার পাঁচুগোপালের
+বরাতে একবেলা এক-সন্ধ্যা জোটে ত তাই ঢ়ের। নইলে অখ্যাতিতে দেশ ভরে যাবে।
+বলিয়া পাশের বাড়ির দোতলা ঘরের বিশেষ একটা খোলা জানালার প্রতি রোষকষায়িত
+লোচনের অগ্নিদৃষ্টি নিক্ষেপ করিলেন। এই ঘরটা তার মেজ-জা হেমাঙ্গিনীর।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট বারান্দার একাধারে
+ঘাড় হেঁট করিয়া বসিয়া লজ্জায় মরিয়া
+[]{#c1___________________.xhtml#id-7 .pagenum .ws-pagenum
+page-number="৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AD"}যাইতেছিল।
+কাদম্বিনী ভাঁড়ারে ঢুকিয়া একটা নারিকেল মালার একটুখানি তেল আনিয়া, তাহার
+পাশে ধরিয়া দিয়া কহিলেন, আর মায়া-কান্না কাঁদতে হবে না, যাও, পুকুর থেকে
+ডুব দিয়ে এস গে-বলি, ফুলেল তেল-টেল মাখা অভ্যাস নেই ত? স্বামীকে উদ্দেশ
+করিয়া চেঁচাইয়া বলিলেন, তুমি চান করতে যাবার সময় বাবুকে ডেকে নিয়ে
+যেয়ো গো, নইলে ডুবে মলে-টলে বাড়িসুদ্ধ লোকের হাতে দড়ি পড়বে।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট ভাত খাইতে বসিয়াছিল।
+সে স্বভাবতঃই ভাতটা কিছু বেশী খাইত। তাহাতে কাল বিকাল হইতে খাওয়া হয় নাই,
+আজ এতখানি পথ হাঁটিয়া আসিয়াছে।---বেলাও হইয়াছে। নানা কারণে পাতের
+ভাতগুলি নিঃশেষ করিয়াও তাহার ঠিক ক্ষুধা মিটে নাই। নবীন অদূরে থাইতে
+বসিয়াছিলেন; লক্ষ্য করিয়া স্ত্রীকে কহিলেন, কেষ্টকে আর দুটি ভাত দাও গো-
+
+[ ]{style="display:inline-block; width:2em;"}দিই, বলিয়া কাদম্বিনী
+উঠিয়া গিয়া পরিপূর্ণ একথালা ভাত আনিয়া সমস্তটা তাহার পাতে ঢালিয়া
+দিয়া, উচ্চহাস্য করিয়া কহিলেন, তবেই হয়েচে। এ হাতীর খোরাক নিত্য যোগাতে
+গেলে যে আমাদের আড়ত খালি হয়ে যাবে। ওবেলা দোকান থেকে মণদুই মোটা চাল
+পাঠিয়ে দিয়ো, নইলে দেউলে হতে দেরি হবে না, তা বলে রাখছি।
+
+[ ]{style="display:inline-block; width:2em;"}মর্মান্তিক লজ্জায় কেষ্টর
+মুখখানি আরও ঝুঁকিয়া পড়িল। সে এক মায়ের এক ছেলে। দুঃখিনী জননীর কাছে সরু
+চাল খাইতে পাইয়াছিল কিনা, সে খবর জানি না, কিন্তু পেট ভরিয়া খাওয়ার
+অপরাধে কোনদিন যে লজ্জায় মাথা হেঁট করিতে হয় নাই, তাহা জানি। তাহার মনে
+পড়িল, হাজার বেশী খাইয়াও কখনও মায়ের মনের সাধ মিটাইতে পারে নাই। মনে
+পড়িল, এই সেদিনও ঘুড়ি-লাটাই কিনিবার জন্য দু'মুঠা ভাত বেশী খাইয়া পয়সা
+আদায় করিয়া লইয়াছিল।
+
+[ ]{style="display:inline-block; width:2em;"}তাহার দুই চোখের কোণ বাহিয়া
+বড় বড় অশ্রুর ফোঁটা ভাতের []{#c1___________________.xhtml#id-8 .pagenum
+.ws-pagenum page-number="৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AE"}﻿থালার
+উপর নিঃশব্দে ঝরিয়া পড়িতে লাগিল, সে সেই ভাত মাথা গুঁজিয়া গিলিতে লাগিল।
+বাঁ-হাতটা তুলিয়া চোখ মুছিতে পর্যন্ত সাহস করিল না, পাছে দিদির চোখে পড়ে।
+অনতিপূর্বেই মায়া-কান্না কাঁদার অপরাধে বকুনি খাইয়াছিল। সেই ধমক তাহার
+এতবড় মাতৃশোকেরও ঘাড় চাপিয়া রাখিল।
+:::
+:::
+
+[]{#c2____________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%A6%E0%A7%81%E0%A6%87">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c2____________________.xhtml#id-8-n9 .pagenum .ws-pagenum
+page-number="৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AE"}
+
+::: {.wst-center .tiInherit}
+॥দুই॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}পৈতৃক বাড়িটা দুই ভায়ে ভাগ
+করিয়া লইয়াছিল।
+
+[ ]{style="display:inline-block; width:2em;"}পাশের দোতলা বাড়িটা মেজভাই
+বিপিনের। ছোটভায়ের অনেক দিন মৃত্যু হইয়াছিল। বিপিনেরও ধান-চালের কারবার।
+তাঁহার অবস্থা ভাল, কিন্তু বড়ভাই নবীনের সমান নয়। তথাপি ইহার বাড়িটাই
+দোতলা। মেজবৌ হেমাঙ্গিনী শহরের মেয়ে। তিনি দাসদাসী রাখিয়া, লোকজন
+খাওয়াইয়া, জাঁকজমকে থাকিতে ভালবাসেন। পয়সা বাঁচাইয়া গরিবী চালে চলে না
+বলিয়াই বছর-চারেক পূর্বে দুই জায়ে কলহ করিয়া পৃথক হইয়াছিলেন। সেই অবধি
+প্রকাশ্যে কলহ অনেকবার হইয়াছে, অনেকবার মিটিয়াছে, কিন্তু মনোমালিন্য
+একদিনের জন্যও ঘুচে নাই। কারণ, সেটা বড়-জা কাদম্বিনীর একলার হাতে। তিনি
+পাকা লোক, ঠিক বুঝিতেন, ভাঙা হাঁড়ি জোড়া লাগে না। কিন্তু মেজবৌ অত পাকা
+নয়, অমন করিয়া বুঝিতেও পারিতেন না। ঝগড়াটা প্রথমে তিনিই করিয়া ফেলিতেন
+বটে, কিন্তু তিনিই মিটাইবার জন্য, কথা কহিবার জন্য, খাওয়াইবার জন্য ভিতরে
+ভিতরে ছাঁট্‌-ফট্‌ করিয়া একদিন আস্তে আস্তে কাছে আসিয়া বসিতেন। শেষে
+হাতে-পায়ে পড়িয়া কাঁদিয়া-কাঁটিয়া, ঘাট মানিয়া, বড়-জাকে নিজের ঘরে
+ধরিয়া আনিয়া ভাব করিতেন। এমনই করিয়া দুই জায়ের অনেকদিন কাটিয়াছে। আজ
+বেলা তিনটা সাড়ে-তিনটার সময় হেমাঙ্গিনী এবাড়িতে আসিয়া উপস্থিত হইলেন।
+কুপের পাশ্বে সিমেণ্ট-বাঁধান বেদীর উপর রোদে বসিয়া কেষ্ট সাবান দিয়া
+একরাশ কাপড় পরিষ্কার করিতেছিল, কাদম্বিনী দূরে দাঁড়াইয়া, অল্প সাবান ও
+[]{#c2____________________.xhtml#id-9 .pagenum .ws-pagenum
+page-number="৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AF"}﻿অধিক
+গায়ের জোরে কাপড় কাচিবার কৌশলটা শিখাইয়া দিতেছিলেন। মেজ-জাকে
+দেখিবামাত্রই বলিয়া উঠিলেন, মাগো, ছোঁড়াটা কি নোংরা কাপড়-চোপড় নিয়েই
+এসেচে।
+
+[ ]{style="display:inline-block; width:2em;"}কথাটা সত্য। কেষ্টর সেই
+লাল-পেড়ে ধুতিটা পড়িয়া এবং চাদরটা গায়ে দিয়া কেহ কুটুমবাড়ি যায় না।
+দুটোকে পরিষ্কার করার আবশ্যকতা ছিল বটে, কিন্তু রজকের অভাবে ঢের বেশী
+আবশ্যক হইয়াছিল পুত্র পাঁচুগোপালের জোড়া-দুই এবং পিতার জোড়া-দুই
+পরিষ্কার করিবার। কেষ্ট আপাততঃ তাহাই করিতেছিল। হেমাঙ্গিনী চাহিয়াই টের
+পাইলেন বস্ত্রগুলি কাহাদের। কিন্তু সে উল্লেখ না করিয়া জিজ্ঞাসা করিলেন,
+ছেলেটি কে দিদি? ইতিপূর্বে নিজের ঘরে বসিয়া আড়ি পাতিয়া তিনি সমস্তই অবগত
+হইয়াছিলেন। দিদি ইতস্ততঃ করিতেছেন দেখিয়া পুনরায় কহিলেন, দিব্যি ছেলেটি
+ত! মুখের ভাব তোমার মতই দিদি। বলি বাপের বাড়ির কেউ না কি?
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী বিরক্ত-মুখে জবাব
+দিলেন, হু, আমার বৈমাত্র ভাই। ওরে, ও কেষ্ট, তোর মেজদিদিকে একটা প্রণাম করা
+না রে! কি অসভ্য ছেলে বাবা! গুরুজনকে একটা নমস্কার করতে হয়, তাও কি তোর মা
+মাগী শিখিয়ে দিয়ে মরেনি রে?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট থতমত খাইয়া উঠিয়া
+আসিয়া কাদম্বিনীর পায়ের কাছেই নমস্কার করাতে তিনি ধমকাইয়া উঠিলেন, আ মর,
+হাবা কালা নাকি। কাকে প্রণাম করতে বললুম, কাকে এসে করলে!
+
+[ ]{style="display:inline-block; width:2em;"}বস্তুতঃ আসিয়া অবধি
+তিরস্কার ও অপমানের অবিশ্রাম আঘাতে তাহার মাথা বে-ঠিক হইয়া গিয়াছিল। কথার
+ঝাঁজে ব্যস্ত ও হতবুদ্ধি হইয়া হেমাঙ্গিনীর পায়ের কাছে সরিয়া আসিয়া শির
+অবনত করিতেই তিনি হাত দিয়া ধরিয়া ফেলিয়া তাহার চিবুক স্পর্শ করিয়া
+আশীর্বাদ করিলেন, থাক থাক, হয়েচে ভাই-চিরজীবি হও। কেষ্ট মূঢ়ের মত তাঁহার
+মুখের পানে চাইয়া রহিল। এ-দেশে এমন করিয়া যে কেহ কথা বলিতে পারে, ইহা যেন
+তাহার মাথায় ঢুকিল না।
+
+[ ]{style="display:inline-block; width:2em;"}তাহার সেই কুষ্ঠিত ভীত
+অসহায় মুখখানির পানে চাহিবামাত্র []{#c2____________________.xhtml#id-10
+.pagenum .ws-pagenum page-number="১০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%A6"}হেমাঙ্গিনীর
+বুকের ভিতরটা যেন মুচড়াইয়া কাঁদিয়া উঠিল। নিজেকে আর সামলাইতে না
+পারিয়া, সহসা এই হতভাগ্য অনাথ বালককে বুকের কাছে টানিয়া লইয়া, তাহার
+পরিশ্রান্ত ঘর্মাপ্লুত মুখখানি নিজের আঁচলে মুছাইয়া দিয়া, জা'কে কহিলেন,
+আহা, একে দিয়ে কি কাপড় কাচিয়ে নিতে আছে দিদি, একটা চাকর ডাকনি কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী হঠাৎ অবাক্‌ হইয়া
+গিয়া জবাব দিতে পারিলেন না;কিন্তু নিমেষে সামলাইয়া লইয়া রাগিয়া উঠিয়া
+বলিলেন, আমি ত তোমার মত বড় মানুষ নই। মেজবৌ, যে বাড়িতে দশ-বিশটা দাস-দাসী
+আছে? আমাদের গোরস্তা-ঘরে-
+
+[ ]{style="display:inline-block; width:2em;"}কথাটা শেষ হইবার পূর্বেই
+হেমাঙ্গিনী নিজের ঘরের দিকে মুখ তুলিয়া মেয়েকে ভাকিয়া কহিল, উমা, শিবুকে
+একবার এ-বাড়িতে পাঠিয়ে দে ত মা, বট্‌ঠাকুর আর পাঁচুর ময়লা কাপড়গুলো
+পুকুর থেকে কেচে এনে শুকোতে দিক। বড়-জা'য়ের দিকে ফিরিয়া চাহিয়া বলিল,
+এ-বেলা কেষ্ট আর পাঁচুগোপাল আমার ওখানে খাবে দিদি। সে ইস্কুল থেকে এলেই
+পাঠিয়ে দিয়ো; আমি ততক্ষণ একে নিয়ে যাই। কেষ্টকে কহিল, ওঁর মত আমিও তোমার
+দিদি হই কেষ্ট- এসো আমার সঙ্গে; বলিয়া তাহার একটি হাত ধরিয়া নিজেদের
+বাড়ি চলিয়া গেলেন।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী বাধা দিলেন না।
+অধিকন্তু হেমাঙ্গিনী-প্রদত্ত এত বড় খোঁচাটাও নিঃশব্দে হজম করিলেন। তাহার
+কারণ, যে ব্যক্তি খোঁচা দিয়াছে, সে এ-বেলা খরচটাও বাঁচাইয়া দিয়াছে।
+কাদম্বিনীর পয়সার বড় সংসারে আর কিছু ছিল না। তাই, গাভী দুধ দিতে
+দাঁড়াইয়া পা ছুঁড়িলে তিনি সহিতে পারিতেন।
+:::
+:::
+
+[]{#c3____________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%A4%E0%A6%BF%E0%A6%A8">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c3____________________.xhtml#id-10-n12 .pagenum .ws-pagenum
+page-number="১০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%A6"}
+
+::: {.wst-center .tiInherit}
+॥তিন॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}সন্ধ্যার সময় কাদম্বিনী
+প্রশ্ন করিলেন, কি খেয়ে এলি কেষ্ট? কেষ্ট সলজ্জ নতমুখে কহিল, লুচি।
+
+[ ]{style="display:inline-block; width:2em;"}কি দিয়ে খেলি?
+[]{#c3____________________.xhtml#id-11 .pagenum .ws-pagenum
+page-number="১১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%A7"}﻿[ ]{style="display:inline-block; width:2em;"}কেষ্ট
+তেমনিভাবে বলিল, রুইমাছের মুড়োর তরকারি, সন্দেশ, রসগো-
+
+[ ]{style="display:inline-block; width:2em;"}ইস্‌! বলি মেজ-ঠাকরুণ
+মুড়োটা কার পাতে দিলেন?
+
+[ ]{style="display:inline-block; width:2em;"}হঠাৎ এই প্রশ্নে কেষ্টর
+মুখখানি পাণ্ডুর হইয়া গেল। উদ্যত প্রহরণের সম্মুখে রজ্জুবদ্ধ জানোয়ারের
+প্রাণটা যেমন করিয়া উঠে, কেষ্টর বুকের ভিতরটায় তেমনিধারা করিতে লাগিল।
+দেরি দেখিয়া কাদম্বিনী কহিলেন, তোর পাতে বুঝি।
+
+[ ]{style="display:inline-block; width:2em;"}গুরুতর অপরাধীর মত কেষ্ট
+মাথা হেঁট করিল।
+
+[ ]{style="display:inline-block; width:2em;"}অদূরে দাওয়ায় বসিয়া নবীন
+তামাক খাইতেছিলেন। কাদম্বিনী সম্বোধন করিয়া বলিলেন, বলি, শুনলে ত?
+
+[ ]{style="display:inline-block; width:2em;"}নবীন সংক্ষেপে হু বলিয়া হু
+কায় টান দিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী উষ্মার সহিত বলিতে
+লাগিলেন, খুড়ী আপনার লোক, তার ব্যবহারটা দেখ! পাঁচুগোপাল আমার রুইমাছের
+মুড়ো বলতে অজ্ঞান, সে কি তা জানে না? তবে কোন্‌ আক্কেলে তার পাতে না দিয়ে
+বেনাবনে মুক্তে ছড়িয়ে দিলে? বলি হাঁ রে কেষ্ট সন্দেশ-রসগোল্লা খুব
+পেট-ভরে খেলি? সাতজন্মে কখনও তুই এ-সব চোখেও দেখিসনি। স্বামীর দিকে চাহিয়া
+বলিল, যারা দুটি ভাত পেলে বেঁচে যায়, তাদের পেটে লুচি-সন্দেশ কি হবে!
+কিন্তু আমি বলচি তোমাকে, কেষ্টকে মেজগিন্নী বিগড়ে না দেয় তো আমাকে কুকুর
+বলে ডেকো।
+
+[ ]{style="display:inline-block; width:2em;"}নবীন মৌন হইয়া রহিলেন। কারন
+স্ত্রী বিদ্যমানে মেজবৌ তাহাকে বিগড়াইয়া ফেলিতে পারিবে, এরূপ দুর্ঘটনা
+তিনি বিশ্বাস করিলেন না। তাঁহার স্ত্রীর কিন্তু স্বামীর উপরে বিশ্বাস ছিল
+না, বরং ষোলআনা ভয় ছিল, সাধাসিধা ভালোমানুষ বলিয়াযে-কেহ তাঁহাকে ঠাকাইয়া
+লইতে পারে। সেইজন্য ছোটভাই কেষ্টর মানসিক উন্নতিঅবনতির প্রতি সেই অবধি তিনি
+প্রখর দৃষ্টি পাতিয়া রাখিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}পরদিন হইতেই দুটো চাকরের
+একটাকে ছাড়ান হইল, কেষ্ট নবীনের ধান-চালের আড়তে কাজ করিতে লাগিল। সেখানে
+সে ওজন করে, বিক্রি করে, চার-পাঁচ ক্রোশ পথ হাঁটিয়া নমুনা সংগ্রহ
+[]{#c3____________________.xhtml#id-12 .pagenum .ws-pagenum
+page-number="১২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%A8"}﻿করিয়া
+আনে, দুপুরবেলা নবীন ভাত খাইতে আসিলে দোকান আগলায়। দিন-দুই পরে একদিন তিনি
+আহার-নিদ্রা সমাপ্ত করিয়া ফিরিয়া গেলে সে ভাত খাইতে আসিয়াছিল। তখন বেলা
+তিনটা। কেষ্ট পুকুর হইতে স্নান করিয়া আসিয়া দেখিল, দিদি ঘুমাইতেছেন।
+তাহার তখনকার ক্ষুধার তাড়নায় বোধ করি বাঘের মুখ হইতেও খাবার কাড়িয়া
+আনিতে পারিত, কিন্তু দিদিকে ডাকিয়া তুলিবে, এ সাহস হইল না।
+
+[ ]{style="display:inline-block; width:2em;"}রান্নাঘরের দাওয়ার একধারে
+চুপটি করিয়া দিদির ঘুমভাঙার আশায় বসিয়াছিল, হঠাৎ ডাক শুনিল, কেষ্ট?
+
+[ ]{style="display:inline-block; width:2em;"}সে আহ্বান কি স্নিগ্ধ হইয়াই
+তাহার কানে বাজিল। মুখ তুলিয়া দেখিল, মেজদি তাঁহার দোতলার ঘরের জানালা
+ধরিয়া দাঁড়াইয়া আছেন। কেষ্ট একটিবার চাহিয়াই মুখ নামাইল। খানিক পরে
+হেমাঙ্গিনী নামিয়া আসিয়া, সুমুখে দাঁড়াইয়া জিজ্ঞাসা করিলেন, ক'দিন
+দেখিনি ত? এখানে চুপ ও রিয়া বসে কেন কেষ্ট?
+
+[ ]{style="display:inline-block; width:2em;"}একে ত ক্ষুধায় অল্পেই চোখে
+জল আসে, তাহাতে এমন স্নেহার্দ্র কণ্ঠস্বর। তাহার দু'চোখ টল্‌টল্‌ করিতে
+লাগিল। সে ঘাড় হেঁট করিয়া রহিল, উত্তর দিতে পারিল না।
+
+[ ]{style="display:inline-block; width:2em;"}মেজখুড়ীমাকে সব ছেলেমেয়েরা
+ভালবাসিত। তাঁহার গলার স্বর শুনিয়া কাদম্বিনীর ছোটমেয়ে ঘর হইতে বাহিরে
+আসিয়াই চেঁচাইয়া বলিল, কেষ্টমামা, রান্নাঘরে তোমার ভাত ঢাকা আছে, খাও গে,
+মা খেয়ে-দোয়ে ঘুমোচ্ছে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী অবাক হইয়া
+কহিলেন, কেষ্টর এখনও খাওয়া হয়নি, তোর মা খেয়ে ঘুমোচ্চে কি রে-হাঁ কেষ্ট
+আজ এত বেলা হল কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট ঘাড় হেঁট করিয়াই
+রহিল। টুনি তাহার হইয়া জবাব দিল, কেষ্টমামার রোজ ত এমনি বেলাই হয়। বাবা
+খেয়ে-দোয়ে দোকানে ফিরে গেলে তবে তা ও খেতে আসে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বুঝিলেন তাহাকে
+দোকানের কাজে লাগান হইয়াছে। তাহাকে বসাইয়া খাওয়ান হইবে, এ আসা অবশ্য
+তিনি করেন নাই []{#c3____________________.xhtml#id-13 .pagenum
+.ws-pagenum page-number="১৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%A9"}﻿কিন্তু
+একবার এই বেলার দিকে চাহিয়া, একবার এই ক্ষুধা ও তৃষ্ণায় আর্ত শিশুদেহের
+পানে চাহিয়া, তাঁহার চোখ দিয়া জল পড়িতে লাগিল। আঁচলে চোখ মুছিতে মুছিতে
+তিনি বাড়ি চলিয়া গেলেন। মিনিট-দুই পরে একবাটি দুধ হাতে ফিরিয়া আসিয়া,
+রান্নাঘরে ঢুকিয়াই শিহরিয়া মুখ ফিরিয়া দাঁড়াইলেন।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট খাইতে বসিয়াছিল। একটা
+পিতলের থালার উপর ঠাণ্ডা শুকনা ড্যালাপাকান ভাত। একপাশে একটুখানি ডাল ও কি
+একটু তরকারির মত। দুধটুকু পাইয়া তাহার মলিন মুখখানি হাসিতে ভরিয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী দ্বারের বাহিরে
+আসিয়া দাঁড়াইয়া রহিলেন। কেষ্ট খাওয়া শেষ করিয়া পুকুরে আঁচাইতে চলিয়া
+গেলে একটিবার মুখ বাড়াইয়া দেখিলেন, পাতে গোনা একটিও ভাত পড়িয়া নাই।
+ক্ষুধার জ্বালায় সে সেই অন্ন নিঃশেষ করিয়া খাইয়াছে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনীর ছেলে ললিতও
+প্রায় সেই বয়সী। নিজের অবর্তমানে নিজের ছেলেকে এই অবস্থায় হঠাৎ কল্পনা
+করিয়া ফেলিয়া কান্নার ঢেউ তাঁহার কণ্ঠ পর্যন্ত ফেনাইয়া উঠিল। তিনি সেই
+কান্না চাপিতে চাপিতে বাড়ি চলিয়া গেলেন।
+:::
+:::
+
+[]{#c4____________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%9A%E0%A6%BE%E0%A6%B0">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c4____________________.xhtml#id-13-n16 .pagenum .ws-pagenum
+page-number="১৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%A9"}
+
+::: {.wst-center .tiInherit}
+॥চার॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}সর্দি উপলক্ষ্য করিয়া
+হেমাঙ্গিনীর মাঝে মাঝে জ্বর হইত, দিন-দুই থাকিয়া আপনি ভাল হইয়া যাইত।
+দিন-কয়েক পরে এমনি একটু, জ্বর বোধ হওয়ায় সন্ধ্যার পর বিছানায় পড়িয়া
+ছিলেন। ঘরে কেহ ছিল না, হঠাৎ মনে হইল কে যেন অতি সন্তর্পণে কাবাটের আড়ালে
+দাঁড়াইয়া উঁকি মারিয়া দেখিতেছে। ডাকিলেন, কে রে ওখানে দাঁড়িয়ে, ললিত?
+
+[ ]{style="display:inline-block; width:2em;"}কেহ সাড়া দিল না। আবার
+ডাকিতে, আড়াল হইতে জবাব আসিল, আমি।
+
+[ ]{style="display:inline-block; width:2em;"}কে আমি রে? আয়, ঘরে এসে
+বোস। []{#c4____________________.xhtml#id-14 .pagenum .ws-pagenum
+page-number="১৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%AA"}﻿[ ]{style="display:inline-block; width:2em;"}কেষ্ট
+সসঙ্কোচে ঘরে ঢুকিয়া দেওয়াল ঘেঁষিয়া দাঁড়াইল। হেমাঙ্গিনী উঠিয়া বসিয়া
+সস্নেহে কাছে ডাকিয়া জিজ্ঞাসা করিলেন, কেন রে কেষ্ট?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট আরও একটু সরিয়া
+আসিয়া, মলিন কোঁচার খুঁট খুলিয়া দুটি আধা-পাকা পেয়ারা বাহির করিয়া
+বলিল, জ্বরের উপর খেতে বেশ।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী সাগ্রহে হাত
+বাড়াইয়া বলিলেন, কোথায় পেলি রে? আমি কাল থেকে লোকের কত খোশামোদ করছি,
+কেউ এনে দিতে পারেনি, বলিয়া পেয়ারাসুদ্ধ কেষ্টর হাতখানি ধরিয়া কাছে
+বসাইলেন। কেষ্ট লজ্জায় আহ্লাদে আরক্ত মুখ হেঁট করিল। যদিও এটা পেয়ারার
+সময় নয়, হেমাঙ্গিনীও খাইবার জন্য ব্যাকুল হইয়া উঠেন নাই, তথাপি এই দুটি
+সংগ্রহ করিয়া আনিতে দুপুরবেলার সমস্ত রোদটা কেষ্টর মাথার উপর দিয়া
+বাহিয়া গিয়াছিল। হেমাঙ্গিনী জিজ্ঞাসা করিলেন, হাঁ কেষ্ট, কে তোকে বললে
+আমার জ্বর হয়েচে।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট জবাব দিল না।
+
+[ ]{style="display:inline-block; width:2em;"}কে বললে রে আমি পেয়ারা খেতে
+চেয়েচি?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট তাহারও জবাব দিল না।
+সে সেই যে মুখ হেঁট করিল, আর তুলিতেই পারিল না। ছেলেটি যে অতিশয় লাজুক ও
+ভীরু স্বভাব, হেমাঙ্গিনী তাহা পূর্বেই টের পাইয়াছিলেন। তখন তাহার মাথায়
+মুখে হাত বুলাইয়া দিয়া, আদর করিয়া 'দাদা' বলিয়া ডাকিয়া, আর কত কি
+কৌশলে তাহার ভয় ভাঙ্গাইয়া, অনেক কথা জানিয়া লইলেন। বিস্তর অনুসন্ধানে
+পেয়ারা সংগ্রহ করিবার কথা হইতে শুরু করিয়া, তাহার দেশের কথা, মায়ের কথা,
+খাওয়া-দাওয়ার কথা, এখানে দোকানে কি কি কাজ করিতে হয় তাহার কথা, একে একে
+সমস্ত বিবরণ শুনিয়া লইয়া চোখ মুছিয়া বলিলেন, এই তোর মেজদিকে কখনও কিছু
+লুকোস নে কেষ্ট, যখন দরকার হবে চুপি চুপি এসে চেয়ে নিস্‌-নিবি ত?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট আহ্লাদে মাথা নাড়িয়া
+কহিল, আচ্ছা। []{#c4____________________.xhtml#id-15 .pagenum .ws-pagenum
+page-number="১৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%AB"}[ ]{style="display:inline-block; width:2em;"}﻿সত্যকার
+স্নেহ যে কি, তাহা দুঃখী মায়ের কাছে কেষ্ট শিখিয়াছিল, এই মেজদির মধ্যে
+তাহাই আস্বাদন করিয়া কেষ্টর রুদ্ধ মাতৃশোক আজ গলিয়া ঝরিয়া গেল। উঠিবার
+সময় মেজদির পায়ের ধূলা মাথায় লইয়া যেন বাতাসে ভাসিতে ভাসিতে বাহির
+হইয়া আসিল।
+
+[ ]{style="display:inline-block; width:2em;"}﻿কিন্তু, তাহার দিদির আক্রোশ
+তাহার প্রতি প্রতিদিনই বাড়িয়াই চলিতে লাগিল। কারণ সে সৎমার ছেলে, সে
+নিরুপায়। অখ্যাতির ভয়ে তাহাকে তাড়াইয়া দেওয়াও যায় না, বিলাইয়া
+দেওয়াও যায় না। সুতরাং যখন রাখিতে হইবে তখন যতদিন তাহার দেহ বহে, ততদিন
+কষিয়া খাটাইয়া লওয়াই ঠিক।
+
+[ ]{style="display:inline-block; width:2em;"}﻿সে ঘরে ফিরিয়া আসিতেই দিদি
+ধরিয়া পড়িলেন-সমস্ত দুপুর দোকান পালিয়ে কোথায় ছিলি রে কেষ্ট?
+
+[ ]{style="display:inline-block; width:2em;"}﻿কেষ্ট চুপ করিয়া রহিল।
+কাদম্বিনী ভয়ানক রাগিয়া বলিলেন, বল শীগ্‌গির।
+
+[ ]{style="display:inline-block; width:2em;"}﻿কেষ্ট তথাপি মৌন হইয়া
+রহিল। মৌন থাকিলে যাহাদের রাগ পড়ে, কাদম্বিনী সে দলের নহেন। অতএব কথা
+বলাইবার জন্য তিনি যতই জেদ করিতে লাগিলেন, বলাইতে না পারিয়া তাঁহার ক্রোধ
+এবং রোখ ততই চড়িয়া উঠিতে লাগিল। অবশেষে পাঁচুগোপালকে ডাকিয়া তাহার দুই
+কান পুনঃ পুনঃ মলাইয়া দিলেন এবং তাহার জন্য রাত্রে হাঁড়িতে চাল লইলেন না।
+
+[ ]{style="display:inline-block; width:2em;"}﻿আঘাত যতই গুরুতর হোক,
+প্রতিহত হইতে না পাইলে লাগে। না। পর্বতশিখর হইতে নিক্ষেপ করিলেই হাত-পা
+ভাঙে না, ভাঙে শুধু তখনই- যখন পদতলস্পৃষ্ঠ কঠিনভূমি সেই বেগ প্রতিরোধ করে।
+ঠিক তাহাই হইয়াছিল কেষ্টর। মায়ের মরণ যখন পায়ের নীচের নির্ভরস্থলটুকু
+তাহার একেবারে বিলুপ্ত করিয়া দিল, তখন হইতে বাহিরের কোন আঘাতই তাহাকে আঘাত
+করিয়া ধূলিসাৎ করিয়া দিতে পারিত না। সে দুঃখীর ছেলে, কিন্তু কখনও দুঃখ
+পায় নাই। লাঞ্ছনা-গঞ্জনার সহিত তাহার পূর্বপরিচয় ছিল না, তথাপি এখানে আসা
+অবধি কাদম্বিনীর দেওয়া কঠোর দুঃখকষ্ট সে যে অনায়াসে সহ্য
+[]{#c4____________________.xhtml#id-16 .pagenum .ws-pagenum
+page-number="১৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%AC"}﻿করিতে
+পারিতেছিল, সে শুধু পায়ের তলায় অবলম্বন ছিল না বলিয়াই। কিন্তু আজ পারিল
+না, আজ সে হেমাঙ্গিনীর মাতৃস্নেহের সুকঠিন ভিত্তির উপর উঠিয়া
+দাঁড়াইয়াছিল, তাই আজিকাল এই অত্যাচার অপমান তাহাকে একেবারে ব্যাকুল
+করিয়া দিল। মাতাপুত্র এই নিরপরাধ নিরাশ্রয় শিশুকে শাসন করিয়া, লাঞ্ছনা
+করিয়া, অপমান করিয়া, দণ্ড দিয়া, চলিয়া গেলেন, সে অন্ধকার ভূমিশয্যায়
+পড়িয়া আজ অনেক দিনের পর আবার মাকে স্মরণ করিয়া, মেজদির নাম করিয়া
+ফুলিয়া ফুলিয়া কাঁদিতে লাগিল।
+:::
+:::
+
+[]{#c5_____________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c5_____________________.xhtml#id-16-n20 .pagenum .ws-pagenum
+page-number="১৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%AC"}
+
+::: {.wst-center .tiInherit}
+॥পাঁচ॥
+:::
+
+পরদিন সকালে কেষ্ট হঠাৎ গুটিগুটি ঘরে ঢুকিয়া হেমাঙ্গিনীর পায়ের কাছে
+বিছানার একপাশে আসিয়া বসিল। হেমাঙ্গিনী পা দুইটি একটু গুটািইয়া লইয়া
+সস্নেহে বলিলেন, দোকানে যাস্‌নি কেষ্ট?
+
+[ ]{style="display:inline-block; width:2em;"}এইবার যাব।
+
+[ ]{style="display:inline-block; width:2em;"}দেরি করিস নে দাদা, এইবেলা
+যা, নইলে এক্ষুনি আবার গালাগালি করবে। কেষ্টর মুখ একবার আরক্ত, একবার
+পাণ্ডুর হইল। যাই, বলিয়া সে উঠিয়া দাঁড়াইল। একবার ইতস্ততঃ করিয়া কি
+একটা বলিতে গিয়া আবার চুপ করিল।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী তাহার মনের কথা
+যেন বুঝিলেন, বলিলেন, কিছু বলবি আমাকে রে?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট মাটির দিকে চাহিয়া
+অতি মৃদুস্বরে বলিল, কাল কিছু খাইনি মেজদি-
+
+[ ]{style="display:inline-block; width:2em;"}কাল থেকে খাসনি। বলিস্‌ কি
+কেষ্ট? কিছুক্ষণ পর্যন্ত হেমাঙ্গিনী স্থির হইয়া রহিলেন, তাহার পর দুই চোখ
+জলে পূর্ণ হইয়া গেল। সেই জল ঝরঝর করিয়া ঝরিতে লাগিল। তাহার হাত ধরিয়া
+টানিয়া আর একবার কাছে বসাইয়া, একটি একটি করিয়া সব কথা শুনিয়া লইয়া
+বলিলেন, কাল রাত্তিরেই কেন এলি নে?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট চুপ করিয়া রহিল।
+হেমাঙ্গিনী আঁচলে চোখ মুছিয়া বলিলেন,
+[]{#c5_____________________.xhtml#id-17 .pagenum .ws-pagenum
+page-number="১৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%AD"}[ ]{style="display:inline-block; width:2em;"}﻿আমার
+মাথার দিব্যি রইল ভাই, আজ থেকে আমাকে তোর সেই মরা মা ব'লে মনে করবি।
+
+[ ]{style="display:inline-block; width:2em;"}যথাসময়ে সমস্ত কথা
+কাদম্বিনীর কানো গেল। তিনি নিজের বাড়ি হইতে মেজবৌকে ডাক দিয়া বলিলেন,
+ভাইকে আমি খাওয়াতে পারি। নে যে, তুমি অত কথা তাকে গায়ে পড়ে বলতে গেছ?
+
+[ ]{style="display:inline-block; width:2em;"}কথার ধরণ দেখিয়া
+হেমাঙ্গিনীর গা জ্বালা করিয়া উঠিল। কিন্তু সে ভাব গোপন করিয়া বলিলেন, যদি
+গায়ে পড়েই ব'লে থাকি, তাতেই বা দোষ কি?
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী প্রশ্ন করিলেন,
+তোমার ছেলেটিকে ডেকে এনে আমি যদি এমনি করে বলি, তোমার মানটি থাকে কোথায়
+শুনি? তুমি এমন করে 'নাই\' দিলে আমি তাকে শাসন করি কি করে বল দেখি?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী আর সহ্য করিতে
+পারিলেন না। বলিলেন, দিদি, পনের-ষোল বছর এক সঙ্গে ঘর করাচি-তোমাকে আমি
+চিনি। পেটে মেরে আগে তোমার নিজের ছেলেকে শাসন কর, তার পরে পরের ছেলেকে করে,
+তখন গায়ে পড়ে কথা কইতে যাবো না।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী অবাক হইয়া
+বলিলেন, আমার পাঁচুগোপালের সঙ্গে ওর তুলনা? দেবতার সঙ্গে বাঁদরের তুলনা? এর
+পরে আরও কি যে তুমি বলে বেড়াবে, তাই ভাবি মেজবৌ।
+
+[ ]{style="display:inline-block; width:2em;"}মেজবৌ উত্তর দিলেন, কে দেবতা
+কে বাঁদর, সে আমি জানি। কিন্তু আর আমি কিছুই বলব, না দিদি, যদি বলিত এই
+যে-তোমার মত নিষ্ঠুর, তোমার মত বেহায়া মেয়েমানুষ আর সংসার নেই। বলিয়া
+তিনি প্রত্যুত্তরের অপেক্ষা না করিয়াই জানালা বন্ধ করিয়া দিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}সেইদিন সন্ধ্যার প্রাক্কালে
+অর্থাৎ কর্তারা ঘরে ফিরিবার সময়টিতে বড়বৌ নিজের উঠানে দাঁড়াইয়া দাসীকে
+উপলক্ষ্য করিয়া উচ্চকণ্ঠে অর্জন-গর্জন আরম্ভ করিয়া দিলেন-যিনি রাত-দিন
+কচ্ছেন, তিনিই এর বিহিত করবেন। আমার ভায়ের মর্ম আমি বুঝি নে, বোঝে পরে।
+কখ্‌খনো ভাল হবে না[]{#c5_____________________.xhtml#id-18 .pagenum
+.ws-pagenum page-number="১৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%AE"}﻿[ ]{style="display:inline-block; width:2em;"}ভাই-বোনে
+ঝগড়া বাধিয়ে দিয়ে দাঁড়িয়ে মজা দেখলে ধর্ম সইবেন না। -তা বলে দিচ্ছি,
+বলিয়া তিনি রান্নাঘরে গিয়া ঢুকিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}উভয় জায়ের মধ্যে এই ধরনের
+গালি-গালাজ, শাপ-শাপান্ত অনেকবার অনেক রকম করিয়া হইয়া গিয়াছে, কিন্তু আজ
+ঝাঁজটা কিছু বেশী। অনেক সময় হেমাঙ্গিনী শুনিয়াও শুনিতেন না, বুঝিয়াও
+গায়ে মাখিতেন না; কিন্তু আজ নাকি তাঁহার দেহটা খারাপ ছিল, তাই উঠিয়া
+আসিয়া জানালায় দাঁড়াইয়া কহিলেন, এর মধ্যেই চুপ করলে কেন দিদি? ভগবান
+হয়ত শুনতে পাননি-আর খানিকক্ষণ ধরে আর সর্বনাশ কানা কর- বট্‌ঠাকুর ঘরে
+আসুন, তিনি শুনুন, ইনি ঘরে এসে শুনুন-এরই মধ্যেই হাঁপিয়ে পড়লে চলবে কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী উঠানের উপড়ে
+ছুটিয়া আসিয়া মুখ উঁচু করিয়া চেঁচাইয়া উঠিলেন, আমি কি কোন সর্বনাশীর
+নাম মুখে এনেছি?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী স্থিরভাবে জবাব
+'দিলেন, মুখে আনবে কেন দিদি, মুখে আনবার পাত্রী নাও। কি তুমি কি ঠাওরাও,
+একা তুমিই সেয়ানা আর পৃথিবীসুদ্ধ সেয়ানা আর পৃথিবীসুদ্ধ ন্যাকা? ঠেস
+দিয়ে কার কপাল ভাঙচ, সে কি কেউ টের পায় না?
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী এবার নিজমূর্ত্তি
+ধরিলেন। মুখ ভ্যাংচাইয়া হাত-পা নাড়িয়া বলিলেন, টের পেলেই বা। যে দোষে
+থাকবে, তারই গায়ে লাগবে। আর একা তুমিই টের পাও, আমি পাই নে? কেষ্ট যখন
+এলো, সাত চড়ে রা করত না, যা বলতুম, মুখ বুজে তাই করত-আজি দুপুরবেলা কার
+জোরে কি জবাব দিয়ে গেল, জিজ্ঞাসা করে দ্যাখো এই প্রসন্নার মাকে,---বলিয়া
+দাসীকে দেখাইয়া দিল।
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্নর মা কহিল, সে-কথা
+সত্য মেজবৌমা। আজ সে ভাত ফেলে উঠে যেতে মা বললেন, এ পিণ্ডিই না গিললে যখন
+যমের বাড়ি যেতে হবে, তখন এত তেজ কিসের জন্যে? সে বলে গেল,---আমার মেজদি
+থাকতে কাউকে ভয় করি নে।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী সদর্পে বলিলেন,
+কেমন হ'ল তা। কার জোরে এত তেজ []{#c5_____________________.xhtml#id-19
+.pagenum .ws-pagenum page-number="১৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A7%E0%A7%AF"}শুনি?
+আজ আমি স্পষ্ট বলে দিচ্ছি, মেজবৌ, ওকে তুমি একশ\'বার ডেকো না। আমাদের
+ভাইবোনের কথার মধ্যে থেকো না।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী কথা কহিলেন না।
+কেঁচো সাপের মত চক্র ধরিয়া কামড়াইয়াছে শুনিয়া, তাঁহার বিস্ময়ের
+পরিসীমা রহিল না। জানালা হইতে ফিরিয়া আসিয়া চুপ করিয়া ভাবিতে লাগিলেন,
+কত বেশী পীড়নের দ্বারা ইহাও সম্ভব হইতে পারিয়াছে।
+
+[ ]{style="display:inline-block; width:2em;"}আবার মাথা ধরিয়া জ্বর বোধ
+হইতেছিল, তাই অসময়ে শয্যায়, আসিয়া নির্জ্জীবের মত পড়িয়া ছিলেন। তাঁহার
+স্বামী ঘরে ঢুকিয়া ইহা লক্ষ্য না করিয়াই ক্রোধাভরে বলিয়া উঠিলেন,
+বৌঠানের ভাইকে নিয়ে আজ কি কাণ্ড বাধিয়ে বসে আছ? কারু আনা শুনবে না,
+যেখানে যত হতভাগা লক্ষ্মীছাড়া আছে, দেখলেই তার দিকে কোমর বেঁধে দাঁড়াবে,
+রোজ রোজ আমার এত হাঙ্গামা সহ্য হয় না মেজবৌ। আজ বৌঠান আমাকে না-হক্‌ দস্তা
+কথা শুনিয়ে দিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী শ্রান্তকণ্ঠে
+কহিলেন, বৌঠান হক্‌ কথা কবে বলেন যে আজ তোমাকে না-হক্‌ কথা বলেছেন?
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন বললেন, কিন্তু আজ তিনি
+ঠিক কথাই বলেছেন। তোমার স্বভাব জানি ত। সেবার বাড়ির রাখাল ছোঁড়াটাকে
+নিয়ে এই রকম করলে, মতি কামারের ভাগ্নের অমন বাগানখানা তোমার জন্যেই মুঠোর
+ভেতর থেকে বেরিয়ে গেল, উল্টে পুলিশ থামাতে এক শ' দেড় শ' ঘর থেকে গেল।
+তুমি নিজের ভাল-মন্দও কি বোঝা না? কবে এ স্বভাব যাবে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী এবার উঠিয়া
+বসিয়া স্বামীর মুখপানে চাহিয়া কহিলেন, আমার স্বাভাব যাবে মরণ হলে, তার
+আগে নয়। আমি মা,--- কোলে ছেলেপুলে আছে, মাথার ওপর ভগবান আছেন। এর বেশী আমি
+গুরুজনের নামে নালিশ করতে চাই নে। আমার অসুখ করেচে-আর আমাকে বকি না-তুমি
+যাও। বলিয়া গাইয়ের র‍্যাপার-খানা টানিয়া পাশ ফিরিয়া শুইয়া পড়িলেন।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন প্রকাশ্যে আর তর্ক
+করিতে সাহস করিলেন না, কিন্তু মনে []{#c5_____________________.xhtml#id-20
+.pagenum .ws-pagenum page-number="২০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%A6"}﻿মনে
+স্ত্রী-র উপর এবং বিশেষ করিয়া ঐ গলগ্রহ দুর্ভাগাটার উপর আজ মর্মান্তিক
+চটিয়া গেলেন।
+:::
+:::
+
+[]{#c6____________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%9B%E0%A6%AF%E0%A6%BC">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c6____________________.xhtml#id-20-n25 .pagenum .ws-pagenum
+page-number="২০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%A6"}
+
+::: {.wst-center .tiInherit}
+॥ছয়॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}পরদিন সকালে জানালা খুলিতেই
+হেমাঙ্গিনীর কানে বড়-জায়ের তীক্ষ্ণ-কণ্ঠের ঝঙ্কার প্রবেশ করিল। তিনি
+স্বামীকে সম্বোধন করিয়া বলিতেছেন, ছোঁড়াটা কাল থেকে পালিয়ে রইল, একবার
+খোঁজ নিলে না?
+
+[ ]{style="display:inline-block; width:2em;"}স্বামী জবাব দিলেন, চুলোয়
+যাক। কি হবে খোঁজ করে?
+
+[ ]{style="display:inline-block; width:2em;"}স্ত্রী কণ্ঠস্বর সমস্ত
+পাড়ার শ্রুতিগোচর করিয়া বলিলেন, তা হলে যে নিজেদের গ্রামে বাস করা দায়
+হবে। আমাদের শত্রু তো দেশে কম নেই, কোথাও প'ড়ে মরে-টরে থাকলে ছেলেবুড়ো
+বাড়িসুদ্ধ সবাইকে জেলখানায় যেতে হবে, তা বলে দিচ্চি।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী সমস্তই বুঝিলেন,
+এবং তৎক্ষণাৎ জানালাটা বন্ধ করিয়া দিয়া একটা নিশ্বাস ফেলিয়া অন্যত্র
+চলিয়া গেলেন।
+
+[ ]{style="display:inline-block; width:2em;"}দুপুরবেলা রান্নাঘরের
+দাওয়ায় বসিয়া খান-কতক রুটি খাইতেছিলেন, হঠাৎ চোরের মত সন্তর্পণে পা
+ফেলিয়া কেষ্ট আসিয়া উপস্থিত। হইল। চুল রুক্ষ, মুখ শুষ্ক।
+
+[ ]{style="display:inline-block; width:2em;"}কোথায় পালিয়েছিলি রে
+কেষ্ট?
+
+[ ]{style="display:inline-block; width:2em;"}পালাইনি ত। কাল সন্ধ্যার পর
+দোকানে শুয়েছিলুম, ঘুম ভেঙে, দেখি, দুপুর রাত্তির। ক্ষিদে পেয়েছে মেজদি।
+
+[ ]{style="display:inline-block; width:2em;"}ও-বাড়িতে গিয়ে খেগে যা।
+বলিয়া হেমাঙ্গিনী নিজের রুটির থালায় মনোযোগ করিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}মিনিট-খানেক চুপচাপ
+দাঁড়াইয়া থাকিয়া কেষ্ট চলিয়া যাইতেছিল, হেমাঙ্গিনী ডাকিয়া ফিরাইয়া
+কাছে বসাইলেন, এবং সেইখানেই ঠাঁই করিয়া রাঁধুনীকে ভাত দিতে বলিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}তাহার খাওয়া প্রায়
+অর্দ্ধেক অগ্রসর হইয়াছিল, এমন সময় উমা বহির্বাটী হইতে ভ্রান্তভাবে
+ছুটিয়া আসিয়া নিঃশব্দ ইঙ্গিতে জানাইল-
+[]{#c6____________________.xhtml#id-21 .pagenum .ws-pagenum
+page-number="২১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%A7"}﻿বাবা
+আসছেন যে!
+
+[ ]{style="display:inline-block; width:2em;"}মেয়ের ভাব দেখিয়া মা
+আশ্চর্য্য হইয়া বলিলেন, তাতে তুই অমান করছিস কেন?
+
+[ ]{style="display:inline-block; width:2em;"}উমা কেষ্টর পিছনে আসিয়া
+দাঁড়াইয়াছিল, প্রত্যুত্তরে তাহাকেই আঙুল দিয়া দেখাইয়া চোখ-মুখ নাড়িয়া
+তেমনি ইসারায় প্রকাশ করিল-খাচ্ছে যে।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট কৌতূহলী হইয়া ঘাড়
+ফিরাইয়াছিল। উমার উৎকণ্ঠিত দৃষ্টি, শঙ্কিত মুখের ইশারা তাহার চোখে পড়িল।
+এক মুহূর্তে তাহার মুখ সাদা হইয়া গেল। কি ত্রাস যে তাহার মনে জন্মিল সেই
+জানে। মেজদি, বাবু আসচেন, বলিয়াই সে ভাত ফেলিয়া ছুটিয়া গিয়া রান্নাঘরের
+দোরের আড়ালে দাঁড়াইল। তাহার দেখাদেখি উমাও আর একদিকে পলাইয়া গেল।
+অকস্মাৎ গৃহস্বামীর আগমনে চোরের দল যরূপ ব্যবহার করে, ইহারাও ঠিক সেইরূপ
+আচরণ করিয়া বসিল।
+
+[ ]{style="display:inline-block; width:2em;"}প্রথমটা হেমাঙ্গিনী
+হতবুদ্ধির মত একবার এদিক একবার ওদিক চাহিলেন, তার পরে পরিশ্রান্তের মত
+দেয়ালে ঠেস্‌ দিয়া এলাইয়া পড়িলেন। লজ্জা ও অপমানের শূল যেন তাঁহার
+বুকখানা এফোঁড়-ওফোঁড় করিয়া দিয়া গেল। পরক্ষণেই বিপিন আসিয়া উপস্থিত
+হইলেন। সম্মুখেই স্ত্রীকে ওভাবে বসিয়া থাকিতে দেখিয়া কাছে আসিয়া
+উদ্বিগ্ন-মুখে প্রশ্ন করিলেন, ও কি, খাবার নিয়ে অমন করে বসে যে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী জবাব দিলেন না।
+বিপিন অধিকতর উৎকষ্ঠিত হইয়া বলিলেন, আবার জ্বর হল নাকি? অভুক্ত ভাতের
+থালাটার পানে চোখ পড়ায় বলিলেন, এখানে এত ভাত ফেলে উঠে গেল কে? ললিত বুঝি?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী উঠিয়া বসিয়া
+বলিলেন, না, সে নয়-ও-বাড়ির কেষ্ট খাচ্ছিল, তোমার ভয়ে আড়ালে লুকিয়েচে।
+
+[ ]{style="display:inline-block; width:2em;"}কেন?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বলিলেন, কেন, তা
+তুমিই ভাল জান। আর শুধু সে []{#c6____________________.xhtml#id-22
+.pagenum .ws-pagenum page-number="২২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%A8"}﻿নয়,
+তুমি আসছ খবর দিয়েই উমাও ছুটে পালিয়েচে।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন মনে মনে বুঝিলেন,
+স্ত্রীর কথাবার্তা বাঁকা পথ ধরিয়াছে। তাই বোধ করি সোজা পথে ফিরাইবার
+অভিপ্রায়ে সহস্যে বলিলেন, ও বেটি পালাতে গেল কি দুঃখে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বলিলেন, কি জানি?
+বোধ করি মায়ের অপমান চোখে দেখবার ভয়েই পালিয়েচে। পরীক্ষণে একটা নিঃশ্বাস
+ফেলিয়া কহিলেন, কেষ্ট পরের ছেলে সে ত লুকোবেই। পেটের মেয়েটা পর্য্যন্ত
+বিশ্বাস করতে পারলে না যে, তার মায়ের কাউকে ডেকে একমুটো ভাত দেবার
+অধিকারটুকুও আছে।
+
+[ ]{style="display:inline-block; width:2em;"}এবার বিপিন টের পাইলেন,
+ব্যাপারটা সত্যিই বিশ্রী হইয়া উঠিয়াছে। অতএব পাছে একেবারে বাড়াবাড়িতে
+গিয়া পৌঁছায় এজন্য অভিযোগটিকে সামান্য পরিহাসে পরিণত করিয়া চোখ টিপিয়া
+ঘাড় নাড়িয়া বলিলেন, না,---তোমার কোন অধিকার নেই। ভিখিরী এলে ভিক্ষেও না।
+সে যাক-কাল থেকে আর মাথা ধরেনি। ত? আমি মনে করেছি, সহর থেকে কেদার
+ডাক্তারকে ডেকে পাঠাই-না হয় একবার কলকাতায়-
+
+[ ]{style="display:inline-block; width:2em;"}অসুখ ও চিকিৎসার পরামর্শটা
+ঐখানেই থামিয়া গেল। হেমাদিনী জিজ্ঞাসা করিলেন, উমার সামনে তুমি কেষ্টকে
+কিছু বলেছিলে।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন যেন আকাশ হইতে
+পড়িলেন-আমি? কই না। ও হাঁ-সেদিন যেন মনে হচ্ছে বলেছিলুম-বৌঠান। রাগ করেন-
+দাদা বিরক্ত হন-উমা বোধ করি সেখানে দাঁড়িয়েছিল-কি জান---
+
+[ ]{style="display:inline-block; width:2em;"}জানি, বলিয়া হেমাঙ্গিনী
+কথাটা চাপা দিয়া দিলেন। বিপিন ঘরে ঢুকিতেই তিনি কেষ্টকে বাহিরে ডাকিয়া
+বলিলেন, কেষ্ট, এই চারটি পয়সা নিয়ে দোকান থেকে কিছু মুড়িটুড়ি কিনে খেগে
+যা। ক্ষিদে পেলে আর আসিস্‌ নে আমার কাছে। তোর মেজদির এমন জোর নেই যে, সে
+বাইরের মানুষকে একমুঠো ভাত খেতে দেয়।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট নিঃশব্দে চলিয়া গেল।
+ঘরের ভিতর দাঁড়াইয়া বিপিন []{#c6____________________.xhtml#id-23
+.pagenum .ws-pagenum page-number="২৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%A9"}﻿তাহার
+পানে চাহিয়া ক্রোধে দাঁত কড়্‌মড়্‌ করিলেন।
+:::
+:::
+
+[]{#c7____________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%B8%E0%A6%BE%E0%A6%A4">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c7____________________.xhtml#id-23-n29 .pagenum .ws-pagenum
+page-number="২৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%A9"}
+
+::: {.wst-center .tiInherit}
+॥সাত॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}দিন পাঁচ-ছয় পরে একদিন
+বৈকালে বিপিন অত্যন্ত বিরক্ত-মুখে ঘরে ঢুকিয়া বলিলেন, এ-সব কি তুমি শুরু
+করলে মেজবৌ? কেষ্ট তোমার কে যে, একটা পরের ছেলে নিয়ে দিন-রাত আপনা-আপনির
+মধ্যে লড়াই করে বেড়াচ্চ? আজি দেখলাম, দাদা পর্য্যন্ত ভারি রাগ করেছেন।
+
+[ ]{style="display:inline-block; width:2em;"}অনতিপূর্ব্বে নিজের ঘরে
+বসিয়া বড়বৌ স্বামীকে উপলক্ষ্য ও মেজবৌকে লক্ষ্য করিয়া চীৎকার-শব্দে যে
+সকল অপভাষার তীর ছুঁড়িয়াছিলেন, তাহার একটিও নিস্ফল হয় নাই। সব ক'টি
+আসিয়াই হেমাঙ্গিনীকে বিঁধিয়াছিল এবং প্রত্যেকটি মুখে করিয়া যে পরিমাণ
+বিষ বহিয়া আনিয়াছিল, তাঁহার জ্বালাটাও কম জ্বলিতেছিল না। কিন্তু মাঝখানে
+ভাশুর বিদ্যমান থাকায় হেমাঙ্গিনী সহ্য করা ব্যতীত প্রতিকারের পথ
+পাইতেছিলেন না।
+
+[ ]{style="display:inline-block; width:2em;"}আগেকার দিনে যেমন যবনেরা গরু
+সুমুখে রাখিয়া রাজপুতসেনার উপর বাণ বর্ষণ করিত, যুদ্ধ জয় করিত, বড়বৌ
+মেজবৌকে আজকাল প্রায়ই তেমনি জব্দ করিতেছিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}স্বামীর কথায় হেমাঙ্গিনী দপ
+করিয়া জ্বলিয়া উঠিলেন। কহিলেন, বল কি, তিনি পর্য্যন্ত রাগ করেচেন? এ তে
+বড় আশ্চর্য্য কথা, শুনলে হঠাৎ বিশ্বাস হয় না যে! এখন কি করলে রাগ থামবে
+বল?
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন মনে মনে রাগ করিলেন,
+কিন্তু বাহিরে প্রকাশ করা তাঁহার স্বভাব নয়, তাই মনের ভাব গোপন করিয়া
+সহজভাবে বলিলেন, হাজার হলেও গুরুজনের সম্বন্ধে কি-
+
+[ ]{style="display:inline-block; width:2em;"}কথাটা শেষ হইবার পূর্ব্বেই
+হেমাঙ্গিনী কহিলেন, সব জানি, ছেলেমানুষটি নই যে, গুরুজনদের মান-মর্য্যাদা
+বুঝি নে। কিন্তু ছোঁড়াটাকে ভালবাসি বলেই যেন ওঁরা আমাকে দেখিয়ে দেখিয়ে
+ওকে []{#c7____________________.xhtml#id-24 .pagenum .ws-pagenum
+page-number="২৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%AA"}দিবারাত্র
+বিঁধতে থাকেন। তাঁহার কণ্ঠস্বর কিছু নরম শুনাইল। কারণ, হঠাৎ ভাসুরের
+সম্বন্ধে শ্লেষ করিয়া ফেলিয়া তিনি নিজেই মনে অপ্রতিভ হইয়াছিলেন। কিন্তু
+তাঁহারও গায়ের জ্বালাটা নাকি বড় জ্বলিতেছিল, তাই রাগ সামলাইতে পারেন নাই।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন গোপনে ও-পক্ষে ছিলেন।
+কারণ, এই একটা পরের ছেলে লইয়া নিরর্থক দাদাদের সঙ্গে ঝগড়া-ঝাঁটি তিনি মনে
+মনে পছন্দ করিতেন না। স্ত্রীর এই লজ্জাটুকু লক্ষ্য করিয়া জো পাইয়া জোর
+দিয়া বলিলেন, বেঁধা-বিঁধি কিছুই নয়। তাঁরা নিজেদের ছেলে শাসন করচেন, কাজ
+শেখাচ্ছেন, তাতে তোমাকে বিঁধিলে চলবে কেন? তা ছাড়া যা-ই করুন, তাঁরা
+গুরুজন যে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী স্বামীর মুখের
+পানে চাহিয়া প্রথমটা কিছু বিস্মিত হইলেন। কারণ এই পনের-ষোল বছরের
+ঘরকন্নায় স্বামীর এত বড় ভ্রাতৃভক্তি তিনি ইতিপূর্ব্বে দেখেন নাই। কিন্তু
+পরমুহুর্ত্তেই তাঁহার সর্ব্বাঙ্গ ক্রোধে জ্বলিয়া উঠিল। কহিলেন, তাঁরা
+গুরুজন, আমিও মা। গুরুজন নিজের মান নিজে নিঃশেষ করে আনলে আমি কি দিয়ে
+ভর্ত্তি করব।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন কি একটা জবাব বোধ করি
+দিতে যাইতেছিলেন, থামিয়া গেলেন। দ্বারের বাহিরে কুষ্ঠিতকণ্ঠে বিনম্র ডাক
+শোনা গেল-
+
+[ ]{style="display:inline-block; width:2em;"}মেজদি।
+
+[ ]{style="display:inline-block; width:2em;"}স্বামী-স্ত্রীতে চোখাচোখি
+হইল। স্বামী একটু হাসিলেন, তাহাতে শ্রীতিবিকীর্ণ হইল না। স্ত্রী অধরে ওষ্ঠ
+চাপিয়া কবাটের কাছে সরিয়া আসিয়া নিঃশব্দে কেষ্টর মুখের পানে চাহিতেই সে
+আহ্লাদে গালিয়া গিয়া প্রথমেই যা মুখে আসিল কহিল, কেমন আছ মেজদি।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী একমুহূর্ত্ত কথা
+কহিতে পারিলেন না। যাহার জন্য স্বামী-স্ত্রীতে এইমাত্র বিবাদ হইয়া গেল।
+অকস্মাৎ তাহাকে সম্মুখে পাইয়া বিবাদের সমস্ত বিরক্তিটা তাহারই মাথায়
+গিয়া পড়িল। হেমাঙ্গিনী অনুচ্চ কঠোরস্বরে কহিলেন এখানে কি? কেন তুই রোজ
+রোজ আসিস বল্‌ ত? []{#c7____________________.xhtml#id-25 .pagenum
+.ws-pagenum page-number="২৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%AB"}﻿[ ]{style="display:inline-block; width:2em;"}কেষ্টর
+বুকের ভিতরটা ধক্‌ করিয়া উঠিল। এই কঠোর কণ্ঠস্বরটা সত্যই এত কঠোর শুনাইল
+যে, হেতু ইহার যা-ই হোক, বস্তুটা যে সস্নেহ পরিহাস নয়, বুঝিয়া লইতে এই
+দুর্ভাগা বালকটার বিলম্ব হইল না।
+
+[ ]{style="display:inline-block; width:2em;"}ভয়ে, বিস্ময়ে, লজ্জায়
+মুখখান তাহার কালিমাখা হইয়া গেল। কহিল, দেখতে এসেচি।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন হাসিয়া বলিলেন, দেখতে
+এসেছে তোমাকে। এ হাসি যেন দাঁত ভ্যাংচাইয়া হেমাঙ্গিনীকে আপমান করিল। তিনি
+দলিতা ভুজঙ্গিনীর মত স্বামীর মুখের পানে একটিবার চাহিয়াই চোখ ফিরাইয়া
+লইয়া কহিলেন, আর এখানে তুই আসিস নে। ---যা?
+
+[ ]{style="display:inline-block; width:2em;"}আচ্ছা, বলিয়া কেষ্ট তাহার
+মুখের কালি হাসি দিয়া ঢাকিতে গিয়া সমস্ত মুখ আরো কালো, আরো বিশ্রী বিকৃত
+করিয়া অধোমখে চলিয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}সেই বিকৃতির কালো ছায়া
+হেমাঙ্গিনী নিজের মুখের উপর লইয়া গেলেন।
+:::
+:::
+
+[]{#c8___________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%86%E0%A6%9F">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c8___________________.xhtml#id-25-n32 .pagenum .ws-pagenum
+page-number="২৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%AB"}
+
+::: {.wst-center .tiInherit}
+॥আট॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}দিন পাঁচ ছয় হইয়া গেল,
+হেমাঙ্গিনীর জ্বর ছাড়ে নাই। কাল ডাক্তার বলিয়া গিয়াছিলেন, সর্দ্দি বুকে
+বসিয়াছে। সন্ধ্যার দীপ সবেমাত্র জ্বালা হইতেছিল, ললিত ভাল কাপড়-জামা
+পরিয়া ঘরে ঢুকিয়া কহিল, মা, দত্তদের বাড়ি পুতুল নাচ হবে, দেখতে যাব?
+
+[ ]{style="display:inline-block; width:2em;"}মা একটুখানি হাসিয়া বলিলেন,
+হ্যাঁ রে ললিত, তোর মা যে এই পাঁচ-ছ'দিন পড়ে আছে, একবারটি কাছে এসেও ত
+বসিস্‌ নে।
+
+[ ]{style="display:inline-block; width:2em;"}ললিত লজ্জা পাইয়া শিয়রের
+কাছে আসিয়া বসিল। মা সস্নেহে ছেলের পিঠে হাত দিয়া বলিলেন, এই অসুখ যদি না
+সারে, যদি মরে যাই, কি করবি তুই। খুব কাঁদবি?
+
+[ ]{style="display:inline-block; width:2em;"}যাঃ-সেরে যাবে, বলিয়া ললিত
+মায়ের বুকের উপর একটা হাত রাখিল। মা ছেলের হাতখানি হাতে লইয়া চুপ করিয়া
+রহিলেন। []{#c8___________________.xhtml#id-26 .pagenum .ws-pagenum
+page-number="২৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%AC"}জ্বরের
+উপর এই স্পর্শ তাঁহার সর্বাঙ্গ জুড়াইয়া দিতে লাগিল। ইচ্ছা করিতে লাগিল,
+এমন করিয়া বহুক্ষণ কাটান। কিন্তু একটু পরেই ললিত উস্‌খুস্‌ করিতে লাগিল,
+পুতুল-নাচ হয়ত এতক্ষণে শুরু হইয়া গিয়াছে মনে করিয়া, ভিটরে ভিটরে তাহার
+চিত্ত অস্থির হইয়া উঠিল।
+
+[ ]{style="display:inline-block; width:2em;"}ছেলের মনের কথা বুঝিতে
+পারিয়া মা মনে মনে হাসিয়া বলিলেন, আচ্ছা যা, দেখে আয়, বেশী রাত করিস্‌
+নে যেন।
+
+[ ]{style="display:inline-block; width:2em;"}না মা, এক্ষুনি ফিরে আসব
+বলিয়া ললিত ঘরের বাহির হইয়া গেল। কিন্তু মিনিট-দুই পরে ফিরিয়া আসিয়া
+বলিল, মা, একটা কথা বলব?
+
+[ ]{style="display:inline-block; width:2em;"}মা হাসিমুখে বলিলেন, একটা
+টাকা চাই ত? ঐ কুলুঙ্গিতে আছে, নিগে- দেখিস, বেশী নিস নে যেন।
+
+[ ]{style="display:inline-block; width:2em;"}না মা, টাকা চাই নে। বল তুমি
+শুনবে?
+
+[ ]{style="display:inline-block; width:2em;"}মা বিস্ময় প্রকাশ করিয়া
+বলিলেন, টাকা চাই নে? তবে কি কথা রে?
+
+[ ]{style="display:inline-block; width:2em;"}ললিত আর একটু কাছে আসিয়া
+চুপি চুপি বলিল, কেষ্টমামাকে একবার আসতে দেবে? ঘরে ঢুকবে না-ঐ দোরগোড়া
+থেকে একটিবার তোমাকে দেখেই চলে যাবে। কালকেও বাইরে এসে বসে ছিল, আজকেও এসে
+বসে আছে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী ব্যস্ত হইয়া
+উঠিয়া বসিলেন-যা যা ললিত, এক্ষুনি ডেকে নিয়ে আয়-আহা হা, বসে আছে, তোরা
+কেউ আমাকে জানাসিনি রে?
+
+[ ]{style="display:inline-block; width:2em;"}ভয়ে আসতে চায় না যে,
+বলিয়া ললিত চলিয়া গেল। মিনিটখানেক পরে কেষ্ট ঘরে ঢুকিয়া মাটির দিকে ঘাড়
+বাঁকাইয়া দেয়ালে ঠেস দিয়া দাঁড়াইল।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী ডাকিলেন, এস
+দাদা, এস।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট তেমনিভাবে স্থির হইয়া
+রহিল। তিনি নিজে তখন উঠিয়া আসিয়া কেষ্টর হাত ধরিয়া বিছানায় লইয়া
+গেলেন। পিঠে হাত []{#c8___________________.xhtml#id-27 .pagenum
+.ws-pagenum page-number="২৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%AD"}﻿বুলাইয়া
+দিয়া বলিলেন, হাঁ রে কেষ্ট, বকেছিলুম বলে তোর মেজদিদিকে ভুলে গেছিল বুঝি?
+
+[ ]{style="display:inline-block; width:2em;"}সহসা কেষ্ট ফুঁপাইয়া
+কাঁদিয়া উঠিল। হেমাঙ্গিনী কিছু আশ্চর্য্য হইলেন, কারণ, কখনও কেহ তাহাকে
+কঁদিতে দেখে নাই। অনেক দুঃখ-কষ্ট-যাতনা দিলেও সে ঘাড় হেঁট করিয়া নিঃশব্দে
+থাকে, লোকজনের সুমুখে চোখের জল ফেলে না। তাঁহার এই স্বভাবটি হেমাঙ্গিনী
+জানিতেন বলিয়াই বড় আশ্চর্য্য হইয়া বলিলেন, ছি, কান্না কিসের? বেটা
+ছেলেকে চোখের জল ফেলিতে আছে কি?
+
+[ ]{style="display:inline-block; width:2em;"}প্রত্যুত্তরে কেষ্ট কোঁচার
+খুঁট মুখে গুঁজিয়া প্রাণপণ চেষ্টায় কান্না রোধ করিতে করিতে বলিল, ডাক্তার
+বলে যে, বুকে সর্দি বসেচে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী হাসিলেন-এই
+জন্যে? ছি ছি। কি ছেলেমানুষ তুই রে। বলিতে বলিতে তাঁর নিজের চোখ দিয়াও
+টপ্‌ টপ্‌ করিয়া দুফোঁটা জল গড়াইয়া পড়িল। বাঁ হাত দিয়া মুছিয়া
+ফেলিয়া তাহার মাথায় একটা হাত দিয়া কৌতুক করিয়া বলিলেন, সর্দি বসেচে
+বসলেই বা রে! যদি মারি, তুই আর ললিত কাঁধে করে গঙ্গায় দিয়ে আসবি-কেমন,
+পারবি নে?
+
+[ ]{style="display:inline-block; width:2em;"}বলি মেজবৌ, কেমন আছ আজ?
+বলিয়া বাড়বে দোরগোড়ায় আসিয়া দাঁড়াইলেন। ক্ষণকাল কেষ্টর পানে
+তীক্ষ্ণ-দৃষ্টিতে চাহিয়া থাকিয়া বলিলেন, এই যে ইনি এসে হাজির হয়েচেন।
+আবার ও কি? মেজাগিন্নীর কাছে কেঁদে সোহাগ করা হচ্ছে যে! ন্যাকা আমার কত
+ফন্দীই জানে।
+
+[ ]{style="display:inline-block; width:2em;"}ক্লান্তিবশতঃ হেমাঙ্গিনী
+এইমাত্র বালিশে হেলান দিয়া কাত হইয়া পড়িয়াছিলেন, তীরের মত সোজা হইয়া
+উঠিয়া বসিয়া কহিলেন, দিদি, আমার ছ-সাতদিন জ্বর তোমার পায়ে পড়ি, আজ তুমি
+যাও।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী প্রথমটা থিতামত
+খাইয়া গেলেন। কিন্তু পরীক্ষণে সামলাইয়া লইয়া বলিলেন, তোমাকে বলিনি
+মেজবৌ। নিজের ভাইকে শাসন কচ্ছি, তুমি অমন মারমুখী হয়ে উঠচ কেন?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বলিলেন, শাসক ত
+রাত্রিদিনই চলছে-বাড়ি গিয়ে []{#c8___________________.xhtml#id-28
+.pagenum .ws-pagenum page-number="২৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%AE"}﻿কোরো,
+এখানে আমার সামনে করবার দরকার নেই, করতেও দেব না?
+
+[ ]{style="display:inline-block; width:2em;"}কেন, তুমি কি বাড়ি থেকে
+তাড়িয়ে দেবে না কি?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী হাতজোড় করিয়া
+বলিলেন, আমার বড় অসুখ দিদি, তোমার দুটি পায়ে পড়ি, হয় চুপ কর-নয় যাও।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী বলিলেন, নিজের
+ভাইকে শাসন করতে পাব না?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বলিলেন, বাড়ি
+গিয়ে কর গে।
+
+[ ]{style="display:inline-block; width:2em;"}সে আজ ভাল করেই হবে। আমার
+নামে লাগান-ভাঙান আজ বার করব-বজ্জাত মিথ্যুক কোথাকার। বললুম। গরুর দড়ি নেই
+কেষ্টা, দু-আঁটি পাট কেটে দে-না 'দিদি তোমার পায়ে পড়ি, পুতুলনাচ দেখে
+আসি-" এই বুঝি পুতুলের নাচ হচ্চে রে? বলিয়া কাদম্বিনী গুম্‌গুম করিয়া পা
+ফেলিয়া চলিয়া গেলেন।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী কতক্ষণ কাঠের মত
+বসিয়া থাকিয়া শুইয়া পড়িয়া বলিলেন, কেন তুই পুতুল-নাচ দেখতে গেলি নে
+কেষ্ট? গেলে ত এইসব হ'ত না। আসতে যখন তোকে ওরা দেয় না ভাই, তখন আর আসিস্‌
+নে আমার কাছে।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট আর কথাটি না কহিয়া
+আস্তে আস্তে চলিয়া গেল। তৎক্ষণাৎ ফিরিয়া আসিয়া বলিল, আমাদের গাঁয়ের
+বিশালাক্ষী ঠাকুর বড় জাগ্রত মেজদি, পুজো দিলে অসুখ সেরে যায়। দাও না
+মেজদি।
+
+[ ]{style="display:inline-block; width:2em;"}এইমাত্র নিরর্থক ঝগড়া হইয়া
+যাওয়ায় হেমাঙ্গিনীর মনটা ভারী বিগড়াইয়া গিয়াছিল, ঝগড়া-ঝাঁটি ত
+হয়ই-সেজন্যও নয়। এমন একটা রসাল ছুতা পাইয়া এই হতভাগার দুর্দশা যে কিরূপ
+হইবে, আসলে সেই কথাটা মনে মনে তোলাপাড়া করিয়া তাঁহার বুকের ভিতরটা ক্ষোভে
+ও নিরুপায় আক্রোশে জ্বলিয়া উঠিয়াছিল। কেষ্ট ফিরিয়া আসিতেই হেমাঙ্গিনী
+উঠিয়া বসিলেন, এবং কাছে বসাইয়া গায়ে হাত বুলাইয়া দিয়া কাঁদিয়া
+ফেলিলেন। চোখ মুছিয়া বলিলেন, আমি ভালো হয়ে তোকে লুকিয়ে পূজো দিতে
+পাঠিয়ে দেব। পারবি একলা যেতে?
+
+::: {.__nop}
+:::
+
+[]{#c8___________________.xhtml#id-29 .pagenum .ws-pagenum
+page-number="২৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A8%E0%A7%AF"}﻿[ ]{style="display:inline-block; width:2em;"}কেষ্ট
+উৎসাহে দুই চক্ষু বিস্ফারিত করিয়া বলিল, একলা যেতে খুব পারব। তুমি আজকে
+আমাকে একটা টাকা দিয়ে পাঠিয়ে দাও না, মেজদি-আমি কাল সকালেই পুজো দিয়ে
+তোমাকে প্রসাদ এনে দেব। সে খেলে তক্ষুনি অসুখ সেরে যাবে। দাও না মেজদি
+আজকেই পাঠিয়ে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী দেখিলেন, তাহার
+আর সবুর সোয় না। বলিলেন, কিন্তু কাল ফিরে এলে তোকে যে এরা ভারী মারবে।
+মার-ধোরের কথা শুনিয়া প্রথমটা কেষ্ট দমিয়া গেল, কিন্তু পরক্ষণেই প্রফুল্ল
+হইয়া কহিল, মারুক গে। তোমার অসুখ সেরে যাবে ত।
+
+[ ]{style="display:inline-block; width:2em;"}আবার তাঁহার চোখ দিয়া জল
+গড়াইয়া পড়িল। বলিলেন, হ্যাঁ রে কেষ্ট, আমি তোর কেউ নই, তবে আমার জন্যে
+তোর এত মাথাব্যাথা কেন?
+
+[ ]{style="display:inline-block; width:2em;"}এ-প্রশ্নের উত্তর কেষ্ট
+কোথায় পাইবে? সে কি করিয়া বুঝাইবে, তাহার পীড়িত আর্ত্ত হৃদয় দিবারাত্র
+কাঁদিয়া কাঁদিয়া তাহার মাকে খুঁজিয়া ফিরিতেছে। একটুখানি মুখপানে চাহিয়া
+থাকিয়া বলিল, তোমার অসুখ যে সারাচে না মেজদি-বুকে সর্দ্দি বসেচে যে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী এবার একটুখানি
+হাসিয়া বলিলেন, আমার বুকে সর্দ্দি বসেছে তাতে তোর কি? তোর এত ভাবনা হয়
+কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট আশ্চর্য হইয়া বলিল,
+ভাবনা হবে না মেজদি, বুকে সর্দ্দি বসা যে খারাপ। অসুখ যদি বেড়ে যায়, তা
+হলে?
+
+[ ]{style="display:inline-block; width:2em;"}তা হলে তোকে ডেকে পাঠাব।
+কিন্তু না ডেকে পাঠালে। আর আসিস্‌ নে ভাই।
+
+[ ]{style="display:inline-block; width:2em;"}কেন মেজদি?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী দৃঢ়ভাবে মাথা
+নাড়িয়া বসিলেন, না, তোর আমি এখানে আসতে দেব না। না ডেকে পাঠালেও যদি
+আসিস্‌ ত ভারী রাগ করব।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট মুখপানে চাহিনা সভয়ে
+জিজ্ঞাসা করিল, তা হলে বল, কাল সকালে কখন ডেকে পাঠাবে?
+[]{#c8___________________.xhtml#id-30 .pagenum .ws-pagenum
+page-number="৩০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%A6"}﻿[ ]{style="display:inline-block; width:2em;"}কাল
+সকালেই তোর আসা চাই?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট অপ্রতিভ হইয়া বলিল,
+আচ্ছা, সকালে না হয় দুপুরবেলায় আসব-না মেজদি? তাহার চোখে-মুখে এমনই একটা
+ব্যাকুল অনুনয় ফুটিয়া উঠিল যে, হেমাঙ্গিনী মনে মনে ব্যথা পাইলেন। কিন্তু
+আর তা তাঁহার কঠিন না হইলে নয়। সবাই মিলিয়া এই নিরীহ একান্ত অসহায়
+বালকের উপর যে নির্য্যাতন শুরু করিয়াছে, কোন কারণেই আর তা তাহা বাড়াইয়া
+দেওয়া চলে না। সে হয়ত সহিতে পারে, মেজদির কাছে আসা-যাওয়া করিবার দণ্ড যত
+গুরুতর হোক সে হয়ত সহ্য করিতে পিছাইবে না; কিন্তু, তাই বলিয়া তিনি কি
+করিয়া সহিবেন?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনীর চোখ ফাটিয়া জল
+আসিতে লাগিল, তথাপি তিনি মুখ ফিরাইয়া রুক্ষস্বরে বলিলেন, বিরক্ত করিস নে
+কেষ্ট যা এখান থেকে। ডেকে পাঠালে আসিস, নইলে যখন-তখন এসে আমাকে বিরক্ত করিস
+নে।
+
+[ ]{style="display:inline-block; width:2em;"}না, বিরক্ত করিনি ত, বলিয়া
+ভীত লজ্জিত মুখখানি হেঁট করিয়া তাড়াতাড়ি কেষ্ট উঠিয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}এইবার হেমাঙ্গিনীর দুই চোখ
+বাহিয়া প্রস্রবণের মতে জল ঝরিয়া পড়িতে লাগিল। তিনি সুস্পষ্ট দেখিতে
+লাগিলেন, এই নিরুপায় অনাথ ছেলেটা মা হারাইয়া তাঁহাকেই মা বলিয়া আশ্রয়
+করিতেছে। তাঁহারই আঁচলের অল্প একটুখানি মাথায় টানিয়া লইবার জন্য কাঙালের
+মত কি করিয়াই না বেড়াইতেছে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী চোখ মুছিয়া মনে
+মনে বলিলেন, কেষ্ট মুখখানি অমন করে গোলি ভাই, কিন্তু তোর এই মেজদি যে তোর
+চেয়েও নিরুপায়। তোকে জোর করে বুকে টেনে আনবে, সে ক্ষমতা যে তার নেই ভাই।
+
+\
+[ ]{style="display:inline-block; width:2em;"}উমা আসিয়া কহিল, মা, কাল
+কেষতমামা তাগাদায় না গিয়ে তোমার কাছে এসে বসেছিল বলে, জ্যাঠামশাই এমন মার
+মারলেন যে নাক দি[]{#c8___________________.xhtml#id-31 .pagenum
+.ws-pagenum page-number="৩১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%A7"}﻿[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী
+ধমকাইয়া উঠিলেন-আচ্ছা-হয়েচে-হয়েচে-যা তুই এখান থেকে। আকস্মাত ধমকানি
+খাইয়া উমা চমকাইয়া উঠিল। আর কোন কথা না কহিয়া ধীরে ধীরে চলিয়া
+যাইতেছিল; মা ডাকিয়া বলিলেন, শোনা রে! নাক দিয়ে কি খুব রক্ত পড়েছিল।
+
+[ ]{style="display:inline-block; width:2em;"}উমা ফিরির দাঁড়াইয়া কহিল,
+না খুব নয়, একটু।
+
+[ ]{style="display:inline-block; width:2em;"}আচ্ছা তুই যা।
+
+[ ]{style="display:inline-block; width:2em;"}উমা কপাটের কাছে আসিয়াই
+বলিয়া উঠিল, মা, এই যে কেষ্টমামা দাঁড়িয়ে রয়েছে।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট শুনিতে পাইল। বোধ করি
+ইহাকে অভ্যর্থনা মনে করিয়া মুখ বাড়াইয়া সলজ্জ হাসি হাসিয়া কহিল, কেমন
+আছ মেজদি?
+
+[ ]{style="display:inline-block; width:2em;"}ক্ষোভে, দুঃখে, অভিমানে
+হেমাঙ্গিনী ক্ষিপ্তবৎ চীৎকার করিয়া উঠিলেন-কেন এসেছিস্‌ এখানে? যা, যা
+বলচি শীগ্‌গির। দূর হ বলচি-
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট মূঢ়ের মত ফ্যালফ্যাল
+করিয়া চাহিয়া রহিল-হেমাঙ্গিনী অধিকতর তীব্রকণ্ঠে বলিলেন, তবু দাঁড়িয়ে
+রইলি হতভাগা-গেলি নে?
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট মুখ নামাইয়া শুধু
+\'যাচ্ছি' বলিয়াই চলিয়া গেল। সে চলিয়া গলে হেমাঙ্গিনী নিজীবের মত
+বিছানার একধারে শুইয়া পড়িয়া অফুটে ক্রুদ্ধস্বরে বলিয়া উঠিলেন, একশ'বার
+বলি হতভাগাকে, আসিসনে আমার কাছে---তবু \'মেজদি'। শিবুকে বলে দিস্‌ত উমা,
+ওকে না আর ঢুকতে দেয়।
+
+[ ]{style="display:inline-block; width:2em;"}উমা জবাব দিল না। ধীরে ধীরে
+বাহির হইয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}রাত্রে হেমাঙ্গিনী স্বামীকে
+ডাকিয়া আনিয়া কাঁদ-কাঁদ গলায় বলিলেন, কোনদিন ত তোমার কাছে কিছু
+চাইনি-আজি এই অসুখের উপর একটা ভিক্ষা চাইচি, দেবে?
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন সন্দিসধ কণ্ঠে প্রশ্ন
+করিলেন, কি চাই?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বলিলেন, কেষ্টকে
+আমাকে দাও-ও বেচারি বড় দুঃখী ---মা-বাপ নেই-ওকে ওরা মেরে ফেলচে,---এ আর
+আমি চোখে []{#c8___________________.xhtml#id-32 .pagenum .ws-pagenum
+page-number="৩২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%A8"}﻿দেখতে
+পারচি নে।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন মৃদু হাসিয়া বলিলেন,
+তা হলে চোখ বুজে থাকলেই হয়।
+
+[ ]{style="display:inline-block; width:2em;"}স্বামীর এই নিষ্ঠুর বিদ্রুপ
+হেমাঙ্গিনীকে শূল দিয়া বিঁধিল, অন্য কোন অবস্থায় তিনি ইহা সহিতে পারিতেন
+না, কিন্তু আজ নাকি, তাঁহার দুঃখে প্রাণ বাহির হইতেছিল, তাই সহ্য করিয়া
+লইয়া হাতজোড় করিয়া বলিলেন, তোমার দিব্যি করে বলচি, ওকে আমি পেটের ছেলের
+মত ভালবেসেচি। দাও আমাকে-মানুষ করি।---খাওয়াই পরাই-তার পরে যা ইচ্ছে হয়
+তোমাদের তাই ক'রো। বড় হলে আমি একটি কথাও কবো না।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন একটুখানি নরম হইয়া
+বলিলেন, ও কি আমার গোলার ধান-চাল যে তোমাকে এনে দেব? পরের ভাই, পরের বাড়ি
+এসেচে, ---তোমার মাঝখানে পড়ে এত দরদ কিসের জন্যে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী কাঁদিয়া
+ফেলিলেন। খানিক পরে চোখ মুছিয়া বলিলেন, তুমি ইচ্ছে করলে বটঠাকুরকে বলে,
+দিদিকে বলে, স্বচ্ছন্দে আনতে পার। তোমার দুটি পায়ে পড়চি, দাও তাকে।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন বলিলেন, আচ্ছা, তাই
+যদি হয়, আমিই বা এত বড়মানুষ কিসে যে, তাকে প্রতিপালন করব?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বলিলেন, আগে আমার
+একটা তুচ্ছ কথাও ঠেলতে না এখন কি অপরাধ করেচি যে, যখন এমন করে জানাচ্ছি,
+বলছি সত্যিই আমার প্রাণ বার হয়ে যাচ্ছে-তবু এই সামান্য কথাটা রাখতে চাইচ
+না? সে দুর্ভাগা বলে কি তোমরা সকলে মিলে তাকে মেরে ফেলবে? আমি তাকে আমার
+কাছে আসতে বলব, দেখি ওঁরা কি করেন?
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন এইবার রুষ্ট হইলেন,
+বলিলেন, আমি খাওয়াতে পারব না।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বলিলেন, আমি
+পারব। আমি কি বাড়ির কেউ নই যে, নিজের ছেলেকে খাওয়াতে পারব না। আমি কালই
+তাকে আমার কাছে এনে রাখব। দিদিরা জোর করেন তা আমি তাকে
+[]{#c8___________________.xhtml#id-33 .pagenum .ws-pagenum
+page-number="৩৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%A9"}﻿থানার
+দারোগার কাছে পাঠিয়ে দেব।
+
+[ ]{style="display:inline-block; width:2em;"}স্ত্রীর কথা শুনিয়া বিপিন
+ক্রোধে অভিমানে ক্ষণকাল অবাক হইয়া থাকিয়া বলিলেন, আচ্ছা, সে দেখা যাবে,
+বলিয়া বাহির হইয়া গেলেন।
+
+[ ]{style="display:inline-block; width:2em;"}পরদিন প্রভাত হইতে বৃষ্টি
+পড়িতেছিল, হেমাঙ্গিনী জানালাটা খুলিয়া দিয়া আকাশেব পানে চাহিয়া ছিলেন,
+সহসা পাঁচুগোপালের উচ্চ কণ্ঠস্বর কানে গেল। সে চেঁচাইয়া বলিতেছিল, মা,
+তোমার গুণধর ভাই জলে ভিজতে ভিজতে এসে হাজির হয়েচে।
+
+[ ]{style="display:inline-block; width:2em;"}খ্যাংরা কোথায় রে? যাচ্ছি
+আমি, বলিয়া কাদম্বিনী হুঙ্কার দিয়া ঘর হইতে বাহির হইয়া মাথায় গামছা
+দিয়া দ্রুতপদে সদর-বাড়িতে ছুটিয়া গেলেন।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনীর বুকটা যেন
+কাঁপিয়া উঠিল। ললিতকে ডাকিয়া বলিলেন, যা ত বাবা, ও-বাড়ির সদরে। দেখ তো,
+তোর কেষ্টমামা কোথা থেকে এল?
+
+[ ]{style="display:inline-block; width:2em;"}ললিত ছুটিয়া চলিয়া গেল,
+এবং খানিক পরে ফিরিয়া আসিয়া কহিল, পাঁচুদা তাকে নাডুগোপাল করে মাথায়
+দুটো থান ইট দিয়ে বসিয়ে রেখেচে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী শুল্কমুখে
+জিজ্ঞাসা করিলে, কি করেছিল সে?
+
+[ ]{style="display:inline-block; width:2em;"}ললিত বলিল, কাল দুপুরবেলা
+তাকে তাগাদা করতে পাঠিয়েছিল গয়লাদের কাছে তিন টাকা আদায় করে নিয়ে
+পালিয়েছিল, সব খরচ করে এই আসচে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বিশ্বাস করিলেন
+না। বলিলেন, কে বললে সে টাকা আদায় করেছিল?
+
+[ ]{style="display:inline-block; width:2em;"}লক্ষ্মণ গয়লা নিজে এসে বলে
+গেছে, বলিয়া ললিত পড়িতে চলিয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}ঘণ্টা দুই-তিন আর কোন গোলযোগ
+শোনা গেল না। বেলা দশটার সময় রাঁধুনি খান-কতক রুটি দিয়া গিয়াছিল,
+হেমাঙ্গিনী বসিবার উদ্যোগ করিতেছিলেন, এমনি সময় তাঁহারই ঘরের বাহিরে
+[]{#c8___________________.xhtml#id-34 .pagenum .ws-pagenum
+page-number="৩৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%AA"}﻿কুরুক্ষেত্র
+বাধিয়া গেল। বড়গিন্নীর পশ্চাতে পাঁচুগোপাল কেষ্টর কান ধরিয়া হিড়হিড়
+করিয়া টানিয়া আনিতেছে, সঙ্গে বড়কর্তাও আছেন। মেজকর্তাকেও আনিবার জন্য
+দোকানে লোক পাঠান হইয়াছে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী শশব্যাস্তে
+মাথায় কাপড় দিয়া ঘরের একপার্শ্বে সরিয়া দাঁড়াইতেই বড়কর্তা তীব্র
+কটুকণ্ঠে শুরু করিয়া দিলেন, তোমার জন্যে ত আমরা বাড়িতে টিকতে পারি নে মেজ
+বৌমা। বিপিনকে বল, আমাদের বাড়ির দামটা ফেলে দিক, আমরা আর কোথাও উঠে যাই।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বিস্ময়ে
+হতবুদ্ধি হইয়া নিঃশব্দে দাঁড়াইয়া রহিলেন। তখন বড়গিন্নী যুদ্ধ পরিচালনার
+ভার স্বহস্তে গ্রহণ করিয়া দ্বারের ঠিক সুমুখে সরিয়া আসিয়া, হাত-মুখ
+নাড়িয়া বলিলেন, মেজবৌ, আমি বড়-জা, তা আমাকেও কুকুর-শিয়াল মনে করা-তা
+ভালই কর, কিন্তু হাজার দিন বলেচি, মিছে লোক-দেখান আহলাদ দিয়ে আমার ভায়ের
+মাথাটি খেয়ো না-এখন ঘটল ত? ওগো, দু'দিন সোহাগ করা সহজ, কিন্তু চিরকালের
+ভারটি ত তুমি নেবে না। ---সে ত আমাকেই বইতে হবে।
+
+[ ]{style="display:inline-block; width:2em;"}ইহা যে কটুক্তি এবং আক্রমণ,
+তাহাই শুধু হেমাঙ্গিনী বুঝিলেন আর কিছু নয়। মৃদুকণ্ঠে জিজ্ঞাসা করিলেন, কি
+হয়েচে?
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী আরো বেশী হাত-মুখ
+নাড়িয়া কহিলেন, বেশ হয়েচে খুব সৎকার হয়েচে! তোমার শেখানোর গুণে আদায়ী
+টাকা চুরি করতে শিখেচে-আর দু\'দিন কাছে ডেকে আরো দুটো শলাপরামর্শ দাও, তা
+হলে সিন্দুক ভাঙতে, সিঁদ কাটতেও শিখবে।
+
+[ ]{style="display:inline-block; width:2em;"}একে হেমাঙ্গিনী পীড়িত,
+তাহার উপর এই কদর্য্য বিদ্রুপ ও অভিযোগে আজ তিনি জ্ঞান হারাইলেন। ইতিপূর্বে
+কখনও কোন কারণে ভাশুরের সুমুখে কথা কহেন নাই; কিন্তু আজ থাকিতে পারিলেন না।
+মৃদুকণ্ঠে কহিলেন, আমি কি তাকে চুরি-ডাকাতি করতে শিখিয়ে দিয়েচি দিদি?
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী স্বচ্ছন্দে
+বলিলেন, কেমন করে জানব, কি তুমি শিখিয়ে দিয়েচ, না দিয়েচ। এ স্বভাব তার
+তা আগে ছিল না, এখনই বা হ'ল []{#c8___________________.xhtml#id-35
+.pagenum .ws-pagenum page-number="৩৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%AB"}﻿কেন?
+এত লুকোচুরি কথাবার্তাই বা তোমাদের কি, আর এত আহলাদ দেওয়াই বা কি জন্যে?
+কতদিনের পুঞ্জীভূত আবদ্ধ বিদ্বেষরাশি যে এই একটু পথ পাইয়া বাহির হইয়া
+আসিল, তাহা যিনি সব দেখেন, তিনি দেখিতে পাইলেন।
+
+[ ]{style="display:inline-block; width:2em;"}মুহুর্তকালের জন্য
+হেমাঙ্গিনী হতজ্ঞানের মত স্তম্ভিত হইয়া রহিলেন। এমন নিষ্ঠুর আঘাত, এত বড়
+নির্লজ্জ অপমান, মানুষ মানুষকে যে করিতে পারে, ইহা যেন তাঁহার মাথায়
+প্রবেশ করিল না। কিন্তু ঐ মুহুর্তকালের জন্য। পরীক্ষণেই তিনি মর্মান্তিক
+আহত সিংহীর মত দুই চোখে আগুন জ্বালিয়া বাহির হইয়া আসিলেন। ভাশুরকে সুমুখে
+দেখিয়া মাথার কাপড় আর একটু টানিয়া দিলেন, কিন্তু রাগ সামলাইতে পারিলেন
+না। বড়-জাকে সম্বোধন করিয়া মৃদু অথচ কঠোরস্বরে বলিলেন, তুমি এতবড় চামার
+যে, তোমার সঙ্গে কথা কইতেও আমার ঘৃণা বোধ হয়। তুমি এতবড় বেহায়া
+মেয়েমানুষ যে, ঐ ছোঁড়াটাকে ভাই বলেও পরিচয় দিচ্ছ। মানুষ জানোয়ার পুষিলে
+তাকেও পেট ভরে খেতে দেয়, কিন্তু ঐ হতভাগাটাকে দিয়ে যত-রকমের ছোট কাজ
+করিয়ে নিয়েও তোমরা আজ পর্যন্ত একদিন পেট ভরে খেতে দাও না। আমি না থাকলে
+এতদিনে ও না খেতে পেয়েই মরে যেত। ও পেটের জ্বালায় ছুটে আসে আমার কাছে,
+সোহাগ-আহ্লাদ করতে আসে না।
+
+[ ]{style="display:inline-block; width:2em;"}বড়-জা বলিলেন, আমরা খেতে
+দিই নে, শুধু খাটিয়ে নিই, আর তুমি ওকে খেতে দিয়ে বঁচিয়ে রেখেচ?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী জবাব দিলেন, ঠিক
+তাই। আজ পর্য্যন্ত কখনও ওকে দু'বেলা তোমরা খেতে দাওনি।---কেবল মারধোর করেচ,
+আর যত পেরেচ খাটিয়ে নিয়েচ। তোমার ভয়ে হাজার দিন ওকে আসতে বারণ করেচি,
+কিন্তু খিদে বরদাস্ত করতে পারে না, আর আমার কাছে পেট ভরে দুটো খেতে পায়
+বলেই ছুটে ছুটে আসে-চুরিডাকাতির পরামর্শ নিতে আসে না। কিন্তু তোমরা এতবড়
+হিংসুক যে, তাও চোখে দেখতে পার না।
+
+::: {.__nop}
+:::
+
+[]{#c8___________________.xhtml#id-36 .pagenum .ws-pagenum
+page-number="৩৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%AC"}﻿[ ]{style="display:inline-block; width:2em;"}এবার
+ভাসুর জবাব দিলেন। কেষ্টকে সুমুখে টানিয়া আনিয়া তাহার কোঁচার খুঁট
+খুলিয়া একটা কলাপাতার ঠোঙা বাহির করিয়া সক্রোধে বলিয়া উঠিলেন, হিংসুক
+আমরা। কেন যে ওকে ভাল চোখে দেখতে পারি নে, তা তুমি নিজের চোখে দ্যাখো।
+মেজবৌমা, তোমার শেখানোর গুণেই ও আমার টাকা চুরি ক'রে তোমার ভালোর জন্যে কোন
+একটা ঠাকুরের পূজা দিয়ে প্রসাদ এনেচে---এই নাও; বলিয়া তিনি গোটা-দুই
+সন্দেশ ও ফুল-পাতা ঠোঙার ভিতর হইতে বাহির করিয়া দেখাইলেন।
+
+[ ]{style="display:inline-block; width:2em;"}কাদম্বিনী চোখ কপালে তুলিয়া
+বলিলেন, মা গো! কি মিটমিটে শয়তান, কি ধড়িবাজ ছেলে। বেশ ত মেজবৌ, এখন
+তুমিই বল না, কি মতলবে ও চুরি করেচে? ও কি আমার ভালোর জন্যে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী ক্রোধে জ্ঞান
+হারাইলেন। একে তাঁহার অসুস্থ শরীর, তাহাতে এই সমস্ত মিথ্যা অভিযোগ, তিনি
+দ্রুতপদে কেষ্টর সম্মুখীন হইয়া তাহার দুই গালে সশব্দে চড় কষাইয়া দিয়া
+কহিলেন, বদমাইস চোর, আমি তোকে চুরি করতে শিখিয়ে দিয়েছি? কতদিন তোকে আমার
+বাড়ি ঢুকতে বারণ করেচি, কতবার তোকে তাড়িয়ে দিয়েচি! আমার নিশ্চয় বোধ
+হচ্চে, তুই চুরির মতলবেই যখন---তখন উঁকি মেরে দেখতিস।
+
+[ ]{style="display:inline-block; width:2em;"}ইতিপূর্ব্বেই বাড়ির সকলে
+আসিয়া উপস্থিত হইয়াছিল। শিবু কহিল, আমি নিজের চোখে দেখেছি মা, পরশু
+রাত্তিরে ও তোমার ঘরের সুমুখে আঁধারে দাঁড়িয়েছিল, আমাকে দেখেই ছুটে
+পালিয়ে গেল। আমি এসে না পড়লে নিশ্চয় তোমার ঘরে ঢুকে চুরি করত।
+
+[ ]{style="display:inline-block; width:2em;"}পাঁচুগোপাল বলিল, জানে
+মেজখুড়ীমার অসুখ শরীর-সন্ধ্যা হলেই ঘুমিয়ে পড়েন-ও কি কম চালাক!
+
+[ ]{style="display:inline-block; width:2em;"}মেজবৌয়ের কেষ্টর প্রতি
+আজকাল ব্যবহারে কাদম্বিনী যেরূপ প্রসন্ন হইলেন, এই ষোল বৎসরের মধ্যে কখনও
+এরূপ হন নাই। অত্যন্ত খুশী হইয়া কহিলেন, ভিজে বেড়াল। কেমন করে জানিব
+মেজবৌ, তুমি ওকে বাড়ি ঢুকতেও বারণ করেচ। ও বলে বেড়ায়,
+[]{#c8___________________.xhtml#id-37 .pagenum .ws-pagenum
+page-number="৩৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%AD"}﻿মেজদি
+আমাকে মায়ের চেয়ে ভালবাসে। ঠোঙাসুদ্ধ নির্মাল্য টান মারিয়া ফেলিয়া
+দিয়া বলিলেন, টাকা তিনটে চুরি করে কোথা থেকে দুটো ফুলটুল, কুড়িয়ে এনেচে।
+
+[ ]{style="display:inline-block; width:2em;"}বাড়ি লইয়া গিয়া বড়কর্তা
+চোরের শাস্তি শুরু করিলেন। সে কি নির্দ্দয় প্রহার! কেষ্ট কথাও কহে না,
+কাঁদেও না। এদিকে মারিলে ওদিকে মুখ ফিরায়, ওদিকে মারিলে এদিকে মুখ ফিরায়।
+ভারি গাড়িসুদ্ধ গরু, কাদায় পড়িয়া যেমন করিয়া মার খায়, তেমনি করিয়া
+কেষ্ট নিঃশব্দে মারা খাইল। এমন কি কাদম্বিনী পর্য্যন্ত স্বীকার করিলেন,হাঁ,
+মারা খাইতে শিখিয়াছিল বটে। কিন্তু ভগবান জানেন, এখানে আসার পূর্বে নিরীহ
+স্বভাবের গুণে কখন কেহ তাহার গায়ে হাত তুলে নাই।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী নিজে ঘরের ভিতর
+সমস্ত জানালা বন্ধ করিয়া দিয়া কাঠের মূতির মত বসিয়াছিলেন। উমা মার
+দেখিতে গিয়াছিল, ফিরিয়া আসিয়া বলিল, জ্যাঠাইমা বললেন, কেষ্টমামা বড় হলে
+ডাকাত হবে। ওদের গাঁয়ে কি ঠাকুর আছে-
+
+[ ]{style="display:inline-block; width:2em;"}উমা-?
+
+[ ]{style="display:inline-block; width:2em;"}মায়ের অশ্রুবিকৃত ভগ্ন
+ভণ্ঠস্বরে উমা চমকাইয়া উঠিল। কাছে আসিয়া ভয়ে ভয়ে জিজ্ঞাসা করিল, কেন
+মা?
+
+[ ]{style="display:inline-block; width:2em;"}হাঁ রে, এখানে কি তাকে সবাই
+মিলে মারচে? বলিয়াই তিনি মেঝের উপর উপুড় হইয়া পড়িয়া কাঁদিয়া উঠিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}মায়ের কান্না দেখিয়া উমাও
+কাঁদিয়া ফেলিল। তারপর কাছে বসিয়া, নিজের আঁচল দিয়া জননীর চোখ মুছাইয়া
+দিতে দিতে বলিল, পেসন্নর মা কেষ্টমামাকে বাইরে টেনে নিয়ে গেছে।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী আর কথা কহিলেন
+না, সেইখানে তেমনি করিয়াই পড়িয়া রহিলেন। বেলা দু-তিনটার সময় সহসা কম্প
+দিয়া ভয়ানক জ্বর আসিল। আজ অনেকদিনের পর পথ্য করিতে বসিয়াছিলেন। -সে
+খাবার তখনোও একাধারে পড়িয়া শুকাইতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}সন্ধ্যার পর বিপিন ও-বাড়িতে
+বৌঠানের মুখে সমস্ত ব্যাপার []{#c8___________________.xhtml#id-38
+.pagenum .ws-pagenum page-number="৩৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%AE"}﻿অবগত
+হইয়া ক্রোধভরে স্ত্রীর ঘরে ঢুকিতেছিলেন, উমা কাছে আসিয়া ফিস্‌ফিস্‌
+করিয়া বলিল, মা জ্বরে অজ্ঞান হয়ে পড়ে আছেন।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন চমকাইয়া উঠিলেন, সে
+কি রে আজ তিন-চারদিন জ্বর ছিল না ত!
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন মনে মনে স্ত্রীকে
+অতিশয় ভালবাসিতেন। কত যে বাসিতেন তাহা বছর চার-পাঁচ পূর্বে দাদাদের সহিত
+পৃথক হইবার সময় জানা গিয়াছিল। ব্যকুল হইয়া ঘরে ঢুকিয়াই দেখিলেন, তখনও
+তিনি মাটিব উপর পড়িয়া আছেন। ব্যস্ত হইয়া শয্যায় তুলিবার জন্য গায়ে হাত
+দিতেই হেমাঙ্গিনী চোখ মেলিয়া, একমুহূর্ত স্বামীর মুখের পানে চাহিয়া
+থাকিয়া, অকস্মাৎ দুই পা জড়াইয়া ধরিয়া কাঁদিয়া উঠিলেন-কেষ্টকে আশ্রয়
+দাও, নইলে এ জ্বর আমার সারবে না। মা দূর্গা আমাকে কিছুতেই মাপ করবেন না।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন পা ছাড়াইয়া লইয়া,
+কাছে বসিয়া স্ত্রীর মাথায় হাত বুলাইয়া সান্ত্বনা দিতে লাগিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী বলিলেন, দেবে?
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন সজল চক্ষু হাত দিয়া
+মুছিয়া বলিলেন, তুমি যা চাও তাই হবে, তুমি ভাল হয়ে ওঠ।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী আর কিছু বলিলেন
+না, বিছানায় উঠিয়া শুইয়া পড়িলেন।
+
+[ ]{style="display:inline-block; width:2em;"}জ্বর রাত্রেই ছাড়িয়া গেল,
+পরদিন সকালে উঠিয়া বিপিন ইহা লক্ষ্য করিয়া পরম আহ্নলাদিত হইলেন। হাত-মুখ
+ধুইয়া কিছু জলযোগ করিয়া দোকানে বাহির হইতে ছিলেন, হেমাঙ্গিনী আসিয়া
+বলিলেন, মার খেয়ে কেষ্টর ভারী জ্বর হয়েছে, তাকে আমি আমার কাছে নিয়ে
+আসচি।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন মনে মনে অত্যন্ত
+বিরক্ত হইয়া বলিলেন, তাকে এ-বাড়িভে। আনবার দরকার কি? যেখানে আছে সেখানেই
+থাক না।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী ক্ষণকাল স্তম্ভিত
+হইয়া থাকিয়া বলিলেন, কাল রাত্রে, যে তুমি কথা দিলে আশ্রয় দেবে?
+[]{#c8___________________.xhtml#id-39 .pagenum .ws-pagenum
+page-number="৩৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%A9%E0%A7%AF"}﻿[ ]{style="display:inline-block; width:2em;"}বিপিন
+অবজ্ঞাভরে মাথা নাড়িয়া বলিলেন, হাঁ-সে কে যে, তাকে ঘরে এনে পুষতে হবে!
+তুমিও যেমন?
+
+[ ]{style="display:inline-block; width:2em;"}কাল রাত্রে স্ত্রীকে অত্যন্ত
+অসুস্থ দেখিয়া যাহা স্বীকার করিয়াছিলেন, আজ সকালে তাহাকে সুস্থ দেখিয়া
+তুচ্ছ করিয়া দিলেন। ছাতাটা বগলে চাপিয়া উঠিয়া দাঁড়াইয়া বলিলেন,
+পাগলামি ক'র না, -দাদারা ভারী চটে যাবেন।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী শান্ত দৃঢ়কণ্ঠে
+কহিলেন, দাদারা চটে গিয়ে কি তাকে খুন করে ফেলতে পারেন, না, আমি নিয়ে এলে
+সংসারে কেউ তাকে আটকে রাখতে পাবে? আমাব দুটি সন্তান ছিল, কাল থেকে তিনটি
+হয়েছে। আমি কেষ্টব মা?
+
+[ ]{style="display:inline-block; width:2em;"}আচ্ছা, সে তখন দেখা যাবে,
+বলিয়া বিপিন চলিয়া যাইতেছিল, হেমাঙ্গিনী সুমুখে আসিয়া দাঁড়াইয়া
+বলিলেন, এ-বাড়িতে তাকে আনতে দেবে না?
+
+[ ]{style="display:inline-block; width:2em;"}সর, সর-কি পাগলামি কর?
+বলিয়া বিপিন চোখ রাঙাইয়া চলিয়া গেলেন।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী ডাকিলেন, শিবু,
+একটা গরুর গাড়ি আন, আমি বাপের বাড়ি যাব।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন শুনিতে পাইয়া মনে মনে
+হাসিয়া বলিলেন, ইস। ভয় দেখানো হচ্ছে! তারপর দোকানে চলিয়া গেলেন।
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট চণ্ডীমণ্ডপের একাধারে
+ছেঁড়া মাদুরের উপর জ্বরে, গায়ের ব্যথায় এবং বোধ করি বুকের ব্যথায়
+আচ্ছন্নের মত পড়িয়া ছিল। হেমাঙ্গিনী ডাকিলেন, কেষ্ট!
+
+[ ]{style="display:inline-block; width:2em;"}কেষ্ট ষেন প্রস্তুত হইয়া
+ছিল-এইবারে তাড়াক্‌ করিয়া উঠিয়া বসিয়া বলিল, মেজদি। পরীক্ষণে সলজ্জ
+হাসিতে তাহার সমস্ত মুখ ভরিয়া গেল। যেন তাহার কোন অসুখ-বিসুখ নাই, এইভাবে
+মহাউৎসাহে উঠিয়া দাঁড়াইয়া, কোঁচা দিয়া ছেঁড়া আদুর ঝাড়িতে ঝাড়িতে
+বলিল, ব'স।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী তাহার হাত ধরিয়া
+বুকের কাছে টানিয়া আনিয়া বলিলেন, আর ত বসব না। দাদা, আয় আমার সঙ্গে।
+আমাকে বাপের বাড়ি আজ তোকে পৌঁছে দিতে হবে যে।
+[]{#c8___________________.xhtml#id-40 .pagenum .ws-pagenum
+page-number="৪০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%A6"}﻿[ ]{style="display:inline-block; width:2em;"}চল,
+বলিয়া কেষ্ট তাহার ভাঙা ছড়িটা বগলে চাপিয়া লইল এবং ছেঁড়া গাছাখানা
+কাঁধে ফেলিল।
+
+[ ]{style="display:inline-block; width:2em;"}নিজেদের বাড়ির সদরে গো-যান
+দাঁড়াইয়াছিল, হেমাঙ্গিনী কেষ্টকে লইয়া চড়িয়া বসিলেন। গাড়ি যখন গ্রাম
+ছাড়াইয়া গিয়াছে, তখন পশ্চাতে ডাকাডাকি চিৎকার গারোয়ান গাড়ি থামাইল।
+ঘর্মাক্ত কলেবরে আরক্ত-মুখে বিপিন আসিয়া উপস্থিত হইলেন; সভয়ে প্রশ্ন
+করিলেন, কোথায় যাও মেজবৌ!
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী কেষ্টকে দেখাইয়া
+বলিলেন, এদের গ্রামে।
+
+[ ]{style="display:inline-block; width:2em;"}কখন ফিরবে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী গম্ভীর দৃঢ়কণ্ঠে
+উত্তর দিলেন, ভগবান যখন ফেরাবেন, তখনই ফিরব।
+
+[ ]{style="display:inline-block; width:2em;"}তার মানে?
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী পুনরায় কেষ্টকে
+দেখাইয়া বলিলেন, কখনও যদি কোথাও এর আশ্রয় জোটে, তবেই একা ফিরে আসতে পারব,
+না হয়, একে নিয়েই থাকতে হবে।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিনের মনে পড়িল, সেদিনেও
+স্ত্রীর এমনি মুখের ভাব দেখিয়াছিলেন এবং এমনই কণ্ঠস্বরই শুনিয়াছিলেন,
+যেদিন মতি কামারের নিঃসহায় ভাগিনেয়ের বাগানখানি বাঁচাইবার জন্য তিনি
+একাকী সমস্ত লোকের বিরুদ্ধে দাঁড়াইয়াছিলেন। মনে পড়িল, এ মেজবৌ সে নয়,
+যাহাকে চোখ রাঙাইয়া টলান যায়!
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন নম্রস্বরে বলিলেন, মাপ
+কর মেজবৌ, বাড়ি চল।
+
+[ ]{style="display:inline-block; width:2em;"}হেমাঙ্গিনী হাতজোর করিয়া
+কহিলেন, আমাকে তুমি মাপ কর- কাজ না সেরে আমি কোনমতেই বাড়ি ফিরতে পারব না।
+
+[ ]{style="display:inline-block; width:2em;"}বিপিন আর এক মুহুর্ত স্ত্রীর
+শান্ত দৃঢ় মুখের পানে নিঃশব্দে চাহিয়া রহিলেন, তাহার পর সহসা সুমুখে
+ঝুঁকিয়া পড়িয়া কেষ্টর ডান-হাতটা ধরিয়া ফেলিয়া বলিলেন, কেষ্ট, তোর
+মেজদিকে তুই বাড়িতে ফিরিয়ে নিয়ে আয় ভাই; শপথ করছি, আমি বেঁচে থাকতে
+তোদের দুই ভাই-বোনকে আজ থেকে কেউ পৃথক করতে পারবে না। আয় ভাই, তোর মেজদিকে
+নিয়ে আয়।
+
+------------------------------------------------------------------------
+:::
+:::
+
+[]{#c9______________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%86%E0%A6%81%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B2%E0%A7%8B/%E0%A6%8F%E0%A6%95">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c9______________________.xhtml#id-41 .pagenum .ws-pagenum
+page-number="৪১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%A7"}
+
+::: {.wst-center .tiInherit}
+॥এক॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}সে অনেক দিনের ঘটনা।
+সত্যেন্দ্র চৌধুরী জমিদারের ছেলে; বি. এ. পাশ করিয়া বাড়ি গিয়াছিল, তাহার
+মা বলিলেন, মেয়েটি বড় লক্ষ্মী-বাবা, কথা শোন, একবার দেখে আয়।
+
+[ ]{style="display:inline-block; width:2em;"}সত্যেন্দ্র মাথা নাড়িয়া
+বলিল, না মা, এখন আমি কোনোমতেই পারব না। তাহলে পাস হতে পারব না।
+
+[ ]{style="display:inline-block; width:2em;"}কেন পারবি নে? বৌমা থাকবেন
+আমার কাছে, তুই লেখাপড়া করবি কলকাতায়, পাস হতে তোর কি বাধা হবে, আমি ত
+ভেবে পাই নে, সতু।
+
+[ ]{style="display:inline-block; width:2em;"}না মা, সে সুবিধে হবে না-এখন
+আমার সময় নেই, ইত্যাদি বলিতে বলিতে সত্য বাহির হইয়া যাইতেছিল।
+
+[ ]{style="display:inline-block; width:2em;"}মা বলিলেন, যাস নে
+দাঁড়া,আরও কথা আছে। একটু থামিয়া বলিলেন, আমি কথা দিয়েছি বাবা, আমার মান
+রাখবি নে?
+
+[ ]{style="display:inline-block; width:2em;"}সত্য ফিরিয়া দাঁড়াইয়া
+অসন্তুষ্ট হইয়া কহিল, না জিজ্ঞাসা করে কথা দিলে কেন?
+
+[ ]{style="display:inline-block; width:2em;"}ছেলের কথা শুনিয়া মা অন্তরে
+অত্যন্ত ব্যথা পাইলেন; বলিলেন, সে আমার দোষ হয়েছে, কিন্তু তোকে ত মায়ের
+সম্রাম বজায় রাখতে হবে। তা ছাড়া, বিধবার মেয়ে, বড় দুঃখী-কথা শোন্‌
+সত্য, রাজী হ!
+
+[ ]{style="display:inline-block; width:2em;"}আচ্ছা, পরে বলব, বলিয়া সে
+বাহির হইয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}মা অনেকক্ষণ চুপ করিয়া
+দাঁড়াইয়া রহিলেন। ঐটি তাঁহার একমাত্র সন্তান। সাত আট বৎসর হইল স্বামীর
+কাল হইয়াছে, তদবধি বিধবা নিজেই নায়েব-গোমস্তার সাহায্যে জমিদারী শাসন
+করিয়া আসিতেছেন। ছেলে কলিকাতায় থাকিয়া কলেজে পড়ে, বিষয়-আশয়ের কোন
+সংবাদই তাহাকে রাখিতে হয় না। জননী মনে
+[]{#c9______________________.xhtml#id-42 .pagenum .ws-pagenum
+page-number="৪২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%A8"}﻿মনে
+ভাবিয়া রাখিয়াছিলেন, ছেলে ওকালতি পাস করিলে তাহার বিবাহ দিবেন এবং
+পুত্র-পুত্রবধুর হাতে জমিদারী এবং সংসারের সমস্ত ভারার্পণ করিয়া নিশ্চিন্ত
+হইবেন। ইহার পূর্বে তিনি ছেলেকে সংসারী করিয়া, তাহার উচ্চশিক্ষার অন্তরায়
+হইবেন না। কিন্তু অন্যরূপ ঘটিয়া দাঁড়াইল।
+
+[ ]{style="display:inline-block; width:2em;"}স্বামীর মৃত্যুর পর এ বাটীতে
+এতদিন পর্যন্ত কোন কাজকর্ম হয় নাই। সেদিন কি একটা ব্রত উপলক্ষ্যে সমস্ত
+গ্রাম নিমন্ত্রণ করিয়াছিলেন, মৃত অতুল মুখুয্যের দরিদ্র বিধবা এগারো বছরের
+মেয়ে লইয়া নিমন্ত্রণ রাখিতে আসিয়াছিলেন। এই মেয়েটিকে তাঁহার মনে
+ধরিয়াছে। শুধু যে মেয়েটি নিখুঁত সুন্দরী, তাহা নহে, ঐটুকু বয়সেই মেয়েটি
+যে অশেষ গুণবতী তাহাও তিনি দুই-চারিটি কথাবার্তায় বুঝিয়া লইয়াছিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}মা মনে মনে বলিলেন, আচ্ছা,
+আগে ত মেয়ে দেখাই, তার পর কেমন না পছন্দ হয়, দেখা যাবে।
+
+[ ]{style="display:inline-block; width:2em;"}পরদিন অপরাহ্নবেলায় সত্য
+খাবার খাইতে মায়ের ঘরে ঢুকিয়াই স্তব্ধ হইয়া দাঁড়াইল। তাহার খাবারের
+জায়গার ঠিক সুমুখে আসন, পাতিয়া বৈকুণ্ঠের লক্ষ্মীঠাকুরুণটিকে কে
+হীরামুক্তায় সাজাইয়া বসাইয়া রাখিয়াছে।
+
+[ ]{style="display:inline-block; width:2em;"}মা ঘরে ঢুকিয়া বলিলেন, খেতে
+ব'স।
+
+[ ]{style="display:inline-block; width:2em;"}সত্যর চমক ভাঙ্গিল। সে থতমত
+খাইয়া বলিল, এখানে কেন, আর কোথাও আমার খাবার দাও।
+
+[ ]{style="display:inline-block; width:2em;"}মা মৃদু হাসিয়া বলিলেন, তুই
+ত আর সত্যিই বিয়ে করতে যাচ্ছিস নে-ঐ একফোঁটা মেয়ের সামনে তোর লজ্জা কি।
+
+[ ]{style="display:inline-block; width:2em;"}আমি কারুকে লজ্জা করি নে,
+বলিয়া সত্য প্যাঁচার মত মুখ করিয়া সুমুখের আসনে বসিয়া পড়িল। মা চলিয়া
+গেলেন। মিনিট-দুয়ের মধ্যে সে খাবারগুলো কোনমতে নাকে-মুখে গুঁজিয়া উঠিয়া
+গেল।
+
+[ ]{style="display:inline-block; width:2em;"}বাহিরের ঘরে ঢুকিয়া দেখিল,
+ইতিমধ্যে বন্ধুরা জুটিয়াছে এবং []{#c9______________________.xhtml#id-43
+.pagenum .ws-pagenum page-number="৪৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%A9"}﻿পাশার
+ছক পাতা হইয়াছে। সে প্রথমেই দৃঢ় আপত্তি প্রকাশ করিয়া কহিল, আমি কিছুতেই
+বসতে পারব না-আমার ভারি মাথা ধরেছে। বলিয়া ঘরের এক কোণে সরিয়া গিয়া,
+তাকিয়া মাথায় দিয়া, চোখ বুজিয়া শুইয়া পড়িল। বন্ধুরা মনে মনে কিছু
+আশ্চর্য্য হইল এবং লোকাভাবে পাশা তুলিয়া দাবা পাতিয়া বসিল। সন্ধ্যা
+পর্যন্ত অনেক চেঁচামেচি ঘটিল, কিন্তু সত্য একবার উঠিল না, একবার জিজ্ঞাসা
+করিল না-কে হারিল, কে জিতিল। আজ এসব তাহার ভাল লাগিল না।
+
+[ ]{style="display:inline-block; width:2em;"}বন্ধুরা চলিয়া গেলে সে
+বাড়ির ভিতরে ঢুকিয়া সোজা নিজের ঘরে যাইতেছিল, ভাডারের বারান্দা হইতে মা
+জিজ্ঞাসা করিলেন, এর মধ্যে শুতে যাচ্ছিস যে রে?
+
+[ ]{style="display:inline-block; width:2em;"}শুতে নয়, পড়তে যাচ্ছি। এম.
+এ'র পড়া সোজা নয় ত! সময় নষ্ট করলে চলবে কেন? বলিয়া সে গৃঢ় ইঙ্গিত
+করিয়া দুম্‌দুম্‌ শব্দ করিয়া উপরে উঠিয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}আধঘণ্টা কাটিয়াছে, সে একটি
+ছত্রও পড়ে নাই। টেবিলের উপর বই খোলা, চেয়ারে হেলান দিয়া, উপরের দিকে মুখ
+করিয়া কড়িকাঠ ধ্যান করিতেছিল, হঠাৎ ধ্যান ভাঙিয়া গেল। সে কান খাড়া
+করিয়া শুনিল---ঝুম। আর এক মুহুর্ত---ঝুম্‌ঝুম্‌। সত্য সোজা উঠিয়া বসিয়া
+দেখিল, সেই আপাদমস্তক গহনা-পরা লক্ষ্মীঠাকুরুণাটির মত মেয়েটি ধীরে ধীরে
+কাছে আসিয়া দাঁড়াইল। সত্য একদৃষ্টি চাহিয়া রহিল।
+
+[ ]{style="display:inline-block; width:2em;"}মেয়েটি মৃদুকণ্ঠে বলিল, মা
+আপনার মত জিজ্ঞাসা করলেন।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য মুহুর্ত মৌন থাকিয়া
+প্রশ্ন করিল, কার মা?
+
+[ ]{style="display:inline-block; width:2em;"}মেয়েটি কহিল, আমার মা।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য তৎক্ষণাৎ প্রত্যুত্তর
+খুঁজিয়া পাইল না, ক্ষণেক পরে কহিল, আমার মাকে জিজ্ঞাসা করলেই জানতে
+পারবেন।
+
+[ ]{style="display:inline-block; width:2em;"}মেয়েটি চলিয়া যাইতেছিল,
+সত্য সহসা প্রশ্ন করিয়া ফেলিল, তোমার নাম কি?
+
+[ ]{style="display:inline-block; width:2em;"}আমার নাম রাধারাণী, বলিয়া
+সে চলিয়া গেল।
+:::
+:::
+
+[]{#c10_______________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%86%E0%A6%81%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B2%E0%A7%8B/%E0%A6%A6%E0%A7%81%E0%A6%87">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c10_______________________.xhtml#id-44 .pagenum .ws-pagenum
+page-number="৪৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%AA"}
+
+::: {.wst-center .tiInherit}
+॥দুই॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}একফোঁটা রাধারাণীকে সজোরে
+ঝাড়িয়া ফেলিয়া দিয়া, সত্য এম. এ. পাস করিতে কলিকাতায় চলিয়া আসিয়াছে।
+বিশ্ববিদ্যালয়ের সমস্ত পরীক্ষাগুলি না হওয়া পর্যন্ত ত কোনমতেই না, খুব
+সম্ভব, পরেও না। সে বিবাহ করিবে না, কারণ সংসারে জড়াইয়া গিয়া মানুষের
+আত্মসম্ভ্রম নষ্ট হইয়া যায়, ইত্যাদি ইত্যাদি। তবুও রহিয়া রহিয়া তাহার
+সমস্ত মনটা যেন কি একরকম করিয়া ওঠে, কোথাও কোন নারীমূর্তি দেখিলেই আর একটি
+অতি ছোট মুখ তাহার পাশেই জাগিয়া উঠিয়া তাহাকে আবৃত করিয়া দিয়া, একাকী
+বিরাজ করে; সত্য কিছুতেই সেই লক্ষ্মী-প্রতিমাটিকে ভুলিতে পারে না। চিরদিনই
+সে নারীর প্রতি উদাসীন, অকস্মাৎ এ তাহার কি হইয়াছে যে পথেঘাটে কোথাও বিশেষ
+একটা বয়েসের কোন মেয়ে দেখিলেই তাহাকে ভাল করিয়া দেখিতে ইচ্ছা করে, হাজার
+চেষ্টা করিয়াও সে যেন-কোন মতে চোখ ফিরাইয়া লইতে পারে না। দেখিতে দেখিতে
+হঠাৎ হয়তো অত্যন্ত লজ্জা করিয়া, সমস্ত দেহ বারংবার শিহরিয়া উঠে; সে
+তৎক্ষণাৎ যে কোন একটা পথ ধরিয়া দ্রুতপদে সরিয়া যায়।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য সাঁতার কাটিয়া স্নান
+করিতে ভালবাসিত। তাহার চোরবাগানের বাসা হইতে গঙ্গা দূরে নয়, প্রায়ই সে
+জগন্নাথের ঘাটে স্নান করিতে আসিত।
+
+[ ]{style="display:inline-block; width:2em;"}আজ পূর্ণিমা। ঘাটে একটু ভিড়
+হইয়াছিল। গঙ্গায় আসিলে সে যে উৎকালী ব্রাহ্মণের কাছে শুষ্ক বস্ত্র জিম্মা
+রাখিয়া জলে নামিত, তাহারই উদেশে আসিতে গিয়া একস্থানে বাধা পাইয়া স্থির
+হইয়া দেখিল, চার-পাঁচজন লোক একদিকে চাহিয়া আছে। সত্য তাহাদের, দৃষ্টি
+অনুসরণ করিয়া দেখিতে গিয়া বিস্ময়ে স্তব্ধ হইয়া দাঁড়াইল।
+
+[ ]{style="display:inline-block; width:2em;"}তাহার মনে হইল, একসঙ্গে এত
+রূপ সে আর কখনও নারীদেহে দেখে নাই। মেয়েটির বয়স আঠার-উনিশের বেশী নয়।
+পরণে সাদাসিদে কালাপেড়ে শাড়ি, দেহ সম্পূর্ণ অলঙ্কার-বর্জিত, হাঁটু
+গাড়িয়া বসিয়া কপালে চন্দনের ছাপ লইতেছে, এবং তাহারই পরিচিত
+[]{#c10_______________________.xhtml#id-45 .pagenum .ws-pagenum
+page-number="৪৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%AB"}﻿পাণ্ডা
+একমনে সুন্দরীর কপালে নাকে আঁক কাটিয়া দিতেছে;
+
+[ ]{style="display:inline-block; width:2em;"}সত্য কাছে আসিয়া দাঁড়াইল।
+পাণ্ডা সত্যের কাছে যথেষ্ট প্রণামী পাইত, তাই রূপসীর চাঁদমুখের খাতির ত্যাগ
+করিয়া হাতের ছাঁচ ফেলিয়া দিয়া 'বড়বাবু'র শুষ্ক বস্ত্রেব জন্য হাত
+বাড়াইল।
+
+[ ]{style="display:inline-block; width:2em;"}দু'জনের চোখাচোখি হইল। সত্য
+তাড়াতাড়ি কাপড়খানা পাণ্ডার হাতে দিয়া দ্রুতপদে সিঁড়ি বাহিয়া জলে
+গিয়া নামিল। আজ তাহার সাঁতার কাটা হইল না। কোনমতে স্নান সারিয়া লইয়া যখন
+সে বস্ত্র পরিবর্তনের জন্য উপরে উঠিল, তখন রূপসী চলিয়া গিয়াছে।
+
+[ ]{style="display:inline-block; width:2em;"}সেদিন সমস্তদিন ধরিয়া তাহার
+মন গঙ্গা গঙ্গা করিতে লাগিল, এবং পরদিন ভাল করিয়া সকাল না হইতেই মা গঙ্গা
+এমনি সজোরে টান দিলেন যে, সে বিলম্ব না করিয়া আলনা হইতে একখানি বস্ত্র
+টানিয়া লইয়া গঙ্গাযাত্রা কবিল।
+
+[ ]{style="display:inline-block; width:2em;"}ঘাটে আসিয়া দেখিল, অপরিচিতা
+রূপসী এইমাত্র স্নান সারিয়া উপরে উঠিতেছেন। সত্য নিজেও যখন স্নানান্তে
+পাণ্ডার কাছে আসিল, তখন পূর্বদিনের মত আজিও তিনি ললাট চিত্রিত করিতেছিলেন।
+আজিও চারি চক্ষু মিলিল, আজিও তাহার সর্বাঙ্গে বিদ্যুত বহিয়া গেল; সে
+কোনমতে কাপড় ছাড়িয়া দ্রুত পদে প্রস্থান করিল।
+:::
+:::
+
+[]{#c11_______________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%86%E0%A6%81%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B2%E0%A7%8B/%E0%A6%A4%E0%A6%BF%E0%A6%A8">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c11_______________________.xhtml#id-45-n53 .pagenum .ws-pagenum
+page-number="৪৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%AB"}
+
+::: {.wst-center .tiInherit}
+॥তিন॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}রমণী প্রত্যহ অতি প্রত্যুষে
+গঙ্গাস্নান করিতে আসেন, সত্য তাহা বুঝিয়া লইয়াছিল। এতদিন যে উভয়ের
+সাক্ষাৎ ঘটে নাই, তাহার একমাত্র হেতু পূর্বে সত্য কতকটা বেলা করিয়াই
+স্নানে আসিত।
+
+[ ]{style="display:inline-block; width:2em;"}জাহ্নবীতটে উপর্য্যুপরি আজ
+সাতদিন উভয়ের চারি চক্ষু মিলিয়াছে, কিন্তু যেখানে চাহনিতে কথা হয়,
+সেখানে মুখের কথাকে মূক হইয়া থাকিতে হয়। এই অপরিচিত রূপসী যেই হোন, তিনি
+যে চোখ দিয়া কথা কহিতে শিক্ষা করিয়াছেন, এবং সে-বিদ্যায় পারদর্শী সত্যর
+অন্তর্য্যামী তাহা নিভৃত অন্তরের মধ্যে অনুভব করিতে পারিয়া ছিল।
+[]{#c11_______________________.xhtml#id-46 .pagenum .ws-pagenum
+page-number="৪৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%AC"}﻿[ ]{style="display:inline-block; width:2em;"}সেদিন
+স্নান করিয়া সে কতকটা অন্যমনস্কের মত বাসায় ফিরিতেছিল, হঠাৎ তাহার কানো
+গেল, 'একবার শুনুন।' মুখ তুলিয়া দেখিল, রেলওয়ে লাইনের ওপারে সেই রমণী
+দাঁড়াইয়া আছেন। তাঁহার বাম বক্ষে জলপূর্ণ ক্ষুদ্র পিতলের কলস, দক্ষিণ
+হস্তে সিক্তবস্ত্র। মাথা নাড়িয়া ইঙ্গিতে আহ্বান করিলেন। সত্য এদিক-ওদিক
+চাহিয়া কাছে গিয়া দাঁড়াইল, তিনি উৎসুক-চক্ষে চাহিয়া মৃদুকণ্ঠে বলিলেন,
+আমার ঝি আজ আসেনি, দয়া করে একটু যদি এগিয়ে দেন ত বড়ো ভাল হয়।
+
+[ ]{style="display:inline-block; width:2em;"}অন্যদিন তিনি দাসী সঙ্গে
+করিয়া আসেন, আজ একা। সত্যের মনের মধ্যে দ্বিধা জাগিল, কাজটা ভাল নয়
+বলিয়া একবার মনেও হইল, কিন্তু সে 'না' বলিতে পারিল না। রমণী তাহার মনের
+ভাব অনুমান করিয়া একটু হাসিলেন। এ হাসি যাহারা হাসিতে জানে, সংসারে তাহদের
+অপ্রাপ্য কিছুই নাই। সত্য তৎক্ষণাৎ \'চলুন\' বলিয়া উহার অনুসরণ করিল।
+দুই-চারি পা অগ্রসর হইয়া রমণী আবার কথা কহিলেন, ঝির অসুখ, সে আসতে পারলে
+না, কিন্তু আমিও গঙ্গাস্নান না করে থাকতে পারি নে,---আপনারও দেখচি এ বদ্‌
+অভ্যাস আছে।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য আস্তে আস্তে জবাব দিল,
+আজ্ঞে হ্যাঁ, আমিও প্রায় গঙ্গাস্নান করি।
+
+[ ]{style="display:inline-block; width:2em;"}এখানে কোথায় আপনি থাকেন?
+
+[ ]{style="display:inline-block; width:2em;"}চোরবাগানে আমার বাসা।
+
+[ ]{style="display:inline-block; width:2em;"}আমাদের বাড়ি জোড়াসাঁকোয়।
+আপনি আমাকে পাথুরেঘাটায় মোড় পর্যন্ত এগিয়ে দিয়ে বড় রাস্তা হয়ে যাবেন।
+
+[ ]{style="display:inline-block; width:2em;"}তাই হবে।
+
+[ ]{style="display:inline-block; width:2em;"}বহুক্ষণ আর কোন কথাবার্ত হইল
+না। চিৎপুর রাস্তায় আসিয়া রমণী ফিরিয়া দাঁড়াইয়া আবার সেই হাসি হাসিয়া
+বলিলেন, কাছেই আমাদের বাড়ি-এবারে যেতে পারব।---নমস্কার।
+[]{#c11_______________________.xhtml#id-47 .pagenum .ws-pagenum
+page-number="৪৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%AD"}﻿[ ]{style="display:inline-block; width:2em;"}নমস্কার,
+বলিয়া সত্য ঘাড় গুঁজিয়া তাড়াতাড়ি চলিয়া গেল। সেদিন সমস্ত দিন ধরিয়া
+তাহার বুকের মধ্যে যে কি করিতে লাগিল, সে কথা লিখিয়া জানান অসাধ্য। যৌবনে
+পঞ্চশরের প্রথম পুষ্পবাণের আঘাত যাঁহাকে সহিতে হইয়াছে, শুধু তাঁহারই মনে
+পড়িবে, শুধু তিনিই বুঝিবেন, সেদিন কি হইয়াছিল। সবাই বুঝিবেন না, কি
+উন্মাদ নেশায় মাতিলে জল-স্থল, আকাশ-বাতাস-সব রাঙা দেখায়, সমস্ত চৈতন্য কি
+করিয়া চেতনা হারাইয়া, একখণ্ড প্রাণহীণ, চুম্বকশলাকার মত শুধু এই একদিকে
+ঝুঁকিয়া পড়িবাব জন্য অনুক্ষণ উন্মুখ হইয়া থাকে।
+
+[ ]{style="display:inline-block; width:2em;"}পরদিন সকালে সত্য উঠিয়া
+দেখিল, রোদ উঠিয়াছে। একটা ব্যথার তরঙ্গ তাহার কণ্ঠ পর্য্যন্ত আলোড়িত
+করিয়া গড়াইয়া গেল; সে নিশ্চিত বুঝিল, আজিকার দিনটা একেবারে ব্যর্থ হইয়া
+গিয়াছে। চাকরটা সুমুখ দিয়া যাইতেছিল, তাহাকে ভয়ানক ধমক দিয়া কহিল,
+হারামজাদা, এত বেলা হয়েচে, তুলে দিতে পারিসনি? যা তোর এক টাকা জরিমানা।
+
+[ ]{style="display:inline-block; width:2em;"}সে বেচারা হতবুদ্ধি হইয়া
+চাহিয়া রহিল। সত্য দ্বিতীয় বস্ত্র না লইয়াই রুষ্ট-মুখে বাসা হইতে বাহির
+হইয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}পথে আসিয়া গাড়ি ভাড়া করিল
+এবং গাডোয়ানকে পাথুরেঘাটার ভিতর দিয়া হাঁকাইতে হুকুম করিয়া, রাস্তার
+দু-দিকে প্রাণপণে চোখ পাতিয়া রাখিল। কিন্তু গঙ্গায় আসিয়া ঘাটের দিকে
+চাহিতেই তাহার সমস্ত ক্ষোভ যেন জুড়াইয়া গেল, বরঞ্চ মনে হইল, যেন অকস্মাৎ
+পথের উপরে নিক্ষিপ্ত একটা অমূল্য রত্ন কুড়াইয়া পাইল।
+
+[ ]{style="display:inline-block; width:2em;"}গাড়ি হইতে নামিতেই তিনি
+মৃদু হাসিয়া নিতান্ত পরিচিতের মত বলিলেন, এত দেরি যে? আমি আদ্‌ ঘণ্টা
+দাঁড়িয়ে আছি-শিগগির নেয়ে निन, আজও আমার ঝি আসেননি।
+
+[ ]{style="display:inline-block; width:2em;"}এক মিনিট সবুর করুন, বলিয়া
+সত্য দ্রুতপদে জলে গিয়া নামিল। সাঁতার কাটা তাহার কোথায় গেল। সে কোনমতে
+গোটা দুই-তিন []{#c11_______________________.xhtml#id-48 .pagenum
+.ws-pagenum page-number="৪৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%AE"}﻿ডুব
+দিয়া ফিরিয়া আসিয়া কহিল, আমার গাড়ি গেল কোথায়?
+
+[ ]{style="display:inline-block; width:2em;"}রমণী কহিলেন, আমি তাকে ভাড়া
+দিয়ে বিদেয় করেচি।
+
+[ ]{style="display:inline-block; width:2em;"}আপনি ভাড়া দিলেন!
+
+[ ]{style="display:inline-block; width:2em;"}দিলামই বা। চলুন। বলিয়া আর
+একবার ভুবনমোহন হাসি হাসিয়া অগ্রবর্তিনী হইলেন।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য একেবারেই মরিয়াছিল, না
+হইলে যত নিরীহ, যত অনভিজ্ঞই হৌক, একবার সন্দেহ হইত-এ সব কি!
+
+[ ]{style="display:inline-block; width:2em;"}পথ চলিতে চলিতে রমণী কহিলেন,
+কোথায় বাসা বললেন, চোরবাগান?
+
+[ ]{style="display:inline-block; width:2em;"}সত্য কহিল, হ্যাঁ।
+
+[ ]{style="display:inline-block; width:2em;"}সেখানে কি কেবল চোরেরাই
+থাকে?
+
+[ ]{style="display:inline-block; width:2em;"}সত্য আশ্চর্য হইয়া কহিল,
+কেন?
+
+[ ]{style="display:inline-block; width:2em;"}আপনি ত চোরের রাজা। বলিয়া
+রমণী ঈষৎ ঘাড় বাঁকাইয়া কটাক্ষে হাসিয়া আবার নির্বাক মরাল-গমনে চলিতে
+লাগিলেন। আজ কক্ষের ঘট অপেক্ষাকৃত বৃহৎ ছিল, ভিতরে গঙ্গাজল ছলাৎ-ছল্‌
+ছলাৎ-ছল্‌ শব্দে-অর্থাৎ ওরে মুঢ়-ওরে অন্ধ যুবক। সাবধান। এ-সব ছলনা-সব
+ফাঁকি, বলিয়া উছলিয়া একবার ব্যঙ্গ, একবার তিরস্কার করিতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}মোড়ের কাছাকাছি আসিয়া সত্য
+সসঙ্কোচে কহিল, গাড়ি ভাড়াটা-
+
+[ ]{style="display:inline-block; width:2em;"}রমণী ফিরিয়া দাঁড়াইয়া
+অফুট মৃদুকণ্ঠে জবাব দিল, সে ত আপনার দেওয়াই হয়েচে।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য এই ইঙ্গিত না বুঝিয়া
+প্রশ্ন করিল, আমার দেওয়া কি করে?
+
+[ ]{style="display:inline-block; width:2em;"}আমার আর আছে কি দেব! যা ছিল
+সমস্তই তুমি ত চুরিডাকাতি করে নিয়েচ। বলিয়াই সে চকিতে মুখ ফিরাইয়া, বোধ
+করি উচ্ছ্বসিত হাসির বেগ জোর করিয়া রোধ করিতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}অভিনয় সত্য দেখিতে পায়
+নাই, তাই এই চুরির প্রচ্ছন্ন ইঙ্গিত তীব্র তড়িৎরেখার মত তাহার সংশয়ের জাল
+আপ্রান্ত বিদীর্ণ করিয়া []{#c11_______________________.xhtml#id-49
+.pagenum .ws-pagenum page-number="৪৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%AF"}﻿বুকের
+অন্তস্থল পর্য্যন্ত উদ্ভাসিত করিয়া ফেলিল। তাহার মুহূর্ত্তে সাধ হইল, এই
+প্রকাশ্য রাজপথেই ওই দুই রাঙা পায়ে লুঢ়াইয়া পড়ে, কন্তু চক্ষের নিমিষে
+গভীর লজ্জায় তাহার মাথা এমনি হেঁট হইয়া গল যে, সে মুখ তুলিয়া একবার
+প্রিয়তমার মুখের দিকে চাহিয়া দখিতেও পারিল না, নিঃশব্দে নতমুখে ধীরে ধীরে
+চলিয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}ও-ফুটপাতে তাঁহার আদেশমত
+দাসী অপেক্ষা করিতেছিল, কাছে আসিয়া কহিল, আচ্ছা দিদিমণি, বাবুটকে এমন করে
+নাচিয়ে নিয়ে বেড়াচ্ছ কেন? বলি, কিছু আছে টাছে? দু'পয়সা টানতে পারবে তা?
+
+[ ]{style="display:inline-block; width:2em;"}রমণী হাসিয়া বলিল, তা জানি
+নে, কিন্তু হাবা-গোবা লোকগুলোকে নাকে দড়ি দিয়ে ঘুরোতে আমার বেশ লাগে।
+
+[ ]{style="display:inline-block; width:2em;"}দাসীটিও খুব খানিকটা হাসিয়া
+বলিল, এতও পার তুমি। কিন্তু তাই বল দিদিমণি, দেখতে যেন রাজপুত্তুর। যেমন
+চোখ-মুখ, তেমনি ঙ। তোমাদের দুটিকে দিব্যি মানায়-দাঁড়িয়ে কথা কছিল, যেন
+একটি জোড়া-গোলাপ ফুটে ছিল।
+
+[ ]{style="display:inline-block; width:2em;"}রমণী মুখ টিপিয়া বলিল,
+আচ্ছা চল্‌। পছন্দ হয়ে থাকে ত না য় তুই নিস্‌।
+
+[ ]{style="display:inline-block; width:2em;"}দাসীও হটবার পাত্রা নয়, সেও
+জবাব দিল, না দিদিমণি, ও জনিস প্রাণ ধরে কাউকে দিতে পারবে না, তা বলে
+দিলুম।
+:::
+:::
+
+[]{#c12_______________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%86%E0%A6%81%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B2%E0%A7%8B/%E0%A6%9A%E0%A6%BE%E0%A6%B0">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c12_______________________.xhtml#id-49-n58 .pagenum .ws-pagenum
+page-number="৪৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AA%E0%A7%AF"}
+
+::: {.wst-center .tiInherit}
+॥চার॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}জ্ঞানীরা কহিয়াছেন, অসম্ভব।
+কাণ্ড চোখে দেখিলেও বলিবে না, কারণ, অজ্ঞানীরা বিশ্বাস করে না। এই অপরাধেই
+শ্রীমন্ত বেচারা নাকি মশানে গিয়াছিল। সে যাই হোক, ইহা অতি সত্য কথা, সত্য
+পাকটি সেদিন বাসায় ফিরিয়া টেনিসন্‌ পড়িয়াছিল এবং ডন্‌ জুয়ানের ব্যাংলা
+তর্জমা করিতে বসিয়াছিল। অতবড় ছেলে, কিন্তু একবারও এ ংশয়ের কণামাত্রও
+তাহার মনে উঠে নাই যে, দিনের বেলা সহরের থে-ঘাটে এমন অদ্ভূত প্রেমের বান
+ডাকা সম্ভব কি না, কিংবা সে []{#c12_______________________.xhtml#id-50
+.pagenum .ws-pagenum page-number="৫০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%A6"}﻿বানের
+স্রোতে গা ভাসাইতে চলা নিরাপদ কি না।
+
+[ ]{style="display:inline-block; width:2em;"}দিন-দুই পরে স্নানান্তে বাটী
+ফিরিবার পথে অপরিচিতা সহসা কহিল, কাল রাত্রে থিয়েটার দেখতে গিয়েছিলুম,
+সরলার কষ্ট দেখলে বুক ফেটে যায়-না?
+
+[ ]{style="display:inline-block; width:2em;"}সত্য সরলার প্লে দেখে নাই,
+স্বর্ণলতা বই পড়িয়াছিল; আস্তে। আস্তে বলিল, হাঁ বড় দুঃখ পেয়েই মারা
+গেল।
+
+[ ]{style="display:inline-block; width:2em;"}রমণী দীর্ঘনিশ্বাস ফেলিয়া
+বলিল, উঃ, কি ভয়ানক কষ্ট। আচ্ছা সরলাই বা তার স্বামীকে এত ভালবাসলে কি
+করে, আর তার বড় জা-ই বা পারেনি কেন বলতে পার?
+
+[ ]{style="display:inline-block; width:2em;"}সত্য সংক্ষেপে জবাব দিল,
+স্বভাব।
+
+[ ]{style="display:inline-block; width:2em;"}রমণী কহিল, ঠিক তাই! বিয়ে
+তা সকলেরই হয়, কিন্তু সব স্ত্রী পুরুষই কি পরস্পরকে সমান ভালবাসতে পারে?
+পারে না। কিন্তু লোক আছে, মরবার দিনটি পর্য্যন্ত ভালবাসা কি, জানতেও পায়
+না। জানিবার ক্ষমতা তাদের থাকে না। দেখনি, কত লোক গান-বাজন হাজার ভাল হলেও
+মন দিয়ে শুনতে পারে না, কত লোক কিছুতেই রাগে না। ---রাগতেই পারে না! লোকে
+তাদের খুব গুণ গায় বটে, আমার কিন্তু নিন্দে করতে ইচ্ছা করে।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য হাসিয়া বলিল, কেন?
+
+[ ]{style="display:inline-block; width:2em;"}রমণী উদ্দীপ্ত কণ্ঠে উত্তর
+করিল, তারা অক্ষম বলে। অক্ষমতার কিছু কিছু গুণ থাকলেও থাকতে পারে, কিন্তু
+দোষটাই বেশী। এ যেমন সরলার ভাশুর, স্ত্রীর অতবড় অত্যাচারেও তার রাগ হ'ল
+না।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য চুপ করিয়া রহিল।
+
+[ ]{style="display:inline-block; width:2em;"}সে পুনরায় কহিল, আর তার
+স্ত্রী, ঐ প্রমদাটা কি শয়তান মেয়েমানুষ! আমি থাকতুম ত রাক্ষসীর গলা টিপে
+দিতুম।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য সহস্যে কহিল, থাকতে কি
+করে? প্রমদা বলে সত্যই কেউ ছিল না-কবির কল্পনা-
+
+[ ]{style="display:inline-block; width:2em;"}রমণী বাধা দিয়া কহিল, তবে
+অমন কল্পনা করা কেন? আছ সবাই বলে, সমস্ত মানুষের ভেতরই ভগবান আছেন, আত্মা
+আছে []{#c12_______________________.xhtml#id-51 .pagenum .ws-pagenum
+page-number="৫১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%A7"}কিন্তু
+প্রমদার চরিত্র দেখলে মনে হয় না যে, তার ভেতরেও ভগবান ছিলেন। সত্যি বলচি
+তোমাকে, কোথায় বড় বড় লোকের বই পড়ে মানুষ ভাল হবে, মানুষকে মানুষ ভাল
+বাসবে, তা-না, এমন বই লিখে দিলেন যে, পড়লে মানুষের ওপর মানুষের ঘৃণা জন্মে
+যায়-বিশ্বাস হয় না যে সত্যিই সব মানুষের অন্তরেই ভগবানের মন্দির আছে।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য বিস্মিত হইয়া তাহার
+মুখপানে চাহিয়া কহিল, তুমি বুঝি খুব বই পড়?
+
+[ ]{style="display:inline-block; width:2em;"}রমণী কহিল, ইংরাজী জানি নে
+ত, বাংলা বই যা বেরোয় সব পড়ি। এক-একদিন সারারাত্রি পড়ি-এই যে বড়
+রাস্তা-চল আমাদের বাড়ি, যত বই আছে সব দেখাব।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য চমকিয়া উঠিল---তোমাদের
+বাড়ি?
+
+[ ]{style="display:inline-block; width:2em;"}হাঁ, আমাদের বাড়ি-চল, যেতে
+হবে তোমাকে।
+
+[ ]{style="display:inline-block; width:2em;"}হঠাৎ সত্যর মুখ পাণ্ডুর
+হইয়া গেল, সভয়ে বলিয়া উঠিল, না না, ছি ছি,
+
+[ ]{style="display:inline-block; width:2em;"}ছি ছি কিছু নেই-চল!
+
+[ ]{style="display:inline-block; width:2em;"}না না, আজ না-আজ থাক্‌
+বলিয়া সত্য কম্পিত দ্রুতপদে প্রস্থান করিল। এই অপরিচিত প্রেমাস্পদার
+উদ্দেশে গভীর শ্রদ্ধার ভারে আজ তাহার হৃদয় অবনত হইয়া রহিল।
+:::
+:::
+
+[]{#c13________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%86%E0%A6%81%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B2%E0%A7%8B/%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c13________________________.xhtml#id-51-n61 .pagenum .ws-pagenum
+page-number="৫১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%A7"}
+
+::: {.wst-center .tiInherit}
+॥পাঁচ॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}সকালবেলা স্নান করিয়া সত্য
+ধীরে ধীরে বাসায় ফিরিয়াছিল। তাহার দৃষ্টি ক্লান্ত, সজল। চোখের পাতা তখনও
+আর্দ্র। আজ চারদিন গত হইয়াছে সেই অপরিচিতা প্রিয়তমাকে সে দেখিতে পায়
+নাই-আর তিনি গঙ্গাস্নানে আসেন না।
+
+[ ]{style="display:inline-block; width:2em;"}আকাশ-পাতাল কত কি যে এই
+কয়দিন সে ভাবিয়াছে, তাহার সীমা নাই। মাঝে মাঝে এ দুশ্চিন্তাও মনে
+উঠিয়াছে, হয়ত তিনি বঁচিয়াই নাই, হয়ত বা মৃত্যুশয্যায়! কে জানে!
+
+[ ]{style="display:inline-block; width:2em;"}সে গলিটা জানে বটে, কিন্তু
+আর কিছু চেনে না। কাহার বাড়ি []{#c13________________________.xhtml#id-52
+.pagenum .ws-pagenum page-number="৫২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%A8"}﻿কোথায়
+বাড়ি, কিছুই জানে না। মনে করিলে অনুশোচনায় আত্মাগ্নানিতে হৃদয় দগ্ধ
+হইয়া যায়। কেন সে সেদিন যায় নাই, কেন সেই সনির্বন্ধ অনুরোধ উপেক্ষা
+করিয়াছিল?
+
+[ ]{style="display:inline-block; width:2em;"}সে যথার্থই ভালবাসিয়াছিল।
+চোখের নেশা নহে, হৃদয়ের গভীর তৃষ্ণা। ইহাতে ছলনা কাপট্যের ছায়ামাত্র ছিল
+না, যাহা ছিল তাহা সত্যই নিঃস্বার্থ, পবিত্র, বুকজোড়া স্নেহ।
+
+[ ]{style="display:inline-block; width:2em;"}বাবু।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য চমকিয়া চাহিয়া দেখিল,
+তাহার সেই দাসী যে সঙ্গে আসিত, পথের ধারে দাঁড়াইয়া আছে।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য ব্যস্ত হইয়া কাছে
+আসিয়া ভারী গলায় কহিল, কি হয়েচে তাঁর? বলিয়াই তাহার চোখে জল আসিয়া
+পড়িল-সামলাইতে পারিল না।
+
+[ ]{style="display:inline-block; width:2em;"}দাসী মুখ নীচু করিয়া হাসি
+গোপন করিল, বোধ হয় হাসিয়া ফেলিবার ভয়েই মুখ নীচু করিয়া বলিল, দিদিমণির
+বড় অসুখ, আপনাকে দেখতে চাইচেন।
+
+[ ]{style="display:inline-block; width:2em;"}চল, বলিয়া সত্য তৎক্ষণাৎ
+সন্মতি দিয়া চোখ মুছিয়া সঙ্গে চলিল। চলিতে চলিতে প্রশ্ন করিল, কি অসুখ?
+খুব শক্ত দাঁড়িয়েচে কি?
+
+[ ]{style="display:inline-block; width:2em;"}দাসী কহিল, না, তা, হয়নি,
+কিন্তু খুব জ্বর।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য মনে মনে হাতজোড় করিয়া
+কপালে ঠেকাইল, আর প্রশ্ন করিল না। বাড়ির সুমুখে আসিয়া দেখিল খুব বড়
+বাড়ি, দ্বারের কাছে বসিয়া একজন হিন্দুস্থানী দরোয়ান ঝিমাইতেছে। দাসীকে
+জিজ্ঞাসা করিল, আমি গেলে তোমার দিদিমণির বাবা রাগ করবেন না ত? তিনি ত আমাকে
+চেনেন না।
+
+[ ]{style="display:inline-block; width:2em;"}দাসী কহিল, দিদিমণির বাপ
+নেই, শুধু মা আছেন। দিদিমণির মত তিনিও আপনাকে খুব ভালবাসেন।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য আর কিছু না বলিয়া
+ভিতরে প্রবেশ করিল।
+
+[ ]{style="display:inline-block; width:2em;"}সিঁড়ি বাহিয়া তেতলার
+বারান্দায় আসিয়া দেখিল, পাশাপাশি
+[]{#c13________________________.xhtml#id-53 .pagenum .ws-pagenum
+page-number="৫৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%A9"}﻿তিনটি
+ঘর, বাহির হইতে যতটুকু দেখা যায়, মনে হইল সেগুলি চমৎকার সাজান। কোণের ঘর
+হইতে উচ্চহাসির সঙ্গে তবলা ও ঘুঙুরের শব্দ আসিতেছিল। দাসী হাত দিয়া
+দেখাইয়া বলিল, ঐ ঘর-চলুন। দ্বারের সুমুখে আসিয়া সে হাত দিয়া পর্দ।
+সরাইয়া দিয়া সু-উচ্চকণ্ঠে বলিল, দিদিমণি, এই নাও তোমার নাগর।
+
+[ ]{style="display:inline-block; width:2em;"}তীব্র হাসি ও কোলাহল উঠিল।
+ভিতরে যাহা দেখিল, তাহাতে সত্যের সমস্ত মস্তিষ্ক ওলট-পালট হইয়া গেল; তাহার
+মনে হইল, হঠাৎ সে মূর্চ্ছিত হইয়া পড়িতেছে, কোনমতে দোর ধরিয়া সে সেইখানেই
+চোখ বুজিয়া চৌকাঠের উপর বসিয়া পড়িল।
+
+[ ]{style="display:inline-block; width:2em;"}ঘরের ভিতরে মোঝেয় মোটা
+গদি-পাতা বিছানার উপর দু-তিনজন ভদ্রবেশী পুরুষ। একজন হরমোনিয়াম, একজন
+বাঁয়া-তবলা লইয়া বসিয়া আছে,---আর একজন একমনে মদ খাইতেছে। আর তিনি? তিনি
+বোধ করি, এই মাত্র নৃত্য করিতেছিলেন, দুই পায়ে একরাশ ঘুঙুর বাঁধা, নানা
+অলঙ্কারে সর্বাঙ্গ ভূষিত---সুরারঞ্জিত চোখ-দুটি ঢুল-ঢুল করিতেছে; ত্বরিতপদে
+কাছে সরিয়া আসিয়া, সত্যর একটা হাত ধরিয়া খিল্‌খিল্‌ কবি যা হাসিয়া
+বলিল, বঁধুর মিরগি, ব্যামো আছে নাকি? নে ভাই, ইয়ারকি করিস নে, ওঠ্‌-ও সবে
+আমার ভারী ভর করে।
+
+[ ]{style="display:inline-block; width:2em;"}প্রবল তড়িৎ-স্পর্শে হতচেতন
+মানুষ যেমন করিয়া কাঁপিয়া নড়িয়া উঠে, উহার করস্পর্শে সত্যর আপাদমস্তক
+তেমনি করিয়া কাঁপিয়া নড়িয়া উঠিল।
+
+[ ]{style="display:inline-block; width:2em;"}রমণী কহিল, আমার নাম শ্রীমতি
+বিজ্‌লী-তোমার নামটা কি ভাই? হাবু? গাবু
+
+[ ]{style="display:inline-block; width:2em;"}সমস্ত লোকগুলি হো হো শব্দে
+অট্টহাসি জুড়িয়া দিল, দিদিমণির দাসীটি হাসির চোটে একেবারে মেঝের উপর
+গড়াইয়া শুইয়া পড়িল, ---কি রঙ্গই জান দিদিমণি!
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী কৃত্রিম বোষের স্বরে
+তাহাকে একটা ধমক দিয়া বলিল, থাম, বাড়াবাড়ি করিস্‌ নে-আসুন, উঠে আসুন,
+বলিয়া জোর []{#c13________________________.xhtml#id-54 .pagenum
+.ws-pagenum page-number="৫৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%AA"}করিয়া
+সত্যকে টানিয়া আনিয়া একটা চৌকির উপর বসাইয়া দিয়া পায়ের কাছে হাঁটু
+গাড়িয়া বসিয়া হাত জোর করিয়া শুরু করিয়া দিল---
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+আজু রজনী হাম, ভাগে পোহায়নু\
+[পেখনু পিয়া মুখ-চন্দা]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}\
+জীবন যৌবন হাম, সফল করি মাননু\
+[দশ-দিশ ভেল নিরদন্দা।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}\
+আজু মণ্টু গেহ, গেহ করি মাননু\
+[আজু মঝু দেহ ভেল দেহা।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}\
+আজু বিহি মোহে, অনুকূল হোয়ল\
+[টুটল সবহু সন্দেহা।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}\
+[পাঁচবাণ অব লাখবাণ হউ]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}\
+[মলয় পবন বহু মন্দা।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}\
+অব সো ন যুবহু মরি পরিহোয়ত---\
+[তব মানব নিজ দেহা---]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}
+:::
+:::
+
+[ ]{style="display:inline-block; width:2em;"}যে লোকটা মদ খাইতেছিল,
+উঠিয়া আসিয়া পায়ের কাছে গড় হইয়া প্রণাম করিল। তাহার নেশা হইয়াছিল,
+কাঁদিয়া ফেলিয়া বলিল, ঠাকুরমশাই, বড় পাতকী আমি---একটু পদরেণু---
+
+[ ]{style="display:inline-block; width:2em;"}অদৃষ্টের বিড়ম্বনায় আজ
+সত্য স্নান করিয়া একখানা গরদের কাপড় পরিয়াছিল।
+
+[ ]{style="display:inline-block; width:2em;"}যে লোকটা হারমোনিয়াম
+বাজাইতেছিল, তাহার কতকটা কাণ্ডজ্ঞান ছিল, সে সহানুভূতির স্বরে কহিল, কেন
+বেচারাকে মিছামিছি সঙ্‌ সাজাচ্চ?
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী হাসিতে হাসিতে বলিল,
+বাঃ, মিছামিছি কিসে? ও সত্যকারের সঙ বলেই ত এমন আমোদর দিনে ঘরে এনে তোমাদের
+তামাসা দেখাচ্চি। আচ্ছা, মাথা খাস গাবু, সত্য বল্‌ ত ভাই, কি আমাকে তুই
+ভেবেছিলি? নিত্য গঙ্গাস্নানে যাই, কাজেই ব্রাহ্মও নই, মোচলমান খ্রীষ্টানও
+নই। হিঁদুর ঘরের এতবড় ধাড়ী মেয়ে, হয়
+[]{#c13________________________.xhtml#id-55 .pagenum .ws-pagenum
+page-number="৫৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%AB"}সধবা,
+নয় বিধবা-কি মতলবে চুটিয়ে পীরিত কর্‌ছিলি বল্ ত? বিয়ে করবি বলে, না
+ভুলিয়ে নিয়ে লম্বা দিবি বলে?
+
+[ ]{style="display:inline-block; width:2em;"}ভারি একটা হাসি উঠিল। তার পর
+সকলে মিলিয়া কত কথাই বলিতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য একটিবার মুখও তুলিল না,
+একটা কথার জবাব দিল না। সে মনে কি ভাবিতেছিল, তাহা বলিবই বা কি করিয়া, আর
+বলিলে বুঝিবেই বা কে? থাক্‌ সে।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী সহসা চকিত হইয়া
+উঠিয়া দাঁড়াইয়া বলিল, বাঃ, বেশ ত আমি! যা ক্ষ্যামা, শিগ্‌গির যা-বাবুর
+খাবার নিয়ে আয়, স্নান করে এসেচেন-বাঃ, আমি কেবল তামাসাই কচ্চি যে! বলিতে
+বলিতেই তাহার অনতিকাল পূর্বের ব্যঙ্গ-বিদ্রুপ-বহৃতপ্ত কণ্ঠস্বর অকৃত্রিম
+সস্নেহ অনুতাপে যথার্থ-ই জুড়াইয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}খানিক পরে দাসী একথালা খাবার
+আনিয়া হাজির করিল। বিজ্‌লী নিজের হাতে লইয়া আবার হাঁটু গাড়িয়া বসিয়া
+বলিল, মুখ তোল, খাও।
+
+[ ]{style="display:inline-block; width:2em;"}এতক্ষণ সত্য তাহার সমস্ত
+শক্তি এক করিয়া নিজেকে সামলাইতে - ছিল, এইবার মুখ তুলিয়া শান্তভাবে বলিল,
+আমি খাব না।
+
+[ ]{style="display:inline-block; width:2em;"}কেন? জাত যাবে? আমি হাড়ি না
+মুচি?
+
+[ ]{style="display:inline-block; width:2em;"}সত্য তেমনি শান্তকণ্ঠে বলিল,
+তা হলে খেতুম। আপনি যা তাই।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী খিল্‌খিল্‌ করিয়া
+হাসিয়া বলিল, হাবুবাবুও ছুরি-ছোরা চালাতে জানেন দেখচি! বলিয়া আবার হাসিল,
+কিন্তু তাহা শব্দমাত্র, হাসি নয়, তাই আর কেহ সে হাসিতে যোগ দিতে পারিল না।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য কহিল, আমার নাম সত্য,
+হাবু নয়। আমি ছুরি-ছোরা চালাতে কখন শিখিনি, কিন্তু নিজের ভুল টের পেলে
+শোধরাতে শিখেচি।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী হঠাৎ কি কথা বলিতে
+গেল, কিন্তু চাপিয়া লইয়া শেষে কহিল, আমার ছোঁয়া খাবে না?
+[]{#c13________________________.xhtml#id-56 .pagenum .ws-pagenum
+page-number="৫৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%AC"}[ ]{style="display:inline-block; width:2em;"}না।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী উঠিয়া দাঁড়াইল।
+তাহার পরিহাসের স্বরে এবার তীব্রত মিশিল; জোর দিয়া কহিল, খাবেই। এই বলছি
+তোমাকে, আজি না হয় কাল, না হয় দু'দিন পরে খাবেই তুমি।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য ঘাড় নাড়িয়া বলিল,
+দেখুন, ভুল সকলেরই হয়। আমার ভুল যে কত বড়, তা সবাই টের পেয়েচে, কিন্তু
+আপনারও ভুল হচ্চে আজ নয়, দুদিন পরে নয়, এ-জন্মে নয়, আগামী জন্মে নয়-
+কোন কালে আপনার ছোয়া খাব না। অনুমতি করুন, আমি যাই-আপনার নিশ্বাসে আমার
+রক্ত শুকিয়ে যাচ্ছে।
+
+[ ]{style="display:inline-block; width:2em;"}তাহার মুখের উপর গভীর ঘূণার
+এমনি সুস্পষ্ট ছায়া পড়িল যে তাহা ঐ মাতালটার চক্ষুও এড়াইল না। সে মাথা
+নাড়িয়া কহিল বিজ্‌লীবিবি, অরসিকেষু রহস্য নিবেদনম্‌। যেতে দাও - যেতে দাও
+---সকালবেলার আমোদটাই ও মাটি করে দিলে।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী জবাব দিল না,
+স্তম্ভিত হইয়া সত্যর মুখপানে চাহিয়া দাঁড়াইয়া রহিল। যথার্থই তাহার
+ভয়ানক ভুল হইয়াছিল। সে ত কল্পনাও করে নাই, এমনি মুখচোরা শান্ত লোক এমন
+করিয়া বলিতে পারে।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য আসন ছাড়িয়া উঠিয়া
+দাঁড়াইল। বিজ্‌লী মৃদুস্বরে কহিল আর একটু বসো।
+
+[ ]{style="display:inline-block; width:2em;"}মাতাল শুনিতে পাইয়া
+চেঁচাইয়া উঠিল, উঁ হুঁ হুঁ, প্রথম চোরে একটু জোর খেলবে-যেতে দাও-যেতে
+দাও-সুতো ছাড়ো-সুতে ছাড়ো-
+
+[ ]{style="display:inline-block; width:2em;"}সত্য ঘরের বাহিরে আসিয়া
+পড়িল; বিজ্‌লী পিছনে আসিয় পথরোধ করিয়া চুপি চুপি বলিল, ওরা দেখতে পাবে,
+তাই-নইলে হাতজোড় করে বলতুম, আমার বড় অপবাধ হয়েচে-
+
+[ ]{style="display:inline-block; width:2em;"}সত্য অন্যদিকে মুখ করিয়া
+রহিল।
+
+[ ]{style="display:inline-block; width:2em;"}সে পুর্নবার কহিল, এই পাশের
+ঘরটা আমার পড়ার ঘর একবার দেখবে না? একটিবার এসো, মাপ চাচ্ছি।
+[]{#c13________________________.xhtml#id-57 .pagenum .ws-pagenum
+page-number="৫৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%AD"}﻿[ ]{style="display:inline-block; width:2em;"}না,
+বলিয়া সত্য সিঁড়ির অভিমুখে অগ্রসর হইল। বিজ্‌লী পিছনে পিছনে চলিতে চলিতে
+কহিল, কাল দেখা হবে?
+
+[ ]{style="display:inline-block; width:2em;"}না।
+
+[ ]{style="display:inline-block; width:2em;"}আর কি কখনো দেখা হবে না?
+
+[ ]{style="display:inline-block; width:2em;"}না!
+
+[ ]{style="display:inline-block; width:2em;"}কান্নায় বিজ্‌লীর কণ্ঠ
+রুদ্ধ হইয়া আসিল, ঢোঁক গিলিয়া জোর করিয়া গলা পরিষ্কার করিয়া বলিল, আমার
+বিশ্বাস হয় না, আর দেখা হবে না। কি তাও যদি না হয়, বল, এই কথাটা আমার
+বিশ্বাস করবে।
+
+[ ]{style="display:inline-block; width:2em;"}ভগ্নাম্বর শুনিয়া সত্য
+বিস্মিত হইল, কিন্তু এই পনের-ষোল দিন ধরিয়া যে অভিনয় সে দেখিয়াছে, তাহার
+কাছে ত ইহা কিছুই নয়। তথাপি সে মুখ ফিরাইয়া দাঁডাইল। সে মুখেব বেখায়
+বেখায় সুদৃঢ় অপ্রত্যয় পাঠ করিয়া বিজ্‌লীর বুক ভাঙ্গিয়া গেল। কিন্তু সে
+কি করিবে? হায় হায়! প্রত্যয় করাইবার সমস্ত উপায়ই যে সে আবর্জনার মত
+স্বহস্তে ঝাট দিয়া ফেলিয়া দিয়াছে!
+
+[ ]{style="display:inline-block; width:2em;"}সত্য প্রশ্ন কবিল, কি
+বিশ্বাস করব?
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লীর ওষ্ঠাধর কাঁপিয়া
+উঠিল, কিন্তু স্বর ফুটিল না। অশ্রু ভারাক্রান্ত দুই চোখ মুহুর্তেব জন্য
+তুলিয়াই অবনত করিল। সত্য তাহাও দেখিল, কিন্তু অশ্রুব কি নকল নাই। বিজলী
+মুখ না তুলিয়াও বুঝিল সত্য অপেক্ষা করিয়া আছে; কিন্তু সেই কথাটা যে মুখ
+দিয়া সে কিছুতেই বাহির কারতেই পারিতেছে না, যাহা বাহিরে আসিবার জন্য তাহার
+বুকের পাজরাগুলো ভাঙ্গিয়া গুঁডইয়া দিতেছে।
+
+[ ]{style="display:inline-block; width:2em;"}সে ভালবাসিয়াছে। সে
+ভালবাসার একটা কথা সার্থক করিবার লোভে সে এই রূপের ভাণ্ডার দেহটাও হয়ত
+একখণ্ড গলিত বস্ত্রের মতই ত্যাগ করিতে পারে---কিন্তু কে তাহা বিশ্বাস
+করিলে! সে যে দাগী আসামী! অপরাধের শতকোটি চিহ্ন সর্বাঙ্গে মাখিয়া বিচাবের
+সুমুখে দাঁড়াইয়া, আজ কি করিয়া সে মুখে আনিবে, অপরাধ করাই তাহার পেশা
+বটে, কিন্তু এবার সে নির্দোষ! যতই বিলম্ব হইতে
+[]{#c13________________________.xhtml#id-58 .pagenum .ws-pagenum
+page-number="৫৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%AE"}﻿লাগিল,
+ততই সে বুঝিতে লাগিল, বিচারক তাহার ফাঁসির হুকুম দিতে বসিয়াছে; কিন্তু কি
+করিয়া সে রোধ করিবে?
+
+[ ]{style="display:inline-block; width:2em;"}সত্য অধির হইয়া উঠিয়াছে;
+সে বলিল, চললুম।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী, তবুও মুখ তুলিতে
+পারিল না; কিন্তু এবার কথা কহিল। বলিল, যাও, কিন্তু যে-কথা অপরাধে মগ্ন
+থেকেও আমি বিশ্বাস করি, সে-কথা আবিশ্বাস করে যেন তুমি অপরাধী হয়ে না।
+বিশ্বাস করে, সকলের দেহতেই ভগবান বাস করেন এবং আমরণ দেহটাকে তিনি ছেড়ে চলে
+যান না। একটু থামিয়া কহিল, সব মন্দিরে দেবতার পূজা হয় না বটে, তবুও তিনি
+দেবতা। তাঁকে দেখে মাথা নোয়াতে পার, কিন্তু তাঁকে মাড়িয়ে যেতেও পার না।
+বলিয়াই পদশব্দে মুখ তুলিয়া দেখিল, সত্য ধীরে ধীবে নিঃশব্দে চলিয়া
+যাইতেছে।
+
+[ ]{style="display:inline-block; width:2em;"}স্বভাবের বিরুদ্ধে বিদ্রোহ
+করা যাইতে পারে, কিন্তু তাহাকে ত উড়াইয়া দেওয়া যায় না। নারীদেহের উপর
+শত অত্যাচার চলিতে পারে, কিন্তু নারীত্বকে ত অস্বীকার করা চলে না। বিজ্‌লী
+নর্ত্তকী, তথাপি সে যে নারী! আজীবন সহস্র অপরাধে অপরাধী, তবুও যে এটা
+নারীদেহ! ঘণ্টা-খানেক পরে সে যখন এ-ঘরে ফিরিয়া আসিল, তখন তাহার লাঞ্ছিত
+অর্দ্ধমৃত নারীপ্রকৃতি অমৃতস্পর্শে জাগিয়া বসিয়াছে। এই অত্যল্প সময়টুকুর
+মধ্যে তাহার সমস্ত দেহে যে কি অদ্ভুত পরিবর্তন ঘটিয়াছে তাহা ঐ মাতালটা
+পর্যন্ত টের পাইল। সে-ই মুখ ফুটিয়া বলিয়া ফেলিল-কি বাইজী, চোখের পাতা
+ভিজে যো। মাইরি, ছোঁড়াটা কি একগুঁয়ে, অমন জিনিসগুলো মুখ দিলে না। দাও
+দাও, থালাটা এগিয়ে দাও ত, হ্যাঁ বলিয়া নিজেই টানিয়া লইয়া গিলিতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}তাহার একটি কথাও বিজ্‌লীর
+কানে গেল না। হঠাৎ তাহার নিজের পায়ে নজর পড়ায় পায়ে বাঁধা ঘুঙুরের তোড়া
+যেন বিছার মত তাহার দু'পা বেড়িয়া দাঁত ফুটাইয়া দিল, সে তাড়াতাড়ি
+সেগুলো খুলিয়া ছুড়িয়া ফেলিয়া দিল।
+
+[ ]{style="display:inline-block; width:2em;"}একজন জিজ্ঞাসা করিল, খুললে
+যে? []{#c13________________________.xhtml#id-59 .pagenum .ws-pagenum
+page-number="৫৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%AF"}﻿[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী
+মুখ তুলিয়া একটুখানি হাসিয়া বলিল, আর পারব না, বলে।
+
+[ ]{style="display:inline-block; width:2em;"}অর্থাৎ?
+
+[ ]{style="display:inline-block; width:2em;"}অর্থাৎ আর না। বাইজী
+মরেছে---
+
+[ ]{style="display:inline-block; width:2em;"}মাতাল সন্দেশ চিবাইতেছিল।
+কহিল, কি রোগে বাইজী?
+
+[ ]{style="display:inline-block; width:2em;"}বাইজী আবার হাসিল। এ সেই
+হাসি। হাসিমুখে কহিল, যে রোগে আলো জ্বালালে আঁধার মরে, সূর্য্যি উঠলে
+রাত্রি মরে-আজ, সেই রোগেই তোমাদের বাইজী চিরদিনের জন্যে মরে গেল বন্ধু।
+:::
+:::
+
+[]{#c14_______________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF/%E0%A6%86%E0%A6%81%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87_%E0%A6%86%E0%A6%B2%E0%A7%8B/%E0%A6%9B%E0%A6%AF%E0%A6%BC">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c14_______________________.xhtml#id-59-n70 .pagenum .ws-pagenum
+page-number="৫৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AB%E0%A7%AF"}
+
+::: {.wst-center .tiInherit}
+॥ছয়॥
+:::
+
+[ ]{style="display:inline-block; width:2em;"}চার বৎসর পরের কথা বলিতেছি।
+কলিকাতার একটা বড় বাড়িতে জমিদারের ছেলের অন্নপ্রাশন। খাওয়ানো-দাওয়ানোর
+বিরাট ব্যাপার শেষ হইয়া গিয়াছে। সন্ধ্যার পর বহির্বাটীর প্রশস্ত
+প্রাঙ্গণে আসর করিয়া আমোদ-আহ্লাদ, নাচ-গানের উদ্যোগ-আয়োজন চলিতেছে।
+
+[ ]{style="display:inline-block; width:2em;"}একধারে তিন-চারটি
+নর্তকী-ইহারাই নাচ-গান করিবে। দ্বিতলে বারান্দায় চিকের আড়ালে বসিয়া
+রাধারাণী একাকী নীচের জনশাগ দেখিতেছিল। নিমন্ত্রয়িতা মহিলারা এখনও শুভাগমন
+করেন নাই।
+
+[ ]{style="display:inline-block; width:2em;"}নিঃশব্দে পিছনে আসিয়া
+সত্যেন্দ্র কহিলেন, এত মন দিয়ে কি দেখচ বল ত?
+
+[ ]{style="display:inline-block; width:2em;"}রাধারাণী স্বামীর দিকে
+ফিরিয়া চাহিয়া হাসিমুখে বলিল,যা সবাই দেখতে আসচে-বাইজীদের
+সাজ-সজ্জা-কিন্তু হঠাৎ তুমি যে এখানে?
+
+[ ]{style="display:inline-block; width:2em;"}স্বামী হাসিয়া জবাব দিলেন,
+একলাটি বসে আছ, তাই একটু গল্প করতে এলুম।
+
+[ ]{style="display:inline-block; width:2em;"}ইস্‌।
+
+[ ]{style="display:inline-block; width:2em;"}সত্যি। আচ্ছা, দেখচ ত, বল
+দেখি, ওদের মধ্যে সবচেয়ে কোন্‌টিকে
+[]{#c14_______________________.xhtml#id-60 .pagenum .ws-pagenum
+page-number="৬০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AC%E0%A7%A6"}তোমার
+পছন্দ হয়?
+
+[ ]{style="display:inline-block; width:2em;"}ঐটিকে, বলিয়া রাধারাণী আঙুল
+তুলিয়া যে স্ত্রীলোকটি সকলের পিছনে নিতান্ত সাদাসিধা পোশাকে বসিয়াছিল
+তাহাকেই দেখাইয়া लि।
+
+[ ]{style="display:inline-block; width:2em;"}স্বামী বলিলেন, ও যে নেহাত
+রোগা।
+
+[ ]{style="display:inline-block; width:2em;"}তা হোক, ঐ সবচেয়ে সুন্দরী।
+কিন্তু বেচারী গরীব-গায়ে গয়না-টয়না। এদের মত নেই!
+
+[ ]{style="display:inline-block; width:2em;"}সত্যেন্দ্র ঘাড় নাড়িয়া
+বলিলেন, তা হবে। কিন্তু, এদের মজুরী কত জান?
+
+[ ]{style="display:inline-block; width:2em;"}না।
+
+[ ]{style="display:inline-block; width:2em;"}সত্যেন্দ্র হাত দিয়া
+দেখাইয়া বলিলেন, এদের দু'জনের ত্রিশ টাকা করে, ঐ ওর পঞ্চাশ, আর যেটিকে
+গরীব বলচ, তার দু'শ টাকা।
+
+[ ]{style="display:inline-block; width:2em;"}বাধারাণী চমকিয়া উঠিল-দু'শ!
+কেন, ও কি খুব ভাল গান করে?
+
+[ ]{style="display:inline-block; width:2em;"}কানে শুনিনি কখনো। লোকে বলে,
+চার-পাঁচ বছর আগে খুব ভালই গাইত,---কিন্তু এখন পারবে কিনা বলা যায় না।
+
+[ ]{style="display:inline-block; width:2em;"}তবে অত টাকা দিয়ে আনলে কেন?
+
+[ ]{style="display:inline-block; width:2em;"}তার কমও আসে না। এতেও আসতে
+রাজী ছিল না, অনেক সাধাসাধি করে আনা হয়েচে।
+
+[ ]{style="display:inline-block; width:2em;"}রাধারাণী অধিকতর বিস্মিত
+হইয়া জিজ্ঞাসা করিল, টাকা দিয়ে সাধাসাধি কেন?
+
+[ ]{style="display:inline-block; width:2em;"}সত্যেন্দ্র নিকটে একটা চৌকি
+টানিয়া লইয়া বসিয়া বলিলেন, তার প্রথম কারণ, ও ব্যবসা ছেড়ে দিয়েচে। গুণ
+ওর যতই হোক, এত টাকা সহজে কেহই দিতেও চায় না, ওকেও আসতে হয় না, এই ওব
+ফন্দি! দ্বিতীয় কারণ, আমার নিজের গরজ।
+
+[ ]{style="display:inline-block; width:2em;"}কথাটা রাধারাণী বিশ্বাস করিল
+না। তথাপি আগ্রহে ঘেঁষিয়া বসিয়া বলিল, তোমার গরজ ছাই। কিন্তু, ব্যবসা
+ছেড়ে দিলে কেন?
+
+[ ]{style="display:inline-block; width:2em;"}শুনবে?
+[]{#c14_______________________.xhtml#id-61 .pagenum .ws-pagenum
+page-number="৬১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AC%E0%A7%A7"}[ ]{style="display:inline-block; width:2em;"}হ্যাঁ
+বল।
+
+[ ]{style="display:inline-block; width:2em;"}সত্যেন্দ্র একমুহূর্ত মৌন
+থাকিয়া বলিল, ওর নাম বিজ্‌লী। এক সময়ে-কিন্তু, এখানে লোক এসে পড়বে যে
+রাণী, ঘরে যাবে?
+
+[ ]{style="display:inline-block; width:2em;"}যাব, চল, বলিয়া রাধারাণী
+উঠিয়া দাঁড়াইল।
+
+[ ]{style="display:inline-block; width:2em;"}স্বামীর পায়ের কাছে বসিয়া
+সমস্ত শুনিয়া রাধারাণী আঁচলে চোখ মুছিল। শেষে বলিল, তাই আজ ওকে অপমান করে
+শোধ নেবে? এ বুদ্ধি কে তোমাকে দিলে?
+
+[ ]{style="display:inline-block; width:2em;"}এদিকে সত্যেন্দ্রর নিজের
+চোখেও শুষ্ক ছিল না, অনেকবার গলাটাও ধরিয়া আসিতেছিল। তিনি বলিলেন, অপমান
+বটে, কিন্তু সে অপমান আমরা তিনজন ছাড়া আর কেউ জানতে পারবে না। কেউ জানবেও
+না।
+
+[ ]{style="display:inline-block; width:2em;"}রাধারাণী জবাব দিল না। আর
+একবার আঁচলে চোখ মুছিয়া বাহির হইয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}নিমন্ত্রিত ভদ্রলোকে আসার
+ভরিয়া গিয়াছে এবং উপরের বারান্দায় বহু স্ত্রীকণ্ঠের। সলজ্জ চীৎকার চিকের
+আবরণ ভেদ করিয়া আসিতেছে। অন্যান্য নর্তকীরা প্রস্তুত হইয়াছে, শুধু
+বিজ্‌লী তখনও মাথা হেঁট করিয়া বসিয়া আছে। তাহার চোখ দিয়া জল পড়িতেছিল।
+দীর্ঘ পাঁচ বৎসরে তাহাব সঞ্চিত অর্থ প্রায় নিঃশেষ হইয়াছিল, তাই অভাবের
+তাড়নায় বাধ্য হইয়া আবার সেই কাজ অঙ্গীকার করিয়া আসিয়াছে, যাহা সে শপথ
+করিয়া ত্যাগ করিয়াছিল। কিন্তু সে মুখ তুলিয়া খাড়া হইতে পারিতেছিল না।
+অপরিচিত পুরুষের সতৃষ্ণ দৃষ্টির সম্মুখে দেহ যে এমন পাথরের মত ভারী হইয়া
+উঠিবে। -পা এমন করিয়া দুমড়াইয়া ভাঙ্গিয়া পড়িতে চাহিবে, তাহা সে
+ঘণ্টা-দুই পূর্বে কল্পনা করিতেও পারে নাই।
+
+[ ]{style="display:inline-block; width:2em;"}"আপনাকে ডাকছেন।" বিজ্‌লী
+মুখ তুলিয়া দেখিল, পাশে দাড়াইয়া একটি বার-তের বছরের ছেলে। সে উপরের
+বারান্দা নির্দেশ করিয়া পুনরায় কহিল, মা আপনাকে ডাকচেন।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী বিশ্বাস করিতে পারিল
+না। জিজ্ঞাসা করিল, কে []{#c14_______________________.xhtml#id-62
+.pagenum .ws-pagenum page-number="৬২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AC%E0%A7%A8"}﻿[ ]{style="display:inline-block; width:2em;"}ডাকচেন?
+
+[ ]{style="display:inline-block; width:2em;"}মা ডাকছেন।
+
+[ ]{style="display:inline-block; width:2em;"}তুমি কে?
+
+[ ]{style="display:inline-block; width:2em;"}আমি বাড়ির চাকর।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী ঘাড় নাড়িয়া বলিল,
+আমাকে নয়, তুমি আবার জিজ্ঞাসা করে এসো।
+
+[ ]{style="display:inline-block; width:2em;"}বালক খানিক পরে ফিরিয়া
+আসিয়া বলিল, আপনার নাম বিজ্‌লী ত? আপনাকেই ডাকচেন,---আসুন আমার সঙ্গে, মা
+দাঁড়িয়ে আছেন।
+
+[ ]{style="display:inline-block; width:2em;"}চল, বলিয়া বিজ্‌লী
+তাড়াতাড়ি পায়ের ঘুঙুর খুলিয়া ফেলিয়া তাহাকে অনুসরণ করিয়া অন্দরে
+আসিয়া প্রবেশ করিল। মনে করিল, গৃহিণীর বিশেষ কিছু ফরমায়েস আছে, তাই
+আহবান।
+
+[ ]{style="display:inline-block; width:2em;"}শোবার ঘরের দরজার কাছে
+রাধারাণী ছেলে কোলে করিয়া দাঁড়াইয়াছিল। ত্রস্ত কুষ্ঠিত-পদে বিজ্‌লী
+সুমুখে আসিয়া দাঁড়াইবামাত্র সে সম্রামে হাত ধরিয়া ভিতরে টানিয়া আনিল;
+একটা চৌকির উপর জোর করিয়া বসাইয়া হাসিমুখে কহিল, দিদি, চিনতে পার?
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী বিস্ময়ে হতবুদ্ধি
+হইয়া রহিল। রাধারাণী কোলের ছেলেকে দেখাইয়া বলিল, ছোট বোনকে না হয় না
+চিনলে দিদি, সে দুঃখ করি নে; কিন্তু এটাকে না চিনতে পারলে সত্যিই ভারী
+ঝগড়া করব। বলিয়া মুখ টিপিয়া মৃদু হাসিতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}এমন হাসি দেখিয়াও বিজ্‌লী
+তথাপি কথা কহিতে পারিল না। কিন্তু তাহার আঁধার আকাশ ধীরে ধীরে স্বচ্ছ হইয়া
+আসিতে লাগিল। সেই অনিন্দ্যসুন্দর মাতৃমুখ হইতে সদ্যবিকশিত গোলাপ-সদৃশ শিশুর
+মুখের প্রতি তাহার দৃষ্টি নিবদ্ধ হইয়া রহিল। রাধারাণী নিস্তব্ধ। বিজ্‌লী
+নির্নিমেষ-চক্ষে চাহিয়া চাহিয়া অকস্মাৎ উঠিয়া দাঁড়াইয়া দুই হাত
+প্রসারিত করিয়া শিশুকে কোলে টানিয়া লইয়া সজোরে বুকে চাপিয়া ধরিয়া ঝরঝর
+করিয়া কাঁদিয়া ফেলিল।
+
+[ ]{style="display:inline-block; width:2em;"}রাধারাণী কহিল, চিনেচ দিদি?
+[]{#c14_______________________.xhtml#id-63 .pagenum .ws-pagenum
+page-number="৬৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AC%E0%A7%A9"}﻿[ ]{style="display:inline-block; width:2em;"}চিনেছি
+বোন।
+
+[ ]{style="display:inline-block; width:2em;"}রাধারাণী কহিল, দিদি,
+সমুদ্র-মন্থন করে বিষটুকু তার নিজে খেয়ে সমস্ত অমৃতটুকু এই ছোট বোনটিকে
+দিয়েচ। তোমাকে ভালবেসেছিলেন বলেই আমি তাঁকে পেয়েচি।
+
+[ ]{style="display:inline-block; width:2em;"}সত্যেন্দ্রর একখানি ক্ষুদ্র
+ফটোগ্রাফ হাতে তুলিয়া বিজ্‌লী একদৃষ্টি দেখিতেছিল; মুখ তুলিয়া মৃদু
+হাসিয়া কহিল, বিষের বিষই যে অমৃত বোন। আমি বঞ্চিত হইনি ভাই। সেই বিষই এই
+ঘোর পাপিষ্ঠাকে অমর করেচে।
+
+[ ]{style="display:inline-block; width:2em;"}রাধারণী সে-কথার উত্তর না
+দিয়া কহিল, দেখা করবে দিদি?
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী একমুহূর্ত চোখ
+বুজিয়া স্থির থাকিয়া বলিল, না দিদি। চার বছর আগে যেদিন তিনি এই
+অস্পৃশ্যটাকে চিনতে পেরে, বিষম ঘৃণায় মুখ ফিরিয়ে চলে গেলেন, সেদিন দর্প
+করে বলেছিলুম, আবার দেখা হবে, আবার তুমি আসবে। কিন্তু, সেই দর্প আমার রইল
+না, আর তিনি এলেন না। কিন্তু, আজ দেখতে পাচ্ছি, কেন দর্পহারী আমার সে দর্প
+ভেঙ্গে দিলেন। তিনি ভেঙ্গে দিয়ে যে কি করে গড়ে দেন, কেড়ে নিয়ে যে কি
+করে ফিরিয়ে দেন, সে-কথা আমার চেয়ে আর কেউ বেশী জানে না বোন। বলিয়া সে আর
+একবার ভাল করিয়া আঁচলে চোখ মুছিয়া কহিল, প্রাণের ভগবানকে নির্দ্দয়
+নিষ্ঠুর বলে অনেক দোষ দিয়েচি, কিন্তু এখন দেখতে পাচ্ছি, এই পাপিষ্ঠীকে
+তিনি কি দয়া করেচেন। তাঁকে ফিরিয়ে এনে দিলে, আমি ষে সব-দিকে মাটি হয়ে
+যেতুম? তাঁকেও পেতুম না, নিজেকেও হারিয়ে ফেলতুম।
+
+[ ]{style="display:inline-block; width:2em;"}কান্নায় রাধারাণীর গলা
+রুদ্ধ হইয়া গিয়াছিল, সে কিছুই বলিতে পারিল না! বিজ্‌লী পুনরায় কহিল,
+ভেবেছিলুম, কখনো দেখা হলে তাঁর পায়ে ধরে আর একটিবার মাপ। চেয়ে দেখব।
+কিন্তু আর তার দরকার নেই। এই ছবিটুকু দাও দিদি - এর বেশী আমি চাই নে।
+চাইলেও ভগবান তা সহ্য করবেন না-আমি চললুম, বলিয়া সে উঠিয়া দাঁড়াইল।
+[]{#c14_______________________.xhtml#id-64 .pagenum .ws-pagenum
+page-number="৬৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A6%BF_-_%E0%A6%B6%E0%A6%B0%E0%A7%8E%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf/%E0%A7%AC%E0%A7%AA"}﻿[ ]{style="display:inline-block; width:2em;"}রাধারাণী
+গাঢ়ম্বরে জিজ্ঞাসা করিল, আবার কবে দেখা হবে দিদি?
+
+[ ]{style="display:inline-block; width:2em;"}দেখা আর হবে না বোন। আর একটা
+ছোট বাড়ি আছে, সেইটে বিক্রী করে যত শ্রীব্র পারি চলে যাব। ভাল কথা, বলতে
+পাৱ ভাই, কেন হঠাৎ তিনি এতদিন পরে আমাকে স্মরণ করেছিলেন? যখন তাঁর লোক
+আমাকে ডাকতে যায়, তখন কেন একটা মিথ্যে নাম বলেছিল?
+
+[ ]{style="display:inline-block; width:2em;"}লজ্জায় রাধারাণীর মুখ আরক্ত
+হইয়া উঠিল, সে নতমুখে চুপ করিয়া রহিল।
+
+[ ]{style="display:inline-block; width:2em;"}বিজ্‌লী ক্ষণকাল ভাবিয়া
+বলিল হয়ত বুঝেছি। আমাকে অপমান করবেন বলে, না? তা ছাড়া ত এত চেষ্টা করে
+আমাকে আনবার কোন কারণই দেখি নে।
+
+[ ]{style="display:inline-block; width:2em;"}রাধারাণীর মাথা আরও হেঁট
+হইয়া গেল। বিজ্‌লী হাসিয়া বলিল, তোমার লজ্জা কি বোন? তবে তাঁরও ভুল
+হয়েচে। তাঁর পায়ে আমার শত-কোটী প্রণাম জানিয়ে বোলো, সে হবার নয়। আমার
+নিজের বলে আর কিছুই নেই। অপমান করলে, সমস্ত অপমান তাঁর গায়েই লাগবে।
+
+[ ]{style="display:inline-block; width:2em;"}নমস্কার দিদি!
+
+[ ]{style="display:inline-block; width:2em;"}নমস্কার বোন! বয়সে ঢ়ের বড়
+হলেও তোমাকে আশীর্ব্বাদ করবার অধিকার ত আর নেই- আই কায়মনে প্রার্থনা করি
+বোন, তোমার হাতের নোয়া অক্ষয় হোক। চললুম।
+
+\
+
+::: {.wst-center .tiInherit}
+সমাপ্ত
+:::
+:::
+:::
+
+[]{#about.xhtml}
+
+::: {.section mw-section-id="0"}
+:::
+
+::: {.section mw-section-id="-1"}
+[]{#about.xhtml#id-.E0.A6.8F.E0.A6.87_.E0.A6.A1.E0.A6.BF.E0.A6.9C.E0.A6.BF.E0.A6.9F.E0.A6.BE.E0.A6.B2_.E0.A6.B8.E0.A6.82.E0.A6.B8.E0.A7.8D.E0.A6.95.E0.A6.B0.E0.A6.A3_.E0.A6.B8.E0.A6.AE.E0.A7.8D.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.95.E0.A7.87 typeof="mw:FallbackId"}এই ডিজিটাল সংস্করণ সম্পর্কে {#about.xhtml#e_i_dijitala_sanskarana_samparke}
+=================================================================================================================================================================================================================================================================================================
+
+এই ই-বই অনলাইন গ্রন্থাগার
+[উইকিসংকলন](https://bn.wikisource.org/wiki/প্রধান_পাতা "প্রধান পাতা"){.mw-redirect}^[[\[1\]]{.mw-reflink-text}](#about.xhtml#cite_note-1)^
+হতে প্রাপ্ত। স্বেচ্ছাসেবীদের দ্বারা নির্মিত এই বহুভাষী ডিজিটাল
+গ্রন্থাগার উপন্যাস, কবিতা, পত্র-পত্রিকা ইত্যাদি সমস্ত ধরণের প্রকাশনার
+মুক্ত সংকলন গড়ে তোলার জন্য অঙ্গীকারবদ্ধ।
+
+আমরা কপিরাইটমুক্ত অথবা মুক্ত লাইসেন্সের অধীনে প্রকাশিত বইগুলিকে
+বিনামূল্যে প্রদান করে থাকি। আপনি আমাদের ই-বইগুলিকে [ক্রিয়েটিভ কমন্স
+অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক ৩.০
+আনপোর্টেড](https://creativecommons.org/licenses/by-sa/3.0/deed.bn){.external
+.text} লাইসেন্স^[[\[2\]]{.mw-reflink-text}](#about.xhtml#cite_note-2)^
+বা [জিএনইউ ফ্রি ডকুমেন্টশন
+লাইসেন্সের](http://www.gnu.org/copyleft/fdl.html){.external
+.text}^[[\[3\]]{.mw-reflink-text}](#about.xhtml#cite_note-3)^ শর্তাধীনে
+বাণিজ্যিক উদ্দেশ্য সহ যে কোন উদ্দেশ্যে ব্যবহার করতে পারেন।
+
+উইকিসংকলন সর্বদা নতুন সদস্যদের জন্য উন্মুক্ত। এই ই-বইয়ে কিছু ভুল
+ভ্রান্তি থেকে যাওয়া সম্ভব, সেক্ষেত্রে আপনি [এই
+পাতায়](https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা "উইকিসংকলন:লিপিশালা")
+জানাতে পারেন^[[\[4\]]{.mw-reflink-text}](#about.xhtml#cite_note-4)^।
+
+নিম্নে তালিকাভুক্ত ব্যবহারকারীরা এই ই-বইয়ে অবদান রেখেছেন:
+
+::: {#about.xhtml#ws-contributor}
+-   Atudu
+-   DoraShin15
+-   Bodhisattwa
+:::
+
+\
+
+------------------------------------------------------------------------
+
+1.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-1)
+    [https://bn.wikisource.org]{.mw-reference-text}]{#about.xhtml#cite_note-1}
+2.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-2)
+    [https://creativecommons.org/licenses/by-sa/3.0/deed.bn]{.mw-reference-text}]{#about.xhtml#cite_note-2}
+3.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-3)
+    [http://www.gnu.org/copyleft/fdl.html]{.mw-reference-text}]{#about.xhtml#cite_note-3}
+4.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-4)
+    [https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা]{.mw-reference-text}]{#about.xhtml#cite_note-4}
+:::

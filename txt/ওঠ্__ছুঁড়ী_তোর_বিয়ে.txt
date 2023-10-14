@@ -1,0 +1,598 @@
+---
+contributor: Wikisource
+identifier: 'https://bn.wikisource.org/wiki/%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C\_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80\_%E0%A6%A4%E0%A7%8B%E0%A6%B0\_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87'
+language: bn
+rights:
+- GNU Free Documentation License
+- 'Creative Commons BY-SA 3.0'
+source: 'https://bn.wikisource.org/wiki/%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C\_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80\_%E0%A6%A4%E0%A7%8B%E0%A6%B0\_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87'
+title: ওঠ্‌ ছুঁড়ী তোর বিয়ে
+---
+
+![](title.xhtml)
+
+[]{#title.xhtml}
+
+ওঠ্‌ ছুঁড়ী তোর বিয়ে
+---------------------
+
+### 
+
+\
+![](images/Accueil_scribe.png)\
+
+##### 
+
+\
+
+###### ৭ অক্টোবর, ২০২৩ তারিখে উইকিসংকলন থেকে রপ্তানিকৃত
+
+[]{#c0______________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork" itemid="http://www.wikidata.org/entity/Q111738915"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c0______________________.xhtml#pracchada .pagenum .ws-pagenum
+page-number="প্রচ্ছদ"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A7"}
+
+::: {.wst-center .tiInherit}
+[ওঠ্‌ ছুঁড়ী তোর বিয়ে!]{style="font-size: 120%;"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c1_Rule_Segment___Lozenge_5px___60px.svg_60px_Rule_Segment___Lozenge_5px___60px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+[শ্রীহরিমােহন কর্ম্মকার]{style="font-size: 120%;"}\
+প্রণীত।
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+\
+[শ্রীকাজী সফিউদ্দীনের]{style="font-size: 120%;"}\
+অনুমত্যানুসারে।
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+------------------------------------------------------------------------
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+কলিকাতা।\
+গরাণহাটা ষ্ট্রীটে\
+৯২ নং ভবনে এঙ্গ্লো ইণ্ডিয়ান ইউনিয়ন যন্ত্রে\
+মুদ্রিত।
+
+::: {.wst-dhr style="visibility:hidden; line-height:0.5em;"}
+ 
+:::
+
+\
+শকাব্দাঃ ১৭৮৫\
+এই পুস্তক চাঁদনীর ১ নং গলিতে\
+তত্ত্ব করিলে পাইবেন।\
+মুল্য এক আনা মাত্র।
+:::
+:::
+
+[ ]{#c0______________________.xhtml#page .center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt3" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt5" lang="bn"}
+[]{#c0______________________.xhtml#prakasaka .pagenum .ws-pagenum
+page-number="প্রকাশক"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A8"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:30em;"}
+ 
+:::
+
+------------------------------------------------------------------------
+
+::: {.wst-center .tiInherit}
+শ্রীসিদ্ধেশ্বর ঘোষ কর্ত্তৃক মুদ্রাঙ্কিত।
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt6" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt8" lang="bn"}
+[]{#c0______________________.xhtml#bhumika .pagenum .ws-pagenum
+page-number="ভূমিকা"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A9"}﻿
+
+::: {.wst-center .tiInherit}
+বিজ্ঞাপন।
+:::
+
+------------------------------------------------------------------------
+
+[ ]{style="display:inline-block; width:2em;"}এরূপ পুস্তক প্রকাশ করিতে
+কোন মতেই আমার ইচ্ছা ছিল না। কতিপয় বন্ধুর অনুরোধে প্রকাশ করিলাম।
+পুস্তকখানি কেবল কথঞ্চিৎ শব্দ বিন্যাশেই পরিপুরিত হইয়াছে, নতুবা আর কিছুই
+নাই। আমাদিগের দেশে এরূপ ননুষ্য অধিক দেখিতে পাওয়া যায়, যাঁহারা স্ত্রীর
+বশিভুত হইয়া পরম পূজ্য জনক জননীকে অন্ন দেননা, কথঞ্চিৎ জীবন ধারণের জন্য
+যৎকিঞ্চিৎ খোরাকী দিয়া থাকেন। তাঁহারদের প্রতিই যৎকিঞ্চিৎ উপদেশ প্রদত্ত
+হইয়াছে মাত্র।
+
+[ ]{style="display:inline-block; width:2em;"}অতএব পাঠক মহাশয়রা
+অনুরাগপুর্ব্বক এক এক বার আদ্যপান্ত পাঠ করিলে আমার সমুদায় পরিশ্রম সফল
+জ্ঞান করিয়া চরিতার্থ হইব।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+গ্রন্থকারস্য।
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt9" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt11" lang="bn"}
+[]{#c0______________________.xhtml#id-1 .pagenum .ws-pagenum
+page-number="১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%AB"}
+
+::: {.wst-center .tiInherit}
+["ওঠ্‌ ছুঁড়ী তোর বিয়ে"।]{style="font-size: 120%;"}
+:::
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c2_Rule_Segment___Span___10px.svg_10px_Rule_Segment___Span___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c3_Rule_Segment___Arrow_Thin_Right___10px.svg_11px_Rule_Segment___Arrow_Thin_Right___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c3_Rule_Segment___Arrow_Thin_Right___10px.svg_11px_Rule_Segment___Arrow_Thin_Right___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c4_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c5_Rule_Segment___Arrow_Thin_Left___10px.svg_11px_Rule_Segment___Arrow_Thin_Left___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c5_Rule_Segment___Arrow_Thin_Left___10px.svg_11px_Rule_Segment___Arrow_Thin_Left___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c2_Rule_Segment___Span___10px.svg_10px_Rule_Segment___Span___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.wst-center .tiInherit}
+কোন বণিক বর্ণিতার প্রতি রঙ্গিণী নাম্নী প্রতিবাসিনীর উক্তি।
+:::
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+[ ]{style="display:inline-block; width:2em;"}বলি ওলো বেণে দিদি! কি করিছ
+বসি।\
+শ্রীমুখ হয়েছে যেন রাহুগ্রস্ত শশী।\
+বেশ ভূষা কর নাই আলতা নাই পায়।\
+কবরী কসিত বালি বকুল মালায়॥\
+অঙ্গে নাহি অলঙ্কার এলো খেলো বেশ।\
+তৈল বিনা তাম্রবর্ণ সুচিকন কেশ॥\
+চিকন বসন কোথা সুন্দরী! তোমার।\
+যুবজন মনোহর যাতে অনিবার॥\
+অধরে নাহিক কেন অলঙ্কক রাগ।\
+বুঝি আজি বঁধু সনে করিয়াছ রাগ॥\
+মুখ যেন ভারি ভারি তলে হাঁড়ি প্রায়।\
+কি দুঃখে অসুখি দিদি! বলনা আমায়॥\
+লম্বিত যুগল স্তন হৃদয়ে দুলিছে।\
+পুতনার হৃদে যেন কেশব খেলিছে॥\
+অপুর্ব্ব কাঁচলি ত্যজি কি কর্ম্ম করেছ।\
+রোষ পরবশ এত কি হেতু হয়েছ॥
+:::
+
+[]{#c0______________________.xhtml#id-2 .pagenum .ws-pagenum
+page-number="২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%AC"}
+
+::: {.poem}
+নিশি জাগিয়াছ বুঝি বঁধুর লাগিয়ে।\
+সেই রাগে দিদি! কি গো রয়েছ রাগিয়ে॥\
+আহা আহা মরে যাই লইয়ে বালাই।\
+যৌবনের ভাব দিদি! আজো ঘুচে নাই॥\
+যখন আছিল দিদি! যৌবন রতন।\
+ভাতারের প্রতি রাগ সাজিত তখন॥\
+তখন করিতে মান কথায় কথায়।\
+এখন সে সব কি গো আর শোভা পায়॥\
+হয়েছ ছেলের মা তা গিয়াছে সে সব।\
+এখন সুন্দরী বলি আছে মত্রি রব॥\
+আর কি উন্নত দিদি! আছে পয়োধর।\
+তবে বল কি দেখিয়ে ভুলিবে নাগর॥\
+যত বেশ ভুষা কর অসার সকলি।\
+পদ্ম ত্যজি কেতকীতে নাহি য়ায় অলি॥\
+অতএব বল বল রমণী রতন।\
+কি দুখে মনের খেদে হয়েছ এমন?॥\
+[রঙ্গিণীর হাস্য রস শ্রবণ করিয়ে।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 1em;"}\
+কহিছে সুন্দরী সুধা সাগর মখিয়ে॥\
+সন্তুষ্ট হলেম অতি কথায় তোমার।\
+জীবন যৌবন গেলে নাহি ফিরে আর॥\
+রমণীর সার ধন যৌবন রসুন।\
+যাহার স্বহায়ে হবে পুরুষের মন॥\
+যাহার স্বহায়ে নারী সুন্দরী বলয়া।\
+যাহার স্বহায়ে নারী পুরুষে মজায়॥
+:::
+
+[]{#c0______________________.xhtml#id-3 .pagenum .ws-pagenum
+page-number="৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%AD"}
+
+::: {.poem}
+এমন সাধের ধন যৌবন রতন।\
+বিগত যাহার তার বিফল জীবন॥\
+ছিলাম যখন আমি তোদের মতন।\
+আছিল যখন মম পীনোন্নত স্তন॥\
+তখন ভাতার মম দাসের মতন।\
+অবিরত কর ঘোড়ে যোগাইত মন।\
+সে ভাবে অভাব নাই এখন তেমন॥\
+কর্ম্ম কায যজ্ঞ যাগ আহার ব্যাভার।\
+মম অনুমতি বিনা সাধ্য কিবা তার॥\
+আমাদের কর্ত্তা নয় তোদের মতন।\
+ব্রহ্ম বলি মান্য মোরে করে অনুক্ষণ॥\
+মাসে মাসে মাহিয়ান যত টাকা পায়।\
+অনুরাগে সমর্পণ করে এই পায়॥\
+লোহার সিন্ধুকে রাখি করিয়ে যতন।\
+গহনা গড়াই শেষে মনের মতন॥\
+অনুগত পতি যেন তস্করের প্রায়।\
+কথায় কথায় আসি ধরে দুটি পায়॥\
+[বণিক বণিতার প্রতি রঙ্গিণীর পুনরোক্তি।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}\
+[যে কথা কহিলে তুমি শুনে মরি লাজে।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 2em;"}\
+এসব রকম ভাই তোমাদেরি সাজে॥\
+বিশিষ্ট লোকের হলে দিয়ে গালাগালি।\
+এক গালে দিত চুন আর গালে কালি॥\
+ভাল ভাল বল দেখি ও চাঁদ বদনী।\
+যাঁহাদের কৃপাবলে দেখিলে ধরণী॥
+:::
+
+[]{#c0______________________.xhtml#id-4 .pagenum .ws-pagenum
+page-number="৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%AE"}
+
+::: {.poem}
+যাঁহাদের স্নেহ রস শরীয় ধারণ।\
+যাঁহাদের স্নেহ রসে হয়েছ পালন॥\
+যাঁহাদের স্নেহ রসে জ্ঞান উপার্জ্জিলে।\
+যাঁহাদের স্নেহে কত বিপদে তারিলে॥\
+দশ মাস গর্ভে যেঁই করেছে ধারণ।\
+প্রাণান্ত করিয়ে যেই করেছে পালন॥\
+প্রাণাধিক তনয়ের অসুখ হইলে।\
+অবিরত ভাষে জিনি নয়ন সলিলে॥\
+শয়ন ভােজন সব করি পরিহার।\
+বাঁচাতে নন্দনে যাঁর যত্ন অনিবার॥\
+এক দণ্ড ৰেলা হলে ভোজন করিতে।\
+জিনি না পারেন আর জীবন ধরিতে॥\
+সর্ব্বদা করেন তত্ত্ব, তনয় কোথায়।\
+বহু মুল্য মণিহারা সাপিনীর প্রায়॥\
+ধন দিয়ে প্রাণ দিয়ে যত্ন করে যাঁরা।\
+শয্যাগুরু ঘরে এলে পর হয় তাঁরা॥\
+এ লজ্জার কথা দিদি? কহিব বা কায়।\
+স্ত্রী হল পরম গুরু মা খােরাকি খায়॥\
+শাশুড়ী হলেন গিন্নি ধর্মের সংসারে।\
+দাসীর সমান মাতা ফেরেন বাজারে॥\
+যুড়ি হেঁকে যান বাবু দালালি করিতে।\
+গোবরের ঘুঁটে দেয় জননী বাড়িতে॥\
+হায়রে বিষম কলি বলিহারি যাই।\
+মাগ ব্রহ্ম মাগ ব্রহ্ম মার অন্ন নাই॥
+:::
+
+[]{#c0______________________.xhtml#id-5 .pagenum .ws-pagenum
+page-number="৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%AF"}
+
+::: {.poem}
+অথবা কাহারাে যদি থাকে দুটি পুত্র।\
+দিন দিন বৃদ্ধি হয় কলহের সূত্র॥\
+বড় বলে আমি দিব খোরাকি দু টাকা।\
+ছোট বলে দেড় টাকা কহিলাম পাকা॥\
+ইহার অধিক আমি দিতে না পারিব।\
+দিই যদি নানারূপ যাতনা সহিব॥\
+মাস গেলে দুই ভরি সোণা না কিনিলে।\
+জীবন না রবে দাদা লাথি আর কিলে॥\
+ফুলোল অইল চাই বোতল বোতল।\
+নতুবা যামিনী ষোগে হবে গণ্ডগোল॥\
+খাক বা না খাক মাতা তাহাতে পারিব।\
+নিশির যাতনা কিন্তু সহিতে নারিব॥\
+পাশ ফিরে শুয়ে রবে সরে না জীবনে।\
+প্রাণপনে তার মন যোগাব যতনে॥\
+দাদা বলে ওরে ছোঁড়া তোর মুখে ছাই।\
+আমি দিব দুই টাকা তুই দিবি নাই॥\
+এ সংসারে সুধু কি তােমার আছে মাগ।\
+আমারো কি তার প্রতি নাহি অনুরাগ॥\
+ছােট বলে ওগো দাদা ওকথা বলো না।\
+তাঁর অনুমতি বিনে দিতে পারিব না॥\
+এনেছি পরের মেয়ে করি পরিনয়।\
+অনুমতি নাহি নিলে রুষ্ট পাছে হয়॥\
+আমি যা বলেছি দাদা লুকাইয়ে দিব।\
+ইহার অধিক দিতে কভু না পারিব॥
+:::
+
+[]{#c0______________________.xhtml#id-6 .pagenum .ws-pagenum
+page-number="৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A7%E0%A7%A6"}
+
+::: {.poem}
+বরঞ্চ প্রিয়ারে লয়ে সতন্ত্র থাকিব।\
+ইহার অধিক তবু দিতে না পারিব॥\
+বলি হারি যাই কলি কি গুণ তোমার।\
+মাগ ব্রহ্ম জননীর অন্ন জোটা ভার॥\
+[ ]{style="display:inline-block; width:2em;"}বিবেচনা করে দেখ ও চাঁদ
+বদনী।\
+তনয়ের বিভা দেয় জনক জননী॥\
+সার ধন পুত্রবধূ অসিরে ঘরে।\
+রেঁধে বেড়ে খাওয়াবেন অনুরাগ ভরে॥\
+পুত্র নিৰ্বিশেষ স্নেহ করিবে দোহায়।\
+মা যত্ন করে খাওয়াবেন জননীর প্রায়॥\
+এই আশা তাহাদের মনে মনে রয়।\
+কাল ক্রমে সব কিন্তু বিপরিত হয়॥\
+যখন বধূর হয় উদয় যৌবন।\
+কটাক্ষে পতির মন করেন হরণ॥\
+তখন বধূরে বল আর কেবা পায়।\
+বেশ ভূষা করিতে সমস্ত দিন যায়॥\
+কখন আরসী ধরি দেখিছে বদন।\
+কখন পরিছে অতি চিকণ বসন॥\
+কখন পরিছে অঙ্গে বিবিধ ভূষণ।\
+কখন যতনে কেশ করিছে বন্ধন॥\
+কখন কখন বধূ অতি অনুরাগে।\
+অধর করিছে রাঙ্গা অলক্তক রাগে॥\
+ভুলাইতে প্রাণেশের প্রেমাকৃষ্ণ মন।\
+দিবা নিশি করিছেন কেবল ভাবন॥
+:::
+
+[]{#c0______________________.xhtml#id-7 .pagenum .ws-pagenum
+page-number="৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A7%E0%A7%A7"}
+
+::: {.poem}
+রূপ গুণে কাজ নাই ভাবনের জোরে।\
+অনাশে পতির মন ধন লয় হরে॥\
+প্রাচীনা শাশুড়ী হেথা রন্ধন শালায়।\
+পঞ্চাশ ব্যঞ্জন অন্ন বধূরে যােগায়॥\
+ভয়ে ভয়ে মুখে মুখে যােগায় বধূরে।\
+পাছে বধূ রুষ্ট হয়ে লাগায় বাবুরে॥\
+এ রূপে বধূর মন যােগাবেন যিনি।\
+সন্তানের কাছে অন্ন পাইবেন তিনি॥\
+দৈবে যদি বধূসনে কলহ হইল।\
+জননীর এক মুটো অমনি উঠিল॥\
+উদর পুরাণ তিনি রন্ধনী হইয়ে।\
+নন্দন থাকেন সুখে প্রিয়ারে লইয়ে॥\
+কিছু দিন পরে যদি জনক জননী।\
+অমর নগরে যায় ত্যজিয়ে ধরণী॥\
+শ্রাদ্ধ উপলক্ষে বড় ধুম ধাম হয়।\
+বরাদ্দ দু তিন লাখ এর কম নয়॥\
+জনে জনে দুটা করে রূপার ষােড়শ।\
+থালা ঘটি ঘড়া গাড়ু গোরস গোরস॥\
+টাকায় চারিটা করে কাঙ্গালি বিদায়।\
+অজচ্ছল লুচি মোণ্ডা কেবা কত খায়॥\
+শ্রাদ্ধের সুখ্যাতি বড় করিল সবাই।\
+জীবিত থাকিতে কিন্তু অন্ন পান নাই॥\
+হায়রে! নিদয় কলি কি কহিব আর।\
+পিতৃ মাতৃ ভক্তি ও কি করিলি সংহার॥
+:::
+
+[]{#c0______________________.xhtml#id-8 .pagenum .ws-pagenum
+page-number="৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A7%E0%A7%A8"}
+
+::: {.poem}
+এমন ছেলের বোন মরণ উচিত।\
+কখন কি শুনে নাই শ্রীরাম চরিত॥\
+থাকুক ও সবে আর নাহি প্রয়ােজন।\
+মন খুলে বল তব মনের বেদন॥\
+রঙ্গিণীর বাক্য শুনি বেণে দিদী কয়।\
+যা কহিলে বোন তুমি সকলি নিশ্চয়॥\
+আমার দুঃখের কথা শুন অতঃপরে।\
+নিরন্তর ভেবে মরি বিমলের তরে॥\
+হদ্দ হইলাম ভাই জামাই খুঁজিয়ে।\
+পোড়া কপালীর ভাগ্যে নাহি বুঝি বিয়ে॥\
+তেরো বছরের মেয়ে হয়েছে আমার।\
+বিয়ে বিনা তারে কি গো রাখা যায় আর॥\
+তাহে পোড়া কলিকাল কি জানি কি হবে।\
+নিরন্তর ভাবি বোন কিসে জাতি রবে॥\
+ঝকড়া করেছি কাল বিবাহের লেগে।\
+প্রভাতে উঠিয়ে তিনি গিয়াছেন রেগে॥\
+বলেছেন আজি বর ধরিয়ে আনিয়ে।\
+নিশ্চিন্ত হইব বিমলের বিয়ে দিয়ে॥\
+প্রতিজ্ঞা করিয়ে তিনি গিয়াছেন আজ।\
+দেখ যদি নারায়ণ রক্ষা করে লাজ॥\
+এ দিগে বণিক গঞ্জনায় প্রেয়সীর।\
+প্রভাতে আলয় হতে হয়েছে বাহির॥\
+পাড়ায় পাড়ায় আর নগরে নগরে।\
+খুঁজিছে মেয়ের বর প্রতি ঘরে ঘরে॥
+:::
+
+[]{#c0______________________.xhtml#id-9 .pagenum .ws-pagenum
+page-number="৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A7%E0%A7%A9"}
+
+::: {.poem}
+যার কাছে যায় সেই বেশী সোণা চায়।\
+শ্রবণ মাত্রেতে তুর শােণিত শুকায়॥\
+খুঁজিতে খুঁজিতে ক্রমে দিবা অবসান।\
+এমন সময় বর মিলিল সন্ধান॥\
+দিবাকর অস্তাচল করিল প্রস্থান।\
+ঊদয় হইল আসি রজনী রমণ॥\
+প্রেয়সী নিশার কর করিয়ে ধারণ\
+
+------------------------------------------------------------------------
+
+\
+
+এখানে বণিক বাবু দুঃখিত অন্তরে।\
+ঊপস্থিত হৈল আসি চন্দন নগরে॥\
+খুঁজিতে খুঁজিতে তথা পাওাগেল বর\
+রূপের সাগর তিনি রূগের সাগর॥\
+সুচারু বদন দেখি লাজ প্রায় শশী।\
+অঙ্গের বরণ দেখি লাজ পায় মসি॥\
+সুচারু নয়ন দ্বয় জিনিছে বারণ।\
+নাসাতে পেঁচার গর্ব্ব করেছে হরণ॥\
+নিশিতে থাকেন যদি দাঁড়ায়ে কোথায়\
+ভূত বলি অবলারা ভয়েতে পলায়॥\
+অদৃষ্টের জোর তার বলিব বা কত।\
+ক্রমে ক্রমে দুটি ভার্য্যা হয়েছেন গত॥\
+"ভাগ্যবান মনুষ্যের ঘােড়া মরে বলে।\
+অভাগার মাগ মরে বলেন সকলে"॥\
+এ রূপ সুন্দর বর করি দরশন।\
+কিঞ্চিৎ হইল সুস্থ বণিকের মন।
+:::
+
+[]{#c0______________________.xhtml#id-10 .pagenum .ws-pagenum
+page-number="১০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A7%E0%A7%AA"}
+
+::: {.poem}
+ত্বরা করি বরবেশে বরে সাজাইয়ে।\
+চলিল আলয় মুখে তরণী খুলিয়ে॥\
+অনুকুলবায়ু ভরৈ তরণী চলিল।\
+দুপ্রহর নিশাকালে গৃহেতে আসিল॥\
+কপাট দেখিয়ে রুদ্ধ ডাকাডাকি করে।\
+বর আনিয়াছি দ্বার খোলা ত্বরা করে॥\
+বণিক বণিতা শুনি ধাইল সত্বরে।\
+পাছে পাছে পুত্রবধূ আলো লয়ে করে॥\
+কপাট খুলিয়া দিয়া পাশে দাঁড়াইল।\
+বর লয়ে কর্ত্তা বাবু গৃহে প্রবেশিল॥\
+বর দেখি পুত্রবধূ মুখ ঢাকি বাসে।\
+হাসিতে হাসিতে এলো বিমলের পাশে॥\
+বলে ওলো ঠাকুরঝি এত কেন ঘুম।\
+আজি লাগিয়াছে তোর বিবাহের ধুম॥\
+এনেছে ঠাকুর বর খুঁজিয়ে খুঁজিয়ে।\
+রজনী পোয়ায় "ওঠ ছুঁড়ী তোর বিয়ে॥"
+:::
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+সমাপ্তঃ।
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt12" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt14" lang="bn"}
+[]{#c0______________________.xhtml#bijnapana .pagenum .ws-pagenum
+page-number="বিজ্ঞাপন"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%93%E0%A6%A0%E0%A7%8D%E2%80%8C_%E0%A6%9B%E0%A7%81%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A7%80_%E0%A6%A4%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87_-_%E0%A6%B9%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%B0.pdf/%E0%A7%A7%E0%A7%AB"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:10em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+বিজ্ঞাপন।
+:::
+
+------------------------------------------------------------------------
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:400px; text-align:justify;"}
+[ ]{style="display:inline-block; width:2em;"}সর্ব্ব সাধারণকে জ্ঞাত করা
+যাইতেছে যে কোন ব্যক্তি কবিকারের এবং আমার নাম উঠাইয়া কিম্বা লুকাইয়া
+ছাপেন তবে বোধ হবে যে তাহার জন্মের কিছু কুকর্ম্ম আছে, এবং এক পিতার
+পুত্ত্র নহে। আমার নামের মােহর দৃষ্টি করিয়া লইবেন বেগর মােহর চুরি
+জানিবেন।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+প্রকাশক।\
+শ্রীকাজী সফিউদ্দীন।
+:::
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:15em;"}
+ 
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt15" typeof="mw:Transclusion"}
+
+[ ]{about="#mwt16"}
+:::
+
+[]{#about.xhtml}
+
+::: {.section mw-section-id="0"}
+:::
+
+::: {.section mw-section-id="-1"}
+[]{#about.xhtml#id-.E0.A6.8F.E0.A6.87_.E0.A6.A1.E0.A6.BF.E0.A6.9C.E0.A6.BF.E0.A6.9F.E0.A6.BE.E0.A6.B2_.E0.A6.B8.E0.A6.82.E0.A6.B8.E0.A7.8D.E0.A6.95.E0.A6.B0.E0.A6.A3_.E0.A6.B8.E0.A6.AE.E0.A7.8D.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.95.E0.A7.87 typeof="mw:FallbackId"}এই ডিজিটাল সংস্করণ সম্পর্কে {#about.xhtml#e_i_dijitala_sanskarana_samparke}
+=================================================================================================================================================================================================================================================================================================
+
+এই ই-বই অনলাইন গ্রন্থাগার
+[উইকিসংকলন](https://bn.wikisource.org/wiki/প্রধান_পাতা "প্রধান পাতা"){.mw-redirect}^[[\[1\]]{.mw-reflink-text}](#about.xhtml#cite_note-1)^
+হতে প্রাপ্ত। স্বেচ্ছাসেবীদের দ্বারা নির্মিত এই বহুভাষী ডিজিটাল
+গ্রন্থাগার উপন্যাস, কবিতা, পত্র-পত্রিকা ইত্যাদি সমস্ত ধরণের প্রকাশনার
+মুক্ত সংকলন গড়ে তোলার জন্য অঙ্গীকারবদ্ধ।
+
+আমরা কপিরাইটমুক্ত অথবা মুক্ত লাইসেন্সের অধীনে প্রকাশিত বইগুলিকে
+বিনামূল্যে প্রদান করে থাকি। আপনি আমাদের ই-বইগুলিকে [ক্রিয়েটিভ কমন্স
+অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক ৩.০
+আনপোর্টেড](https://creativecommons.org/licenses/by-sa/3.0/deed.bn){.external
+.text} লাইসেন্স^[[\[2\]]{.mw-reflink-text}](#about.xhtml#cite_note-2)^
+বা [জিএনইউ ফ্রি ডকুমেন্টশন
+লাইসেন্সের](http://www.gnu.org/copyleft/fdl.html){.external
+.text}^[[\[3\]]{.mw-reflink-text}](#about.xhtml#cite_note-3)^ শর্তাধীনে
+বাণিজ্যিক উদ্দেশ্য সহ যে কোন উদ্দেশ্যে ব্যবহার করতে পারেন।
+
+উইকিসংকলন সর্বদা নতুন সদস্যদের জন্য উন্মুক্ত। এই ই-বইয়ে কিছু ভুল
+ভ্রান্তি থেকে যাওয়া সম্ভব, সেক্ষেত্রে আপনি [এই
+পাতায়](https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা "উইকিসংকলন:লিপিশালা")
+জানাতে পারেন^[[\[4\]]{.mw-reflink-text}](#about.xhtml#cite_note-4)^।
+
+নিম্নে তালিকাভুক্ত ব্যবহারকারীরা এই ই-বইয়ে অবদান রেখেছেন:
+
+::: {#about.xhtml#ws-contributor}
+-   Safuan12616
+-   ব্যা করণ
+-   Bodhisattwa
+-   Hrishikes
+-   Inductiveload
+:::
+
+\
+
+------------------------------------------------------------------------
+
+1.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-1)
+    [https://bn.wikisource.org]{.mw-reference-text}]{#about.xhtml#cite_note-1}
+2.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-2)
+    [https://creativecommons.org/licenses/by-sa/3.0/deed.bn]{.mw-reference-text}]{#about.xhtml#cite_note-2}
+3.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-3)
+    [http://www.gnu.org/copyleft/fdl.html]{.mw-reference-text}]{#about.xhtml#cite_note-3}
+4.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-4)
+    [https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা]{.mw-reference-text}]{#about.xhtml#cite_note-4}
+:::

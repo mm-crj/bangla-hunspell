@@ -1,0 +1,3272 @@
+---
+contributor: Wikisource
+identifier: 'https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87\_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE'
+language: bn
+rights:
+- GNU Free Documentation License
+- 'Creative Commons BY-SA 3.0'
+source: 'https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87\_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE'
+title: চন্দ্রলোকে যাত্রা
+---
+
+![](title.xhtml)
+
+[]{#title.xhtml}
+
+চন্দ্রলোকে যাত্রা
+-----------------
+
+### 
+
+\
+![](images/Accueil_scribe.png)\
+
+##### 
+
+\
+
+###### ৭ অক্টোবর, ২০২৩ তারিখে উইকিসংকলন থেকে রপ্তানিকৃত
+
+[]{#c0__________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork" itemid="http://www.wikidata.org/entity/Q120442127"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c0__________________.xhtml#pracchada .pagenum .ws-pagenum
+page-number="প্রচ্ছদ"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+[**চন্দ্রলোকে যাত্রা**]{style="font-size:249%;"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+বাঙ্গালার প্রতাপ, রাণী ভবানী, আশীদিনে ভূ-প্রদক্ষিণ,\
+বেলুনে পাঁচ সপ্তাহ, পাতালে, বাঙ্গালীর বল\
+প্রভৃতি প্রণেতা
+
+[**শ্রীরাজেন্দ্র লাল আচার্য্য বি, এ**]{style="font-size:207%;"}
+
+[প্রণীত]{style="font-size: 144%;"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+::: {.freedImg .wst-freedimg style="float:floating-center;width:100px"}
+[[![](images/c11_____________________page_6_crop_.jpg_100px__________________________________________page_6_crop_.jpg){.mw-file-element}](https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF_(page_6_crop).jpg){.mw-file-description}]{.freedImg
+typeof="mw:File"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+[**ষ্টুডেণ্টস্ লাইব্রেরী,**]{style="font-size: 120%;"}
+
+কলিকাতা ও ঢাকা।
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:2em;"}
+ 
+:::
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+মূল্য আট আনা
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+:::
+
+[ ]{#c0__________________.xhtml#page .center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt3" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt5" lang="bn"}
+[]{#c0__________________.xhtml#prakasaka .pagenum .ws-pagenum
+page-number="প্রকাশক"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD"}
+
+::: {style="float:left; width:auto; text-align:inherit;"}
+::: {.wst-center .tiInherit}
+::: {.poem}
+[**প্রকাশক---শ্রীবজেন্দ্রমোহন দত্ত**]{style="font-size: 120%;"}\
+৫৭।১ কলেজ ষ্ট্রীট, কলিকাতা
+:::
+:::
+:::
+
+::: {style="clear:left;"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:2em;"}
+ 
+:::
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+```{=html}
+<table style="border-spacing: 2px; border: 1px solid black;">
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+‌
+:::
+:::
+:::
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td style="align:center;" colspan="3">
+```
+[**গ্রন্থকারের অন্যান্য পুস্তক**]{style="font-size:182%;"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+বাঙ্গালায় প্রবেশ
+
+```{=html}
+</td>
+```
+```{=html}
+<td style="width: 80px;">
+```
+\...
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+॥৹
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+রাণী ভবানী
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\...
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+॥৶৹
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+আশী দিনে ভূ-প্রদক্ষিণ
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\...
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+১৷৹
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+বেলুনে পাঁচসপ্তাহ
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\...
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+১৲
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+পাতালে
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\...
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+১৷৹
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+বাঙ্গালীর বল
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\...
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+৪৲
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+পল্লী-সমাজ
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+\...
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+১৶৹
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+‌
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
+```{=html}
+</div>
+```
+::: {.wst-dhr style="visibility:hidden; line-height:2em;"}
+ 
+:::
+
+::: {style="float:right; margin-right:0em; width:auto; text-align:inherit;"}
+::: {.wst-center .tiInherit}
+::: {.poem}
+প্রিণ্টার---শ্রীঅবিনাশচন্দ্র মণ্ডল\
+[**সিদ্ধেশ্বর প্রেস্**]{style="font-size: 120%;"}\
+২১ নং নন্দকুমার চৌধুরী সেকেণ্ড লেন,\
+কলিকাতা।
+:::
+:::
+:::
+
+::: {style="clear:right;"}
+:::
+
+```{=html}
+</div>
+```
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt6" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt8" lang="bn"}
+[]{#c0__________________.xhtml#bhumika .pagenum .ws-pagenum
+page-number="ভূমিকা"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AE"}
+
+::: {.wst-center .tiInherit}
+[ভূমিকা]{style="font-size: 144%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}প্রায় দশ বৎসর পূর্ব্বে
+ফরাসী জুলে ভার্ণেকে আমি প্রথমে বাঙ্গালা-পোষাকে বাঙ্গালীর ঘরে বরণ করিয়া
+আনিয়াছিলাম। তখন ভাবিয়াছিলাম যে, আরও সহকর্ম্মী পাইব। ক্রমে ক্রমে জুলে
+ভার্ণের তিন খানি পুস্তক বাঙ্গালায় প্রকাশ করিলাম। 'চন্দ্রলোকে যাত্রা'
+চতুর্থ। আজিও সহকর্ম্মী মিলে নাই! সেদিন দেখিলাম জুলে ভার্ণের "বেলুনে
+পাঁচ-সপ্তাহ" উর্দ্দূ ভাষায় অনূদিত-হইয়াছে।
+
+[ ]{style="display:inline-block; width:2em;"}শুনিতেছি, এ কালের
+বঙ্গসাহিত্যের হাটে জুলে ভার্ণের আর স্থান নাই! এখন নাকি সুলভ সংস্করণের
+নানা প্রকার গভীর মনস্তত্ত্বের আলোচনায় শুধু যুবা বা প্রৌঢ় নয়---'ডবল
+প্রমোশন' পাইয়া---ছেলেরাও মাতিয়াছে! ষ্টুডেণ্টস্ লাইব্রেরীর অধ্যক্ষ
+বন্ধুবর শ্রীযুক্ত ব্রজেন্দ্রমোহন দত্ত মহাশয় এ কথা জানিয়া শুনিয়াও
+ছাড়িলেন না, কাজেই জুলে ভার্ণের সেই সুবিখ্যাত গ্রন্থ "From the Earth to
+the Moon"---যাহা শুধু ছেলের নহে, ছেলের পিতারও চিত্তাকর্ষণ করে---অবলম্বন
+করিয়া 'চন্দ্রলোকে যাত্রা' লিখিত হইল। ইহা উক্ত গ্রন্থের নিছক অনুবাদ নহে।
+
+::: {.__nop}
+:::
+
+[]{#c0__________________.xhtml#bhumika-n5 .pagenum .ws-pagenum
+page-number="ভূমিকা"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AF"}[ ]{style="display:inline-block; width:2em;"}যাহাদের
+জন্য এই গ্রন্থ রচিত হইল, ইহা পাঠ করিবার বয়স (!) ও আগ্রহ কি আমরা এখনো
+তাহাদের রাখিয়াছি? বাঙ্গালার সাহিত্যিকদিগকে এই প্রশ্নটা সানুনয়ে
+জিজ্ঞাসা করিবার জন্যই এই ভূমিকা লিখিবার প্রয়োজন হইল ৷ নিবেদন ইতি।
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
++-----------------------+-----------------------+-----------------------+
+| ::: {.poem}           | [![{\\displaystyle    | [নিবেদক]{sty          |
+| [উলুবেড়িয়া          | \\scriptstyle         | le="font-size: 90%;"} |
+| (হাবড়া)\             | {\\le                 |                       |
+| ৩০শে ভাদ্র, ১৩৩০      | ft.{\\begin{matrix}\\ | [**শ্রীরাজেন্দ্র লাল  |
+| সাল]{sty              | \\\\\\\\\\ \\\\\\ \\  | আচার্য্য**]{styl      |
+| le="font-size: 90%;"} | \\end{matrix}}        | e="font-size: 120%;"} |
+| :::                   | \\right\\}\\,}}](imag |                       |
+|                       | es/c12_1a4163f7b866b2 |                       |
+|                       | 50a0f7c232d9b4e166f76 |                       |
+|                       | 38469.svg){.mwe-math- |                       |
+|                       | fallback-image-inline |                       |
+|                       | }]{.mwe-math-element} |                       |
++-----------------------+-----------------------+-----------------------+
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt9" typeof="mw:Transclusion"}
+
+::: {.subheadertemplate .__auxtoc .ws-summary style="width:30em; max-width: 100%; margin-left:auto; margin-right:auto; box-sizing: border-box; padding-left:.5em; padding-right:.5em; " about="#mwt10" typeof="mw:Transclusion"}
+::: {style="display:flex; align-items: baseline"}
+**পরিচ্ছেদসমূহ**[]{style="flex:1 0; min-width:1em"}[[ ]{typeof="mw:Entity"}(মূল
+গ্রন্থে নেই)]{style="font-size: 90%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[**সূচীপত্র**]{style="font-size:182%;"}
+:::
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:400px; text-align:justify;"}
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[প্রথম
+পরিচ্ছেদ](#c1_________________________________.xhtml "চন্দ্রলোকে যাত্রা/প্রথম পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[দ্বিতীয়
+পরিচ্ছেদ](#c2____________________________________.xhtml "চন্দ্রলোকে যাত্রা/দ্বিতীয় পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[তৃতীয়
+পরিচ্ছেদ](#c3__________________________________.xhtml "চন্দ্রলোকে যাত্রা/তৃতীয় পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[চতুর্থ
+পরিচ্ছেদ](#c4__________________________________.xhtml "চন্দ্রলোকে যাত্রা/চতুর্থ পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[পঞ্চম
+পরিচ্ছেদ](#c5_________________________________.xhtml "চন্দ্রলোকে যাত্রা/পঞ্চম পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[ষষ্ঠ
+পরিচ্ছেদ](#c6________________________________.xhtml "চন্দ্রলোকে যাত্রা/ষষ্ঠ পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[সপ্তম
+পরিচ্ছেদ](#c7_________________________________.xhtml "চন্দ্রলোকে যাত্রা/সপ্তম পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[অষ্টম
+পরিচ্ছেদ](#c8_________________________________.xhtml "চন্দ্রলোকে যাত্রা/অষ্টম পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[নবম
+পরিচ্ছেদ](#c9_______________________________.xhtml "চন্দ্রলোকে যাত্রা/নবম পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[দশম
+পরিচ্ছেদ](#c10_______________________________.xhtml "চন্দ্রলোকে যাত্রা/দশম পরিচ্ছেদ")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+:::
+
+::: {.NavFrame .licenseContainer style="position:relative; background:transparent; border:1px solid #FFF; box-sizing:border-box; clear:both; margin:0.25em 0.00em 0.25em 0.00em; padding:0px 0px 0px 0px;" about="#mwt13" typeof="mw:Transclusion"}
+::: {style="background-color:#f7f8ff; border:2px solid #88A; padding:5px; text-align:left; line-height:1.6;"}
+[![](images/c13_Copyright.svg_20px_Copyright.svg.png){.mw-file-element}]{typeof="mw:File"}[ ]{typeof="mw:Entity"}[![](images/c14_PD_icon.svg_20px_PD_icon.svg.png){.mw-file-element}]{typeof="mw:File"}[ ]{typeof="mw:Entity"}[এই
+লেখাটি অনুবাদ করা হয়েছে এবং মূল লেখা ও এই অনুবাদের পৃথক কপিরাইট অবস্থা
+রয়েছে।]{style="font-size:inherit; font-weight:normal;"}
+:::
+
+::: {.NavContent style="background:transparent; box-sizing:border-box; margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;"}
+::: {#c0__________________.xhtml#licenseTags style="display:table; background:transparent; border-collapse:collapse; border-spacing:0px 0px; empty-cells:hide; box-sizing:border-box; margin:3px 0px 0px 0px; width:100%;"}
+::: {style="display:table-row-group; background-color:transparent;"}
+::: {style="display:table-row;"}
+::: {style="display:table-cell; padding:0px 0px 0px 0px; text-align:right; vertical-align:middle; width:auto;"}
+[ ]{typeof="mw:Entity"}**মূললেখা:**[ ]{typeof="mw:Entity"}
+:::
+
+::: {style="display:table-cell; padding:0px 0px 0px 0px; text-align:left; vertical-align:middle; width:100%;"}
+:::
+:::
+
+::: {style="display:table-row;"}
+::: {style="display:table-cell; padding:0px 0px 0px 0px; text-align:right; vertical-align:middle; width:auto;"}
+[ ]{typeof="mw:Entity"}**অনুবাদ:**[ ]{typeof="mw:Entity"}
+:::
+
+::: {style="display:table-cell; padding:0px 0px 0px 0px text-align:left; vertical-align:middle; width:100%;"}
+:::
+:::
+:::
+:::
+:::
+:::
+
+[ ]{about="#mwt13"}
+
+::: {.noprint style="clear:both;" about="#mwt13"}
+:::
+
+[ ]{about="#mwt13"}
+
+```{=html}
+</section>
+```
+[]{#c1_________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c1_________________________________.xhtml#id-1 .pagenum .ws-pagenum
+page-number="১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%A6"}
+
+::: {.wst-center .tiInherit}
+[**চন্দ্রলোকে যাত্রা**]{style="font-size:182%;"}
+
+[**প্রথম পরিচ্ছেদ**]{style="font-size: 144%;"}
+
+[**সমিতি**]{style="font-size: 120%;"}
+:::
+
+[[[![](images/c15___________________page_10_crop_.jpg_150px__________________________________________page_10_crop_.jpg){.mw-file-element}](https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF_(page_10_crop).jpg){.mw-file-description}]{typeof="mw:File"}]{.dropinitial
+style="float:left; line-height:1.00em; font-size:3.00em; margin:0.00em 0.10em 0.00em 0.00em; text-indent:0.00em;"}মেরিকায়
+[[বাল্টিমোর](https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%B0 "w:বাল্টিমোর"){.extiw}]{.module-wikidata-link}
+নগর। সেই নগরের একটী প্রশস্ত গৃহে---সালের ৩রা অক্টোবর সায়ংকালে একটী সভা
+বসিয়াছিল। সভায় যত লোক উপস্থিত ছিল, তাহাদের কাহারও অঙ্গই সম্পূর্ণ ছিল
+না। কাহারও হাত ছিল, একখানা পা ছিল না---কাহারও পা ছিল, হাত ছিল না। কাহারও
+হস্ত এবং পদ দুই-ই ছিল---একটী চক্ষু, কি একটী কর্ণ ছিল না। কাহারও কাঠের
+হাত, কাহারও কাঠের পা, কাহারও পাথরের চক্ষু! সে দিনের সভায় হাত-কাটা
+সভ্যের সংখ্যাই ছিল বেশী।
+
+[ ]{style="display:inline-block; width:2em;"}এই সভার সদস্যদিগের একমাত্র
+কাজই ছিল কামান, বারুদ ও গোলাগুলি নির্ম্মাণ করা। সেই জন্য সভার নাম ছিল
+গান্-ক্লাব। সভার সদস্যগণ সকলেই ছিলেন সুবিখ্যাত গোলন্দাজ। কেমন করিয়া
+কামান গড়িলে প্রকাণ্ড একটী গোলাকে বহুদুরে ফেলিতে পারা যায়---
+[]{#c1_________________________________.xhtml#id-2 .pagenum .ws-pagenum
+page-number="২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%A7"}যায়---কি
+করিলে সেই দূর-নিক্ষিপ্ত অগ্নি-গোলক মুহূর্ত্তে বহু লোককে নিহত করিতে পারে,
+ইহাই ছিল গান্-ক্লাবের সদস্যদের একমাত্র চিন্তার বিষয়। কামান, বারুদ এবং
+গোলাগুলির পরীক্ষা করিতে যাইয়াই তাঁহারা দেহের অঙ্গপ্রত্যঙ্গ হারাইতেন।
+কিন্তু সেদিকে কাহারও লক্ষ্য ছিল না! কিসে বেশী মানুষ মারিতে পারা যায়,
+কামান, গোলা ও বারুদের সেইরূপ ব্যবস্থা করিতে পারিলেই তাঁহারা নর-জন্ম
+সার্থক বলিয়া মনে করিতেন!
+
+[ ]{style="display:inline-block; width:2em;"}দেশে যে সকল যুদ্ধ-বিগ্রহ
+হইতেছিল, সহসা একদিন তাহা থামিয়া গেল। বিদেশেও চারিদিকে শান্তি স্থাপিত
+হইল। গান্‌-ক্লাবের সদস্যেরা দেখিলেন সর্ব্বনাশ উপস্থিত! আর ত' নরহত্যা
+করিবার সুযোগ নাই! নব-আবিষ্কৃত কামান ও গোলার শক্তি যে কত উন্নত হইল, তাহা
+ত' আর পরীক্ষা করিবার উপায় নাই! মর্টার, হাউইজার প্রভৃতি তখন গড়ের মধ্যে
+কর্ম্মহীন হইয়া পড়িয়া রহিল, গোলাগুলি স্তূপীকৃত হইয়া মুক্ত প্রান্তরে
+মরিচা ধরিতে লাগিল। গান্-ক্লাবের, নির্ম্মিত কামানের গোলায় একদিন যেখানে
+রণক্ষেত্রে ছোট-বড় শত শত গভীর গর্ত্ত হইয়াছিল, কৃষকগণ সে সকল পূর্ণ
+করিয়া আবার হলকর্ষণ করিতে লাগিল। সদস্যেরা দেখিলেন একে একে তাঁহাদের
+কীর্ত্তি-চিহ্নগুলিও বিলুপ্ত হইয়া যাইতেছে! সমরক্ষেত্রে সে শোণিত লেখা
+নাই---গভীর গহ্বর নাই---পুঞ্জীকৃত কঙ্কালরাশি আর তাঁহাদের গোলার শক্তি
+প্রচার করে না! সর্ব্বনাশ! এ কি হইল। আমেরিকার সকল যুদ্ধ-বিগ্রহ একেবারে
+মিটিয়া গেল!
+
+[ ]{style="display:inline-block; width:2em;"}ক্লাবের কক্ষে আর সভা বসিত
+না। কেনই বা বসিবে কাজ ত'
+[]{#c1_________________________________.xhtml#id-3 .pagenum .ws-pagenum
+page-number="৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%A8"}কিছু
+ছিল না। দুই চারিজন প্রধান প্রধান সদস্য ভিন্ন কেহ আর তখন ক্লাবে আসিত না।
+দেশী-বিদেশী রাশি রাশি সংবাদপত্র টেবিলের উপর পড়িয়া থাকিত, কেহ মোড়ক
+পর্য্যন্ত খুলিত না। কক্ষের প্রান্তে বেশ উজ্জ্বল হইয়া আগুন জ্বলিতেছিল।
+সেই আগুন পোহাইতে পোহাইতে মিষ্টার হাণ্টার বলিলেন,---"কি আপ্‌শোষের কথা!
+আমরা যে একেবারেই কুঁড়ে হ'য়ে পড়্‌লাম! হায় রে সেদিন, যেদিন কামানের
+শব্দে ঘুম ভাঙ্গত---আবার কামানের ধ্বনিতে অভিনন্দিত হ'য়েই ঘুমিয়ে পড়েছি।
+উঃ! জীবনটা দুর্ব্বহ ব'লে মনে হচ্ছে।" মিষ্টার হাণ্টার এতই উত্তেজিত
+হইয়াছিলেন যে তাঁহার কাঠ-নির্ম্মিত চরণখানি যে অগ্নি-স্পর্শে দগ্ধ হইতেছে,
+মোটেই সেদিকে তাঁহার দৃষ্টি ছিল না!
+
+[ ]{style="display:inline-block; width:2em;"}নিজের ভগ্ন-বাহুখানি
+প্রসারিত করিবার চেষ্টা করিয়া মিঃ বিল্‌স্‌বি কহিলেন,---"আর কি ভাই সে দিন
+ফির্‌বে! একটা কামান তৈরি হ'তে না হ'তেই অমনি তার পরীক্ষা আরম্ভ হ'তো।
+তারপর যেই শিবিরে ফিরেছি, অমনি বন্ধুদের মুখে কত জয়ধ্বনি! কি আনন্দ তাদের
+যে আমার কামানে সে দিন অনেক বেশী মানুষ মেরেছে! অমন আর হয় না---হ'বে না!"
+
+[ ]{style="display:inline-block; width:2em;"}মিষ্টার ম্যাট্‌সন্ ছিলেন এই
+সমিতির সম্পাদক। গাটাপার্চ্চায় নির্ম্মিত তাঁহার দক্ষিণ করটি চুলকাইতে
+চুলকাইতে নিতান্ত দুঃখিত চিত্তে তিনি কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"তাই ত' ভাই! নিকট ভবিষ্যতে
+যুদ্ধের ত' কোনো সম্ভাবনা দেখ্‌ছি না। আজ সকালে চুপ করে বসে থাক্‌তে
+থাক্‌তে আমি একটা নূতন কামানের ছবি এঁকেছি! শুধু ছবি নয়---ছবি, মাপ, ওজন
+সব! এ []{#c1_________________________________.xhtml#id-4 .pagenum
+.ws-pagenum page-number="৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%A9"}যদি
+ব্যবহার ক'র্‌তে পারা যেত---তা' হ'লে দেখ্‌তে যে বর্ত্তমান রণনীতিই বদ্‌লে
+গেছে!"
+
+[ ]{style="display:inline-block; width:2em;"}কর্ণেল ব্লুম্‌স্‌বি তাঁহার
+পাথরের দক্ষিণ চক্ষুটী একবার বাহির করিয়া রুমাল দিয়া মুছিতে মুছিতে
+কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"তাই নাকি?"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ বলিলেন,---"তা'
+বৈকি। এই দেখনা ছবি খানা! কিন্তু এত অধ্যয়ন, এত চিন্তা, এত শ্রম আর কিসের
+জন্য? আমেরিকার লোক ত' আর যুদ্ধ-টুদ্ধ ক'র্‌বে বলে' বোধ হ'চ্ছে না!"
+
+[ ]{style="display:inline-block; width:2em;"}কর্ণেল। চলনা ভাই, আমেরিকা
+ছেড়ে য়ুরোপে যাই। তারা আমাদের মত নয়, কথায় কথায় যুদ্ধ করে।
+
+[ ]{style="display:inline-block; width:2em;"}হাণ্টার। তা'তে আর আমাদের
+কি?
+
+[ ]{style="display:inline-block; width:2em;"}কর্ণেল। কেন? তাদের হ'য়েই
+কামান তৈরি ক'র্‌ব। মানুষ মারার পরীক্ষা---সে যেখানে-সেখানে ক'রলেই হ'লো ৷
+
+[ ]{style="display:inline-block; width:2em;"}হাণ্টার। তাই কি হয়?
+আমেরিকান্ হ'য়ে বিদেশীর জন্য কামান গড়্‌বো!
+
+[ ]{style="display:inline-block; width:2em;"}কর্ণেল। কিছু না করার চেয়ে
+ত ভালো। অনভ্যাসে জানা বিদ্যাও যে ভুলে' যেতে হয়!
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ গম্ভীর হইয়া
+কহিলেন, "বিদেশে, বিশেষ য়ুরোপে যাবার আশা ছাড়। জাতীয় উন্নতি কিসে হ'বে,
+সে কথা বুঝ্‌তে তাদের এখনো অনেক দেরি! আমেরিকার সঙ্গে তাদের ধ্যান-ধারণা
+কিছু-মাত্র মিল্‌বে না।"
+
+[ ]{style="display:inline-block; width:2em;"}পকেট হইতে ছুরি বাহির করিয়া
+তাহার দ্বারা চেয়ারের হাতল্‌টা
+[]{#c1_________________________________.xhtml#id-5 .pagenum .ws-pagenum
+page-number="৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%AA"}অল্পে
+অল্পে কাটিতে কাটিতে মিষ্টার হাণ্টার একটী দীর্ঘ নিঃশ্বাস ফেলিয়া
+কহিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"তবে আর কি! চল এখন লাঙ্গল
+নিয়ে তামাকের আবাদ করিগে---নয় ত' তিমি মাছ ধ'রে তার তেলটাকে জ্বালে চড়াই
+গে!"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ উত্তেজিত-কণ্ঠে
+বলিলেন,---"অতটা ক'র্‌তে হ'বে না। আমার ত' মনে হয়, এমন দিন আস্‌বেই যে
+আবার অতি সত্বরেই আমাদের কামানের ধ্বনিতে গগন কম্পিত হ'য়ে উঠ্‌বে। চিরদিনই
+কি এমনি শান্তিতে কাট্‌বে? যুদ্ধ লাগ্‌বেই। ফ্রান্স কি ভুল ক'রেও আমাদের
+দু'-একখানা জাহাজ আট্‌কাবে না! আন্তর্জাতিক নিয়ম লঙ্ঘন ক'রে, ইংলণ্ডও কি
+দু'চারজন আমেরিকানকে ফাঁসি-কাঠে লট্‌কাবে না! একটা কিছু হ'লো বলে!"
+
+[ ]{style="display:inline-block; width:2em;"}হাণ্টার। তুমি যা' ব'ল্‌লে
+ম্যাট্‌সন্, তা' আর হ'চ্ছে না। আমেরিকার চামড়া এখন বড় পুরু হয়েছে।
+সূঁচের ঘায়ে আর লাগে না। আমরা কি আর মানুষ আছি ভাই---আমরা গোল্লায় গেছি!
+নইলে এতদিনও একটা যুদ্ধ বাধে না! হোক্ না ছোট-খাটো রকম। কিন্তু তাই বা কৈ?"
+
+[ ]{style="display:inline-block; width:2em;"}কর্ণেল। একটা যুদ্ধ বাধালে
+কেমন হয়?
+
+[ ]{style="display:inline-block; width:2em;"}হাণ্টার। কেমন ক'রে?
+
+[ ]{style="display:inline-block; width:2em;"}কর্ণেল। কারণের অভাব কি? এই
+দেখনা---উত্তর আমেরিকা কি একদিন ইংরাজদের দেশ ছিল না?
+
+[ ]{style="display:inline-block; width:2em;"}কাষ্ঠের নির্ভর-যষ্টি দ্বারা
+চিম্‌নীর অগ্নি উদ্দীপিত করিতে করিতে মিষ্টার হাণ্টার কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"ছিল বৈ কি?"
+
+::: {.__nop}
+:::
+
+[]{#c1_________________________________.xhtml#id-6 .pagenum .ws-pagenum
+page-number="৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%AB"}[ ]{style="display:inline-block; width:2em;"}"তবে?"
+
+[ ]{style="display:inline-block; width:2em;"}"তবে কি?"
+
+[ ]{style="display:inline-block; width:2em;"}"বুঝ্‌লে না---সেই সূত্রে
+ইংলণ্ডই বা আমাদের দেশ হ'বে না কেন?"
+
+[ ]{style="display:inline-block; width:2em;"}সমগ্র দশন-পংক্তির মধ্যে
+যুদ্ধান্তে যে চারিটী মাত্র অবশিষ্ট ছিল, তাহাই নিষ্পেষণ করিতে করিতে
+মিষ্টার বিল্‌সবি কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"যাও না একবার কথাটা নিয়ে
+প্রেসিডেণ্টের কাছে! মজা দেখ্‌বে এখন। আমি ভাই কিছুতেই আর এবার ওঁকে ভোট
+দিচ্ছিনে।"
+
+[ ]{style="display:inline-block; width:2em;"}হাণ্টার। আমিও না।
+
+[ ]{style="display:inline-block; width:2em;"}সকলেই তখন উচ্চ-কণ্ঠে
+কহিলেন,---"আমিও না---আমিও না।"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ বলিলেন,---"আমার
+নূতন কামানের বল পরীক্ষা ক'র্‌তেই হ'বে। যদি দেশ সে জন্য একটা যুদ্ধ না
+বাধায়, আমি তা' হ'লে আর তোমাদের সমিতির সদস্য থাক্‌ছিনে। পদত্যাগ ক'রে
+কোনো দূর-দেশের নিবিড় বনে চ'লে যাব।"
+
+[ ]{style="display:inline-block; width:2em;"}উত্তেজিত-কণ্ঠে সকলেই
+কহিলেন, 'আমরাও যাব---আমরাও যাব। হয় যুদ্ধ------না হয় বনে গমন।"
+
+[ ]{style="display:inline-block; width:2em;"}সমিতির ভিতরকার অবস্থা যখন
+এইরূপ, তখন সমিতির সভাপতি সহসা একদিন নিম্নলিখিত বিজ্ঞাপন প্রচার
+করিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}গান্-ক্লাবের সভাপতির সবিনয়
+নিবেদন যে, আগামী ৫ই অক্টোবর সন্ধ্যা ৮টার সময় তিনি সদস্যদিগকে একটী
+বিস্ময়কর সংবাদ শুনাইবেন। সভাপতি ভরসা করেন যে সদস্যগণ সকল কার্য্য ত্যাগ
+করিয়া সেদিন সভায় উপস্থিত হইবেন।
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c2____________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c2____________________________________.xhtml#id-7 .pagenum
+.ws-pagenum page-number="৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%AC"}
+
+::: {.wst-center .tiInherit}
+[**দ্বিতীয় পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[নূতন প্রস্তাব]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**৫ই**]{style="font-size: 144%;"}
+অক্টোবর সায়ংকালে সমিতির গৃহে লোকারণ্য হইল। সমিতির সদস্যের সংখ্যা ত' কম
+ছিল না-ত্রিশ সহস্রেরও অধিক। ঘণ্টায় ঘণ্টায় প্রতি ট্রেণে লোক আসিতে
+লাগিল। সভা-মন্দিরে আর তিল ধারণের স্থান রহিল না। কক্ষে কক্ষান্তরে,
+অলিন্দে---দ্বিতলে ত্রিতলে সকল স্থানেই লোক। উদ্যানে প্রাঙ্গণে এমন কি
+রাজপথে পর্য্যন্ত লোক! সমিতির প্রাসাদতুল্য গৃহ---গৃহ-প্রবেশের সিংহদ্বারে
+সতর্ক প্রহরী বসিল। সমিতির সদস্য ভিন্ন কেহই প্রবেশ করিতে পারিল না।
+
+[ ]{style="display:inline-block; width:2em;"}সমিতির বিরাট সভাগৃহ আলোকে
+উজ্জ্বল হইয়া উঠিল। এখানে রিভল্‌ভারের নলমুখে গ্যাসের আলোক---সেখানে
+পিস্তলের অদ্ভুত আলোকাধার---মাথার উপরে বন্দুকের ঝাড়ে প্রজ্জ্বলিত শত শত
+বর্ত্তিকা, সেই বৃহৎ কক্ষকে আলোকোদ্ভাসিত করিয়াছিল। সেই তীব্র আলোকরাশি
+সুদীর্ঘ কামানের নলের সারি সারি স্তম্ভগাত্রে পতিত হইয়া চতুর্দ্দিকে
+বিচ্ছুরিত হইতেছিল! কক্ষ-প্রাচীরে একালের ও সেকালের নানাবিধ আগ্নেয়াস্ত্র
+স্তরে স্তরে শোভা পাইতেছিল। কোথাও ব্লাণ্ডার্‌বাস্, ম্যাচ্‌লক,---কোথাও
+আরকুইবাস, কার্বাইন---এখানে কামানের ছাঁচ, সেখানে গোলার আঘাতে ছিন্ন
+বর্ম্ম---স্থানান্তরে গোলা ও গুলির হার---কোথাও
+[]{#c2____________________________________.xhtml#id-8 .pagenum
+.ws-pagenum page-number="৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%AD"}বা
+হাউইজারের মালা সজ্জিত থাকিয়া সমিতির সদ্যদিগের কর্ম্মনিষ্ঠা ও গৌরব সূচিত
+করিতেছিল।
+
+[ ]{style="display:inline-block; width:2em;"}কক্ষের প্রান্তে একটী
+সুবিস্তৃত উচ্চ বেদীর উপর সভাপতির আসন নির্দ্দিষ্ট ছিল। সে আসন কামান
+বহিবার গাড়ীর উপর নির্ম্মিত। আসনের সম্মুখে টেবিল এবং টেবিলের সম্মুখে
+সদস্যদিগের বসিবার আসনগুলি তির্য্যগ্‌ভাবে সজ্জিত হইয়াছিল।
+
+[ ]{style="display:inline-block; width:2em;"}সভাপতি ইম্পে বার্বিকেনকে কে
+না জানিত। ধীর, স্থির, গম্ভীর তিনি। তাঁহার প্রতিকার্য্য ক্রণোমিটার ঘড়ীর
+কাঁটার মত চলিত। অন্যে যে কার্য্যকে মনে করিত অত্যন্ত বিপজ্জনক, তিনি
+অনায়াসে তাহা করিতে পারিতেন। সমিতির সদস্যদিগের মধ্যে কেবল তাঁহারই কোন
+দিন অঙ্গহানি হয় নাই। অথচ নানাবিধ আগ্নেয়াস্ত্র আবিষ্কার করিয়া তিনি
+যেরূপে সমিতির গৌরব বৃদ্ধি করিয়াছিলেন, আর কেহ তাহা পারে নাই।
+
+[ ]{style="display:inline-block; width:2em;"}কৃষ্ণবর্ণের রেশমে নির্ম্মিত
+কামানের নলের ন্যায় দীর্ঘ একটা টুপী মাথায় দিয়া সভাপতি বার্বিকেন মঞ্চে
+আরোহণ করিলেন। তখনো ৮টা বাজিতে ১ মিনিট্ ৪৫ সেকেণ্ড বাকি ছিল। বার্বিকেন
+ঘড়ীর দিকে চাহিয়া রহিলেন। উৎসুক জনমণ্ডলী তাঁহার মুখের দিকে চাহিয়া
+রহিল। সভাস্থল নীবব! সেই নীরবতা ভঙ্গ করিয়া যেই ৮টার প্রথম ঘণ্টা বাজিল
+ঢং, অমনি বার্বিকেন তড়িদ্বেগে আসন ত্যাগ করিয়া উঠিলেন এবং জলদ্‌গম্ভীরে
+বলিতে লাগিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"বীর সহকর্ম্মিগণ! সমিতির
+সদস্যগণ এখন দুঃসহ কার্য্যহীনতার মধ্যে আসিয়া পড়িয়াছেন। কি দুর্দ্দৈব!
+সহসা যে সন্ধি হইবে, ইহা কে
+[]{#c2____________________________________.xhtml#id-9 .pagenum
+.ws-pagenum page-number="৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%AE"}জানিত!
+সন্ধি যে ভাঙ্গিবে না, তাহাই বা কে ভাবিয়াছিল! আমি জানি, আজই যদি যুদ্ধ
+উপস্থিত হয়, তবে সর্ব্বাগ্রে আমরাই তাহাকে সাদরে বরণ করিয়া লইব"।
+
+[ ]{style="display:inline-block; width:2em;"}সহস্রকণ্ঠে ধ্বনিত
+হইল---"ঠিক ঠিক তাহা ঠিক।" সভাপতি বলিতে লাগিলেন,---"এখন দেখিতেছি, সকালে
+যে কোন যুদ্ধ ঘটিবে তাহা ত' বোধ হয় না। আমরা কি তবে নীরবে বসিয়া থাকিব!
+আগ্নেয়াস্ত্রের কি আর উন্নতি ঘটিবে না?"
+
+[ ]{style="display:inline-block; width:2em;"}"হে বীর সহকর্ম্মিগণ! আমি
+ভাবিতেছিলাম, যুদ্ধ যদি না-ই হয় তাহা হইলে, কি আমরা এই ঊনবিংশ শতাব্দীর
+যোগ্য---পৃথিবীখ্যাত এই সমিতির যশের ও প্রতিষ্ঠার উপযুক্ত কোনো বিশেষ
+কার্য্যে নিযুক্ত হইতে পারিব না। আমি অনেক চিন্তা করিয়া দেখিয়াছি যে আমরা
+এমন একটী কার্য্যে হস্তক্ষেপ করিতে পারি, যাহা শুধু গান্‌ক্লাবেরই
+যোগ্য---যাহা শুধু আমেরিকার পক্ষেই সম্ভব। সমস্ত পৃথিবী সে সংবাদ শুনিলে
+স্তম্ভিত হইয়া যাইবে।"
+
+[ ]{style="display:inline-block; width:2em;"}সহস্র সদস্য বলিয়া
+উঠিলেন---"কি---কি---কি---সে কাজটা কি?" মাথার টুপীটা ভালো করিয়া মাথার
+উপর বসাইয়া সভাপতি কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"বন্ধুগণ! আপনারা
+মনোযোগপূর্ব্বক সেই সংবাদটী শুনুন্। সেই কথা নিবেদন করিবার জন্যই আজ আমি
+আপনাদিগকে আহ্বান করিয়াছি। আামার দৃঢ় বিশ্বাস আছে, আপনারা সকলেই চন্দ্র
+দেখিয়াছেন। কেহ যদি নাও দেখিয়া থাকেন, তবে উহার কথা নিশ্চয়ই শুনিয়াছেন।
+বন্ধুগণ! আমরা সেই চন্দ্রলোক জয় করিব। আমরাই সেই চন্দ্রলোক আবিষ্কর্ত্তা
+[[কলম্বস্](https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AB%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A6%B2%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8 "w:ক্রিস্টোফার কলম্বাস"){.extiw}]{.module-wikidata-link}।
+ছত্রিশটী মিলিত রাজ্যে আমাদের এই প্রাণপ্রিয় যুক্তরাজ্যটী
+[]{#c2____________________________________.xhtml#id-10 .pagenum
+.ws-pagenum page-number="১০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A7%E0%A7%AF"}গঠিত।
+সমিতির চেষ্টা ও অধ্যবসায়ের ফলে অচিরে চন্দ্রলোকও আমাদের আয়ত্ত হইবে।"
+
+[ ]{style="display:inline-block; width:2em;"}সদস্যগণ সমস্বরে জয়ধ্বনি
+করিয়া উঠিল। মনে হইল যেন কক্ষের ছাদ ভাঙ্গিয়া পড়িল।
+
+[ ]{style="display:inline-block; width:2em;"}"বন্ধুগণ! আপনারা জানেন যে
+চন্দ্রলোক সম্বন্ধে যথেষ্ট আলোচনা হইয়া গিয়াছে। উহার গুরুত্ব, ঘনত্ব,
+অবস্থা---উহার গঠনপ্রণালী, গতি, পৃথিবী হইতে দূরত্ব কিছুই জানিতে বাকি নাই।
+সৌরজগতে চন্দ্রের কার্য্য কি তাহাও আমরা জানি। আপনারা নিশ্চয়ই শুনিয়াছেন
+যে চন্দ্রলোকের সঙ্গে সাক্ষাৎ-সম্বন্ধ ঘটাইবার জন্য ইতিপূর্ব্বে অনেকেই
+অনেক কথা লিখিয়াছেন---কিন্তু কেহই কার্য্যে অগ্রসর হইতে পারেন নাই। সুতরাং
+চন্দ্রলোক এখনো অনাবিষ্কৃত। সেই অনাবিষ্কৃত সাম্রাজ্য আবিষ্কার ও অধিকার
+করিয়া আমরাই পৃথিবীর জয়মাল্য গ্রহণ করিব! আপনারা হয় ত ভাবিতেছেন---ইহা
+অসম্ভব! কিন্তু মোটেই তাহা নহে, বরং অত্যন্ত সহজ।"
+
+[ ]{style="display:inline-block; width:2em;"}চারিদিকে ঘোর রোলে
+করতালিধ্বনি হইতে লাগিল। শ্রোতৃবর্গ আনন্দে অধীর হইয়া কেবলই চীৎকার করিতে
+লাগিল। উত্তেজনা কমিলে পর সভাপতি পুনরায় বলিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"আপনারা সকলেই জানেন অতীত
+কয়েক বৎসরে গোলক প্রণয়নবিদ্যা কতদুর উৎকর্ষ লাভ করিয়াছে। আপনারা জানেন
+যে, দক্ষলোকের হস্তে বারুদ কত শক্তি ধরে, কামান কত সুদৃঢ় হয়। আমি তাই
+ভাবিতেছিলাম যে, চন্দ্রলোকে একটী কামানের গোলা প্রেরণ করিলে ক্ষতি কি?"
+
+::: {.__nop}
+:::
+
+[]{#c2____________________________________.xhtml#id-11 .pagenum
+.ws-pagenum page-number="১১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%A6"}[ ]{style="display:inline-block; width:2em;"}সম্মুখে
+সহসা বজ্র পড়িলে মানুষ যেরূপ স্তম্ভিত হয়, এই প্রস্তাব শুনিয়া সদস্যগণ
+সেইরূপ স্তম্ভিত হইয়া গেলেন। কিন্তু পরমুহূর্ত্তেই সেই সভাগৃহ ভেদ করিয়া
+এমন একটী উন্মত্ত আনন্দ-কোলাহল উত্থিত হইল যে, মনে হইল যেন সেই বিশাল
+মিলন-মন্দির তৎক্ষণাৎ ভাঙ্গিয়া পড়িবে। উহা কম্পিত হইতে লাগিল ৷
+
+[ ]{style="display:inline-block; width:2em;"}সভাপতি বার্বিকেন পুনরায়
+কথা কহিতে চেষ্টা করিলেন, কিন্তু পারিলেন না। আরও কিছুক্ষণ অতিবাহিত হইয়া
+গেল! সভাতল কথঞ্চিৎ শান্ত-মূর্ত্তি ধরিল। সভাপতি তখন বলিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"বন্ধুগণ! আর দুই একটা কথা,
+তাহা হইলেই শেষ হয়। আমি বিশেষ অধ্যবসায়ের সহিত হিসাব করিয়া দেখিয়াছি,
+প্রতি সেকেণ্ডে দ্বাদশ সহস্র গজ যাইতে পারে এমন একটা গোলা চন্দ্রকে লক্ষ্য
+করিয়া ছুঁড়িতে পারিলেই উহা চন্দ্রলোকে পৌঁছিবে। আমি তাই সবিনয়ে প্রস্তাব
+করি আপনারা আপাততঃ কর্ম্মহীন বসিয়া না থাকিয়া এই সামান্য কার্য্যটীতে
+মনঃসংযোগ করুন।"
+
+[ ]{style="display:inline-block; width:2em;"}সভাপতির প্রস্তাবটী সমিতির
+সদস্যদিগের হৃদয়ে তড়িৎ ছুটাইয়া দিল। চারিদিকে তখন জয়ধ্বনি করতালি,
+নৃত্য এবং উল্লম্ফন আরম্ভ হইল! সেই চঞ্চল, সংক্ষুব্ধ, ক্ষিপ্ত, দোদুল্যমান
+জনসমুদ্রের মধ্যে সভাপতি অটল অচলের ন্যায় দণ্ডায়মান রহিলেন! ইচ্ছা ছিল,
+আরও কিছু বলেন। কিন্তু সদ্যগণ তাহার অবসর দিল না--- তাঁহার ঘণ্টা-নিনাদ কেহ
+গ্রাহ্যও করিল না। সকলে হর্ষোৎফুল্ল হইয়া মুহূর্ত্তে সভাপতিকে সবেগে
+স্কন্ধে তুলিয়া নৃত্য করিতে লাগিল। পরমুহূর্ত্তেই দেখা গেল, তিনি এক
+স্কন্ধ হইতে স্কন্ধান্তরে এবং তথা হইতে অন্য স্কন্ধে নিক্ষিপ্ত হইতেছেন!
+[]{#c2____________________________________.xhtml#id-12 .pagenum
+.ws-pagenum page-number="১২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%A7"}অবিলম্বে
+একটী বিরাট শোভাযাত্রা বাহির হইল। শত সহস্র মশালের আলোকে বাল্‌টীমোর নগর
+আলোকিত হইয়া উঠিল! বাল্‌টীমোরবাসীরা ত' সে শোভা-যাত্রায় যোগ
+দিলই---বিদেশীরাও আপন আপন মাতৃভাষায় কলরব করিতে করিতে আসিয়া শোভা-যাত্রার
+অঙ্গপুষ্টি করিতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}সহসা তখন আকাশ মেঘমুক্ত
+হইল---চন্দ্র করে চারিদিক হাসিয়া উঠিল ৷ বিমুগ্ধ জনমণ্ডলী সহস্র লোচনে
+চন্দ্রের দিকে চাহিল---সহস্রবদনে চন্দ্রের নামে জয়ধ্বনি করিল। বাল্‌টীমোরে
+যেন একটী জাতীয় উৎসব আরম্ভ হইয়া গেল। গৃহে গৃহে জিন্‌ ও হুইস্কির তরঙ্গ
+খেলিল--- নৃত্য ও গীতের ধ্বনি উঠিল------জাহাজে জাহাজে শত দীপ জ্বলিয়া
+জ্বলিয়া জলে সোণা ছড়াইল৷ একজন চতুর দোকানদার এই সুযোগে শত শত
+দুরবীক্ষণ-যন্ত্র বিক্রয় করিয়া ফেলিল---কারণ তখন সকলেরই ইচ্ছা যে,
+নিত্যপ্রত্যক্ষের বিষয় হইলেও সেদিন চন্দ্রকে একবার ভালো করিয়া দেখে।
+রাজপথে, বিপণীতে, পান্থশালায়, চা'র দোকানে---পোতাশ্রয়ে, উদ্যানে যেখানে
+দশজন মিলিল, সেইখানেই চন্দ্রলোকের কথা আলোচিত হইতে লাগিল ৷ সেইখানেই তর্ক
+উঠিল---সেইখানেই আবার তর্কের সীমাংসাও হইয়া গেল। রাত্রি যখন দুইটা বাজিল,
+তখন সহর কতকটা শান্ত হইল। সভাপতি বার্বিকেন বার বার স্কন্ধ হইতে
+স্কন্ধান্তরে নিক্ষিপ্ত হইবার জন্য নানা স্থানে আহত হইয়া ক্লান্তদেহে গৃহে
+ফিরিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}সভাপতি বার্বিকেন যখন সমিতির
+কক্ষে বক্তৃতা করেন, তখনই তাহার প্রত্যেকটী শব্দ তারযোগে ওয়াসিংটন,
+ফিলাডেল্‌ফিয়া, নিউইয়র্ক, বোষ্টন প্রভৃতি বিখ্যাত নগরে প্রেরিত হইতেছিল।
+যখন বাল্‌টীমোর আনন্দে
+[]{#c2____________________________________.xhtml#id-13 .pagenum
+.ws-pagenum page-number="১৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%A8"}মত্ত---তখন
+ঐ সকল নগরেও উৎসব আরম্ভ হইয়াছিল। সমগ্র যুক্তরাজ্য এই জাতীয় গৌরব লাভ
+করিবার জন্য সেই দিন হইতে মত্ত হইয়া উঠিল। পরদিনই যুক্তরাজ্যের শত শত
+সংবাদপত্রে চন্দ্রলোকে কামানের গোলা প্রেরণ সম্বন্ধে আলোচনা আরম্ভ হইয়া
+গেল। কেহ সামাজিক, কেহ রাজনৈতিক, কেহ বৈজ্ঞানিক, কেহ দার্শনিক তত্ত্ব
+তুলিয়া, কেহ বা স্বাস্থ্যের দিক দিয়া প্রস্তাবটা' বিচার করিল। সকলেই
+কহিল---সভাপতি বার্বিকেনের প্রস্তাবের মধ্যে অসম্ভব কিছুই নাই---এমন কিছুই
+নাই যাহা আমেরিকানের পক্ষে অসম্ভব। এই জন্যই ত আমেরিকা---আমেরিকা!
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c16_Rule_Segment___Fancy2___100px.svg_100px_Rule_Segment___Fancy2___100px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c3__________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c3__________________________________.xhtml#id-14 .pagenum
+.ws-pagenum page-number="১৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%A9"}
+
+::: {.wst-center .tiInherit}
+[**তৃতীয় পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[যুক্তি-তর্ক]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**স**]{style="font-size: 144%;"}ভাপতি
+বার্বিকেন যুক্তরাজ্যে যে প্রবল বৈদ্যুতিক-শক্তি পরিচালিত করিয়াছিলেন তাহা
+সকলকেই স্পর্শ করিয়াছিল, কেবল তাঁহাকে ছুঁইতে পারে নাই। লোকে যখন কল্পনার
+চন্দ্রলোক জয় করিয়া আনন্দে মগ্ন হইতেছিল---বার্বিকেন তখন নানা বৈজ্ঞানিক
+সমিতির নিকট পত্রাদি লিখিয়া পন্থা স্থির করিতেছিলেন। জ্যোতির্ব্বিদ্যার
+কেন্দ্র কেম্ব্রিজের মানমন্দির হইতে তিনি যে পত্র পাইলেন তাহাতে জানা গেল
+যে, যে গোলা প্রতি সেকেণ্ডে বারো হাজার গজ যাইতে পারিবে, তাহা অনায়াসেই
+চন্দ্রে পৌঁছিবে। মাধ্যাকর্ষণ তাহাকে পৃথিবীতে টানিয়া নামাইতে পারিবে না।
+ক্রমে উর্দ্ধে যাইয়া গোলাটী এমন স্থানে আসিয়া পৌঁছিবে, যেখানে চন্দ্রের
+আকর্ষণ প্রবল হইয়া উহাকে ক্রম-বর্দ্ধিত-বেগে চন্দ্রলোকে পৌঁছাইয়া দিবে।
+গোলাটী যদি বরাবর সমান বেগে ধাবিত হইতে পারিত, তাহা হইলে উহা ৯ ঘণ্টার
+চন্দ্রে যাইত, কিন্তু তাহা ত' হইবে না। মাধ্যাকর্ষণ আছে, বায়ুমণ্ডলের বাধা
+আছে। সুতরাং উহার বেগ ক্রমে কমিতে থাকিবে। পণ্ডিতগণ অঙ্কপাত করিয়া কহিলেন
+যে, যেখানে পৃথিবীর আকর্ষণ শেষ হইয়া চন্দ্রের আকর্ষণ আরম্ভ হইয়াছে,
+সেখানে পৌঁছিতে গোলার ৮৩ বণ্টা ২০ মিনিট লাগিবে। সে স্থান হইতে চন্দ্রে
+পৌঁছিতে []{#c3__________________________________.xhtml#id-15 .pagenum
+.ws-pagenum page-number="১৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%AA"}আরও
+১৩ ঘণ্টা ৫৩ মিনিট ২০ সেকেণ্ড প্রয়োজন হইবে বলিয়া সিদ্ধান্ত হইয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}চন্দ্র বৃত্তাভাসে পৃথিবীর
+চতুর্দ্দিক ভ্রমণ করে বৃত্তাকারে নহে। ভ্রমণ করিতে করিতে যখন পৃথিবী হইতে
+দূরে সরিয়া যায়, তখন সে দুরত্ব ২৪৭৫৫২ মাইল। যখন উহা পৃথিবীর নিকটে আসে,
+তখনো পৃথিবী ১৮৬৫৭ মাইল দূরে থাকে। কাজেই চন্দ্র যখন পৃথিবীর নিকটে আসিবে,
+তখনই কামান ছুঁড়িবার উপযুক্ত সময়। প্রতি মাসে চন্দ্র একবার করিয়া
+পৃথিবীর অতি নিকটে আসে---কিন্তু সকল মাসেই শিরোবিন্দু বা Zenith অতিক্রম
+করে না। দীর্ঘকাল পর পর চন্দ্রের এই দুইটী অবস্থা যুগপৎ ঘটে। গণ্ডিতগণ
+সভাপতি বার্বিকেনকে জানাইলেন যে, আগামী বর্ষের ৪ঠা ডিসেম্বর তারিখে
+দ্বিপ্রহর রজনীতে বহুকাল পর চন্দ্রের এই বাঞ্ছিত অবস্থা ঘটিবে। তাহার
+পূর্ব্বে ১লা ডিসেম্বর রাত্রি ১০টা ৪৬ মিনিট ৪০ সেকেণ্ডের সময় চন্দ্রলোকে
+গোলা প্রেরণ করিতে হইবে---উহাই সর্ব্বাপেক্ষা উপযুক্ত সময়--- কারণ তখন
+পৃথিবী হইতে চন্দ্রের দূরত্ব আরও কিছু কমিয়া যাইবে। এই মাহেন্দ্রক্ষণ
+ছাড়িয়া দিলে ১৮ বৎসর ১১ দিনের পূর্ব্বে চন্দ্র আর পৃথিবীর নিকটতম স্থানে
+আসিবে না। যখন তর্ক উপস্থিত হইল যে আকাশের কোন্ অংশ লক্ষ্য করিয়া কামান
+স্থাপন করিতে হইবে, তখন সিদ্ধান্ত হইল যে দক্ষিণ বা উত্তর অক্ষরেখার ০
+(শূন্য) ডিগ্রী হইতে ২৮ ডিগ্রীর মধ্যে চন্দ্রকে লক্ষা করিয়া গোলা না
+ছুঁড়িলে উহার গতি ক্রমেই বক্র হইয়া উহাকে চন্দ্র হইতে বহুদূরে সরাইয়া
+লইয়া যাইবে। আবার প্রশ্ন হইল---গোলকটী যখন মহাশূন্যে নিক্ষিপ্ত হইবে, তখন
+চন্দ্র আকাশের কোন্ স্থানে থাকা
+[]{#c3__________________________________.xhtml#id-16 .pagenum
+.ws-pagenum page-number="১৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%AB"}আবশ্যক?
+এই প্রশ্নের সমাধান করিয়া পণ্ডিতগণ বলিলেন---চন্দ্র প্রতিদিন ১৩ ডিগ্রী ১০
+মিনিট ৩৫ সেকেণ্ড করিয়া ভ্রমণ করে। উহা যখন শিরোবিন্দু বা Zenith হইতে ৬৪
+ডিগ্রী দুরে থাকিবে, ঠিক সেই মুহূর্ত্তেই গোলকটী নিক্ষেপ করিতে হইবে।
+
+[ ]{style="display:inline-block; width:2em;"}এই সকল বিষয় স্থির হইয়া
+গেলে পর সমিতির অধ্যক্ষগণ একটা বিশেষ সভার অধিবেশন করিলেন। সে সভায় স্থির
+হইল যে লৌহ বা পিত্তলের গোলকে চলিবে না,---কারণ উহার ব্যাস ৯ ফিট্ করা
+প্রয়োজন। আয়তন উহা অপেক্ষা ক্ষুদ্র হইলে গোল। যখন চলিবে, তখন
+সর্ব্বাপেক্ষা উত্তম দূরবীক্ষণ যন্ত্রেও উহাকে দেখা যাইবে না। লৌহ বা
+পিত্তল অত্যন্ত ভার ধাতু, সুতরাং মীমাংসা হইয়া গেল যে এলুমিনিয়মের ফাঁপা
+গোলা প্রস্তুত করিতে হইবে। উহা এক ফুট পুরু এবং উহার ব্যাস ৯ ফিট্‌ হইবে।
+
+[ ]{style="display:inline-block; width:2em;"}এ কথা শুনিয়া সমিতির
+সম্পাদক ম্যাট্‌সান সাগ্রহে কহিলেন--- "আমিও ফাঁপা গোলাই চাই। তাহ'লে ওর
+ভিতর চিঠি-পত্র পাঠিয়ে দেওয়া যাবে। সেই সঙ্গে সঙ্গে পৃথিবীর
+দ্রব্য-সম্ভারেরও দু'চারটী নমুনা দেওয়া চল্‌বে। ৯ ফিট্ ব্যাসের ফাঁপা
+গোলকের ওজন কত হ'বে?"
+
+[ ]{style="display:inline-block; width:2em;"}সভাপতি বার্বিকেন
+কহিলেন------"আমি সে হিসাব করেছি। ২৪০ মণ ২৫ সের! এইটে লোহার হ'লে ৮৪৩ মণ
+হ'তো!"
+
+[ ]{style="display:inline-block; width:2em;"}একজন সদস্য
+বলিলেন,---"এলুমিনিয়মের অনেক গুণ আছে। রৌপ্যের বর্ণ, লৌহের দার্ঢ্য,
+তাম্রের দ্রবণীয়তা, স্ফটিকের লঘুত্ব, স্বর্ণের অবিনশ্বরতা---এ সবই
+এলুমিনিয়মের আছে বটে---কিন্তু বড় মূল্যবান্ ধাতু।"
+
+::: {.__nop}
+:::
+
+[]{#c3__________________________________.xhtml#id-17 .pagenum
+.ws-pagenum page-number="১৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%AC"}[ ]{style="display:inline-block; width:2em;"}সভাপতি
+ধীরকণ্ঠে বলিলেন,---"তা হোক না। আমাদের গোলার কতই আর দাম হবে! আমি তা'ও
+হিসাব করেছি। এই দেখুন---৫৪৫৭৮১ টাকা। এ সামান্য টাকা তুল্‌তে ক'দিন
+লাগ্‌বে? আপনারা দেখ্‌বেন, চারদিক থেকে বৃষ্টির ধারার মত টাকা এসে প'ড়বে।"
+
+[ ]{style="display:inline-block; width:2em;"}সমিতির মন্তব্যগুলি যখন
+সাধারণ্যে প্রচারিত হইল, তখন কেহ কেহ বলিলেন, প্রায় ২৫০ মণ ভার একটা গোলা
+নিক্ষেপ করিতে পারা যায় এমন কামান প্রস্তুত করা কি সম্ভব? কামানেরই বা অত
+শক্তি কোথায় ---বারুদেরই বা এমন ক্ষমতা কোথায়। সভাপতি বার্বিকেন শুনিয়া
+হাসিলেন। মনে মনে কহিলেন, সেই মধ্যযুগে, ১৪৫৩ সালে, দ্বিতীয় মহম্মদের
+রাজত্বকালে কনষ্টাণ্টিনোপল যখন অবরুদ্ধ হয়, তখন ২৩ মণ ৩০ সের ওজনের এক
+একটা পাথরের গোলা শত্রুদের মধ্যে নিক্ষিপ্ত হইয়াছিল, আর এই সুসভ্যযুগে ২৫০
+মণ ওজনের গোলা চালাইতে পারা যাইবে না? মল্টার সেণ্ট-এলেম্ দুর্গ হইতে যে
+গোলা নিক্ষিপ্ত হইয়াছিল, তাহার ওজন ছিল ৩১ মণ ১০ সের। একালে কামানের
+পাল্লা বাড়িয়াছে বটে, কিন্তু গোলা-গুলির ওজন কমিয়াছে। আমরা পাল্লাও
+বাড়াইব---ওজনও বাড়াইব।
+
+[ ]{style="display:inline-block; width:2em;"}পরদিন আবার সভা বসিল।
+বার্বিকেন কহিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"বন্ধুগণ! সেদিন আমরা গোলা
+তৈরি করেছি,---আজ কামান গড়বো। কামানটা হয়ত খুব প্রকাণ্ডই করতে হবে।
+কিন্তু আমেরিকার শিল্প-নৈপুণ্য জগদ্বিখ্যাত। প্রথম কথা হচ্ছে এই যে, ৯ ফিট্
+ব্যাস এবং ২৫০ মণ ওজনের যে গোলা তাকে কেমন ক'রে প্রথমেই প্রতি সেকেণ্ডে
+১২০০০ গজ বেগে চালিয়ে দেওয়া যাবে।"
+
+::: {.__nop}
+:::
+
+[]{#c3__________________________________.xhtml#id-18 .pagenum
+.ws-pagenum page-number="১৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%AD"}[ ]{style="display:inline-block; width:2em;"}মেজর
+এল্‌ফিন্‌ষ্টোন্ বলিলেন,---"সেইটাই ত বিশেষ ভাব্‌বার কথা!"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন মৃদু-হাস্য করিয়া
+কহিলেন,--- "এমন বেশী কিছু নয়। শূন্যে একটা গোলা ছুঁড়লে কি ঘটে? সে যে
+বায়ুস্তর ভেদ ক'রে অগ্রসর হয়, সে বায়ু তাকে বাধা দেয়---পৃথিবী তাকে
+আকর্ষণ করে---আর আমরা তাকে যে বেগ দিয়েছি, সে বেগ তাকে গন্তব্যপথে নিয়ে
+যেতে চায়! বায়ুর স্তর পৃথিবী থেকে ৪০ মাইলের উপরে আর নাই, কাজেই তাকে
+উপেক্ষা করা চল্‌তে পারে। যে গোলা সেকেণ্ডে বারো হাজার গজ ছুট্‌বে, সে
+পাঁচসেকেণ্ডেই বায়ুস্তর ছেড়ে উঠ্‌বে। তারপর পৃথিবীর আকর্ষণ। বিজ্ঞান
+আমাদের ব'লে দিচ্ছে যে, একটা জিনিষ যতই উপরে উঠ্‌বে, তার ওজনও ততই দূরত্বের
+বর্গের বিপরীত অনুপাতে কম্‌তে থাকবে। গোলোকের বেগ বাড়াতে পার্‌লেই
+মাধ্যাকর্ষণ অনায়াসে কেটে যাবে। আপনারা সকলেই জানেন যে কামানের দৈর্ঘ্য
+এবং বারুদের শক্তির উপর সেটা নির্ভর করে।"
+
+[ ]{style="display:inline-block; width:2em;"}মেজর কহিলেন, "সে কথা সত্য।
+কিন্তু কামানট। ত তা' হ'লে বড় বেশী লম্বা কর্‌তে হবে।"
+
+[ ]{style="display:inline-block; width:2em;"}সভাপতি। তা' হ'বে বৈ কি? এ
+কামান নিয়ে ত' আমরা যুদ্ধ কর্‌তে যাব না, ওকে টেনে নিয়েও বেড়াতে হ'বে
+না---হোক না যত ইচ্ছা বড়। আজ পর্য্যন্ত ২৫ ফিটের অধিক লম্বা কামান দেখা
+যায় নাই। সে কামানও আমাদেরই তৈরি সেই কলম্বৈড, এটা ত' জানা আছে যে,
+কামানের নল যত লম্বা হবে তার গোলার পশ্চাতে বারুদের গ্যাস্ তত বেশী সঞ্চিত
+হবে---কাজেই গোলার বেগও বাড়বে।
+
+::: {.__nop}
+:::
+
+[]{#c3__________________________________.xhtml#id-19 .pagenum
+.ws-pagenum page-number="১৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%AE"}[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্।
+আমি বলি আমাদের কামান আধ মাইল লম্বা হোক্!"
+
+[ ]{style="display:inline-block; width:2em;"}মেজর। আধ মাইল! বলেন কি?
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্। বেশী কি বলেছি,
+এ ত' আর দু হাজার চার হাজার গজ পাল্লা মারা নয়---পৃথিবী থেকে চন্দ্রে
+যাওয়া।
+
+[ ]{style="display:inline-block; width:2em;"}মেজর। কামান নির্ম্মাণের
+সাধারণ নিয়ম কি? গোলার ব্যাস যত, কামানের দৈর্ঘ্য তার ২০ কি ২৫ গুণ হয়।
+গোলকের ওজন যত, কামানের ওজন তার ২৩৫ থেকে ২৪০ গুণের মধ্যে থাকে।
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ উত্তেজিত হইয়া
+বলিলেন,---"সে কথা সকলেই জানে। কিন্তু সে নিয়ম এখানে খাট্‌বে না। অসাধারণ
+কাজের নিয়মও অসাধারণ।"
+
+[ ]{style="display:inline-block; width:2em;"}মেজর। অসাধারণ হোক্, কিন্তু
+অসম্ভব হলে ত চল্‌বে না। মানুষের শক্তি ত দেবশক্তি নয়, যে যা' ইচ্ছা তাই
+করা যাবে!
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্। দেবতার কাছে
+মানুষ দুর্ব্বল বটে, কিন্তু তার শক্তি দুর্ব্বল নয়! আপনার বিশ্বাস হচ্ছে
+না? এই দেখুন---আমি হাতে-কলমে প্রমাণ করে' দিচ্ছি। ভগবানের বিদ্যুৎ আছে,
+আলোক-রেখা আছে, গ্রহ উপগ্রহ আছে, নক্ষত্রাদি আছে---ধ্বনি ও বাতাস আছে।
+মানি, এ সমস্তই তীব্র গতিশীল। কিন্তু আমাদেরও কামানের গোলা আছে---গোলার
+অমিত শক্তি আছে---বারুদের অসীম তেজ আছে! এই ধরুন না কেন, একটা সাধারণ ২৪
+পাউণ্ডার কামানের গোলা! সে আর কতটুকু? তার গতির বেগ বিদ্যুতের চেয়ে ৮০,০০০
+গুণ কম বটে---আলোক রশ্মির বেগ অপেক্ষা ৬৪০০০ গুণ কম বটে---পৃথিবী যে বেগে
+সূর্য্যের চারিদিকে ঘোরে তার চেয়েও ৭৩ গুণ কম বটে---কিন্তু ধ্বনি যে বেগে
+চলে তার চেয়ে'ত অনেক বেশী! ওর গতি মিনিটে ১৪ মাইল,
+[]{#c3__________________________________.xhtml#id-20 .pagenum
+.ws-pagenum page-number="২০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A8%E0%A7%AF"}ঘণ্টায়
+৮৪০ মাইল, দিনে ২০১০০ মাইল---বৎসরে ৭৩৩৬৫০০ মাইল! অর্থাৎ ভ্রমণ কালে
+বিষুবরেখার উভয় পার্শ্বে পৃথিবীর যে বেগ হয় তাই। সুতরাং মনুষ্য নির্ম্মিত
+সামান্য একটা ২৪ পাউণ্ডার গোলার চন্দ্রে যেতে ১১ দিন, সূর্য্যে পৌঁছিতে ১২
+বৎসর এবং সৌর জগতের প্রান্ত সীমায় নেপচুণে উপস্থিত হ'তে মাত্র ৩৬০ বৎসর
+লাগে। তা হ'লে নরশক্তি দেবশক্তি অপেক্ষা দুর্ব্বল কিসে?
+
+[ ]{style="display:inline-block; width:2em;"}সভাপতি বার্বিকেন
+কহিলেন,---"বন্ধুগণ, বিবাদে কাজ হবে না---স্থিরচিত্তে বিচার করুন। নতুবা
+মীমাংসায় আসা যাবে না। আমিও জানি, কামান নির্ম্মাণের সাধারণ নিয়ম অবলম্বন
+ক'র্‌লে আমাদের চ'ল্‌বে না। আমার বিবেচনা হয়, আমাদের কামানের দৈর্ঘ্য হ'বে
+৯০০ ফিট্‌।"
+
+[ ]{style="display:inline-block; width:2em;"}অনেক তর্ক-বিতর্কের পর সকলে
+সভাপতির প্রস্তাবই গ্রহণ করিলেন। বার্বিকেন বলিলেন,---"৯০০ ফিট্‌ লম্বা
+হ'লে নলটা অন্ততঃ ৬ ফিট্‌ পুরু হওয়া চাই---নৈলে গ্যাসের চাপ সইবে কেন। আমি
+মনে করি, এ কামানটা মাটীতেই ছাঁচে ঢালা হ'বে। ঢাল্‌বার সময়ে হিসেব ক'রে
+নলের ছিদ্র ক'র্‌তে হ'বে। তারপর যখন উর্দ্ধমুখে বসাব, তখন অষ্টে-পৃষ্ঠে
+লোহার শিকল দিয়ে বেঁধে, ভারী পাথর দিয়ে গোড়াটা গেঁথে দিলেই চ'ল্‌বে।"
+
+[ ]{style="display:inline-block; width:2em;"}মেজর। কামানের নল কি
+রাইফেলের মত পাক দেওয়া হ'বে?
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন। না---সাদা মসৃণ
+নলই ভালো। পাক দেওয়া নল থেকে গোলা বাহির হ'লেই তার বেগ কিছু কমে।
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ আনন্দে করতালি
+দিয়া বলিলেন,---"কি চমৎকার! কামান ত' তবে গড়া হ'য়েই গেল দেখ্‌ছি।"
+[]{#c3__________________________________.xhtml#id-21 .pagenum
+.ws-pagenum page-number="২১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%A6"}[ ]{style="display:inline-block; width:2em;"}বাধা
+দিয়া বার্বিকেন বলিলেন,---"না বন্ধু, এখনো অনেক দেরি।"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্। কেন?
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন। কোন্ ধাতুতে
+কামান হবে, সেটা ত' স্থির করা চাই।
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্। তা' ত' চাই-ই।
+কিন্তু আমার যে আর দেরি সয় না!
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন ঈযৎ হাসিয়া
+বলিলেন,---"কামানটী যে খুবই দৃঢ় হওয়া চাই এ কথা সকলেই ব'ল্‌বে। কিন্তু
+শুধু দৃঢ় হ'লেই চল্‌বে না। উত্তাপে গল্‌বে না--- আগুনে জ্বল্‌বে না-অল্পে
+মর্‌চে ধর্‌বে না, এমন হওয়া চাই।"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্‌। তা' চাই বৈকি।
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন। ঢালাই লোহার
+কামান ক'র্‌লে কেমন হয়? ঢালা লোহার অনেক সুবিধা আছে। সহজে গলে, সহজে ছাঁচে
+দেওয়া চলে---তাড়াতাড়ি কাজ হয়। সময় এবং অর্থ এতে দু'য়েরই সংক্ষেপ করা
+যাবে। মিশ্রিত ধাতু ভালো বটে, কিন্তু বড় দাম বেশী।
+
+[ ]{style="display:inline-block; width:2em;"}মেজর। ৯০০ ফিট লম্বা, ৯ ফিট
+ব্যাসের ৬ ফিট পুরু কামানের ওজন কত হ'বে?
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ মুহূর্ত্তে হিসাব
+করিয়া কহিলেন,---"তেমন বেশী নয়--- ১৯১৫২০০ মণ!"
+
+[ ]{style="display:inline-block; width:2em;"}মেজর। কত খরচ পড়্‌বে?
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্। ১১৪৯১২০ টাকা।
+
+[ ]{style="display:inline-block; width:2em;"}সকলেই একবাক্যে বলিয়া
+উঠিলেন,---"এত খরচ!"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন। তা' হ'বে বৈ কি।
+তবে টাকার জন্য ভাব্‌বেন না।
+
+[ ]{style="display:inline-block; width:2em;"}কামানের পরই বারুদের কথা
+উঠিল। স্থির হইল যে মোটা দানার
+[]{#c3__________________________________.xhtml#id-22 .pagenum
+.ws-pagenum page-number="২২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%A7"}বারুদ
+ব্যবহার করিতে হইবে কারণ উহা তাড়াতাড়ি জ্বলে। কেহ বলিলেন ২৫০০ মণ বারুদ
+চাই---কেহ বলিলেন, তাহাতে হইবে না ৬২৫০ মণ চাই। আর একজন বলিলেন, উহাতেও
+হইবে না---বিশ হাজার মণ ত' চাই-ই! বার্বিকেন কহিলেন,---"ওতে ত' হবে না,
+চল্লিশ হাজার মণ বারুদ ত' নিতেই হ'বে।"
+
+[ ]{style="display:inline-block; width:2em;"}সম্পাদক ম্যাট্সন্ অতিমাত্র
+বিস্মিত হইয়া মুহূর্ত্তে আসন ত্যাগ করিয়া উঠিয়া দাঁড়াইলেন।
+কহিলেন---\"চল্লিশ হাজার!"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন ৷ "হাঁ। এক সের
+কমেও চ'ল্‌বে না।"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্। চল্লিশ হাজার মণ
+বারুদে বাইশ হাজার ঘনফুট যায়গা জুড়বে। আপনাদের কামানেত মোট-মাট চুয়ান্ন
+হাজার ঘনফুট স্থান আছে। তার অর্দ্ধেকেরও বেশী যদি বারুদেই পূর্ণ হয়, তবে
+বারুদের গ্যাস থাক্‌বে কোথায়? আপনাদের গোলাটত তা' হ'লে চ'ল্‌বে না।
+
+[ ]{style="display:inline-block; width:2em;"}সদস্যগণ এ কথা শুনিয়া
+কিংকর্ত্তব্যবিমূঢ় হইয়া পড়িলেন। কাহারও মুখে আর বাক্য সরিল না।
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন স্থির-কণ্ঠে
+কহিলেন,---"বন্ধুগণ! হতাশ হবেন না। বৃক্ষ, লতা, গুল্মাদির যে অসংখ্য কোষ
+আছে তা আপনারা জানেন। তূলায় এই কোষের আদৌ অভাব নাই। অত্যন্ত উষ্ণ নাইট্রিক
+এসিডে ১৫ মিনিট কাল তূলা ভিজিয়ে জলে ধুয়ে শুকিয়ে নিলেই হ'লো। এর চেয়ে
+তীব্র বিস্ফোরক ত' আর নাই। বারুদ জ্বলে ২৪০ ডিগ্রী উত্তাপ লাগ্‌লে, আর এই
+তূলা জ্বল্‌বে ১৭০ ডিগ্রীতে! কত সুবিধা দেখুন। সাধারণ বারুদ একটা গুলিকে যত
+বেগ দেয়---এ তূলা দিবে তার চারগুণ! যতটা তূলা লাগ্‌বে, তার ৮/১০ ভাগ
+নাইট্রেট্ অব্ পটাশ তূলার গায়ে
+[]{#c3__________________________________.xhtml#id-23 .pagenum
+.ws-pagenum page-number="২৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%A8"}লাগিয়ে
+দিলে গ্যাসের সম্প্রসারণ-শক্তি আরও বেড়ে যাবে। তা' হ'লেই দেখুন, চল্লিশ
+হাজার মণ বারুদের পরিবর্ত্তে আমরা পাঁচ হাজার মণ তূলা চাই। চাপ দিলে ৬ মণ
+১০ সের তূলাকে ২৭ ঘন ফুটের মধ্যে রাখা যায়। কাজেই আমাদের যতটা তূলা চাই,
+আমরা সে সমস্তই ১৮০ ফিটের মধ্যে রাখ্‌তে পার্‌ব। কামানের নলে গ্যাসের
+স্থানাভাব হ'বে না।"
+
+[ ]{style="display:inline-block; width:2em;"}সদস্যগণ সভাপতি বার্বিকেনের
+কথা শুনিয়া দেহে প্রাণ পাইলেন এবং তাঁহার জয়ধ্বনি করিয়া উঠিলেন।
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c16_Rule_Segment___Fancy2___100px.svg_100px_Rule_Segment___Fancy2___100px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c4__________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%9A%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%A5_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c4__________________________________.xhtml#id-24 .pagenum
+.ws-pagenum page-number="২৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%A9"}
+
+::: {.wst-center .tiInherit}
+[**চতুর্থ পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[স্থান নির্ব্বাচন]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**স**]{style="font-size: 144%;"}ভাপতি
+বার্বিকেন যাঁহার নিন্দা এবং প্রশংসাকেই কেবল গ্রাহ্য করিতেন, তিনিও
+বার্বিকেনের মতই শ্রমশীল, দৃঢ়প্রতিজ্ঞ এবং সাহসী ছিলেন। তিনিও বিপদের মুখে
+অগ্রসর হইতে পশ্চাৎপদ হইতেন না। সমগ্র যুক্তরাজ্য যখন বার্বিকেনের জয়গানে
+পরিপূর্ণ হইয়া গেল, তখন ফিলাডেল ফিয়া নগরে বসিয়া সেই কাপ্তান নিকল
+হিংসায় জ্বলিতে লাগিলেন!
+
+[ ]{style="display:inline-block; width:2em;"}নিকলে ও বার্বিকেনে জীবনে
+কখনো সাক্ষাৎ হয় নাই বটে, কিন্তু কি জানি কেন, বার্বিকেনকে বিফল মনোরথ
+হইতে দেখিলে নিকলের আনন্দ হইত। বার্বিকেন যতই শক্তিশালী কামান প্রস্তুত
+করিতেন, নিকলও ততই সুদৃঢ় বর্ম্ম নির্ম্মাণ করিতেন। বার্বিকেনের জীবন-ব্রত
+ছিল অছিদ্র স্থানকে কামানের গোলায় সছিদ্র করা, আর নিকলের কার্য্য ছিল
+বার্বিকেনের ব্রতভঙ্গ। এই প্রতিদ্বন্দিতার ফলে বর্ম্ম এবং কামান যেরূপ
+উন্নতি লাভ করিয়াছিল, তাহাতে নিকল্‌ বড়, কি বার্বিকেন বড় তাহা বলা সম্ভব
+ছিল না।
+
+[ ]{style="display:inline-block; width:2em;"}নিকল্ যখন শুনিলেন যে
+বার্বিকেনের নূতন কামানের নল ৯০০ ফিট দীর্ঘ হইবে---উহার গোলার ওজন হইবে ২৫০
+মণ, তখন তিনি একেবারেই ভাঙ্গিয়া পড়িলেন। কেবলই ভাবিতে লাগিলেন, এমন
+বর্ম্ম প্রস্তুত করা কি সম্ভব, যাহা এ গোলার আঘাতেও ছিন্ন হইবে না! তাঁহার
+মনে হইল উহা অসম্ভব। নিকলের রোষ ও হিংসা আরো বাড়িয়া
+[]{#c4__________________________________.xhtml#id-25 .pagenum
+.ws-pagenum page-number="২৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%AA"}উঠিল!
+তিনি নানা অঙ্ক কষিয়া, নানা বৈজ্ঞানিক আলোচনা করিয়া প্রমাণ করিতে চাহিলেন
+যে, বার্বিকেন পাগল হইয়াছেন বলিয়াই এমন অসম্ভব প্রস্তাব করিয়াছেন! তবুও
+যখন বার্বিকেন নিরস্ত হইলেন না, তখন নিকল্ গবর্ণমেণ্টের আশ্রয় লইলেন।
+জানাইলেন যে, এমন করিয়া কামানের শক্তি পরীক্ষা করা অন্যায়। পরীক্ষাকালে
+যদি কামান ফাটিয়া যায়, বহুলোক প্রাণ হারাইবে! যে স্থানে পরীক্ষা হইবে,
+তাহাও একেবারে ধ্বংস হইয়া যাইতে পারে! গবর্ণমেণ্ট এ ব্যাপারে নীরব রহিলেন
+দেখিয়া রোষে নিকল্ একেবারে জ্ঞান হারাইলেন এবং সংবাদপত্রে প্রবন্ধ লিখিয়া
+নিম্নলিখিত বাজি ধরিলেন:---
+
+::: {.table-of-contents .ws-summary style="max-width:100%; margin:0 auto 0 auto; padding:0;width:450px;display:table;margin:0 auto 0 auto;"}
+1.  ----- -------------------------------------------------------------------------------------------- ---------------------
+        (১) সমিতির প্রস্তাবটী কার্য্যে পরিণত করিতে যে পরিমাণ অর্থ প্রয়োজন, কখনই তাহা সংগৃহীত হইবে না।     ---বাজি ৩১২৫৲ টাকা।
+      ----- -------------------------------------------------------------------------------------------- ---------------------
+
+2.  ----- --------------------------------------------------------------------------- ---------------------
+        (২) নয়শত ফিট দীর্ঘ কামান ঢালাই করা অসম্ভব। সমিতি নিশ্চয়ই অকৃতকার্য্য হইবেন।     ---বাজি ৬২৫০৲ টাকা।
+      ----- --------------------------------------------------------------------------- ---------------------
+
+3.  ----- ---------------------------------------------------------------------------------------------------------- ---------------------
+        (৩) কামানে বারুদ ঢালা অসম্ভব হইবে। যদি ঢালাও হয়, তবে অমন গুরুভার গোলকের চাপে উহা আপনা হইতেই জ্বলিয়া উঠিবে।     ---বাজি ৯৩৭৫৲ টাকা।
+      ----- ---------------------------------------------------------------------------------------------------------- ---------------------
+
+4.  ----- -------------------------------------------------------- ----------------------
+        (৪) বারুদে আগুন দিবামাত্রই কামানটী ফাটিয়া রেণু রেণু হইবে।     ---বাজি ১২৫০০৲ টাকা।
+      ----- -------------------------------------------------------- ----------------------
+
+5.  ----- ------------------------------------------------------------ ----------------------
+        (৫) চন্দ্রলোক ত দূরের কথা, কামানের গোলা ছয় মাইল পথও যাইবে না।     ---বাজি ১৫৬২৫৲ টাকা।
+      ----- ------------------------------------------------------------ ----------------------
+
+6.  +----------------------------------------------------------------------:+
+    | -------------------------------------------------------------------   |
+    +-----------------------------------------------------------------------+
+
+7.  -----------------------
+        মোট বাজি ৪৬৮৭৫৲ টাকা।
+      -----------------------
+:::
+
+::: {.__nop}
+:::
+
+[]{#c4__________________________________.xhtml#id-26 .pagenum
+.ws-pagenum page-number="২৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%AB"}[ ]{style="display:inline-block; width:2em;"}কয়েকদিন
+পরই নিকল্ বার্বিকেনের নিকট হইতে অতি ক্ষুদ্র কিন্তু অতিশয় ভয়ানক একখানি
+পত্র পাইলেন। পত্রে লেখা ছিল---'আমি বাজি ধরিলাম---বার্বিকেন।'
+
+[ ]{style="display:inline-block; width:2em;"}নিকলের সঙ্গে বাজি ধরিয়াই
+বার্বিকেন সমিতির সভা আহ্বান করিলেন। কোথায় কামান প্রস্তুত হইবে, এবং কোন্
+স্থান হইতেই বা গোলক চন্দ্রলোকে নিক্ষিপ্ত হইবে তাহার মীমাংসার জন্য সভার
+প্রয়োজন হইয়াছিল। অনেক বাদানুবাদের পর স্থির হইল যে, হয় টেক্‌সাস না হয়
+ফ্লোরিডা এই দুই স্থানের এক স্থান হইতেই চন্দ্রলোকে গোলক প্রেরণ করা হইবে।
+
+[ ]{style="display:inline-block; width:2em;"}টেক্‌সাসে এবং ফ্লোরিডায়
+তখন বিবাদ বাধিয়া গেল! টেক্‌সাস কহিল এ জয়মাল্য আমার---ফ্লোরিডা কহিল উহা
+আমার। টেক্‌সাসের নানা নগর হইতে দলে দলে লোক আসিতে লাগিল---ফ্লোরিডা হইতেও
+লোক আসিবার বিরাম ছিল না। দুই দলের যুক্তি-তর্ক শুনিতে শুনিতে গান্‌-ক্লাব
+ক্লান্ত হইয়া পড়িলেন। কোন নীমাংসাই হইল না। শেষে এমন হইল যে, এক পক্ষের
+সহিত অপর পক্ষের দেখা ঘটিলেই নগরের রাজপথে যুদ্ধের বাদ্য বাজিয়া উঠিতে
+লাগিল! ক্রমে নানাস্থানের লোক এই কলহে যোগ দিল। কেহ বা টেক্‌সাসের হইয়া
+কহিতে লাগিল---ইস্! ভারি ত' ফ্লোরিডা---বারোটী বই জেলা নাই তার আবার কথা!
+ফ্লোরিডার দল কহিল, টেক্‌সাসের লজ্জা হয় না! লোক-সংখ্যা যার মোটেই তেত্রিশ
+হাজার, তারও কত প্রতি বৎসর জ্বরে মরিতেছে---সে দেশও চায় এত বড় একটা
+গৌরবের জয়মাল্য!
+
+[ ]{style="display:inline-block; width:2em;"}বিবাদ যখন ক্রমে গুরুতর
+হইয়া উঠিল, তখন বার্বিকেন নিজ
+[]{#c4__________________________________.xhtml#id-27 .pagenum
+.ws-pagenum page-number="২৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%AC"}সহকর্ম্মিদিগকে
+ডাকিয়া কহিলেন,---"টেক্‌সাস্ প্রদেশে ১১টী নগর আছে আর ফ্লোরিডায় আছে
+একটী। আমরা যদি ফ্লোরিডাকে মনোনীত না করি, তা' হ'লে দেখছি, টেক্‌সাসের
+এগারটা নগরের মধ্যে যুদ্ধ আরম্ভ হ'বে। প্রত্যেক নগরের লোকেই ব'ল্‌বে---এই
+খানেই কামান তৈরি হোক্।"
+
+[ ]{style="display:inline-block; width:2em;"}সদস্যগণ বার্বিকেনের
+প্রস্তাবই গ্রহণ করিলেন। টেক্‌সাসের লোকেরা যখন এই কথা শুনিল তখন কুপিত
+হইয়া বাল্টিমোর নগর ত্যাগ করিল।
+
+[ ]{style="display:inline-block; width:2em;"}পৃথিবীর নানা দেশ হইতে তখন
+চাঁদা আসিতে আরম্ভ হইয়াছিল। অল্পকাল মধ্যেই বার্বিকেন দেখিলেন যে সমিতির
+হস্তে ১৭৫২০৮৫৯ টাকা জমিয়াছে।
+
+[ ]{style="display:inline-block; width:2em;"}সদস্যগণ তখন মহোৎসাহে
+কার্য্যারম্ভ করিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}স্থান নির্ব্বাচন করিবার
+জন্য বার্বিকেন কয়েকজন সহকর্ম্মীকে লইয় অবিলম্বে ফ্লোরিডায় গমন করিলেন।
+যাইয়া দেখিলেন, ফ্লোরিডার ভূমি উর্ব্বর। বার্বিকেন কহিলেন,---"বন্ধুগণ, এ
+উর্ব্বর ভূমিতে কাজ হ'বে না।"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্‌। কেন?
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন। ভূমি উর্ব্বর
+হ'লেই বুঝতে হবে নীচে জল আছে। মনে রেখো যে নয় শত ফিট্ দীর্ঘ একটা কূপ
+আমাদের খুঁড়্‌তে হ'বে! যদি জল উঠে পড়ে তবেই ত' বিপদ।
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্‌। যদি জল উঠেই
+পড়ে, কল লাগিয়ে ছেঁচে ফেল্‌বো।
+
+[ ]{style="display:inline-block; width:2em;"}এঞ্জিনিয়র মার্চিসন্
+কহিলেন, "তা' পারা যাবে বৈ কি! দু' একটা
+[]{#c4__________________________________.xhtml#id-28 .pagenum
+.ws-pagenum page-number="২৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%AD"}ঝরণা
+যদি পাই, শুকিয়ে ফেল্‌তে সময় লাগ্‌বে না---চাই কি ঝরণার গন্তব্যপথও
+ফিরিয়ে দিতে পারি। তবে জল থেকে দূরে থাক্‌তে পারলেই ভালো হয়।"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন আবার অগ্রসর
+হইলেন। উর্ব্বর ভূমি ত্যাগ করিয়া তাঁহারা কাননে প্রবেশ করিলেন। সে ত কানন
+নয়, যেন কুঞ্জভবন। প্রকৃতির সেই কুঞ্জবনে কত ফুল ফুটিয়াছিল---কত পাখী
+নৃত্য করিতেছিল। তাল, খর্জ্জুর, কমলালেবু, ডুম্বর ও দ্রাক্ষা প্রভৃতি
+তাঁহাদের নয়ন মন হরিতে লাগিল,---কিন্তু সে সকল বৃক্ষলতার দিকে না চাহিয়া
+বার্বিকেন নগ্ন শুষ্ক কঠিন স্থানের সন্ধানে অগ্রসর হইলেন। কয়েকটী ক্ষুদ্র
+ক্ষুদ্র নদ-নদী অতিক্রম করিয়া তাঁহারা অবশেষে এক জনহীন পার্ব্বত্য প্রদেশে
+আসিয়া উপনীত হইলেন।
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন কহিলেন,---"এইবার
+ঠিক হয়েছে---এই আমাদের যোগ্যস্থান। এর নাম কি?"
+
+[ ]{style="display:inline-block; width:2em;"}ফ্লোরিডার একজন নাগরিক
+কহিলেন,---"এ স্থানের নাম ষ্টোনিহিল্।"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন। বাঃ বেশ
+নাম---ষ্টোনিহিল্। এই ষ্টোনিহিলের চূড়া থেকেই চন্দ্রলোকের উদ্দেশ্যে
+কামানের গোলা ছুট্‌বে।
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c17_Rule_Segment___Fancy1___40px.svg_40px_Rule_Segment___Fancy1___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c5_________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%AA%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%AE_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c5_________________________________.xhtml#id-29 .pagenum .ws-pagenum
+page-number="২৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%AE"}
+
+::: {.wst-center .tiInherit}
+[**পঞ্চম পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[কামান নির্ম্মাণ]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**বা**]{style="font-size: 144%;"}র্বিকেন
+পরিতৃপ্ত-হৃদয়ে ষ্টোনিহিল্ হইতে নিকটবর্ত্তী টম্পানগরের পান্থশালায়
+ফিরিয়া আসিলেন। তাঁহার তখন মুহূর্ত্ত মাত্র অবসর ছিল না। এঞ্জিনিয়র
+মাচিসন্ সপ্তাইমধ্যে দুই সহস্র মজুর লইয়া কার্য্যারম্ভ করিলেন। জনহীন
+ষ্টোনিহিল অচিরে একটী নগর হইয়া উঠিল।
+
+[ ]{style="display:inline-block; width:2em;"}কয়েক দিন ধরিয়া জাহাজ হইতে
+কেবল যন্ত্রাদি নামিল। কোদালি, কুঠার, খণিত্র---হাতুড়, বাটাল কত যে নামিল
+কে তাহার ইয়ত্তা করে। ভেদন-বস্তু, ছেদন-যন্ত্র---ছিদ্র করিবার, চাঁছিবার
+এইরূপ কত কার্য্যের জন্য কত যন্ত্র জাহাজে বোঝাই হইয়া আসিয়াছিল। ক্রেণ,
+এঞ্জিন, বয়লার, উলুন, রেলপথ---এমন কি লৌহ-নির্ম্মিত ক্ষুদ্র ক্ষুদ্র গৃহ
+পর্য্যন্ত টম্পানগরের বন্দরে নামানো হইল। ষ্টোনিহিল্ টম্পাবন্দর হইতে ১৫
+নাইল দূর। বার্বিকেন এই ১৫ মাইল রেলপথ প্রস্তুত করিতে আরম্ভ করিলেন। একা
+বার্বিকেন এক সহস্র হইলেন। যেখানে অসুবিধা যেখানে মজুরদিগের মধ্যে অসন্তোষ,
+যেখানে কর্ম্মহানির লেশমাত্র সম্ভাবনা, সেইখানেই বার্বিকেন। কোনো বাধাই
+তাঁহার নিকট বাধা বলিয়া গণ্য হইত না। আবশ্যক হইলে তিনিও স্বহস্তে কুঠার
+ধরিতে লাগিলেন। স্বহস্তে মাটি কাটিতে লাগিলেন। তাঁহার অধ্যবসায় ও
+শ্রমশীলতা মজুরদিগের হৃদয়ে উৎসাহ আনিয়া দিল।
+
+::: {.__nop}
+:::
+
+[]{#c5_________________________________.xhtml#id-30 .pagenum .ws-pagenum
+page-number="৩০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%A9%E0%A7%AF"}[ ]{style="display:inline-block; width:2em;"}বার্বিকেন
+১লা নভেম্বর টম্পানগর পরিত্যাগ করিয়া ষ্টোনিহিলে আসিয়াছিলেন। সেখানে তখন
+সারি সারি গৃহ উঠিয়াছে---গৃহে গৃহে কুলি-মজুর, স্থপতি, হুত্রধর, কর্ম্মকার
+প্রভৃতি বাস করিতেছে। কাষ্ঠের প্রাচীরে সেই নব-নির্ম্মিত নগর তখন সুরক্ষিত
+হইয়াছে। নগরের স্থানে স্থানে বৈদ্যুতিক আলোক জ্বলিয়া সকল অন্ধকার দুর
+করিয়া দিতেছে।
+
+[ ]{style="display:inline-block; width:2em;"}ষ্টোনিহিলে আসিয়া বার্বিকেন
+সমুদয় মজুরদিগকে ডাকিয়া মিষ্ট বাক্যে কহিলেন,---"বন্ধুগণ! তোমরা বোধ হয়
+শুনেছ যে আমরা ৯০০ ফিট্ লম্বা একটী কামান তৈরি করে' ঠিক সোজাভাবে মাটীর
+ভিতর বসাতে চাই। পাথরের কুড়ি ফিট্ বেষ্টনী দিয়ে কামানটী ঘেরা থাক্‌বে।
+কাজেই ৬০ ফিট্ প্রশস্ত এবং ৯০০ ফিট্‌ দীর্ঘ একটী কূপ খনন করা প্রয়োজন। এই
+বৃহৎ ব্যাপারটী সুসম্পন্ন হলে তবে আমাদের সকল শ্রম ও অর্থব্যয় সার্থক হবে।
+যদি তোমরা প্রতিদিন দশ হাজার ঘন ফুট্ মাটি কাট্‌তে পার তবেই উপযুক্ত সময়ে
+কাজটা শেষ হ'বে। আমি তোমাদেরই অধ্যবসায় ও কার্য্যপটুতার উপর নির্ভর করে'
+বসে' আছি।"
+
+[ ]{style="display:inline-block; width:2em;"}মজুরগণ প্রাণপণে কাজ করিতে
+লাগিল। ওক-কাষ্ঠের একটী অতি সুদৃঢ় ও বৃহৎ চক্রের উপর প্রস্তরের বেষ্টনিটী
+সিমেণ্ট দ্বারা গ্রথিত হইতে লাগিল। কূপ খননের সঙ্গে সঙ্গে উহা ভূগর্ভে
+নামিতে লাগিল। এই বিপজ্জনক ও দুঃসাহসিক কর্ম্মে নিযুক্ত হইয়া মধ্যে মধ্যে
+দুই চারি জন গুরুতররূপে আহত হইতে লাগিল,---দুই একজন মরিয়াও গেল। কিন্তু সে
+জন্য কেহ নিরুৎসাহ হইল না। দিবসে দিবালোকে এবং রাত্রিতে অতি-তীব্র
+বৈদ্যুতিক আলোকে কাজ চলিতে লাগিল। হাতুড়ির ঠন্
+[]{#c5_________________________________.xhtml#id-31 .pagenum .ws-pagenum
+page-number="৩১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%A6"}ঠন্,
+এঞ্জিনের সোঁ সোঁ, অন্য কল-কারখানার হুড়্ হুড়্ দুড়্ দুড়্ শব্দে সকলের
+কর্ণ বধির হইবার উপক্রম হইল।
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম মাসে কূপটী ১১২ ফিট্
+নামিল। ডিসেম্বরে উহা দ্বিগুণ হইল---পরমাসে ত্রিগুণ দাঁড়াইল। ফেব্রুয়ারি
+মাসে কূপ খনন করিতে করিতে ভূগর্ভে বারি দেখা দিল। তখনই দমকল বসাইয়া
+বার্বিকেন সেই জলরাশি বহুদুরে নিক্ষেপ করিলেন, এবং যে পথে জল উঠিতেছিল,
+তাহা দৃঢ়রূপে বন্ধ করিলেন। খননকার্য্য যেমন চলিতেছিল তেমনি চলিতে লাগিল।
+অকস্মাৎ একদিন ওক-কাষ্ঠের চক্রটার কিয়দংশ ভাঙ্গিয়া গেল---মুহূর্ত্তে
+অনেকগুলি মজুরের জীবলীলা শেষ হইল। তিন সপ্তাহের জন্য সকল কার্য্য বন্ধ
+হইয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্‌ অত্যন্ত বিচলিত
+হইয়া পড়িলেন, কিন্তু বার্বিকেনকে কেহ চঞ্চল দেখিতে পাইল না। তাঁহার ও
+ইঞ্জিনিয়র মার্চিসনের বুদ্ধিবলে চক্রের ভগ্ন-অংশ আবার জোড়া লাগিল। এইরূপে
+খনন করিতে করিতে ১০ই জুন কূপটী নয় শত ফিট্ নামিল। গান্-ক্লাবের সদস্যদিগের
+আনন্দ তখন দেখে কে!
+
+[ ]{style="display:inline-block; width:2em;"}কূপকে কেন্দ্র করিয়া উহা
+হইতে ছয়শত গজ দূরে বারো শত বৃহদাকার উনুন প্রস্তুত করা হইয়াছিল।
+গোল্ডস্প্রিং কোম্পানী কামান প্রস্তুত করিবার ভার লইয়াছিলেন। আটষট্টিখানি
+জাহাজে তখন তাহাদের সতের লক্ষ মণ লৌহ আসিল। কোম্পানী নিজেদের বৃহৎ চুল্লাতে
+উহা একবার গলাইয়া কয়লা ও বালুকার মধ্যে ঢালিয়াছিলেন। উহাকে সম্পুর্ণ-
+রূপে কার্য্যোপযোগী করিবার জন্য দ্বিতীয়বার গলাইবার প্রয়োজন হইয়াছিল।
+সেই গলিত লৌহরাশি ছিদ্রমুখে কটাহ হইতে
+[]{#c5_________________________________.xhtml#id-32 .pagenum .ws-pagenum
+page-number="৩২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%A7"}বাহির
+হইয়া দ্বাদশ শত নালায় কামানের বৃহৎ কূপে প্রবাহিত হইবে এইরূপ ব্যবস্থা
+করা হইয়াছিল!
+
+[ ]{style="display:inline-block; width:2em;"}যেদিন স্থপতির কার্য্য শেষ
+হইল, বার্বিকেন তাহার পরদিন কর্দ্দম, বালুকা এবং খড়-কূটা একত্র মিলাইয়া
+কূপের ঠিক মধ্যস্থলে ৯ ফিট্ ব্যাসের ৯০০ ফিট্ দীর্ঘ কামানের একটা নল
+প্রস্তুত করিতে আরম্ভ করিলেন। এই নল এবং প্রস্তর বেষ্টনীর মধ্যে যে শূন্য
+স্থান ছিল, তাহারই ভিতর গলিত লৌহ ঢালিয়া কামান প্রস্তুতের বন্দোবস্ত
+হইয়াছিল।
+
+[ ]{style="display:inline-block; width:2em;"}কামান ঢালাই করিবার দিন
+প্রভাতে ভীষণ অগ্নিকাণ্ড উপস্থিত হইল। সেই দ্বাদশ-শত চুল্লী দাউ দাউ করিয়া
+জ্বলিতে লাগিল। চিম্‌নীর মুখে হু হু করিয়া ধুম নির্গত হইতে লাগিল। ঊনিশ
+লক্ষ মণ কয়লার ধূমে দিঙ্মণ্ডল আচ্ছন্ন হইয়া গেল! চুল্লীগুলি দুই মাইল
+স্থান ব্যাপিয়া বৃত্তাকারে সজ্জিত ছিল। অগ্নিশিখার শব্দ বজ্রের ন্যায়
+ধ্বনিত হইতে লাগিল। স্থির হইল যে সাঙ্কেতিক কামানের শব্দ হইবামাত্রই একযোগে
+সকল কটাহ হইতে লৌহের স্রোত প্রবাহিত হইবে।
+
+[ ]{style="display:inline-block; width:2em;"}সকল বন্দোবস্ত ঠিক করিয়া
+বার্বিকেন বন্ধুগণসহ নিকটবর্ত্তী একট উচ্চস্থানে কামান লইয়া দাঁড়াইলেন।
+বেলা ঠিক বারোটার সময় কামান দাগা হইল। কামানের ধ্বনি বাতাসে মিলাইতে না
+মিলাইতেই বারোশত কটাহের মুক্ত ছিদ্র-মুখে লৌহের স্রোত বহিতে লাগিল দ্বাদশশত
+অগ্নি-জিহ্ব সর্প যেন দ্বাদশ শত নালার ভিতর দিয়া কেন্দ্রস্থিত কূপের দিকে
+অগ্রসর হইল,---যেন তরল অগ্নি তরঙ্গের পর তরঙ্গ তুলিয়া নৃত্য করিতে করিতে
+ধাইল! এ দৃশ্য কি ভীষণ---কি প্রাণোন্মাদকারী---
+[]{#c5_________________________________.xhtml#id-33 .pagenum .ws-pagenum
+page-number="৩৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%A8"}কি
+বিস্ময়কর! সেই তরল লৌহরাশি যখন হু হু করিয়া কুপমধ্যে নামিতে লাগিল,---যখন
+লক্ষ লক্ষ অগ্নিকণা ঊর্দ্ধমুখে ছুটিতে লাগিল তখন মনে হইল, সহসা যেন একটী
+আগ্নেয়গিরি শির তুলিল! চারিদিকে ভূকম্পন আরম্ভ হইল।
+
+[ ]{style="display:inline-block; width:2em;"}সত্য সত্যই কি কামানটী
+প্রস্তুত হইয়াছে? যদি না হইয়া থাকে তবেই ত সর্ব্বনাশ! আঠারো বৎসরের
+পূর্ব্বে চন্দ্রত আর পৃথিবীর নিকটতম হইবে না! নূতন কামান দেখিবার জন্য
+সকলেই তখন অত্যস্ত ব্যস্ত হইলেন। বার্বিকেনও যে না হইয়াছিলেন তাহা
+নহে---কিন্তু লোকে তাহা বুঝিতে পারিল না। লৌহ ঢালিবার পর এক সপ্তাহ গেল,
+সমিতির সদস্যগণ অধৈর্য্য হইয়া উঠিলেন। জারও এক সপ্তাহ গেল, তখনো কামানের
+নল দিয়া উত্তপ্ত বাষ্পরাশি ঊর্দ্ধে উত্থিত হইতেছিল---তখনো নিকটবর্ত্তী
+ভূমি স্পর্শ করিলে চরণতল দগ্ধ হইতেছিল! কাহার সাধ্য নিকটে যায়। কাহারও
+বারণ না মানিয়া ম্যাট্‌সন্ নিকটে যাইবার চেষ্টা করিলেন, এবং পুড়িয়া
+মরিতে মরিতে বাঁচিয়া গেলেন। ষ্টোনিহিলে তখন কাহারো প্রবেশাধিকার ছিল না।
+বার্বিকেনের আদেশে পূর্ব্ব হইতেই তাহার প্রবেশপথগুলি রুদ্ধ করা হইয়াছিল।
+
+[ ]{style="display:inline-block; width:2em;"}একদিন প্রাতে ম্যাট্‌সন্
+বিমর্ষচিত্তে কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"আর ত' ৪ মাস মাত্র বাকি!
+কবেই বা কামানের ছাঁচটা সরিয়ে ফেলা হ'বে---কবেই বা নলটা মসৃণ হবে---আর
+কতদিনেই বা বারুদ ঢালা হ'বে। আজো কামানের কাছে যাবার যোটী নাই---"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন নীরবে এ কথা
+শুনিলেন, কিন্তু কোনো উত্তর দিলেন না। আরও কিছু দিন অতিবাহিত হইলে পর
+বার্বিকেন কামানের দিকে দশ
+[]{#c5_________________________________.xhtml#id-34 .pagenum .ws-pagenum
+page-number="৩৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%A9"}ফিট্
+মাত্র অগ্রসর হইতে পারিলেন। তখনো মৃদু ভূকম্পন চলিতেইছিল--- তখনো
+চতুর্দ্দিকের ভূমিতল ভেদ করিয়া স্থানে স্থানে উষ্ণ-বাষ্প পূর্ব্ববৎই
+উত্থিত হইতেছিল। আগষ্ট মাসের শেষভাগে ভূমিতল শীতল হইল। কালবিলম্ব না করিয়া
+বার্বিকেন কার্য্যারম্ভ করিলেন। কর্দ্দমের ছাঁচটী প্রস্তরবৎ কঠিন হইয়াছিল,
+বহুশ্রমে তাহা অপসৃত হইল। ক্রমে কামানের অভ্যন্তরটী যথোপযুক্তরূপে মসৃণ করা
+হইতে লাগিল। ২২শে সেপ্টেম্বর দেখা গেল কামান ব্যবহারোপযোগী হইয়াছে।
+মুহূর্ত্তে সেই সংবাদ পৃথিবীর নানা স্থানে প্রচারিত হইয়া পড়িল। কাপ্তেন
+নিকল্ তাঁহার দ্বিতীয় বাজি হারিয়া ক্রোধে ফুলিতে লাগিলেন!
+
+[ ]{style="display:inline-block; width:2em;"}পরদিন যখন ষ্টোনিহিলের
+রুদ্ধদ্বার সর্ব্বসাধারণের জন্য মুক্ত করা হইল, তখন সেখানে যেন একটা বিরাট
+মেলা বসিয়া গেল। সাত সহস্র নর-নারী বিস্ফারিত-নেত্রে ভূ-প্রোথিত কামানের
+দিকে চাহিয়া রহিল। ক্ষুদ্র নগর টম্পা। তাহারই সন্নিকটে এত বড় একটা কাণ্ড
+ঘটিতেছে! নগরে দর্শকের স্থান সঙ্কুলান হইতেছে না দেখিয়া নগরের কর্ত্তাগণ
+পার্শ্ববর্তী গ্রাম ও মাঠ লইয়া নগরের আয়তন বৃদ্ধি করিতেছিলেন। এখন
+ক্ষুদ্র টম্পা একটী বৃহৎ রাজ-নগরীরূপে শোভা পাইতে লাগিল। কত বিপণি বসিল,
+রাজপথে গাড়ী-ঘোড়া ছুটিল---বিদ্যালয়, চিকিৎসালয়, পানাগার, পান্থশালা কত
+যে স্থাপিত হইল তাহার ইয়ত্তা নাই। সমগ্র আমেরিকা আসিয়া যেন টম্পায় বাস
+করিতে লাগিল। আমেরিকান্‌গণ নীরবে বসিয়া থাকিয়া আলস্যে দিন কাটাইবার লোক
+নহে! তাহারা বাণিজ্যকুশল জাতি। চন্দ্রলোকে কামানের গোলা প্রেরণ দেখিবার
+জন্য আসিয়া তাহার৷ টম্পায় বাণিজ্য করিতে
+[]{#c5_________________________________.xhtml#id-35 .pagenum .ws-pagenum
+page-number="৩৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%AA"}আরম্ভ
+করিল। সঙ্গে সঙ্গে বিপুলায়তন এক একটী মালগুদাম নির্ম্মিত হইল,
+বাণিজ্য-বিষয়ক দৈনিক সংবাদপত্র পর্য্যন্ত বাহির হইতে আরম্ভ হইল। তখন
+যুক্তরাজ্যের দক্ষিণাংশের সহিত টম্পানগরের সংযোগ ঘটাইবার জন্য নূতন রেলপথ
+প্রস্তুত হইয়া গেল।
+
+[ ]{style="display:inline-block; width:2em;"}ধর্ম্মপিপাসু মানব যেমন একটী
+তীব্র আবেগ ও আকাঙ্ক্ষা লইয়া তীর্থ-দর্শনে গমন করে, সাত-সহস্র নর-নারী
+সেইরূপ আবেগের সঙ্গে ষ্টোনিহিলের দিকে ধাবিত হইল। তাহারা বাহির হইতে
+কামানটী দেখিয়াই নিরস্ত হইল না, ভূগর্ভে নয়শত ফিট্‌ নামিয়া কামানের
+তলদেশ পর্য্যন্ত দেখিতে লাগিল। নামিবার সুবিধার জন্য বৃহৎ বৃহৎ ক্রেণ
+আনাইয়া বার্বিকেন তাহার সঙ্গে আসন সংযুক্ত করিলেন। দর্শকগণ দর্শনী দিয়া
+সেই আসনে বসিয়া নির্বিঘ্নে পাতালে প্রবেশ করিতে লাগিল। বার্বিকেন পরে
+হিসাব করিয়া দেখিয়াছিলেন যে পাতালগামী যাত্রিগণের নিকট হইতেই তিনি
+১৫৬২৫০০ টাকা দর্শনী পাইয়াছিলেন! এক শুভদিনে সমিতির কর্ম্মবীর সদ্যগণ
+কামানের তলদেশে, ভূ-পৃষ্ঠের নয়শত ফিট্ নীচে মহা সমারোহে ভোজন করিলেন।
+বৈদ্যুতিক আলোকে সেই অন্ধকার পাতাল দিনের মত হইয়া উঠিল। সদস্যগণ ঘোররবে
+জয়ধ্বনি করিতে লাগিলেন! সেই ধ্বনি মসৃণ নলের গাত্রে আহত হইতে হইতে পাতাল
+হইতে নয়শত ফিট্ ঊর্দ্ধে উঠিয়া বিপুল কামান গর্জ্জনের ন্যায় প্রতীয়মান
+হইল!
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ আনন্দে আত্মহারা
+হইয়া কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"সমস্ত পৃথিবীর রাজত্ব পেলেও
+আজ আমি এ স্থান ত্যাগ ক'র্‌ব না। এখনই যদি কেহ এই বিশাল কামানে বারুদ ভরে'
+গোলা পূরে' []{#c5_________________________________.xhtml#id-36 .pagenum
+.ws-pagenum page-number="৩৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%AB"}আগুন
+দেয়---আমি তা'তেও রাজি। বরং রেণু রেণু হয়ে যাব---তবুও এক ইঞ্চি নড়্‌ব
+না। জয় গান্-ক্লাবের জয়---জয় যুক্তরাজ্যের জয়---জয় চন্দ্রলোকের জয়।"
+
+[ ]{style="display:inline-block; width:2em;"}সদস্যগণ সুরাপাত্র-করে
+কামানের অভ্যন্তরে গর্জ্জিয়া উঠিলেন,---"জয় গান্-ক্লাবের জয়---জয়
+যুক্তরাজ্যের জয়---জয় চন্দ্রলোকের জয়।"
+
+[ ]{style="display:inline-block; width:2em;"}তখন ধরণীপৃষ্ঠে সহস্র-কণ্ঠে
+ধ্বনিত হইল,---"জয় গান্-ক্লাবের জয়---জয় যুক্তরাজ্যের জয়---জয়
+চন্দ্রলোকের জয়।"
+
+[ ]{style="display:inline-block; width:2em;"}পাতালে ভোজন সমাপন করিয়া
+প্রফুল্ল ও গর্ব্বিতচিত্তে বার্বিকেন উপরে উঠিয়াই দেখিলেন, তাঁহার জন্য
+একখানি টেলিগ্রাম অপেক্ষা করিতেছে। বার্বিকেন ভাবিলেন, কেহ হয়ত আনন্দ
+জ্ঞাপন করিয়াছেন। টেলিগ্রামখানি খুলিয়া পড়িবামাত্রই বার্বিকেনের মুখশ্রী
+পাণ্ডুবর্ণ হইয়া গেল। রুমালে মুখ মুছিয়া তিনি আবার উহা পড়িলেন---আবার
+পড়িলেন---আাবার পড়িলেন! ভাবিলেন, অর্থ-বোধ হইল না! তাই ত'! এও কি সম্ভব!
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন কম্পিত-করে
+টেলিগ্রামখানি ম্যাট্‌সনের হস্তে দিলেন। ম্যাট্‌সন্ উচ্চ-কণ্ঠে পাঠ
+করিলেন,---
+
+::: {style="float:right; margin-right:0em; width:auto; text-align:inherit;"}
+::: {.center style="width:auto; margin-left:auto; margin-right:auto;"}
+ফ্রান্স---প্যারি।\
+৩০ সেপ্টেম্বর---প্রভাত।
+:::
+:::
+
+::: {style="clear:right;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন। টম্পানগর।
+ফ্লোরিডা। যুক্তরাজ্য।
+
+[ ]{style="display:inline-block; width:2em;"}আপনার গোলাকার গোলকের
+পরিবর্ত্তে ফাঁপা ডিম্বাকৃতি গোলা প্রস্তুত করুন। আমি উহার ভিতরে বসিয়া
+চন্দ্রলোকে যাইব! আমি আসিতেছি। আজই 'আট্‌লাণ্টা' জাহাজে লিভারপুল ছাড়িব।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+মাইকেল আর্দ্দান।[ ]{style="display:inline-block; width:2em;"}
+:::
+
+::: {.__nop}
+:::
+
+[]{#c5_________________________________.xhtml#id-37 .pagenum .ws-pagenum
+page-number="৩৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%AC"}[ ]{style="display:inline-block; width:2em;"}গৃহ
+হইতে গৃহান্তরে, রাজপথ হইতে পথান্তরে---উদ্যানে, বিপণিতে, কর্ম্মশালায়,
+জাহাজ-ঘাটায়, রেল-ষ্টেশনে, ডাকঘরে সর্ব্বত্র এক কথা---চন্দ্রলোকে মানুষ
+যাবে! কেহ বলিল, মাইকেল আর্দ্দান নামে লোকই নাই---ওটা দুষ্ট-লোকের তামাসা
+মাত্র! কেহ বলিল, ওটা ফরাসী জাতির পাগলামীর নমুনা। ইহাও কি কখনো সম্ভব যে
+পৃথিবীর মানুষ চন্দ্রলোকে যাইবে! বাতাস পাইবে কোথায়? নিঃশ্বাস লইবে কি
+প্রকারে? আাবার ফিরিয়া আসিবে কেমন করিয়া?
+
+[ ]{style="display:inline-block; width:2em;"}তৎক্ষণাৎ লিভারপুলের
+জাহাজ-ঘাটায় তারে সংবাদ গেল। এক ঘণ্টার মধ্যে উত্তর আসিল,---"টম্পানগরে
+যাইবার জন্য আট্‌লাণ্টা জাহাজ বন্দর ছাড়িয়াছে। সেই জাহাজে ফরাসী
+বৈজ্ঞানিক মাইকেল আর্দ্দান্ যাইতেছেন।"
+
+[ ]{style="display:inline-block; width:2em;"}সংবাদ পাইয়া বার্বিকেনের
+নয়নদ্বর জ্বলিয়া উঠিল---হস্ত মুষ্টিবদ্ধ হইল।
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্‌ কহিলেন,---"তবে
+দেখ্‌ছি এ সেই দুঃসাহসিক মাইকেল আর্দ্দান!"
+
+[ ]{style="display:inline-block; width:2em;"}আমেরিকার নগরে নগরে, গ্রামে
+গ্রামে মাইকেল আর্দ্দানের নাম মুখে মুখে ফিরিতে লাগিল। অনেকেই
+কহিল,---"আহা! অতবড় বৈজ্ঞানিক, দেখছি---উন্মাদ-রোগগ্রস্ত হ'য়েছেন!"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন নিজের মতামত
+প্রকাশ না করিয়া তাঁহার কণ্ট্রাক্টর ব্রেড-উইল্ কোম্পানীকে
+জানাইলেন,---"আমি পুনরায় সংবাদ না দিলে গোলা প্রস্তুত করিবেন না।"
+
+[ ]{style="display:inline-block; width:2em;"}এ কথা যাহারা শুনিল, তাহারা
+কহিল---"ধীর স্থির বার্বিকেনও
+[]{#c5_________________________________.xhtml#id-38 .pagenum .ws-pagenum
+page-number="৩৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%AD"}দেখ্‌ছি
+পাগল হ'য়ে গেলেন। আমেরিকার কামানের গোলা আর তবে চন্দ্রলোকে যায় না।"
+
+[ ]{style="display:inline-block; width:2em;"}দেখিতে দেখিতে টম্পানগরের
+লোক সংখ্যা দ্বিগুণ, ত্রিগুণ, চতুর্গুণ হইয়া উঠিল। নগরে খাদ্যের অভাব হইতে
+আরম্ভ হইল। মাইকেল আর্দ্দানকে দেখিবার জন্য কেহ জাহাজে, কেহ রেলে, কেহ
+লঞ্চে টম্পামুখে ছুটিল! টম্পার পার্শ্ববর্ত্তী ক্ষেত্রসমূহ শত সহস্র
+পট্টাবাসে আচ্ছাদিত হইয়া বস্ত্রের নগররূপে প্রতিভাত হইতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}২০শে অক্টোবর প্রভাতে দেখা
+গেল, দূরে দিগ্বলয়ের কাছে জাগজের ধূম। সমুদ্র-তীরে লোকারণ্য হইল। সন্ধ্যার
+সময় বিপুল হলহলা রব মধ্যে যখন জাহাজ আসিয়া ঘাটে ভিড়িল, তখন ক্ষুদ্র বৃহৎ
+পাঁচ ছয় শত তরণী উহাকে ঘিরিয়া ধরিল।
+
+[ ]{style="display:inline-block; width:2em;"}সর্ব্বাগ্রে জাহাজে উঠিয়া
+বার্বিকেন কহিলেন,---"মাইকেল আর্দ্দান!"
+
+[ ]{style="display:inline-block; width:2em;"}একজন আরোহী উত্তর
+দিলেন,---"এই যে হাজির!"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন নিরুদ্ধ-নিঃশ্বাসে
+তাঁহার মুখের দিকে চাহিলেন। দেখিলেন, আর্দ্দানের বয়স চল্লিশের অধিক হইবে
+না। তাঁহার দীর্ঘ দেহ, মস্তক অপেক্ষাকৃত বৃহৎ। সেই বৃহৎ মস্তকে ধূসরবর্ণ
+কেশদাম মন্দ পবনে উড়িতেছে---যেন সিংহের কেশর দুলিতেছে। তাঁহার আয়ত ললাট
+একটু উচ্চ। গুম্ফ মার্জ্জার-গুম্ফের ন্যায় দীর্ঘ, নাসিকা বংশীর ন্যায়,
+নয়নদ্বয় উজ্জ্বল। তাঁহার বাহুযুগল সবল---দেহ সুগঠিত---চলনভঙ্গী শক্তি
+জ্ঞাপক। তাঁহার পরিচ্ছদ শ্লথ-বিন্যস্ত, জামার আস্তিন্ বোতানশূন্য!
+
+[ ]{style="display:inline-block; width:2em;"}ফ্রান্সে এবং য়ুরোপে মাইকেল
+আর্দ্দানকে সকলেই জানিত।
+[]{#c5_________________________________.xhtml#id-39 .pagenum .ws-pagenum
+page-number="৩৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%AE"}তাহারা
+জানিত যে সেই সরলপ্রাণ অনাড়ম্বর দুঃসাহসিক ব্যক্তির হৃদয়ে একটা
+কর্ম্ম-ব্যাকুলতা সর্ব্বদা তপ্ত অনলের মত প্রজ্জ্বলিত থাকিত। তিনি শুধু এই
+কথাই বলিতেন যে আমরা যাহাকে অসম্ভব বলি, পৃথিবীতে তাহাও সম্ভব হইয়া
+দাঁড়ায়।
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন আত্ম-বিস্মৃত
+হইয়া এই অদ্ভুত লোকটীকে দেখিতেছিলেন, সহসা বহুলোকের সমবেত কণ্ঠে জয়ধ্বনি
+শুনিয়া তাঁহার চমক ভাঙ্গিল। তিনি দেখিলেন জাহাজ লোকে পূর্ণ হইয়া গিয়াছে।
+আর্দ্দান শত শত ব্যক্তির সহিত করমর্দ্দন করিতেছেন। করমর্দ্দন করিতে করিতে
+আর্দ্দান যখন দেখিলেন যে সে জনস্রোতের অন্ত নাই---তখন তিনি কালবিলম্ব না
+করিয়া আপন কক্ষে পলায়ন করিলেন। বার্বিকেন নীরবে তাঁহার অনুগমন করিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}কক্ষে প্রবেশ করিয়াই
+বার্বিকেন কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"আপনি তা' হ'লে চন্দ্রলোকে
+যাওয়াই স্থির ক'রেছেন?"
+
+[ ]{style="display:inline-block; width:2em;"}"নিশ্চয়।"
+
+[ ]{style="display:inline-block; width:2em;"}"কিছুতেই নিবৃত্ত হ'বেন না।"
+
+[ ]{style="display:inline-block; width:2em;"}"না। কিছুতেই নয়।"
+
+[ ]{style="display:inline-block; width:2em;"}"আপনার প্রস্তাব যে কত
+গুরুতর সে বিষয়ে অবশ্যই সকল কথা ভেবে দেখেছেন?"
+
+[ ]{style="display:inline-block; width:2em;"}"কি আর ভাব্‌বো? আমার কি অত
+সময় নষ্ট করার উপায় আছে? যেই শুন্‌লেম যে চন্দ্রলোকে কামানের একটা গোলা
+যা'চ্ছে, ভাব্‌লেম এই সুযোগে একবার বেড়িয়ে এলে হয়। এ আর এমনই বা কি একটা
+গুরুতর কাজ যে এত ভাব্‌তে হবে!
+
+::: {.__nop}
+:::
+
+[]{#c5_________________________________.xhtml#id-40 .pagenum .ws-pagenum
+page-number="৪০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AA%E0%A7%AF"}[ ]{style="display:inline-block; width:2em;"}"যাবার
+একটা উপায় বোধ হয় ঠাউরেছেন?"
+
+[ ]{style="display:inline-block; width:2em;"}"হাঁ, তা' স্থির ক'রেছি
+বৈকি। তবে জনে জনে সে কথা বলার অবসর আমার নাই। কালই একটা সভা ডাকুন। যদি
+ইচ্ছা হয় সেই সভায় আপনার সমুদয় যুক্তরাজ্যটাকেই নিমন্ত্রণ করুন। যা'
+কিছু বল্‌বার সেই সভাতেই ব'ল্‌বো। কেমন, এতে আপনি রাজি?"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন মন্ত্রমুগ্ধের মত
+কহিলেন, "হাঁ, রাজি।"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেনের সহিত সে দিন
+রাত্রি বারোটা পর্য্যন্ত আর্দ্দানের অনেক কথা হইয়াছিল বটে, কিন্তু কি কথা
+হইয়াছিল কেহ তাহা বলিতে পারে না।
+
+[ ]{style="display:inline-block; width:2em;"}দ্বিপ্রহর রজনীতে লোকে
+দেখিল, বার্বিকেন হৃষ্টচিত্তে জাহাজ হইতে নামিতেছেন। তাঁহার মূর্ত্তি
+দেখিয়া মনে হইল, হৃদয়ের গুরুভার আর নাই।
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c18_Rule_Segment___Tear_Left___40px.svg_40px_Rule_Segment___Tear_Left___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c20_Rule_Segment___Tear_Right___40px.svg_40px_Rule_Segment___Tear_Right___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c6________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%B7%E0%A6%B7%E0%A7%8D%E0%A6%A0_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c6________________________________.xhtml#id-41 .pagenum .ws-pagenum
+page-number="৪১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%A6"}
+
+::: {.wst-center .tiInherit}
+[**ষষ্ঠ পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[মাইকেল আর্দ্দান]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**প**]{style="font-size: 144%;"}রদিন
+প্রভাতে বার্বিকেন একটী বিরাট সভা আহ্বান করিলেন। টম্পানগরের নূতন বৃহৎ
+টাউনহলে স্থান হইবে না বুঝিয়া বার্বিকেন উন্মুক্ত ক্ষেত্রের মধ্যে জাহাজের
+পর্দ্দা দিয়া একটী প্রকাণ্ড মণ্ডপ প্রস্তুত করিলেন। সভা আরম্ভ হইবার বহু
+পূর্ব্ব হইতেই লোকে লোকারণ্য হইয়া গেল। যখন সভা আরম্ভ হইল, তখন মনে হইল
+একটী বিরাট জনসমুদ্র হেলিতেছে দুলিতেছে---কখনো বা কাঁপিয়া উঠিতেছে। কেহ
+কেহ অনুমান করিয়াছিলেন যে সভাতলে তিন লক্ষ লোক উপস্থিত হইয়াছিল। যাহারা
+মণ্ডপে স্থান পায় নাই তাহারা মুক্ত প্রান্তরে দাঁড়াইয়াছিল!
+
+[ ]{style="display:inline-block; width:2em;"}মাইকেল আর্দ্দান ও বার্বিকেন
+একটী মঞ্চের উপর আসন গ্রহণ করিয়াছিলেন। সেই বিশাল জনতার সম্মুখে মাইকেল
+আর্দ্দান নিঃশঙ্কচিত্তে দাঁড়াইলেন এবং বলিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"বন্ধুগণ! আমি যে কেমন ক'রে
+চন্দ্রলোকে যেতে চাই, তার একটা কৈফিয়ৎ দিবার জন্যই আজ সভা আহূত হ'য়েছে।
+আমি আগেই ব'লে রাখি, প্রশংসা বা নিন্দা কিছুই আমাকে স্পর্শ ক'র্‌বে না।"
+
+[ ]{style="display:inline-block; width:2em;"}"আমি বিশ্বাস করি যে একদিন
+না একদিন চন্দ্রলোকে যাবার অনেক সুব্যবস্থা হ'বে। উন্নতিই সংসারের রীতি। এই
+দেখুন না, []{#c6________________________________.xhtml#id-42 .pagenum
+.ws-pagenum page-number="৪২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%A7"}প্রথমে
+গোযান, তারপর অশ্বযান, তারপর রেলগাড়ী! আমি বলি ভবিষ্যতে মানুষ কেবল
+কামানের গোলায় চড়েই যাতায়াত ক'র্‌বে। এতে সময় লাগে কম, অথচ পথশ্রম
+নাই।"
+
+[ ]{style="display:inline-block; width:2em;"}"আপনারা ব'ল্‌বেন, গোলকটী যে
+ভয়ানক বেগে চ'ল্‌বে, তা'তে ওর ভিতর থাক্‌তে পারে কার সাধ্য! কিন্তু এ
+কথাটা আদৌ ভাব্‌বার কথা নয়। আমাদের পৃথিবী---এই যে সব চেয়ে ছোট এতটুকু
+পৃথিবী---সে ত ঘণ্টায় ২৯১০০ মাইলের কম চলে না! আর দেখুন দেখি, আমরা কত
+অলস। কেহ কেহ বলেন, মানুষ একটা সীমাবদ্ধ জীব। তাকে সেই গণ্ডীর ভিতর
+থাক্‌তেই হ'বে! পৃথিবী ছেড়ে গ্রহলোকে যাবার অধিকার তার নাই। কিন্তু এটা
+মস্ত ভুল। সভ্যতার সঙ্গে সঙ্গে সে উপায়ও আবিষ্কৃত হ'বে। আজ আমরা যেমন
+পৃথিবীর সমুদ্রটা হেলায় উত্তীর্ণ হচ্ছি, কালে তেমনি আকাশ-সমুদ্রও পার
+হ'য়ে যাব! তখন বিশ বৎসরের মধ্যে দেখা যাবে, পৃথিবীর অর্দ্ধেক লোক
+চন্দ্রমণ্ডলে বেড়াতে চ'লেছে।"
+
+[ ]{style="display:inline-block; width:2em;"}একজন শ্রোতা কহিলেন,
+"গ্রহাদিতে কি কোন জীব-জন্তু আছে?"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান। আছে বৈ কি!
+কুটার্ক, সুয়েডেনবার্গ, বার্ণাডিন প্রভৃতি পণ্ডিতগণ পরীক্ষায় স্থির
+ক'রেছেন যে গ্রহাদিতেও জীব-জন্তু আছে!"
+
+[ ]{style="display:inline-block; width:2em;"}আর একজন দর্শক
+কহিলেন,---"গ্রহাদি যে বাসোপযোগী নয়---এরও ত অনেক প্রমাণ আছে। আর যদি
+সেগুলি বাসের যোগ্যই হয়, তা' হ'লে জীবনধারণের উপায়গুলিকেও বদ্‌লে নিতে
+হ'বে।"
+
+::: {.__nop}
+:::
+
+[]{#c6________________________________.xhtml#id-43 .pagenum .ws-pagenum
+page-number="৪৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%A8"}[ ]{style="display:inline-block; width:2em;"}আর্দ্দান।
+তা' ত' বটেই! তা' যেটা যেমন উপস্থিত হ'বে, তেমনি করা যাবে। আমি ত' একজন
+মূর্খ অজ্ঞ লোক। গ্রহাদিতে কোন জীব বাস করে কিনা তা' ঠিক জানি না। জানি না
+বলেই ত' দেখ্‌তে যাচ্ছি।"
+
+[ ]{style="display:inline-block; width:2em;"}চারিদিক হইতে তখন একটী বিপুল
+হল্‌হলা রব উত্থিত হইল। শ্রোতৃমণ্ডলী একটু শান্ত হইলে পর মাইকেল আর্দ্দান
+বলিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"বন্ধুগণ! গ্রহ নক্ষত্রাদিতে
+যে জীব বাস করে, ইচ্ছা করলে তার অনেক প্রমাণ দিতে পারা যায়। সে উপদেশ
+দিবার জন্য ত' আমি এখানে আসি নাই। যদি কেহ বিশ্বাস করেন যে সৌরজগৎ বাসের
+যোগ্য নয়, তাঁকে এই কথাই ব'ল্‌তে চাই যে আমাদের এই ক্ষুদ্র পৃথিবীটাই যে
+বাস্তবিকই বাসের যোগ্য তার প্রমাণ কি? আপনারা দেখ্‌ছেন ত' যে পৃথিবীর
+উপগ্রহ মাত্র একটী। আর এমন গ্রহও আছে যাদের উপগ্রহের সংখ্যা একের অধিক।
+তবুও সেগুলি হ'লো না বাসের যোগ্য---এ কথা কি কেহ বিশ্বাস ক'র্‌তে পারে?
+পৃথিবীর ঋতুভেদ দেখুন কি একটা অসুবিধার ব্যাপার! কখনো দারুণ গ্রীষ্ম, কখনো
+দারুণ শীত! পৃথিবী আপন অক্ষ-রেখার উপর একটু বেশী বক্রভাবে অবস্থিত থেকে
+সূর্য্যকে প্রদক্ষিণ করে বলেই ত' দিন ও রাত্রি এবং ঋতুভেদ। এই ঋতু
+পরিবর্ত্তনের সময়েই যত রোগ এসে আমাদের ধরে! কিন্তু জুপিটারকে দেখুন দেখি।
+সে তার অক্ষরেখার উপর সামান্য বক্রভাবে অবস্থিত। সুতরাং সে স্থানে ঋতুভেদ
+নাই---রোগও তাই কম হ'বেই! জুপিটার যে এই বিষয়ে পৃথিবী অপেক্ষ শ্রেষ্ঠ তা'
+ত' বোঝাই যাচ্ছে।"
+
+::: {.__nop}
+:::
+
+[]{#c6________________________________.xhtml#id-44 .pagenum .ws-pagenum
+page-number="৪৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%A9"}[ ]{style="display:inline-block; width:2em;"}মাইকেল
+আর্দ্দানের কথা শুনিয়া সভার লোক উৎসাহে করতালি দিতে লাগিল। সভা যখন আবার
+শান্ত হইল, তখন একজন শ্রোতা গুরু-গভীর-কণ্ঠে কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"মহাশয়, আপনি ব'ল্‌ছেন যে
+চন্দ্রে জীবের বাস আছে। তা' হ'লে তারা নিশ্চয়ই নিঃশ্বাস লয় না।
+চন্দ্রলোকে ত' বাতাস নাই।"
+
+[ ]{style="display:inline-block; width:2em;"}"তাই নাকি? কেমন করে' সেটা
+জান্‌লেন?\"
+
+[ ]{style="display:inline-block; width:2em;"}"পণ্ডিতেরা বলেন।"
+
+[ ]{style="display:inline-block; width:2em;"}"বটে?"
+
+[ ]{style="display:inline-block; width:2em;"}"নিশ্চয়ই।"
+
+[ ]{style="display:inline-block; width:2em;"}"দেখুন, যাঁরা জেনে শুনে
+দেখে পণ্ডিত, তাঁদের উপর আমার যথেষ্ট শ্রদ্ধা আছে। যাঁরা কিছু না জেনেই
+পণ্ডিত তাঁরা ঘৃণার পাত্র! আপনি বোধ হয়, মনে মনে ভাব্‌ছেন যে চন্দ্রে
+বাতাস নাই!"
+
+[ ]{style="display:inline-block; width:2em;"}"তার অসংখ্য অখণ্ডনীয়
+প্রমাণ আমি দিতে পারি। আপনি বোধ হয় জানেন যে, যখন সূর্যের কর বাতাসের ভিতর
+দিয়ে আসে, তখন ঠিক সরল রেখায় আাসতে পারে না---একটু বক্রভাবে আসে। একেই
+বলে আলোক রশ্মির পরাবৃত্তি। চন্দ্র যখন নক্ষত্রকে আবৃত করে, তখন নক্ষত্রের
+আলোক-রেখা চন্দ্রমণ্ডলের প্রান্তভাগ ঘেঁসে আসে, কিন্তু তিল মাত্র পরাবৃত্তি
+ঘটে না। এতেই ত' প্রমাণ হ'চ্ছে চন্দ্রে বাতাস নাই।"
+
+[ ]{style="display:inline-block; width:2em;"}একটু বিদ্রূপের কণ্ঠে
+আর্দ্দান কহিলেন, "তাই নাকি?"
+
+[ ]{style="display:inline-block; width:2em;"}প্রশ্নকারী গম্ভীরভাবে উত্তর
+দিলেন,---"তা' বৈ কি। ১৭১৫ সালে জ্যোতির্ব্বিদ্ লুভিলে এবং হেলি
+চন্দ্রগ্রহণ পর্য্যবেক্ষণ ক'রেছিলেন।
+[]{#c6________________________________.xhtml#id-45 .pagenum .ws-pagenum
+page-number="৪৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%AA"}তাঁরা
+দেখ্‌লেন, চন্দ্রে এক অদ্ভুত আলোক রশ্মি দেখা যাচ্ছে। তাঁরা উল্কা প্রভৃতির
+আলোক দেখেই চন্দ্রের আলোক ব'লে মনে ক'রেছিলেন।"
+
+[ ]{style="display:inline-block; width:2em;"}"বেশ, ও কথা তবে ছেড়ে দিন।
+১৭৮৭ সালে কি হার্সেলের ন্যায় জগন্মান্য পণ্ডিত চন্দ্রে আলোক-বিন্দু দেখেন
+নাই?"
+
+[ ]{style="display:inline-block; width:2em;"}"দেখেছিলেন, কিন্তু সেগুলি
+যে কি, তা' তিনি নিজেই ঠিক ক'র্‌তে পারেন নাই।"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান কহিলেন,---"চন্দ্র
+সম্বন্ধে আপনার অনেক অভিজ্ঞতা আছে দেখছি ত'।"
+
+[ ]{style="display:inline-block; width:2em;"}"হাঁ, আছে বৈ কি।
+মুসেঁবিয়ার বা মড্‌লারের মত বিচক্ষণ পর্য্যবেক্ষকও স্বীকার ক'রেছেন যে
+চন্দ্রে বাতাস নাই।"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান গম্ভীর-কণ্ঠে
+জিজ্ঞাসা করিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"ফরাসী জ্যোতির্ধ্বিৎ মুসেঁ
+লসেদতের নাম বোধ হয় জানা আছে?"
+
+[ ]{style="display:inline-block; width:2em;"}"আছে বৈ কি?"
+
+[ ]{style="display:inline-block; width:2em;"}"তাঁর পর্য্যবেক্ষণের উপরও
+শ্রদ্ধা আছে?"
+
+[ ]{style="display:inline-block; width:2em;"}"আছেই ত'।"
+
+[ ]{style="display:inline-block; width:2em;"}"চন্দ্রে যে বাতাস নাই, তিনি
+ত' এ কথা বলেন নাই। বরং বলেন বাতাস আছে।"
+[ ]{style="display:inline-block; width:2em;"}"থাক্‌তে পারে, কিন্তু সে
+বাতাস নিশ্চয়ই লঘু---মানুষের যোগ্য নয়।"
+
+[ ]{style="display:inline-block; width:2em;"}"যতই লঘু হোক্, একজনের মত
+বাতাস পাওয়াই যাবে। একবার চন্দ্রলোকে যেতে পার্‌লে হয়, বাতাসের ব্যবস্থা
+সেখানেই করে []{#c6________________________________.xhtml#id-46 .pagenum
+.ws-pagenum page-number="৪৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%AB"}নেবো।
+না হয়, নিতান্ত আবশ্যক না হ'লে নিঃশ্বাসই নেবো না। চন্দ্রে যেমন বাতাসই
+থাক্, বাতাস আছে এটা যখন স্বীকার ক'র্‌ছেন, তখন এটাও স্বীকার ক'র্‌ছেন যে
+জলও আছে। কারণ জল না থাক্‌লে ত' বাতাস থাকে না।"
+
+[ ]{style="display:inline-block; width:2em;"}"তা' যেন হলো---গোলাটা যখন
+বায়ুস্তর ভেদ করে' উঠ্‌বে, তখন সেই ঘর্ষণে যে উত্তাপ হবে তাতেই---"
+
+[ ]{style="display:inline-block; width:2em;"}বাধা দিয়া আর্দ্দান
+বলিলেন---"আমি পুড়ে' মরবো, কেমন? তা' পুড়ছিনে! বায়ুস্তর পার হ'তে কয়
+সেকেণ্ড লাগ্‌বে তা জানেন ত? গোলকের পাশটাও খুবই পুরু।"
+
+[ ]{style="display:inline-block; width:2em;"}"খাদ্যসামগ্রী---জল---এ সবের
+কি হবে?"
+
+[ ]{style="display:inline-block; width:2em;"}"এক বৎসরের মত সঙ্গে নিয়ে
+যাব। পথে ত মোটেই ৪ দিন থাক্‌তে হবে, তারপর সেখানে যেয়ে ব্যবস্থা করা
+যাবে!"
+
+[ ]{style="display:inline-block; width:2em;"}"পথে নিশ্বাস নেবার বাতাস
+পাবেন কোথায়?"
+
+[ ]{style="display:inline-block; width:2em;"}"রাসায়নিক প্রক্রিয়ায়
+তৈরি করে' নেবো।"
+
+[ ]{style="display:inline-block; width:2em;"}"চন্দ্রলোকে যদি যেতেই
+পারেন, তা' হ'লে সেখানে যেয়ে যখন আছাড় খেয়ে পড়বেন তখন---"
+
+[ ]{style="display:inline-block; width:2em;"}"পৃথিবীতে পড়লে যতটা বেগে
+প'ড়তাম,বেগ তার চেয়ে ত অন্ততঃ ছয় গুণ কম হবে!"
+
+[ ]{style="display:inline-block; width:2em;"}"তা' হো'ক্---কিন্তু তাতেই
+যে আপনি কাচের টুক্‌রার মত রেণু রেণু হবেন!"
+
+[ ]{style="display:inline-block; width:2em;"}"ইচ্ছা কর্‌লেই ত পতন-বেগ
+কমাতে পার্‌বো। আমি কতকগুলো হাউই-বাজি সঙ্গে নেবো। উপযুক্ত সময়ে তাতে আগুন
+দিলেই গোলার []{#c6________________________________.xhtml#id-47 .pagenum
+.ws-pagenum page-number="৪৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%AC"}একটা
+বিপরীত বেগ আস্‌বে। কাজেই আমি ধীরে ধীরে যেয়ে চন্দ্রলোকে প'ড়বো!"
+
+[ ]{style="display:inline-block; width:2em;"}"আচ্ছা, ধরে নিলাম আপনি
+নির্ব্বিঘ্নে গেলেন---কিন্তু ফির্‌বেন কেমন ক'রে?"
+
+[ ]{style="display:inline-block; width:2em;"}"এ-ই কথা! আমি যে আর ফিরবই
+না!"
+
+[ ]{style="display:inline-block; width:2em;"}যাহারা শুনিল তাহারা
+স্তম্ভিত হইয়া গেল। ভাবিল---এ বলে কি!
+
+[ ]{style="display:inline-block; width:2em;"}প্রশ্নকারী কহিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"আমি দেখ্‌ছি আপনার ঘোর বিপদ
+অতি নিকটে। আপনি ভাব্‌ছেন না যে, যে মুহূর্ত্তে অতবড় একটা গোলা কামানের
+বাহির হবে, অমনি এমন একটা ধাক্কা লাগ্‌বে যে তা'তেই আপনার হাড়-গোড় ভেঙ্গে
+চুর্ণ হ'বে!"
+
+[ ]{style="display:inline-block; width:2em;"}"এতক্ষণে আপনি একটী প্রকৃত
+বাধার কথা বলেছেন দেখ্‌ছি। তা' সেজন্য কোনো চিন্তা নাই। আমার বন্ধু এর একটা
+উপায় ক'র্‌বেনই।"
+
+[ ]{style="display:inline-block; width:2em;"}"কে তিনি, জান্‌তে পারি কি?"
+উত্তর হইল---"বার্বিকেন"।
+
+[ ]{style="display:inline-block; width:2em;"}"যে নির্ব্বোধ এই অসম্ভব
+প্রস্তাবটী তুলে সমস্ত পৃথিবীটাকে মত্ত করেছে?"
+
+[ ]{style="display:inline-block; width:2em;"}কাহারও আর বুঝিতে বাকি রহিল
+না যে প্রশ্নকারী বার্বিকেনকে লক্ষ্য করিয়াই এ কথা কহিলেন। বার্বেকিন আর
+আত্মসংযম করিতে পারিলেন না। মঞ্চ হইতে নামিয়া প্রশ্নকারীর দিকে ধাবিত
+হইবার উপক্রম করিতেই দেখিলেন প্রশ্নকারী জনসমুদ্রে বুদ্বুদের মত মিশিয়া
+গিয়াছেন।
+
+::: {.__nop}
+:::
+
+[]{#c6________________________________.xhtml#id-48 .pagenum .ws-pagenum
+page-number="৪৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%AD"}[ ]{style="display:inline-block; width:2em;"}মাইকেল
+আর্দ্দানের দুঃসাহসিকতায় উন্মত্ত জনসঙ্ঘ বার্বিকেনকে আর মঞ্চ হইতে নামিবার
+অবসর দিল না। তাহারা মাইকেল আর্দ্দান ও বার্বিকেনকে মঞ্চসহ স্কন্ধে তুলিয়া
+লইয়া মহা-সমারোহে জাহাজ-ঘাটার দিকে অগ্রসর হইল। মঞ্চ-বহনের গৌরব লাভ
+করিবার জন্য একটা বিষম কাড়াকাড়ি মারামারি লাগিয়া গেল!
+
+[ ]{style="display:inline-block; width:2em;"}প্রশ্নকারী এই গোলযোগের
+সুযোগে পলায়ন না করিয়া মঞ্চের সঙ্গে সঙ্গে জাহাজ-ঘাটার দিকে অগ্রসর
+হইলেন।
+
+[ ]{style="display:inline-block; width:2em;"}জনসঙ্ঘ যখন মঞ্চটী বহিয়া
+আনিয়া টম্পানগরের বন্দরে নামাইল তখন বার্বিকেন ও আর্দ্দান ভূপৃষ্ঠে অবতরণ
+করিলেন। বার্বিকেন দেখিলেন তাঁহার সম্মুখেই সেই প্রশ্নকারী! তিনি
+রুষ্টকণ্ঠে কহিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"এদিকে আসুন---কথা আছে।"
+
+[ ]{style="display:inline-block; width:2em;"}প্রশ্নকারী বিনা বাক্যব্যয়ে
+বার্বিকেনের অনুসরণ করিয়া সমুদ্রতীরের একটী নির্জ্জন স্থানে যাইয়া
+উপস্থিত হইলেন। বার্বিকেন তীব্রকণ্ঠে কহিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"মহাশয়ের নাম জান্‌তে পারি
+কি?"
+
+[ ]{style="display:inline-block; width:2em;"}"আমার নাম কাপ্তান নিকল্।"
+
+[ ]{style="display:inline-block; width:2em;"}"নিকল্!"
+
+[ ]{style="display:inline-block; width:2em;"}"হাঁ।"
+
+[ ]{style="display:inline-block; width:2em;"}সহসা তথায় বজ্রপতন হইলেও
+বার্বিকেন এত চমকিত হইতেন না। তিনি কহিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"আজই আমাদের প্রথম সাক্ষাৎ।"
+
+[ ]{style="display:inline-block; width:2em;"}"আমি নিজেই সাক্ষাৎ কর্‌তে
+এসেছি!"
+
+::: {.__nop}
+:::
+
+[]{#c6________________________________.xhtml#id-49 .pagenum .ws-pagenum
+page-number="৪৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%AE"}[ ]{style="display:inline-block; width:2em;"}"আপনি
+আজ আমাকে অপমানিত করেছেন!"
+
+[ ]{style="display:inline-block; width:2em;"}"হাঁ করেছি। দশের শতের
+লক্ষের সম্মুখে করেছি।"
+
+[ ]{style="display:inline-block; width:2em;"}"তার প্রতিশোধ চাই!"
+
+[ ]{style="display:inline-block; width:2em;"}"বেশ ত এখনই---আমি
+প্রস্তুত।"
+
+[ ]{style="display:inline-block; width:2em;"}"না এখন নয়---আমি গোপনে শোধ
+নিতে চাই। টম্পা থেকে তিন মাইল দূরে একটা বন আছে জানেন?"
+
+[ ]{style="display:inline-block; width:2em;"}"খুব জানি।"
+
+[ ]{style="display:inline-block; width:2em;"}"কাল প্রভাত ৫টায় সেখানে
+আস্‌তে পারেন কি?"
+
+[ ]{style="display:inline-block; width:2em;"}"নিশ্চয় পারি, যদি আপনি
+অনুগ্রহ করে আসেন।"
+
+[ ]{style="display:inline-block; width:2em;"}"আপনার বন্দুকটা সঙ্গে
+আন্‌তে ভুল্‌বেন না।"
+
+[ ]{style="display:inline-block; width:2em;"}"আপনিও যেন না ভোলেন!"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন তীরের ন্যায় তথা
+হইতে প্রস্থান করিলেন। সমস্ত রজনী তাঁহার অনিদ্রায় কাটিল। প্রভাতের দ্বৈরথ
+সমরের অপেক্ষায় নহে--- কামান হইতে গোলা বাহির হইবার সময় গোলার গায়ে যে
+ধাক্কা লাগিবে, কি করিলে তাহার বেগ যথাসম্ভব কম হয় সেই চিন্তায়!
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c18_Rule_Segment___Tear_Left___40px.svg_40px_Rule_Segment___Tear_Left___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c20_Rule_Segment___Tear_Right___40px.svg_40px_Rule_Segment___Tear_Right___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c7_________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%AE_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c7_________________________________.xhtml#id-50 .pagenum .ws-pagenum
+page-number="৫০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AB%E0%A7%AF"}
+
+::: {.wst-center .tiInherit}
+[**সপ্তম পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[দ্বৈরথ সমর]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**প**]{style="font-size: 144%;"}রদিন
+অতি প্রভাতে ম্যাট্‌সন্ ঊর্দ্ধশ্বাসে ছুটিয়া আসিয়া মাইকেল আর্দ্দানের
+শয়নকক্ষের দ্বারে ঘন ঘন করাঘাত করিতে লাগিলেন। তখন সমাগত ঊষার মন্দ পবন
+বহিতে আরম্ভ হইয়াছে বটে, কিন্তু রাজপথের দীপালোক নির্ব্বাপিত হয় নাই।
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দানের সাড়া না পাইয়া
+ম্যাট্‌সন্ আবার দ্বারে আঘাত করিতে করিতে কহিলেন---"খুলুন---খুলুন---দ্বার
+খুলুন। দোহাই ধর্ম্মের খুলুন। বড় বিপদ উপস্থিত।"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্ শশব্যস্তে
+শয্যাত্যাগ করিয়া দ্বার খুলিবামাত্র ম্যাট্‌সন্ একলম্ফে প্রবেশ করিয়া
+কহিলেন---"কাল সভায় একজন ভদ্রলোক বার্বিকেনকে অপমানিত করেছিলেন বলে'
+বার্বিকেন তাঁকে দ্বৈরথ সমরে আহ্বান করেছেন। সে অপমানকারী বার্বিকেনের
+চিরশত্রু কাপ্তান নিকল্! আজ প্রভাতেই সমর। হয় নিকল্ না হয়
+বার্বিকেন------দু'জনের একজনকে আজ মর্‌তেই হবে! বার্বিকেন নিজেই আমাকে এ
+কথা বলেছেন। যেমন করেই হোক্ এ যুদ্ধ এখন বন্ধ রাখ্‌তেই হবে। বার্বিকেনকে
+আমরা এখন কিছুতেই মর্‌তে দিতে পারি না। আপনি চেষ্টা না কর্‌লে আর উপায়
+দেখ্‌ছি না।"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্ ক্ষিপ্রহন্তে বেশ
+পরিবর্ত্তন করিতে করিতে কহিলেন---
+[]{#c7_________________________________.xhtml#id-51 .pagenum .ws-pagenum
+page-number="৫১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%A6"}"আপনাদের
+দেশের লোক দেখ্‌ছি তুচ্ছ কথায় বন্য পশুর মত নরহত্যা করতে কুণ্ঠিত নন!
+বার্বিকেন্ কোথায়?"
+
+[ ]{style="display:inline-block; width:2em;"}"জানি না---বোধ হয় এতক্ষণ
+সমরাঙ্গণে।"
+
+[ ]{style="display:inline-block; width:2em;"}"কোথায় সে সমরাঙ্গণ?"
+
+[ ]{style="display:inline-block; width:2em;"}"সহরের নিকটেই যে বন
+আছে---সেই বনে।"
+
+[ ]{style="display:inline-block; width:2em;"}উভয়ে কালবিলম্ব না করিয়া
+কাননাভিমুখে অগ্রসর হইলেন। রাজ পথ দিয়া গেলে বিলম্ব হইবে আশঙ্কায় তাঁহারা
+শিশির-সিক্ত উন্মুক্ত প্রান্তরে নামিলেন এবং পরে পয়ঃনালী উল্লম্ফনপূর্ব্বক
+তীরবেগে ধাবিত হইলেন। ম্যাট্‌সন্ যাইতে যাইতে বার্বিকেনের সহিত নিকলের
+প্রতিদ্বন্দ্বিতা ও বিরোধের সকল কথা প্রকাশ করিয়া বলিতে লাগিলেন। এমন সময়
+একজন কাঠুরিয়ার সঙ্গে তাঁহাদের সাক্ষাৎ হইল।
+
+[ ]{style="display:inline-block; width:2em;"}কাঠুরিয়াকে দেখিয়াই
+আর্দ্দান্ জিজ্ঞাসা করিলেন, "বনে একজন শিকারীকে দেখেছ কি?"
+
+[ ]{style="display:inline-block; width:2em;"}"হাঁ, দেখেছি।"
+
+[ ]{style="display:inline-block; width:2em;"}"কখন দেখ্‌লে?"
+
+[ ]{style="display:inline-block; width:2em;"}"সে অনেকক্ষণ---প্রায় এক
+ঘণ্টা হবে।"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ ও আর্দ্দান্
+সমস্বরে বলিয়া উঠিলেন,---এক ঘণ্টা! তবে বুঝি এতক্ষণ শেষ হ'য়ে গেল! তুমি
+বন্দুকের শব্দ শুনেছ কি?"
+
+[ ]{style="display:inline-block; width:2em;"}কাঠুরিয়া কহিল,---"না।"
+
+[ ]{style="display:inline-block; width:2em;"}"একবারও না?
+
+[ ]{style="display:inline-block; width:2em;"}না।"
+
+[ ]{style="display:inline-block; width:2em;"}"কোন্ দিকে শিকারীকে
+দেখ্‌লে?"
+
+::: {.__nop}
+:::
+
+[]{#c7_________________________________.xhtml#id-52 .pagenum .ws-pagenum
+page-number="৫২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%A7"}[ ]{style="display:inline-block; width:2em;"}কাঠুরিয়া
+অঙ্গুলি নির্দ্দেশে বনের গভীর অংশ দেখাইল। ম্যাট্‌সনের হাত ধরিয়া টানিয়া
+লইয়া আর্দ্দান সেই দিকে ধাবিত হইলেন। তখনো কাননে অরুণের রক্তরাগ প্রবেশ
+করে নাই। তখনো তিমিরাবৃতা রজনীর অন্ধকার স্নেহালিঙ্গনে বৃক্ষশাখাদিগকে
+জড়াইয়া রাখিয়াছিল। সুদীর্ঘ ওক, পত্রবহুল তিন্তিড়ী, বৃহৎ ম্যাগ নোলিয়া
+প্রভৃতির উচ্চশির তখন অরুণ রাগে উজ্জ্বল হইতেছিল মাত্র। বৃক্ষে বৃক্ষে,
+শাখায় শাখায়, শাখায় পল্লবে, লতায় শাখায়, জড়াজড়ি, মিশা-মিশি করিয়া
+কাননের সেই অংশকে এতই নিবিড় ঘন করিয়াছিল যে দশ হস্ত মাত্র দূরে কেহ
+দণ্ডায়মান থাকিলেও সহসা দেখিবার উপায় ছিল না। স্থান হইতে স্থানান্তরে বনে
+বনে ঘুরিয়াও যখন বার্বিকেনকে দেখা গেল না, তখন আর্দ্দান্ কহিলেন,---"হয়ত
+বার্বিকেন্ দ্বৈরথ সমরের সঙ্কল্প ত্যাগ ক'রেছেন---বনে আসেন নাই।"
+
+[ ]{style="display:inline-block; width:2em;"}গর্ব্বিত-কণ্ঠে একটু
+তিরস্কারের সুরে ম্যাট্‌সন্ কহিলেন,---"অসম্ভব! আমেরিকান্ কোনো দিন কথার
+খেলাপ করে না। তার যে কথা, সেই কাজ।"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্ সে কথার উত্তর না
+দিয়া আবার অনুসন্ধান আরম্ভ করিলেন। উচ্চ-কণ্ঠে ডাকিতে
+লাগিলেন,---"বার্বিকেন! বার্বিকেন! নিকল্! নিকল্!" তাঁহার চীৎকার শুনিয়া
+পক্ষিগণ ইতস্ততঃ উড়িয়া বসিতে লাগিল। তাঁহারা উভয়ে আরও উচ্চ-কণ্ঠে ডাকিতে
+লাগিলেন। দুই একটা ভীত মৃগ তাঁহাদিগের পার্শ্ব দিয়া উদ্ধশ্বাসে পলায়ন
+করিল।
+
+[ ]{style="display:inline-block; width:2em;"}উভয়ে আরও গহন বনে প্রবেশ
+করিলেন। কিছু দুর অগ্রসর হইয়াই ম্যাট্‌সন্ থমকিয়া দাঁড়াইলেন।
+কহিলেন,---"ওটা কে দেখুন দেখি---"
+
+::: {.__nop}
+:::
+
+[]{#c7_________________________________.xhtml#id-53 .pagenum .ws-pagenum
+page-number="৫৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%A8"}[ ]{style="display:inline-block; width:2em;"}"নিঃসন্দেহে
+বলা যায় একজন মানুষ।"
+
+[ ]{style="display:inline-block; width:2em;"}"জীবিত? না মৃত? কৈ নড়ে
+চড়ে না ত? কৈ বন্দুক ত হাতে নাই? লতার আড়ালে মুখখানা ঢাকা পড়েছে
+দেখ্‌ছি!"
+
+[ ]{style="display:inline-block; width:2em;"}"চলুন নিকটে যাই।"
+
+[ ]{style="display:inline-block; width:2em;"}উভয়ে প্রচ্ছন্নভাবে আর একটু
+অগ্রসর হইবামাত্রই ম্যাট্‌সন্ চিনিলেন,---"কাপ্তান্ নিকল্। তাঁহার দুই
+চক্ষু দিয়া অগ্নি নির্গত হইতে লাগিল। দন্তে দন্তে নিষ্পেষণ করিয়া তিনি
+কহিলেন, "কাপ্তান নিকল্! নিশ্চয়ই তবে বার্বিকেনের মৃত্যু ঘটেছে?"
+
+[ ]{style="display:inline-block; width:2em;"}"নি-ক-ল্?" আর্দ্দান
+অতিমাত্র বিস্মিত হইয়া কহিলেন--- "নি-ক-ল্!" উভয়ে নিকটে যাইয়া দেখিলেন,
+একটী পক্ষী বিষাক্ত ঊর্ণনাভের জালে আবদ্ধ হইয়া ছট্‌ফট্ করিতেছে, আর নিকল্
+অতি যত্নে পক্ষীকে জালমুক্ত করিতেছেন। তাঁহার বন্দুকটী পদ-নিম্নে ঘাসের
+মধ্যে পড়িয়া আছে। পক্ষীটী জালমুক্ত হইয়া উড়িয়া উঠিল এবং নিকটবর্ত্তী
+বৃক্ষের শাখায় বসিয়া পুচ্ছ নাড়িতে লাগিল। নিকল্ অতিশয়
+স্নেহ-পূর্ণদৃষ্টিতে পক্ষীর দিকে চাহিয়া রহিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}এ দৃশ্য দেখিয়া আর্দ্দান্
+ভাবিলেন,---এত করুণা যাঁর, তিনি কি কখনো নৃশংস নরঘাতক হ'তে পারেন!
+আর্দ্দান্ নিকটে যাইয়া কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"কাপ্তান নিকল্! সত্যই আপনি
+দয়ালু-হৃদয় বীর-পুরুষ।" নিকল চমকিত হইয়া উঠিলেন। বিস্ময়ে বলিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"এ কে? মাইকেল আর্দ্দান্?
+আপনি এখানে কেন?"
+
+[ ]{style="display:inline-block; width:2em;"}"আপনার সঙ্গে বন্ধুতা করে'
+দ্বৈরথ সমর বন্ধ ক'র্‌তে এসেছি।
+[]{#c7_________________________________.xhtml#id-54 .pagenum .ws-pagenum
+page-number="৫৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%A9"}এ
+যুদ্ধে লাভ কি? হয় আপনি মর্‌বেন, না হয় বার্বিকেনের মৃত্যু হ'বে?"
+
+[ ]{style="display:inline-block; width:2em;"}"কি বল্লেন---বার্বিকেন? আমি
+দু'ঘণ্টা ধ'রে তার সন্ধানে ফির্‌ছি! দ্বৈরথ-যুদ্ধের নিমন্ত্রণ ক'রে
+আমেরিকান্ যে এমন ক'রে পালায় তা' জান্‌তাম না!"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ তীব্র-কণ্ঠে
+কহিলেন,---"আমেরিকান্ পালাতে জানে না। প্রভাত হ'বার বহু পূর্ব্বেই
+বার্বিকেন্ এ দিকে এসেছেন।"
+
+[ ]{style="display:inline-block; width:2em;"}"তবে আর বিলম্বে প্রয়োজন
+কি? আমার অনেক কাজ আছে। চলুন, তাঁকে খুঁজে দেখা যাক্‌। এ সামান্য কাজটার
+জন্য এত সময় নষ্ট করা যায় না!"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্ বলিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"ব্যস্ত হ'বেন না।
+বার্বিকেন্ যদি জীবিত থাকেন, তা'হ'লে আমরা নিশ্চয় এখনই তাঁকে পাব। কিন্তু
+আমি ঠিক বল্‌ছি, আপনাদের দু'জনের দেখা হ'লে যুদ্ধ আর হ'বে না।"
+
+[ ]{style="display:inline-block; width:2em;"}"সে আর হয় না---আজ আমাদের
+এক জনকে মর্‌তেই হবে। প্রতিদ্বন্দ্বিতার জ্বালা বুকে নিয়ে এমন ক'রে কি
+বেঁচে থাকা যায়?"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ তখন অপেক্ষাকৃত
+কাতর কণ্ঠে কহিলেন,---
+
+[ ]{style="display:inline-block; width:2em;"}"কাপ্তান্! আমি বার্বিকেনের
+পরম বন্ধু। যদি আজ নরহত্যা করাই আপনার আবশ্যক হয়, তবে আমাকেই হত্যা করুন।
+আমাকে মারাও যা' বার্বিকেনকে মারাও তাই!"
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ মুহূর্ত্তে
+তাঁহার কোট্‌টী ভূমে নিক্ষেপ করিয়া প্রশস্ত-বক্ষে দাঁড়াইলেন! নিকলের
+নয়নে ও বদনে সহসা শয়তানের আবির্ভাব হইল!
+[]{#c7_________________________________.xhtml#id-55 .pagenum .ws-pagenum
+page-number="৫৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%AA"}তিনি
+চকিতে বন্দুক তুলিলেন! উভয়ের মধ্যস্থলে দাঁড়াইয়া আর্দ্দান্
+কহিলেন---"বন্ধু ম্যাট্‌সন্ তাঁর সখার জীবন রক্ষা ক'র্‌তে আত্মদান কর্‌ছেন
+দেখ্‌ছি। কিন্তু আমি এখনো বল্‌ছি, এ হত্যা হ'তে দিব না। আমি আপনাদের কাছে
+এমন একটা লোভনীয় প্রস্তাব ক'র্‌ব যে মর্‌তে আপনাদের ইচ্ছা হ'বে না!"
+
+[ ]{style="display:inline-block; width:2em;"}একটু বিদ্রূপ-মিশ্রিত
+অবিশ্বাসের কণ্ঠে নিকল্ কহিলেন---"কি সে প্রস্তাব শুন্‌তে পাই কি?"
+
+[ ]{style="display:inline-block; width:2em;"}"ধৈর্য্য ধরুন। বার্বিকেনের
+অসাক্ষাতে সে কথা বলা ঠিক হ'বে না।"
+
+[ ]{style="display:inline-block; width:2em;"}"তবে, চলুন, তাঁকে খুঁজে
+দেখি।"
+
+[ ]{style="display:inline-block; width:2em;"}"বেশ চলুন।"
+
+[ ]{style="display:inline-block; width:2em;"}তিন জনে তখন বার্বিকেনের
+সন্ধানে বাহির হইলেন। কিছু দুর অগ্রসর হইয়াই নিকল্ থমকিয়া দাঁড়াইলেন এবং
+দূরে অঙ্গুলী নির্দ্দেশ করিলেন। ম্যাট্‌সন্ ও আর্দ্দান্ দেখিলেন, সুদীর্ঘ
+তৃণাদির ভিতর একটা প্রকাণ্ড বৃক্ষ-কাণ্ডে ঠেস্ দিয়া বার্বিকেন দাঁড়াইয়া
+রহিয়াছেন। তাঁহার দেহের সকল অংশ দেখা যাইতেছে না।
+
+[ ]{style="display:inline-block; width:2em;"}মাইকেল আর্দ্দান্
+বার্বিকেনকে ডাকিতে ডাকিতে তাঁহার দিকে অগ্রসর হইলেন। বার্বিকেন নীরব---যেন
+পাষাণ-প্রতিমা। আরও নিকটে যাইয়া আর্দ্দান্ দেখিলেন, বার্বিকেন তন্ময়
+হইয়া কতকগুলি জ্যামিতিক চিত্র অঙ্কিত করিতেছেন! তাঁহার পদনিম্নে রাইফেলটী
+পড়িয়া আছে।
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্ তাঁহার
+অঙ্গ-স্পর্শ করিয়া ডাকিলেন,---"বার্বিকেন!"
+
+::: {.__nop}
+:::
+
+[]{#c7_________________________________.xhtml#id-56 .pagenum .ws-pagenum
+page-number="৫৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%AB"}[ ]{style="display:inline-block; width:2em;"}বার্বিকেন
+চমকিত হইয়া কহিলেন---"এ কি! আর্দ্দান্ যে! হয়েছে---হয়েছে---আমি উপায়
+পেয়েছি---আর চিন্তা নাই!"
+
+[ ]{style="display:inline-block; width:2em;"}"কিসের উপায়?"
+
+[ ]{style="display:inline-block; width:2em;"}"সেই-টে করার।"
+
+[ ]{style="display:inline-block; width:2em;"}"কি করার?"
+
+[ ]{style="display:inline-block; width:2em;"}"গোলাটা যখন কামানের মুখ
+থেকে বেরিয়ে পড়বে তখন ত প্রবল একটা ধাক্কা লাগ্‌বে, যাতে তা' না লাগে তার
+পথ পেয়েছি।"
+
+[ ]{style="display:inline-block; width:2em;"}হর্ষোৎফুল্লকণ্ঠে আর্দ্দান্
+কহিলেন---"সত্যি?"
+
+[ ]{style="display:inline-block; width:2em;"}ঈষৎ একটু হাসিয়া বার্বিকেন
+বলিলেন------"বেশী কিছু নয়---জলকে স্প্রিংএর কাজে লাগালেই হয়। তার উপর
+বস্‌বার আসন থাক্‌বে। আরে---ম্যাট্‌সনও যে এখানে।"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্ বার্বিকেনের কর
+ধারণ করিয়া কহিলেন\--"ওই গাছের কাছে কাপ্তেন নিকলও আছেন। আসুন, তাঁর সঙ্গে
+পরিচয় করিয়ে দি।"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেনের কপোলের শিরাগুলি
+স্ফীত হইয়া উঠিল। বদনমণ্ডল আরক্তিম হইল। তিনি সলজ্জভাবে বলিলেন---"কি
+লজ্জা! কথা রাখ্‌তে পারি নি!" নিকল্‌কে অগ্রবর্ত্তী হইতে দেখিয়া তিনি
+উচ্চকণ্ঠে কহিলেন---"কাপ্তেন্ নিকল্! ক্ষমা কর্‌বেন। আমারই দোষে আপনাকে
+অনেকক্ষণ অপেক্ষা কর্‌তে হয়েছে। আমাদের গোলাটা সম্বন্ধে ভাবতে ভাবতে আমি
+যুদ্ধের কথাটা ভুলেই গিয়েছিলাম! তা' আসুন, আমি ত প্রস্তুত।" বার্বিকেন
+তাঁহার বন্দুকটা তুলিয়া লইলেন।
+
+::: {.__nop}
+:::
+
+[]{#c7_________________________________.xhtml#id-57 .pagenum .ws-pagenum
+page-number="৫৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%AC"}[ ]{style="display:inline-block; width:2em;"}মাইকেল
+আর্দ্দান্ কহিলেন---"পৃথিবীর সৌভাগ্য যে আপনাদের মত দু'টী বীরের এর
+পূর্ব্বে আর দেখা-সাক্ষাৎ হয় নাই। আপনাদের উভয়ের হৃদয়ই দেখ্‌ছি মহৎ! এত
+মহত্ত্ব কি পরস্পর পরস্পরের কণ্ঠচ্ছেদ করার জন্যই আপনাদের হৃদয়ে স্থান
+পেয়েছিল?"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন ও নিকল্ নীরব
+হইয়া ভূমির দিকে চাহিয়া রহিলেন। আর্দ্দান্ বলিতে লাগিলেন---"আমি বেশ
+বুঝেছি, আপনারা দু'জনেই একটা ভুলের চারিদিকে ঘুর্‌ছেন। সেই ভুলটাকে যতই বড়
+করে' দেখ্‌ছেন ততই আপনাদের মনের আগুন জ্বলে উঠ্‌ছে! বার্বিকেন বিশ্বাস করেন
+যে তাঁর গোলা নিশ্চয়ই চন্দ্রলোকে যাবে। বন্ধু নিকল্ ভাব্‌ছেন---কখনো যাবে
+না।"
+
+[ ]{style="display:inline-block; width:2em;"}নিকল্ কহিলেন---"ঠিক তাই। ও
+গোলা কি কখনো চন্দ্রে যেতে পারে?"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন বলিলেন---"কেন
+যাবে না? ঠিক যাবে।"
+
+[ ]{style="display:inline-block; width:2em;"}মাইকেল আর্দ্দান্
+বলিলেন---"বেশ ত, দুজনেই তবে আমার সঙ্গে চন্দ্রলোকে চলুন। গোলাটা যায় কি
+না যায়, তা দেখ্‌তেই পাবেন।"
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন ও নিকল্ যুগপৎ
+কহিলেন---"আমি প্রস্তুত।"
+
+[ ]{style="display:inline-block; width:2em;"}হর্ষে আর্দ্দানের মুখ
+প্রফুল্ল হইয়া উঠিল। তিনি দুই প্রতিদ্বন্দ্বীর কর ধারণ করিয়া উভয়েরই জয়
+ঘোষণা করিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}দ্বৈরথ-সমর আর ঘটিল না।
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c18_Rule_Segment___Tear_Left___40px.svg_40px_Rule_Segment___Tear_Left___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c19_Rule_Segment___Diamond___10px.svg_11px_Rule_Segment___Diamond___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c20_Rule_Segment___Tear_Right___40px.svg_40px_Rule_Segment___Tear_Right___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c8_________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%85%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%AE_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c8_________________________________.xhtml#id-58 .pagenum .ws-pagenum
+page-number="৫৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%AD"}
+
+::: {.wst-center .tiInherit}
+[**অষ্টম পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[পরীক্ষা]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**ত**]{style="font-size: 144%;"}খনো
+কেহ কেহ সন্দেহ করিয়া কহিতেছিলেন, গোলকের ভিতরে মানুষ যাওয়া কিছুতেই
+সম্ভব নহে। তাঁহাদের সন্দেহ ভঞ্জন করিবার জন্য বার্বিকেন একটা ৩২ ইঞ্চি
+কামান আনিলেন। একটী ফাঁপা-গোলা প্রস্তুত করিয়া বার্বিকেন তাহার ভিতরটা
+অতিশয় কোমল গদি দ্বারা আবৃত করিলেন। গদির ভিতর অতি উৎকৃষ্ট স্প্রীং বসানো
+হইল। গোলকের মধ্যে একটী জীবিত মার্জ্জার ও একটী শজারু রাখিয়া বার্বিকেন
+ঢাকনাটী স্ক্রু দিয়া বন্ধ করিলেন এবং কামানে ২ মণ বারুদ ঢালিয়া মহাশূন্যে
+গোলা নিক্ষেপ করিলেন। শত সহস্র নরনারী সাগরতীরে দাঁড়াইয়া দেখিল যে গোলাটী
+সহস্র ফিট উর্দ্ধে উঠিয়া বজ্রগতিতে সমুদ্রগর্ভে পতিত হইল। উহাকে কুড়াইয়া
+আনিয়া দেখা গেল, মার্জ্জার সামান্য একটু আহত হইয়াছে মাত্র, কিন্তু গোলার
+মধ্যে বসিয়াই শজারুকে খাইয়া ফেলিয়াছে।
+
+[ ]{style="display:inline-block; width:2em;"}পরীক্ষার ফল দেখিরা অনেকেই
+সন্তুষ্ট হইলেন। ম্যাট্‌সন্ বারংবার বলিতে লাগিলেন---"আমাকেও সঙ্গে
+নিন্---আমিও চন্দ্রলোকে যাব।" বার্বিকেন গম্ভীরকণ্ঠে বলিলেন---"তা' কি
+হয়---অত স্থানই যে হবে না!" ম্যাট্‌সন্ অত্যন্ত দুঃখিত হইলেন এবং তাঁহাকে
+সঙ্গে লইবার জন্য বারবার আর্দ্দানকে অনুরোধ করিতে লাগিলেন।
+
+::: {.__nop}
+:::
+
+[]{#c8_________________________________.xhtml#id-59 .pagenum .ws-pagenum
+page-number="৫৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%AE"}[ ]{style="display:inline-block; width:2em;"}আর্দ্দানের
+এক নূতন বিপদ উপস্থিত হইল। প্রত্যহ এত লোক তাঁহার সঙ্গে দেখা করিতে আসিতে
+লাগিল যে তাঁহার জীবন দুর্ব্বহ হইয়া উঠিল। একদিন কতকগুলি পাগল আসিয়া
+বলিল---"আমরা চন্দ্রলোকেরই অধিবাসী। স্বদেশে যাবার জন্য আমরা বড় ব্যস্ত
+হয়েছি---অনেকদিন দেশ ছাড়া! আপনি যদি আমাদের সঙ্গে নিতেন!"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্ তাহাদিগকে
+কহিলেন---\"এবার বড়ই স্থানাভাব। এবার আপনাদের চিঠিপত্র আমার সঙ্গে দিন্।
+আমি সেখানে যেয়ে আপনাদেরও নিয়ে যাবার ব্যবস্থা করব।"
+
+[ ]{style="display:inline-block; width:2em;"}যাহারা আর্দ্দানের দেখা পাইল
+না, তাহারা তাঁহাকে পত্র লিখিতে আরম্ভ করিল! প্রতিদিন এত পত্র আসিতে লাগিল
+যে, সে সমুদয় পাঠ করিবারই সময় হইল না। ধনকুবের আমেরিকান্‌দিগের কুমারী
+কন্যাগণ আর্দ্দানকে বিবাহ করিবার জন্য প্রতিদিন পত্র লিখিতে লাগিলেন!
+আর্দ্দান্ মনে মনে ভাবিলেন, কি আপদেই পড়িলাম!
+
+[ ]{style="display:inline-block; width:2em;"}১০ই নভেম্বর যখন ব্রেড্‌উইল
+কোম্পানীর নিকট হইতে গোলাটী আসিয়া পৌঁছিল, তখন উহা দেখিবার জন্য
+ষ্টোনিহিলের নরনারী পাগলের মত ছুটিল। বার্বিকেন উহা মুক্ত প্রান্তরে
+স্থাপিত করিয়াছিলেন। তপন-কিরণে গোলাটী দিনের পর দিন জ্বলিতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্ গোলাটী দেখিয়া
+অত্যন্ত সন্তুষ্ট হইলেন বটে, কিন্তু কহিলেন------"এতে ললিত শিল্পের কোনো
+চিহ্ন দেখ্‌ছি না। এমন একটা ন্যাড়া-মুড়া গোলা দেখে চন্দ্রলোকের অধিবাসীরা
+যে ধিক্কার দিবে!"
+
+::: {.__nop}
+:::
+
+[]{#c8_________________________________.xhtml#id-60 .pagenum .ws-pagenum
+page-number="৬০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AC%E0%A7%AF"}[ ]{style="display:inline-block; width:2em;"}বার্বিকেন
+এ কথাটা হাসিয়া উড়াইয়া দিয়া কহিলেন---"বাহিরের সৌষ্ঠব না হয় না-ই
+হ'লো। ভিতরটা আপনার পছন্দ সই করে নিন।"
+
+[ ]{style="display:inline-block; width:2em;"}আর্দ্দান স্বীকৃত হইলেন।
+
+[ ]{style="display:inline-block; width:2em;"}বার্ধিকেন মনে মনে
+বুঝিয়াছিলেন যে লোহার স্প্রীং যতই কেন ভালো না হউক, তাহাতে কাজ হইবে না।
+তাই তিনি জলের ব্যবহার করিলেন। গোলার মধ্যে তিন ফিট পর্য্যন্ত জল ঢালা হইল।
+সেই জলের উপর কাষ্ঠের একখানি চাক্‌তি রহিল। ইহা গোলার গায়ে এমন ভাবে লাগান
+হইল যে, ইচ্ছা মাত্রেই খুলিতে পারা যায়। এই নবীন ভেলার উপর বার্বিকেন
+যাত্রীদিগের বসিবার ব্যবস্থা করিয়াছিলেন। জলকে থাকে থাকে কয়েকভাগে বিভক্ত
+করিবার মানসে বার্বিকেন জলের মধ্যে পর পর কয়েকখানি কাষ্ঠচক্র রক্ষা
+করিলেন। সকলের উপরে রহিল যাত্রীদিগের চক্র। সেই চক্রের নিম্নেই অতি দৃঢ়
+স্প্রীং ছিল। বার্বিকেন বুঝিয়াছিলেন যে কামানের মুখ হইতে গোলা বাহির হইলেই
+যে প্রবল বাক্কা লাগিবে তাহাতে কাঠের চক্রগুলি একে একে ভাঙ্গিয়া গিয়া এক
+থাকের জল অপর থাকের জলের সহিত মিশিবে, কাজেই আরোহিদিগকে কোনো ধাক্কা সহ্য
+করিতে হইবে না! গোলক নিক্ষিপ্ত হইলে প্রথমে সম্মুখের দিকে এবং পরক্ষণেই
+পশ্চাতে ধাক্কা লাগিবার কথা। জলের এই অদ্ভুত স্প্রীং থাকিবার জন্য সম্মুখের
+ধাক্কা যে লাগিতে পারবে না ইহা বার্বিকেন দৃঢ়রূপে বিশ্বাস করিয়াছিলেন।
+পশ্চাতের ধাক্কাকে শক্তিহীন করিবার জন্য অতি উৎকৃষ্ট স্প্রীংএর উপর নির্ভর
+করিতে হইল। গোলকের ভিতরটী পকেট-ঘড়ীর স্প্রীংএর ন্যায় কোমল অথচ সুদৃঢ়,
+স্প্রীংএর উপর পুরু গদি বসাইয়া মণ্ডিত হইয়াছিল।
+
+::: {.__nop}
+:::
+
+[]{#c8_________________________________.xhtml#id-61 .pagenum .ws-pagenum
+page-number="৬১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%A6"}[ ]{style="display:inline-block; width:2em;"}এই
+সকল আয়োজন দেখিয়া মাইকেল আর্দ্দান্ কহিলেন,---"এততেও যদি ধাক্কা লেগে
+আমাদের হাড়-গোড় ভাঙ্গে, তবে তা ভাঙ্গুক।"
+
+[ ]{style="display:inline-block; width:2em;"}গোলকে প্রবেশ করিবার দ্বার
+উহার ক্রমশঃ সূক্ষ্ম শিরোভাগে গঠিত হইয়াছিল। যাহাতে ভিতরদিক হইতে অতি
+দৃঢ়ভাবে সে দ্বার রুদ্ধ করিতে পারা যায় বার্বিকেন ভালো করিয়া সে
+ব্যবস্থা করিয়াছিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}গোলকে উঠিয়া চন্দ্রলোকে গমন
+করিলেইত যথেষ্ট হইল না। যাইতে যাইতে চতুর্দ্দিকের পরিদৃশ্যমান জগৎ
+বিশেষরূপে পরীক্ষা করিয়া দেখিবারও আবশ্যক ছিল। সেই জন্য স্প্রীংএর গদির
+নিম্নে কাচের ৪টী জানালা বসানো হইয়াছিল! দুইটী গবাক্ষ দুই পার্শ্বে, একটা
+শিরোদেশে এবং আর একটা তলে নির্ম্মিত হওয়ায় মহাশূন্যে গমনকালে পরিত্যক্তা
+ধরণী, ক্রমোজ্জ্বল চন্দ্রলোক এবং গ্রহ-নক্ষত্রখচিত অনন্তব্যোম দেখিবার আর
+কোনো অসুবিধা ছিল না। এই কাচগুলি যাহাতে ভাঙ্গিয়া না যায়, সে জন্য ধাতুর
+আবরণ দ্বারা সেগুলি এরূপভাবে আবৃত ছিল যে, গোটাকতক স্ক্রু খুলিলেই জানালার
+কাচ আপনা হইতেই খুলিয়া যাইত।
+
+[ ]{style="display:inline-block; width:2em;"}গোলকে যাহাতে আলোক ও
+উত্তাপের অভাব না হয় সে জন্য অত্যন্ত অধিক চাপে আবদ্ধ গ্যাস লওয়া হইল।
+একটী নলের মুখ খুলিলেই গ্যাস বাহির হইত। বার্বিকেন ছয়দিনের যোগ্য
+আহার্য্য, পানীয় ও গ্যাস লইলেন। কোনোরূপে জীবনধারণের জন্য যাহা প্রয়োজন
+শুধু যে সেই সকল দ্রব্যই গোলকে লওয়া হইল তাহা নহে, যাহাতে বেশ
+সুখে-স্বচ্ছন্দে থাকিতে পারা যায় তাহারও বন্দোবস্ত
+[]{#c8_________________________________.xhtml#id-62 .pagenum .ws-pagenum
+page-number="৬২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%A7"}করা
+হইল। যদি স্থান থাকিত তাহা হইলে মাইকেল আর্দ্দান্ সুকুমার শিল্পের একটী
+কর্ম্মশালাই সঙ্গে লইতেন।
+
+[ ]{style="display:inline-block; width:2em;"}আহার্য্য পেয়ঃ এবং আলোকের
+পরই বাতাসের ব্যবস্থা করা হইল। গোলকের মধ্যে স্বভাবতঃ যে বাতাসটুকু ছিল,
+তাহা তিন জনের চারি দিনের শ্বাসপ্রশ্বাস কার্য্যেরও যোগ্য ছিল না।
+বার্বিকেনের সঙ্গে তাঁহার কুকুর দুইটীও যাইতেছিল। সুতরাং পাঁচটী প্রাণীর
+জন্য প্রতি চব্বিশ ঘণ্টায় অন্ততঃ ৩২ সের অক্সিজেন গ্যাসের প্রয়োজন ছিল।
+একুশ ভাগ অক্সিজেন এবং ঊন-আশি ভাগ এজোটের মিশ্রণে বাতাস জন্মে। আমরা যখন
+নিশ্বাস লই, তখন অক্সিজেন শরীরে প্রবেশ করে এবং প্রশ্বাসের সঙ্গে এজোট
+বাহির হয়। বদ্ধস্থানে শ্বাসপ্রশ্বাস-ক্রিয়া বেশীক্ষণ চলিলে বাতাসের
+অক্সিজেন ফুরাইয়া গিয়া শুধু কার্ব্বনিক এসিড, গ্যাস থাকে। উহা তখন তীব্র
+বিষের কার্য্য করে। বার্বিকেন দেখিলেন, গোলকে যে পরিমাণ অক্সিজেন ব্যয়িত
+হইবে তাহা প্রস্তুত এবং প্রশ্বাসিত কার্ব্বনিক এসিড্ গ্যাসের ধ্বংস সাধন
+করিতে পারিলেই গোলক মধ্যে বায়ুর অভাব হইবে না।
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন স্থির করিলেন,
+ক্লোরেট্‌-অব্-পটাশ এবং কষ্টিক-পটাশ ব্যবহার করিলেই এ উদ্দেশ্য সফল হইবে।
+চারি শত ডিগ্রী উত্তাপে ক্লোরেট্-অব্-পটাশ, ক্লোরিণ-অব্-পটাশিয়মে
+রূপান্তরিত হয় এবং উহার ভিতর যে অক্সিজেন থাকে, তাহা বাহির হইয়া পড়ে।
+নয় সের ক্লোরেটৃ-অব্-পটাশে সাড়ে তিন সের অক্সিজেন গ্যাস পাওয়া যায়।
+বার্বিকেন দেখিলেন, ২৪ ঘণ্টার জন্য উহাই যথেষ্ট। বাতাসে যে কার্ব্বনিক
+এসিড্ গ্যাস থাকে, ক্লোরেট্‌-অব্-পটাশ প্রতি মুহূর্ত্তে তাহা টানিয়া লয়।
+[]{#c8_________________________________.xhtml#id-63 .pagenum .ws-pagenum
+page-number="৬৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%A8"}সুতরাং
+যথেষ্ট পরিমাণে ক্লোরেট্‌-অব্-পটাশ এবং কষ্টিক-পটাশ লইবার ব্যবস্থা করা
+হইল।
+
+[ ]{style="display:inline-block; width:2em;"}ম্যাট্‌সন্ কহিলেন,---"যদিও
+বৈজ্ঞানিক হিসাবে দেখা গেল যে বাতাসের অভাব ঘটিবে না, কিন্তু একবার পরীক্ষা
+করিয়া নিশ্চিন্ত হওয়া উচিত।"
+
+[ ]{style="display:inline-block; width:2em;"}সকলেই
+বলিলেন,---"হাঁ!------হাঁ---তা' ঠিক। পরীক্ষা করাই উচিত।" তখন সপ্তাহকালের
+যোগ্য খাদ্য ও পানীয় এবং যথেষ্ট পরিমাণে ক্লোরেট্ অব্-পটাশ এবং
+কষ্টিক-পটাশ দিয়া সকলে ম্যাট্‌সন্‌কে গোলকমধ্যে আবদ্ধ করিলেন। সপ্তাহ পর
+দেখা গেল, ম্যাট্‌সন্ বেশ সুস্থ দেহে গোলকমধ্যে বিরাজ করিতেছেন। তাঁহাকে
+ওজন করিয়া বার্বিকেন দেখিলেন, দেহভার পূর্ব্বাপেক্ষা বৃদ্ধিই হইয়াছে!
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c16_Rule_Segment___Fancy2___100px.svg_100px_Rule_Segment___Fancy2___100px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c9_______________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%A8%E0%A6%AC%E0%A6%AE_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c9_______________________________.xhtml#id-64 .pagenum .ws-pagenum
+page-number="৬৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%A9"}
+
+::: {.wst-center .tiInherit}
+[**নবম পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[যাত্রার আয়োজন]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**চ**]{style="font-size: 144%;"}ন্দ্রলোক
+লক্ষ্য করিয়া গোলাটী নিক্ষিপ্ত হইলেই যাহাতে পৃথিবী হইতে উহার গতি দেখিতে
+পাওয়া যায়, প্রথম হইতেই বৈজ্ঞানিকগণ সে চেষ্টা করিতেছিলেন। চন্দ্র হইতে
+৩৯ মাইল দূরে থাকিয়া আমরা উহার সকল অংশ যে ভাবে দেখিতে পারি, সে সময় যে
+সকল দূরবীক্ষণ যন্ত্র ছিল, তাহাদের সাহায্যে তদপেক্ষা স্পষ্টতর দেখিবার
+সম্ভাবনা ছিল না। কিন্তু চন্দ্রের তুলনায় কামানের গোলাটী বিন্দুবৎ। সেই
+বিন্দুকে মহাব্যোমে ধাবিত দেখিতে হইলে দূরবীক্ষণকে আরও শক্তিশালী করা
+প্রয়োজন বুঝিয়া বৈজ্ঞানিকগণ প্রাণপণে চেষ্টা করিতেছিলেন। ইতঃপূর্ব্বে যে
+যন্ত্রে কোন পদার্থকে ছয় হাজার গুণ বৃহত্তর করিয়া দেখা যাইত, তাঁহারা
+তাহার শক্তিকে ছয়গুণ বৃদ্ধি করিবার আয়োজন করিয়াছিলেন। কেম্ব্রিজ
+মান-মন্দিরের অধ্যক্ষগণ যে দূরবীক্ষণ প্রস্তুত করিলেন, তাহার নলটীই
+দৈর্ঘ্যে ২০০ ফিট হইল। নলের অভ্যন্তরে যে দূরদর্শন কাচ বসিল, তাহার ব্যাস
+হইল ১৬ ফিট!
+
+[ ]{style="display:inline-block; width:2em;"}বায়ুস্তর ভেদ করিয়া
+পৃথিবীতে আসিতে চন্দ্রকর অনেকাংশে আপন ঔজ্জ্বল্য হারায়। সুতরাং দূরবীক্ষণ
+যত ঊর্দ্ধে স্থাপিত করিতে পারা যাইবে, চন্দ্রকরকে অন্ততঃ ততটুকু স্থানের
+বায়ুভেঙ্গ করিতে হইবে না। কাজেই স্থির হইল যে কেম্ব্রিজের নবাবিষ্কৃত
+দূরবীক্ষণটী কোনো একটী []{#c9_______________________________.xhtml#id-65
+.pagenum .ws-pagenum page-number="৬৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%AA"}উচ্চ
+শৈলের শৃঙ্গোপরি স্থাপিত করিতে হইবে। অনেক গবেষণার পর নির্দ্ধারিত হইল যে
+যুক্ত-রাজ্যের রকি-মাউণ্টেনের চূড়ার উপর দূরবীক্ষণ বসাইতে হইবে। সে চুড়া
+ভূপৃষ্ঠ হইতে ১০৭০১ ফিট উচ্চ।
+
+[ ]{style="display:inline-block; width:2em;"}সে পথ অতি দুর্গম। দুর্ভেদ্য
+কানন, দুরতিক্রম্য মরু-প্রান্তর, কোথাও ভীমবেগশালিনী গিরিনদী, সুতীক্ষ্ণ
+অস্ত্রধারী রাক্ষসতুল্য বর্ব্বর মানুষ সেই দুর্গম পথকে আরো ভীষণ করিয়া
+রাখিয়াছিল। কখনো যেখানে মনুষ্য সমাগমের সম্ভাবনা ছিল না, সেইখানে বহু
+যন্ত্রাদি সহ শিল্পিগণ গমন করিলেন। এক বৎসরের অক্লান্ত শ্রমে বিরাট কায়
+নবনির্ম্মিত লৌহ-স্তম্ভাবলীর উপর শেষে অতিকায় দূরবীক্ষণটী যন্ত্র স্থাপিত
+হইল।
+
+[ ]{style="display:inline-block; width:2em;"}সমস্তই যখন ঠিক হইয়া গেল
+তখন ষ্টোনিহিলে ভারে ভারে বারুদ আসিতে লাগিল। বার্বিকেন্ দেখিলেন, দশ সহস্র
+মণ বারুদ একযোগে ষ্টোনিহিলে আসিলে হয়ত কাহারো অসাবধানতার একটা মহাপ্রলয়
+ঘটিতে পারে। তিনি অল্পে অল্পে বারুদ আনিতে লাগিলেন। তখন ষ্টোনিহিলের
+চারিদিকে দুই মাইলের মধ্যে কোন কারণেই অগ্নি প্রজ্জ্বলিত করা নিষিদ্ধ
+হইয়াছিল। সুদক্ষ কৌশলী শিল্লিগণ নগ্নপদে কার্য্য করিতে লাগিলেন, পাছে
+জুতার ঘর্ষণে বারুদের কণা জ্বলিয়া উঠে। শুধু রজনীতে বিদ্যুতের আলোকে কলের
+সাহায্যে কার্ত্তুস্ প্রস্তুত হইতে লাগিল। কার্ত্তুসগুলি একে একে লোহার
+তারে আবদ্ধ হইল এবং অতি সাবধানে কামানের মধ্যে স্থাপিত হইতে লাগিল।
+কার্ত্তুসের তারের সহিত আর একটী তার লাগাইয়া কামানের গাত্রেস্থিত অতি
+সূক্ষ্ম একটী ছিদ্রপথে তাহার অপর প্রান্তটী বাহিরে আনা হইল।
+[]{#c9_______________________________.xhtml#id-66 .pagenum .ws-pagenum
+page-number="৬৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%AB"}একটী
+শক্তিশালী বৈদ্যুতিক যন্ত্র ষ্টোনিহিল হইতে দুই মাইল দুরে প্রতিষ্ঠিত
+হইয়াছিল। বহু লৌহ-স্তম্ভের শিরে আবদ্ধ করিয়া সেই তারটী বৈদ্যুতিক
+যন্ত্রের সহিত সংযুক্ত করা হইল। বার্বিকেন স্থির করিয়াছিলেন যে উপযুক্ত
+সময়ে এই যন্ত্রের সাহায্যে বারুদে আগুন দিবেন।
+
+[ ]{style="display:inline-block; width:2em;"}বারুদের কার্ত্তুসগুলি
+নিরাপদে কামানে স্থাপিত হইলে পর কাপ্তান নিকল্ পরাজয় স্বীকার করিয়া
+তাঁহার তৃতীয় বাজির টাকা বার্বিকেনের হস্তে প্রদান করিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}মাইকেল আর্দ্দানের তখন আদৌ
+অবসর ছিল না। তিনি নানাবিধ আবশ্যক দ্রব্যাদি সংগ্রহ করিতেছিলেন। তাপমান
+যন্ত্র, দুরবীক্ষণ, সৌর-জগতের মানচিত্র, বন্দুক, গুলি, কোদালি, কুঠার
+প্রভৃতি সমস্তই তিনি গোলার মধ্যে তুলিলেন। সাধারণ ও অসাধারণ শীত এবং
+গ্রীষ্মের উপযুক্ত পরিচ্ছদাদিও সংগৃহীত হইল। ছোট ছোট কৌটায় নানারূপ শস্যের
+বীজ এবং কয়েকটী গাছের চারা পর্য্যন্ত লওয়া হইল। মাংস এবং অন্যান্য
+খাদ্য-সামগ্রী ইতিপূর্ব্বেই কলের সাহায্যে পিষ্ট হইয়া ক্ষুদ্রকায়
+বর্ত্তুলাকার করা হইয়াছিল। আর্দ্দান্ এক বৎসরের উপযুক্ত খাদ্যসামগ্রী
+লইলেন। দুই মাস চলিতে পারে, এই পরিমাণে জল ও ব্রাণ্ডি লওয়া হইল।
+বার্বিকেন্ তখন পূর্ব্ব কথিত মত জলের স্প্রিংএর উপর বসিবার আসন প্রস্তুত
+করিলেন এবং বাতাসের অভাব দূর করিবার জন্য দুই মাসের উপযুক্ত
+ক্লোরেট-অব্-পটাশ ও কষ্টিক্-পটাশ লইলেন।
+
+[ ]{style="display:inline-block; width:2em;"}তখনো কাপ্তান নিকল্
+কহিতেছিলেন,---"কিছুতেই গোলা চল্‌বে না!"
+
+::: {.__nop}
+:::
+
+[]{#c9_______________________________.xhtml#id-67 .pagenum .ws-pagenum
+page-number="৬৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%AC"}[ ]{style="display:inline-block; width:2em;"}বার্বিকেন্।
+কেন?
+
+[ ]{style="display:inline-block; width:2em;"}নিকল্। ক্রমে ক্রমে গোলাটা
+যেমন ওজনে ভারি হয়ে উঠল, কামানের মধ্যে বসাতে গেলেই সব কার্ত্তুসগুলো
+জ্ব'লে উঠবে ৷
+
+[ ]{style="display:inline-block; width:2em;"}এ কথা শুনিয়া বার্বিকেন্
+গম্ভীরভাবে বলিলেন, "আচ্ছা দেখা যাক্।"
+
+[ ]{style="display:inline-block; width:2em;"}তিনি পূর্ব্বেই অতিশয় দৃঢ়
+ভার-উত্তোলক একটী ক্রেণ আনিয়াছিলেন। তাহার শিকলগুলি অতি সাবধানতার সঙ্গে
+পরীক্ষা করিয়া বার্বিকেন্ গোলাটী তুলিবার ব্যবস্থা করিলেন। তখন তাঁহার ও
+গান্ ক্লাবের সদস্যদিগের চিত্তে যে কি আকুলতা উপস্থিত হইয়াছিল, তাহা
+বর্ণনা করা যায় না। সকলেই ভাবিতে লাগিলেন, শিকল ত ছিঁড়িবে না? যদি
+ছিঁড়িয়া যায়, তবেইত সর্ব্বনাশ! গোলা বিপুল বেগে কামানের তলদেশে যাইয়া
+পড়িবে এবং তৎক্ষণাৎ সেই আঘাতেই কার্ত্তুস জ্বলিয়া উঠিবে! ধীরে---অতি ধীরে
+যন্ত্রের সাহায্যে গোলকটী কামানের মধ্যে নামিতে লাগিল---ক্রমে ক্রমে উহা
+পাতালে প্রবেশ করিতে লাগিল---ক্রমে উহা চক্ষের অন্তরাল হইল। সমিতির সদস্যগণ
+তখন নিরুদ্ধ-নিশ্বাসে শেষ মুহূর্ত্তের জন্য অপেক্ষা করিতে লাগিলেন।
+বার্বিকেনের সাধনা শেষে সিদ্ধিলাভ করিল। গোলকটী নির্ব্বিঘ্নে কামানের
+তলদেশে স্থাপিত হইল। কাপ্তান নিকল্ টাকা লইয়া বার্বিকেনের নিকটেই
+দাঁড়াইয়াছিলেন। তিনি বার্বিকেনের কর ধারণ করিয়া কহিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"বন্ধু! আমি আর একটা বাজিও
+হারলাম। এই নিন্ তার টাকা।"
+
+::: {.__nop}
+:::
+
+[]{#c9_______________________________.xhtml#id-68 .pagenum .ws-pagenum
+page-number="৬৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%AD"}[ ]{style="display:inline-block; width:2em;"}বার্বিকেন্
+সহাস্য বদনে বলিলেন,------"আপনিও ত এখন আমাদেরই একজন। আপনার কাছ থেকে কি
+বাজির টাকা লওয়া উচিত?"
+
+[ ]{style="display:inline-block; width:2em;"}নিকল্। নিশ্চয় উচিত।
+বাজি---চিরদিনই বাজি। নিজের কথা ঠিক রাখতে হ'বে ত? নিন্---টাকা নিন্‌।
+
+[ ]{style="display:inline-block; width:2em;"}বার্বিকেন্ অর্থের থলি হস্তে
+লইয়া বলিলেন,---"তা' হ'লে দেখ‍্ছি, আপনাকে আর দুটো বাজিও হারতেই হ'বে।"
+
+[ ]{style="display:inline-block; width:2em;"}নিকল্। দেখা যাক্‌---যদি
+হারতেই হয়ত হারব!
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c16_Rule_Segment___Fancy2___100px.svg_100px_Rule_Segment___Fancy2___100px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.__nop}
+:::
+:::
+:::
+
+[]{#c10_______________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE/%E0%A6%A6%E0%A6%B6%E0%A6%AE_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c10_______________________________.xhtml#id-69 .pagenum .ws-pagenum
+page-number="৬৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%AE"}
+
+::: {.wst-center .tiInherit}
+[**দশম পরিচ্ছেদ**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[যাত্রা]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}[**আ**]{style="font-size: 144%;"}জ
+পয়লা ডিসেম্বর। আজ রাত্রি দশটা ছয়চল্লিশ মিনিট চল্লিশ সেকেণ্ডের সময়
+আমেরিকার সেই অদ্ভুত গোলক যাত্রী লইয়া চন্দ্রলোকাভিমুখে ধাইবে------আজ
+আমেরিকা চন্দ্রলোক জয় করিতে ছুটিবে! হয় আজ------না হয় আবার সেই দীর্ঘ
+অষ্টাদশ বর্ষ পর!
+
+[ ]{style="display:inline-block; width:2em;"}প্রভাত হইতে না হইতেই
+ষ্টোনিহিলের চতুর্দ্দিকে লোক সমাগম আরম্ভ হইল। সপ্তাহ পূর্ব্বেই চারিদিকে
+পটাবাসের নগর বসিয়াছিল, সারির পর সারি দোকান, সারির পর সারি পান্থশালা
+বসিয়াছিল। আজ সে সকল লোকে পূর্ণ হইয়া উঠিল। প্রতি পনের মিনিটে
+যাত্রীপূর্ণ ট্রেণ আসিতে লাগিল। বার্বিকেন্ সেই নূতন নগরের নাম
+রাখিয়াছিলেন---আর্দ্দান্ নগর।
+
+[ ]{style="display:inline-block; width:2em;"}পৃথিবীর সকল দেশ হইতে
+জার্দ্দান্ নগরে দর্শক আসিয়াছিল। আর্দ্দান্ নগরে পৃথিবীর সকল জাতির সমাবেশ
+ঘটিল---পৃথিবীর সকল ভাষার কথোপকথন হইতে লাগিল। ধনী ও নির্ধন, পণ্ডিত ও
+মূর্খ সকলে সেখানে গায়ে গায়ে মিলিয়া রাজপথে ভ্রমণ করিতে লাগিল।
+
+[ ]{style="display:inline-block; width:2em;"}দেখিতে দেখিতে সন্ধ্যা হইল।
+সাতটার সময় চন্দ্রদেব আকাশে দেখা দিলেন। মেঘ-নির্ম্মুক্ত পরিচ্ছন্ন আকাশ
+জ্যোৎস্নায় প্লাবিত হইয়া
+[]{#c10_______________________________.xhtml#id-70 .pagenum .ws-pagenum
+page-number="৭০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AD%E0%A7%AF"}গেল।
+লক্ষ লোক তখন চন্দ্রের দিকে চাহিয়া জয়ধ্বনি করিতে লাগিল। রজনীর পর রজনী
+তাহারা কতবার চন্দ্রদেবকে আকাশ পথে শীতল কিরণ ধারা বর্ষণ করিতে
+দেখিয়াছে--- কিন্তু তখন যেমন দেখিল, মনে হইল যেন তেমন আর কখনো দেখে নাই।
+সেদিন চন্দ্রের রূপ যেমন মধুর লাগিল---চন্দ্রের কর যেমন সুন্দর ও শীতল
+লাগিল, মনে হইল যেন তেমন আর কখনো লাগে নাই! চন্দ্র সেদিন পরমাত্মীয়েরও
+অধিক বলিয়। বোধ হইল---চাহিতে চাহিতে চক্ষে জালা ধরিলেও নয়ন ফিরাইতে ইচ্ছা
+হইল না! সেই লক্ষাধিক লোক সহসা যেন এক মন্ত্রবলে সঞ্জীবিত হইয়া আমেরিকার
+জাতীয় সঙ্গীত গাহিতে লাগিল। সে গীতিধ্বনি এক একবার ষ্টোর্নিহিলের নিকট
+হইতে ক্রমে দূরে সরিয়া যাইতে লাগিল--- আবার পরমুহূর্ত্তেই স্তরে স্তরে
+ভাসিতে ভাসিতে নিকটবর্ত্তী হইল।
+
+[ ]{style="display:inline-block; width:2em;"}ফরাসী আর্দ্দান্, কাপ্তান
+নিকল্ ও বার্বিকেন্ হাসিতে হাসিতে কামানের নিকটে আসিয়া দাঁড়াইলেন। রেলে
+উঠিয়া দূরদেশে ভ্রমণে যাইবার সময় মানুষের মুখে যতটুকু চাঞ্চল্য প্রকাশ
+পায়, তাঁহাদের নয়নে বদনে কেহ সেটুকুও লক্ষ্য করিতে পারিল না। ক্রমে
+রাত্রি দশটা বাজিল। তাঁহারা গোলকের মধ্যে প্রবেশ করিবার জন্য প্রস্তুত
+হইলেন। সাশ্রুনয়নে ম্যাট‍্সন্ কহিলেন---
+
+[ ]{style="display:inline-block; width:2em;"}"বার্বিকেন্, এখনো সময়
+আছে--- আমিও আসি।"
+
+[ ]{style="display:inline-block; width:2em;"}"না ম্যাট‍্সন্, তা' হ'বে
+না। আমরা আমেরিকার অগ্রদূত হ'য়ে চন্দ্রলোকে যাই। কামান ত' রৈলই, দরকার
+হ'লে তোমরা আমাদের কাছে দেশের সংবাদ পাঠাতে পার‍্বে।"
+
+::: {.__nop}
+:::
+
+[]{#c10_______________________________.xhtml#id-71 .pagenum .ws-pagenum
+page-number="৭১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AE%E0%A7%A6"}[ ]{style="display:inline-block; width:2em;"}আর্দ্দান্।
+ঠিক বার্বিকেন্। সেটা এঁদের করতেই হবে। আর কিছু না হোক্, মধ্যে মধ্যে এঁরা
+খাবার-টাবার ত পাঠাতে পারবেন।
+
+[ ]{style="display:inline-block; width:2em;"}এ কথা শুনিয়া ম্যাট্‌সনের
+হৃদয়ের ভার অনেক কমিয়া গেল। তিনি উৎসাহিত হইয়া কহিলেন,---"প্রতি বৎসর
+বড়দিনের সময় আপনারা খাবার পাবেন, আর সেই সঙ্গে সঙ্গে পাবেন, সমস্ত
+যুক্ত-রাজ্যের আশীর্ব্বাদ।"
+
+[ ]{style="display:inline-block; width:2em;"}বিদায়ের ক্ষণ আসিল।
+ম্যাট‍্সন্ আবেগভরে বন্ধুদিগের সহিত কর মর্দ্দন করিলেন। এ দিকে দুই মাইল
+দূরে পর্ব্বত-শিখরে দাঁড়াইয়া এঞ্জিনিয়র মার্টিসন্ তখন একদৃষ্টে তাঁহার
+ঘড়ীর কাঁটার দিকে চাহিয়াছিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}আর কালবিলম্ব না করিয়া
+নিকল্, আর্দ্দান্ ও বার্বিকেন্ যন্ত্রের সাহায্যে গোলকের মধ্যে নামিলেন।
+সেখানে তখন কি সূচীভেদ্য অন্ধকার! জাতীয় সঙ্গীতের ধ্বনি তখনো তাঁহাদের
+কর্ণে আসিয়া পৌঁছিতেছিল। গোলকের মধ্যে নামিয়া তাঁহারা প্রবেশপথ রুদ্ধ
+করিয়া দিলেন। ভূপৃষ্ঠের সহিত তাঁহাদের সকল সম্বন্ধ দুর হইয়া গেল!
+
+[ ]{style="display:inline-block; width:2em;"}যতই সময় নিকট হইতে লাগিল,
+দর্শক-মণ্ডলী ততই উদ্বিগ্ন ও চঞ্চল হইতে লাগিল। ক্রমে জাতীয় সঙ্গীত
+থামিয়া গেল, সহস\| হাস্য-কৌতুক স্তব্ধ হইল। সেই বিরাট প্রান্তর---প্রান্তর
+মধ্যে সেই বিশাল আর্দ্দান‍্নগরী তখন একেবারে নীরব হইল। মনে হইতে লাগিল, সেই
+লক্ষাধিক লোকের হৃদয়ও যেন তখন আর স্পন্দিত হইতেছে না। সকলে তখন কামানের
+মুখের দিকে চাহিয়া রহিল।
+
+[ ]{style="display:inline-block; width:2em;"}মার্চিসন্ নীরবে তাঁহার
+ঘড়ির কাঁটার দিকে চাহিয়াছিলেন।
+[]{#c10_______________________________.xhtml#id-72 .pagenum .ws-pagenum
+page-number="৭২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AE%E0%A7%A7"}দশটা
+বাজিয়া ছয়চল্লিশ মিনিট হইল। আর চল্লিশ সেকেণ্ড! মার্চিসনের হৃদয়,
+কাঁপিয়া উঠিল! তিনি অপেক্ষাকৃত উচ্চ-কণ্ঠে সেকেণ্ড গণনা করিতে লাগিলেন।
+দশ---পনেরো---কুড়ি---পঁচিশ---ত্রিশ---! আর দশ সেকেণ্ড মাত্র! সেই
+চন্দ্রালোকে দর্শকদিগের মধ্যে যাহারা ঘড়ি দেখিতেছিল, তাহারা দারুণ
+উৎকণ্ঠায় চীৎকার করিয়া উঠিল। পর্ব্বত শিখরে থাকিয়া মার্চিসন্ আবার গণনা
+করিতে লাগিলেন,---পঁয়ত্রিশ---ছত্রিশ---সাঁইত্রিশ---আটত্রিশ---! মার্চিসনের
+দক্ষিণ কর বৈদ্যুতিক যন্ত্রের চাবির দিকে প্রসারিত হইল। তাঁহার করাঙ্গুলী
+একবার কাঁপিয়া উঠিল--- তাঁহার নিশ্বাস একবার রুদ্ধ হইয়া আসিল। তিনি আবার
+গণিলেন---ঊনচল্লিশ---চ---ল্লি---শ!
+
+[ ]{style="display:inline-block; width:2em;"}তাহার পর কি যে ঘটিল, তাহা
+বর্ণনা করা অসম্ভব! শত-সহস্র বজ্র এক সঙ্গে ধ্বনিত হইলে যে শব্দ
+হয়---কামানের গর্জ্জনের তুলনায় তাহা কিছুই নয় বলিয়া বোধ হইল! অকস্মাৎ
+যেন একটা বিশাল আগ্নেয়গিরি যোজন-ব্যাপী অগ্নি-শিখা ঊর্দ্ধে উৎক্ষিপ্ত
+করিল। সেই শিখা মুহূর্ত্তের জন্য শুধু ষ্টোনিহিল নয়, সমগ্র ফ্লোরিডা
+প্রদেশকে আলোকোদ্ভাসিত করিয়া দিল। ষ্টোনিহল এবং নিকটবর্ত্তী স্থান সমূহের
+অধিবাসীরা দেখিল, সহসা যেন সূর্য্যোদয় হইয়াছে! পরে জানা গিয়াছিল যে
+সমুদ্রগামী কোন কোন জাহাজের অধ্যক্ষ সহসা আকাশ পথে এই অভূত-পূর্ব্ব আলোক
+শিখা দেখিয়া স্তম্ভিত হইয়াছিলেন।
+
+[ ]{style="display:inline-block; width:2em;"}গর্জ্জনের সঙ্গে সঙ্গেই
+দারুণ কম্পন উপস্থিত হইল---সে কম্পনে ষ্টোনিহিল কাঁপিল, আর্দ্দান্ নগর
+কাঁপিল-টম্পা কাঁপিল---এমন কি সমগ্র ফ্লোরিডা পর্য্যন্ত কাঁপিয়া উঠিল।
+দর্শকগণ অনেকেই ধরাশায়ী
+[]{#c10_______________________________.xhtml#id-73 .pagenum .ws-pagenum
+page-number="৭৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AE%E0%A7%A8"}হইলেন।
+কে কাহার গায়ে পড়িল---কে কাহাকে মথিত করিল--- প্রাণভয়ে পলায়ন করিতে
+যাইয়া কে আছাড় খাইয়া নিজের হস্ত-পদ ভাঙ্গিল কে তখন তাহার সংবাদ লয়!
+ভীষণ চীৎকারে ও দারুণ আর্তনাদে সেই কানন-ভূমি প্রেত-ভুমি হইয়া উঠিল।
+যাহারা কামানের অপেক্ষাকৃত নিকটে ছিল, তাহারা বন্দুকের গুলির মত দূরে
+ছিট‍্কাইয়া পড়িল!
+
+[ ]{style="display:inline-block; width:2em;"}বায়ুমণ্ডলে তখন এমন ভীষণ
+কম্পন উপস্থিত হইয়াছিল যে অবিলম্বে ঘোর ঝড় উঠিল। সেই ঝড়ে পটাবাস
+উড়িল---গৃহ পড়িল---কাননে বৃক্ষ ভাঙ্গিয়া নির্মূল হইয়া গেল! টম্পার পথে
+ট্রেণ রেলপথ হইতে গড়াইয়া গড়াইয়া প্রান্তর মধ্যে পতিত হইল! বন্দরে যে
+সকল জাহাজ বাঁধা ছিল, তাহাদের শিকল ছিঁড়িল---নোঙ্গর খসিল--- ছাদ
+উড়িল---মাস্তুল ভাঙ্গিল। তাহারা বন্ধনমুক্ত হইয়া এ উহাকে প্রবল বেগে আঘাত
+করিতে লাগিল--- কেহ বা তীরে আসিয়া ধাক্কা খাইয়া পড়িল--- কতক বা ভাসিয়া
+গেল! এই প্রবল ঝটিকা ঘূর্ণিবায়ুর আকার ধারণ করিয়া আট‍্লাণ্টিক মহাসাগরের
+উপর দিয়া হাহারবে ছুটিতে লাগিল! যে সকল জাহাজ সেই দৈত্যের পথে পড়িল সে
+সমস্তই মুহূর্ত্তে ডুবিয়া গেল!
+
+[ ]{style="display:inline-block; width:2em;"}দর্শকদিগের দুর্ভাগ্য!
+নিমেষে সেই পরিচ্ছন্ন আকাশ মেঘলিপ্ত হইয়া উঠিল। সে মেঘের আবরণ ভেদ করিয়া
+কাহারো দৃষ্টি আকাশ পথে চলিল না। চন্দ্র, তারকা, সমস্তই সে মেঘে ঢাকিয়া
+দিল। কামানের গোলার কি যে হইল, তাহা কেহ দেখিতে পাইল না! হাতের দূরবীক্ষণ
+হাতেই রহিয়া গেল।
+
+::: {.__nop}
+:::
+
+[]{#c10_______________________________.xhtml#id-74 .pagenum .ws-pagenum
+page-number="৭৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF.pdf/%E0%A7%AE%E0%A7%A9"}[ ]{style="display:inline-block; width:2em;"}পরদিন
+প্রভাতেও আকাশ মেঘাচ্ছন্নই রহিল। রাত্রিতেও কেহ চন্দ্রোদয় দেখিতে পাইল না।
+তার পরদিন কেম্ব্রিজ মান-মন্দির হইতে সংবাদ আসিল যে কামানের গোলা বিপুল
+বেগে ধাইয়া চলিয়াছে! যুক্তরাজ্যের গৃহে গৃহে সেদিন মুহুর্মুহুঃ জয়ধ্বনি
+হইতে লাগিল।
+
+::: {.wst-dhr style="visibility:hidden; line-height:4em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+সমাপ্ত
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+::: {.freedImg .wst-freedimg style="float:floating-center;width:150px"}
+[[![](images/c21___________________page_83_crop_.jpg_150px__________________________________________page_83_crop_.jpg){.mw-file-element}](https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A7%87_%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE_-_%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BE%E0%A6%B2_%E0%A6%86%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF_(page_83_crop).jpg){.mw-file-description}]{.freedImg
+typeof="mw:File"}
+:::
+:::
+:::
+
+[]{#about.xhtml}
+
+::: {.section mw-section-id="0"}
+:::
+
+::: {.section mw-section-id="-1"}
+[]{#about.xhtml#id-.E0.A6.8F.E0.A6.87_.E0.A6.A1.E0.A6.BF.E0.A6.9C.E0.A6.BF.E0.A6.9F.E0.A6.BE.E0.A6.B2_.E0.A6.B8.E0.A6.82.E0.A6.B8.E0.A7.8D.E0.A6.95.E0.A6.B0.E0.A6.A3_.E0.A6.B8.E0.A6.AE.E0.A7.8D.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.95.E0.A7.87 typeof="mw:FallbackId"}এই ডিজিটাল সংস্করণ সম্পর্কে {#about.xhtml#e_i_dijitala_sanskarana_samparke}
+=================================================================================================================================================================================================================================================================================================
+
+এই ই-বই অনলাইন গ্রন্থাগার
+[উইকিসংকলন](https://bn.wikisource.org/wiki/প্রধান_পাতা "প্রধান পাতা"){.mw-redirect}^[[\[1\]]{.mw-reflink-text}](#about.xhtml#cite_note-1)^
+হতে প্রাপ্ত। স্বেচ্ছাসেবীদের দ্বারা নির্মিত এই বহুভাষী ডিজিটাল
+গ্রন্থাগার উপন্যাস, কবিতা, পত্র-পত্রিকা ইত্যাদি সমস্ত ধরণের প্রকাশনার
+মুক্ত সংকলন গড়ে তোলার জন্য অঙ্গীকারবদ্ধ।
+
+আমরা কপিরাইটমুক্ত অথবা মুক্ত লাইসেন্সের অধীনে প্রকাশিত বইগুলিকে
+বিনামূল্যে প্রদান করে থাকি। আপনি আমাদের ই-বইগুলিকে [ক্রিয়েটিভ কমন্স
+অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক ৩.০
+আনপোর্টেড](https://creativecommons.org/licenses/by-sa/3.0/deed.bn){.external
+.text} লাইসেন্স^[[\[2\]]{.mw-reflink-text}](#about.xhtml#cite_note-2)^
+বা [জিএনইউ ফ্রি ডকুমেন্টশন
+লাইসেন্সের](http://www.gnu.org/copyleft/fdl.html){.external
+.text}^[[\[3\]]{.mw-reflink-text}](#about.xhtml#cite_note-3)^ শর্তাধীনে
+বাণিজ্যিক উদ্দেশ্য সহ যে কোন উদ্দেশ্যে ব্যবহার করতে পারেন।
+
+উইকিসংকলন সর্বদা নতুন সদস্যদের জন্য উন্মুক্ত। এই ই-বইয়ে কিছু ভুল
+ভ্রান্তি থেকে যাওয়া সম্ভব, সেক্ষেত্রে আপনি [এই
+পাতায়](https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা "উইকিসংকলন:লিপিশালা")
+জানাতে পারেন^[[\[4\]]{.mw-reflink-text}](#about.xhtml#cite_note-4)^।
+
+নিম্নে তালিকাভুক্ত ব্যবহারকারীরা এই ই-বইয়ে অবদান রেখেছেন:
+
+::: {#about.xhtml#ws-contributor}
+-   Nettime Sujata
+-   Bodhisattwa
+-   Salil Kumar Mukherjee
+-   Hrishikes
+-   Noclip\~commonswiki
+-   Bender235
+-   AzaToth
+-   Tene\~commonswiki
+-   Bromskloss
+-   KABALINI
+-   Waldyrious
+-   Auralux
+-   Latebird
+-   Ö
+-   Abu badali\~commonswiki
+-   Cumulus
+-   Kyle the hacker
+-   Boris23
+-   Zscout370
+-   Ignacio Rodríguez
+-   Inductiveload
+-   Rocket000
+-   Masur
+-   Safuan12616
+-   DoraShin15
+-   PatríciaR
+:::
+
+\
+
+------------------------------------------------------------------------
+
+1.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-1)
+    [https://bn.wikisource.org]{.mw-reference-text}]{#about.xhtml#cite_note-1}
+2.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-2)
+    [https://creativecommons.org/licenses/by-sa/3.0/deed.bn]{.mw-reference-text}]{#about.xhtml#cite_note-2}
+3.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-3)
+    [http://www.gnu.org/copyleft/fdl.html]{.mw-reference-text}]{#about.xhtml#cite_note-3}
+4.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-4)
+    [https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা]{.mw-reference-text}]{#about.xhtml#cite_note-4}
+:::

@@ -1,0 +1,2138 @@
+---
+contributor: Wikisource
+identifier: 'https://bn.wikisource.org/wiki/%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87\_%E0%A6%95%E0%A6%BF\_%E0%A6%AC%E0%A6%B2%E0%A7%87\_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F'
+language: bn
+rights:
+- GNU Free Documentation License
+- 'Creative Commons BY-SA 3.0'
+source: 'https://bn.wikisource.org/wiki/%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87\_%E0%A6%95%E0%A6%BF\_%E0%A6%AC%E0%A6%B2%E0%A7%87\_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F'
+title: 'একেই কি বলে সভ্যতা?'
+---
+
+![](title.xhtml)
+
+[]{#title.xhtml}
+
+একেই কি বলে সভ্যতা?
+-------------------
+
+### 
+
+\
+![](images/Accueil_scribe.png)\
+
+##### 
+
+\
+
+###### ৭ অক্টোবর, ২০২৩ তারিখে উইকিসংকলন থেকে রপ্তানিকৃত
+
+[]{#c0____________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork" itemid="http://www.wikidata.org/entity/Q110803821"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c0____________________.xhtml#pracchada .pagenum .ws-pagenum
+page-number="প্রচ্ছদ"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%AC"}
+
+::: {.wst-center .tiInherit}
+[﻿একেই কি বলে সভ্যতা?]{style="font-size:207%;"}
+
+[(প্রহসন)।]{style="font-size: 144%;"}
+
+::: {.freedImg .wst-freedimg style="float:floating-center;width:400px"}
+[[![](images/c5_______________page_1_crop_.jpg_400px________________________________________________page_1_crop_.jpg){.mw-file-element}](https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%A8%E0%A6%BE_%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF_-_%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2_%E0%A6%AE%E0%A6%A7%E0%A7%81%E0%A6%B8%E0%A7%82%E0%A6%A6%E0%A6%A8_%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%A4_(%E0%A7%A7%E0%A7%AE%E0%A7%AC%E0%A7%AA)_(page_1_crop).jpg){.mw-file-description}]{.freedImg
+typeof="mw:File"}
+:::
+
+[শ্রীমাইকেল মধুসূদন দত্ত]{style="font-size: 144%;"}
+
+প্রণীত।
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+[দ্বিতীয়বার মুদ্রিত।]{style="font-size: 120%;"}
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+[কলিকতা।]{style="font-size: 120%;"}
+
+শ্রীযুত ঈশ্বরচন্দ্র বসু কোং বহুবাজারস্থ ১৮২ সংখ্যক ভবনে
+
+ষ্ট্যানহোপ যন্ত্রে ষত্রিত।
+
+------------------------------------------------------------------------
+
+সন ১২৬৯ সাল।
+:::
+:::
+
+[ ]{#c0____________________.xhtml#page .center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt3" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt5" lang="bn"}
+[]{#c0____________________.xhtml#patra .pagenum .ws-pagenum
+page-number="পাত্র"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%AE"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+[নাট্যোল্লিখিত ব্যক্তিগণ।]{style="font-size: 144%;"}
+:::
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c7_Rule_Segment___Flare_Centre_5px___100px.svg_100px_Rule_Segment___Flare_Centre_5px___100px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+কর্ত্তা মহাশয়
+
+নব বাবু
+
+কালী বাবু
+
+বাবাজী
+
+বৈদ্যনাথ
+
+\
+গৃহিণী
+
+প্রসন্নময়ী
+
+হরকামিনী
+
+নৃত্যকালী
+
+কমলা
+
+পয়োধারী } খেমটাওয়ালী
+
+নিতম্বিনী
+
+[ ]{style="display:inline-block; width:2em;"}বাবুদল, সারজন, চৌকিদার,
+যন্ত্রীগণ, খানসামা, বেহারা, দরওয়ান, মালী, বরফওয়ালা, মুটিয়াদ্বয়,
+মাতাল, বারবিলাসিনীদ্বয় ইত্যাদি ।
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt6" typeof="mw:Transclusion"}
+
+::: {.subheadertemplate .__auxtoc .ws-summary style="width:30em; max-width: 100%; margin-left:auto; margin-right:auto; box-sizing: border-box; padding-left:.5em; padding-right:.5em; " about="#mwt7" typeof="mw:Transclusion"}
+::: {style="display:flex; align-items: baseline"}
+**[[ ]{typeof="mw:Entity"}]{style="display:inline-block; width:2em;"}**[]{style="flex:1 0; min-width:1em"}[[ ]{typeof="mw:Entity"}(মূল
+গ্রন্থে নেই)]{style="font-size: 90%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[**সূচীপত্র**]{style="font-size: 144%;"}
+:::
+
+::: {.wst-center .tiInherit}
+[প্রথম অঙ্ক]{style="font-size: 120%;"}
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[প্রথম অঙ্ক --- প্রথম
+গর্ভাঙ্ক](#c1______________________________________________.xhtml "একেই কি বলে সভ্যতা?/প্রথম অঙ্ক/প্রথম গর্ভাঙ্ক")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[প্রথম অঙ্ক --- দ্বিতীয়
+গর্ভাঙ্ক](#c2_________________________________________________.xhtml "একেই কি বলে সভ্যতা?/প্রথম অঙ্ক/দ্বিতীয় গর্ভাঙ্ক")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.wst-center .tiInherit}
+[দ্বিতীয় অঙ্ক]{style="font-size: 144%;"}
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[দ্বিতীয় অঙ্ক --- প্রথম
+গর্ভাঙ্ক](#c3_________________________________________________.xhtml "একেই কি বলে সভ্যতা?/দ্বিতীয় অঙ্ক/প্রথম গর্ভাঙ্ক")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+
+::: {.tableItem style="position:relative;margin:.125em auto;background:#FFF;color:#000;line-height:normal"}
+::: {style="margin-right:0px"}
+::: {style="float:left;width:100%"}
+::: {style="position:relative;z-index:2;"}
+[[দ্বিতীয় অঙ্ক --- দ্বিতীয়
+গর্ভাঙ্ক](#c4____________________________________________________.xhtml "একেই কি বলে সভ্যতা?/দ্বিতীয় অঙ্ক/দ্বিতীয় গর্ভাঙ্ক")[ ]{typeof="mw:Entity"}]{style="background:#FFF"}
+:::
+:::
+:::
+:::
+:::
+
+[ ]{about="#mwt14"}[ ]{about="#mwt14"}
+:::
+
+[]{#c1______________________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE_%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE_%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c1______________________________________________.xhtml#id-1 .pagenum
+.ws-pagenum page-number="১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%A6"}﻿
+
+::: {.center style="width:auto; margin-left:auto; margin-right:auto;"}
+[**একেই কি বলে সভ্যতা?**]{style="font-size:249%;"}
+
+[(প্রহসন)।]{style="font-size: 144%;"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+------------------------------------------------------------------------
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+[প্রথমাঙ্ক।]{style="font-size: 144%;"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+------------------------------------------------------------------------
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+[প্রথম গর্ভাঙ্ক]{style="font-size: 120%;"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+নবকুমার বাবুর গৃহ।
+
+[নবকুমার এবং কালীনাথ বাবু---আসীন।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কালী। বল কি?
+
+[ ]{style="display:inline-block; width:2em;"}নব। আর ভাই বল্‌বো কি।
+কর্ত্তা এত দিনের পর বৃন্দাবন হতে ফিরে এসেছেন। এখন আমার আর বাড়ী থেকে
+বেরনো ভার।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। কি সর্ব্বনাশ; তবে এখন
+এর উপায় কি?
+
+[ ]{style="display:inline-block; width:2em;"}নব। আর উপায় কি? সভাটা
+দেখচি এবলিশ্‌ কত্ত্যে হলো।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। বাঃ, তুমি পাগল হলে না
+কি? এমন সভা কি কেউ কখন এবলিশ্‌ কর‍্যে থাকে? এত তুফানে নৌকা বাঁচিয়ে এনে,
+ঘাটে এসে কি হাল্‌ ছেড়ে দেওয়া উচিত? যখন আমাদের সবস্ক্রিপ্‌সন্‌ লিস্ট
+অতি পুয়র ছিল, তখন
+[]{#c1______________________________________________.xhtml#id-2 .pagenum
+.ws-pagenum page-number="২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%A7"}আমরা
+নিজে থেকে টাকা দিয়ে সভাটি সেভ্‌ করেছিলেম্‌, এখন---
+
+[ ]{style="display:inline-block; width:2em;"}নব। আরে ও সব্‌ কি আমি আর
+জানিনে, যে তুমি আমাকে আবার নতুন করে বল্‌তে এলে? তা আমি কি ভাই সাধ করে
+সভা উঠয়ে দিতে চাচ্চি? কিন্তু করি কি? কর্ত্ত এখন কেমন হয়েচেন যে দশ
+মিনিট্‌ যদি আমি বাড়ী ছাড়া হই তা হলে তখনি তত্ত্ব করেন। তা ভাই, আমার কি
+এখন সেথায় এটেণ্ড দেবার উপায় আছে। (দীর্ঘ নিশ্বাস)
+
+[ ]{style="display:inline-block; width:2em;"}কালী। কি উৎপাৎ! তোমার কথা
+শুনে, ভাই, গলাটা একবারে যেন শুখিয়ে উঠ্‌লো। ওহে নব, বলি কিছু আছে?
+
+[ ]{style="display:inline-block; width:2em;"}নব। হষ্‌! অত চেঁচিয়ে কথা
+কয়ো না, বোধ করি একটা ব্রাণ্ডি আছে।
+
+[ ]{style="display:inline-block; width:2em;"}কালি (সহর্ষে) জষ্ট দি থিং।
+তা আনো না দেখি।
+
+[ ]{style="display:inline-block; width:2em;"}নব। রসে দেখ্‌চি।
+(চতুর্দ্দিগ অবলোকন করিয়া) কর্ত্তা বোধ করি এখনো বাড়ীর ভিতর থেকে বেরোন্‌
+নি। (উচ্চস্বরে) ওরে বোদে।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। আজ্ঞে যাই।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ রাত্রে কিন্তু,
+ভাই, একবার তোমাকে যেতেই হবে। (স্বগত) হাঃ, এ বুড়ো বেটা কি অকালের বাদল
+হয়ে আমাদের প্লেজর নষ্ট কত্ত্যে এলো? এই নব আমাদের সদ্দার, আর মনি
+ম্যাটারে এই বিশেষ সাহায্য করে; এ ছাড়্‌লে যে আমাদের সর্ব্বনাশ হবে, তার
+সন্দেহ নাই।
+
+::: {.wst-center .tiInherit}
+[(বোদের প্রবেশ।)]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}নব। কর্ত্তা কোথায় রে?
+
+[ ]{style="display:inline-block; width:2em;"}বৈদ্য। আজ্ঞে দাদাবাবু, তিনি
+এখন বাড়ীর ভিতর থেকে বেরোন্‌ নি।
+
+::: {.__nop}
+:::
+
+[]{#c1______________________________________________.xhtml#id-3 .pagenum
+.ws-pagenum page-number="৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%A8"}[ ]{style="display:inline-block; width:2em;"}নব।
+তবে সেই বোতল্‌টা আর একটা গ্লাশ্‌ শীঘ্র করে আন্‌ তো।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+[\[বোদের প্রস্থান।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কালী ভাল নব, তোমাদের
+কর্ত্তা কি খুব বৈষ্ণব হে?
+
+[ ]{style="display:inline-block; width:2em;"}নব। (দীর্ঘ নিশ্বাস পরিত্যাগ
+করিয়া) ও দুঃখের কথা ভাই আর কেন জিজ্ঞাস কর? বোধ করি কল্‌কাতায় আর এমন
+ভক্ত দুটী নাই।
+
+::: {.wst-center .tiInherit}
+[(বোতল ইত্যাদি লইয়া বোদের পুনঃপ্রবেশ)।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কালী। এদিকে দে।
+
+[ ]{style="display:inline-block; width:2em;"}নব। শীঘ্র নেও ভাই, এখন আর
+সে রাবণও নাই, সে সোণার লঙ্কাও নাই।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। না থাক্‌লে তো বোয়ে
+গেল কি! এ তে আছে? (বোতল প্রদর্শন)। হা, হা, হা! (মদ্যপান)।
+
+[ ]{style="display:inline-block; width:2em;"}নব। আরে করো কি, আবার?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। রসো ভাই, আরো একটুখানি
+খেয়ে নি। দেখ, যে গুড্‌ জেনেরেল হয়, সে কি সুযোগ পেলে তার গ্যেরিসনে
+প্রোবিজন্‌ জমাতে কশুর করে? হা, হা, হা। (পুনর্ম্মদ্যপান)।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (বোদের প্রতি) বোতল্‌ আর
+গ্লাশটা নিয়ে যা, আর শীগ্‌গীর গোটকতক্‌ পান নিয়ে আয়।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+[\[বোদের প্রস্থান।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কালী! এখন চল ভাই, তোমাদের
+কর্ত্তার সঙ্গে একবার দেখা করা যাগ্‌গে। আজ কিন্তু তোমাকে যেতেই হবে, আজ্‌
+তোমাকে কোন্‌ শালা ছেড়ে যাবে।
+
+::: {.__nop}
+:::
+
+[]{#c1______________________________________________.xhtml#id-4 .pagenum
+.ws-pagenum page-number="৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%A9"}[ ]{style="display:inline-block; width:2em;"}নব।
+তোমার পায়ে পড়ি, ভাই, একটু আস্তে আস্তে কথা কও।
+
+::: {.wst-center .tiInherit}
+[(পান লইয়া বোদের পুনঃ প্রবেশ)।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কালী। দে, এ দিকে দে।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ও বৈদ্যনাথ।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+[\[বোদের প্রস্থান।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}নব। এই যে কর্ত্তা বাইরে
+আস্‌চেন। নেও আর একটা পান নেও।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আমি ভাই পান তো খেতে
+চাইনে, আমি পান কত্ত্যে চাই। সে যাহউক তবে চল মা, কর্ত্তার সঙ্গে সাক্ষাৎ
+করি গিয়ে।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (সহাস্য বদনে) তোমার,
+ভাই, আর অতো ক্লেশ স্বীকার কত্তে হবে না। কর্ত্তা তোমার গাড়ী দরোজায়
+দেখ্‌লেই আপনি এখানে এসে উপস্থিত হবেন এখন।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। বল কি? আই সে, তোমার
+চাকর বেটাকে, ভাই, আর একটু ব্রাণ্ডি দিতে বলো তো; আমার গলাটা আবার যেন
+শুখয়ে উঠ্‌ছে।
+
+[ ]{style="display:inline-block; width:2em;"}নর। কি সর্ব্বনাশ! এমনিই
+দেখছি তোমার একটু যেন নেশা হয়েছে; আবার খাবে?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আচ্ছা, তবে থাকুক্‌।
+ভাল, কর্ত্তা এখানে এলে কি বল্‌বো বল দেখি?
+
+[ ]{style="display:inline-block; width:2em;"}নব। আর বল্‌বে কি? একট
+প্রণাম করে আপনার পরিচয় দিও।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। কি পরিচয় দেবো বলে
+দেখি, ভাই? তোমাদের কর্ত্তাকে কি বলবো যে আমি
+বিএরের---মুখটি---স্বকৃতভঙ্গ---সোণাগাছিতে আমার শত শ্বশুর---না না শ্বশুর
+নয়---শত শাশুড়ির আলয়, আর উইল্‌সনের আখড়ায় নিত্য মহাপ্রসাদ পাই---হা,
+হা, হা!
+
+::: {.__nop}
+:::
+
+[]{#c1______________________________________________.xhtml#id-5 .pagenum
+.ws-pagenum page-number="৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%AA"}[ ]{style="display:inline-block; width:2em;"}নব।
+আঃ, মিছে তামাসা ছেড়ে দেও, এখন সত্তি কি বল্‌বে বল দেখি? এক কর্ম্ম কর,
+কোন একটা মস্ত বৈষ্ণব ফ্যামিলির নাম ঠাওরাতে পার? তা হলে আর কথাটি কইতে হয়
+না।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। তা পার্‌বো না কেন?
+তবে একটু মাটি দেও, উড়ে বেয়ারাদের মতন নাকে তিলক কেটে আগে সাধু হয়ে বসি।
+
+[ ]{style="display:inline-block; width:2em;"}নব। না হে না। (চিন্তা
+করিয়া) গরাণহাটার কোন্‌ ঘোষ না পরম বৈষ্ণর ছিল?---তার নাম তোমার মনে
+আছে?---ঐ যে যার ছেলে আমাদের সঙ্গে এক ক্লাশে পড়্‌তো?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আমি ভাই গরাণহাটার
+প্যারী আর তার ছুকরি বিন্দি ছাড় আর কাকেও চিনি না।
+
+[ ]{style="display:inline-block; width:2em;"}নব। কোন্‌ প্যারী হে?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আরে, গোদা প্যারী। সে
+কি? তুমি কি গোদা প্যারীকে চেন না? ভাই, একদিন আমি আর মদন যে তার বাড়ীতে
+যেয়ে কত মজা করেছিলেম তার আর কি বল্‌বো। সে যাক্‌, এখন কি বল্‌বো তাই
+ঠাওরাও।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (চিন্তা করিয়া)
+হাঁ---হয়েছে। দেখ, কালী, তোমার কে একজন খুড়ো পরম বৈষ্ণব ছিলেন্‌ না? যিনি
+বৃন্দাবনে গিয়ে মরেন্‌।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। হাঁ, একটা ওল্ড ফুল
+ছিল বটে, তার নাম কৃষ্ণপ্রসাদ ঘোষ।
+
+[ ]{style="display:inline-block; width:2em;"}নব। তবে বেশ হয়েছে। তুমি
+তাঁরি পরিচয় দিও, বাপের নামটা চেপে যাও।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। হা, হা, হা!
+
+[ ]{style="display:inline-block; width:2em;"}নব। দুর পাগল, হাসিস্ কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। হা, হা, হা! ভাল ত যেন
+হলো, এখন বৈঞ্চব বেটাদের দুই এক খানা পুঁথির নাম তো না শিখলে নয়।
+
+::: {.__nop}
+:::
+
+[]{#c1______________________________________________.xhtml#id-6 .pagenum
+.ws-pagenum page-number="৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%AB"}[ ]{style="display:inline-block; width:2em;"}নব।
+তবেই যে সার্‌লে। আমি তো সে বিষয়ে পরম পণ্ডিত। রসো দেখি। (চিন্তা করিয়া)
+শ্রীমদ্ভগব্দগীতা---গীত গোবিন্দ---
+
+[ ]{style="display:inline-block; width:2em;"}কালী! গীত কি?
+
+[ ]{style="display:inline-block; width:2em;"}নব!
+[[জয়দেবের](https://bn.wikisource.org/wiki/%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%95:%E0%A6%9C%E0%A6%AF%E0%A6%BC%E0%A6%A6%E0%A7%87%E0%A6%AC "লেখক:জয়দেব")]{.module-wikidata-link}
+গীত গোবিন্দ।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। ধর---শ্রীমতী ভগবতীর
+গীত, আর-বিন্দাদূতীর গীত---
+
+[ ]{style="display:inline-block; width:2em;"}নব। হা, হা, হা! ভায়ার কি
+চমৎকার মেমরি।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। কেন, কেন?
+
+[ ]{style="display:inline-block; width:2em;"}নব। হষ্‌! কর্ত্তা আস্‌ছেন।
+দেখ, ভাই, যেন একটা বেস করে প্রণাম করো।
+
+::: {.wst-center .tiInherit}
+[(কর্ত্তা মহাশয়ের প্রবেশ।)]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কালী। (প্রণাম)
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। চিরজীবী হও বাপু,
+তোমার নাম কি?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে, আমার নাম
+শ্রীকালীনাথ দাস ঘোষ। মহাশয়, আপনি---৺কষ্ণপ্রসাদ ঘোষ মহাশয়কে বোধ করি
+জান্‌তেন। আমি তারি ভ্রাতুষ্পুত্র---
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। কোন্‌ কৃষ্ণপ্রসাদ
+ঘোষ?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে, বাঁশবেড়ের---
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। হাঁ, হাঁ, হাঁ।
+তুমি স্বর্গীয় কষ্ণপ্রসাদ ঘোষজ মহাশয়ের ভ্রাতুষ্পুত্র, যিনি
+শ্রীবৃন্দাবনধাম প্রাপ্ত হন্‌।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে হাঁ।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। বেঁচে থাক, বাপু।
+বসো। (সকলের উপবেশন)। তুমি এখন কি কর, বাপু?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। অজ্ঞে, কলেজে নবকুমার
+বাবুর সঙ্গে এক ক্লাশে পড়া হয়েছিল, এক্ষণে কর্ম্ম কাজের চেষ্টা করা
+হচ্যে।
+
+::: {.__nop}
+:::
+
+[]{#c1______________________________________________.xhtml#id-7 .pagenum
+.ws-pagenum page-number="৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%AC"}[ ]{style="display:inline-block; width:2em;"}কর্ত্তা।
+বেশ বাপু! তোমার স্বর্গীয় খুড়া মহাশয় আমার পরম মিত্র চিলেন্‌। বাবা, আমি
+তোমার সম্পর্কে জ্যেঠা হই, তা জান?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। (স্বগত) আহা,
+ছেলেটি দেখতে শুনতে ও যেমন, আর তেমনি সুশীল। আর না হবেই বা কেন?
+কৃষ্ণপ্রসাদের ভ্রাতুষ্পুত্র কি না?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। জ্যেঠা মহাশয়, আজ্‌
+নবকুমার দাদাকে আমার সঙ্গে একবার যেতে আজ্ঞা করুন্‌---
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। কেন বাপু, তোমরা
+কোথায় যাবে?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে আমাদের
+জ্ঞানতরঙ্গিণী নামে একটা সভা আছে সেখানে আজ্‌ মিটীং হবে।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। কি সভা বল্‌লে
+বাপু?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে জ্ঞানতরঙ্গিণী
+সভা।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। সে সভায় কি হয়?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে, আমাদের কলেজে
+থেকে কেবল ইংরাজী চর্চ্চা হয়েছিল, তা আমাদের জাতীয় ভাষা তো কিঞ্চিৎ জানা
+চাই তাই এই সভাটি সংস্কৃতবিদ্যা আলোচনাব জন্যে সংস্থাপন করেছি। আমরা প্রতি
+শনিবার এই সভায় একত্র হয়ে ধর্ম্মশাস্ত্রের আন্দোলন করি।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। তা বেশ কর। (স্বগত)
+আহা, কষ্ণপ্রসাদের ভ্রাতুষ্পুত্র কি না! আর এ নবকুমারেরও তো আমার ঔরসে
+জন্ম। (প্রকাশে) তোমাদের শিক্ষক কে বাপু?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে, কেন রাম
+রণচম্পতি মহাশয়, যিনি সংস্কুত কালেজের প্রধান অধ্যাপক---
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। ভাল, বাপু, তোমরা
+কোন্‌ সকল পুস্তক অধ্যয়ন কর, বল দেখি?
+
+::: {.__nop}
+:::
+
+[]{#c1______________________________________________.xhtml#id-8 .pagenum
+.ws-pagenum page-number="৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%AD"}[ ]{style="display:inline-block; width:2em;"}কালী।
+(স্বগত) আ মলো! এতক্ষণের পর দেখ্‌ছি সাল্লে। (প্রকাশে) আজ্ঞে---শ্রীমতী
+ভগবতীর গীত আর---বোপ্‌দেবের বিন্দাদূতী।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা! কি বল্লে, বাপু?
+
+[ ]{style="display:inline-block; width:2em;"}নব। আজ্ঞে, উনি বল্‌ছেন
+শ্রীমদ্ভগবদীতা আর
+[[জয়দেবের](https://bn.wikisource.org/wiki/%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%95:%E0%A6%9C%E0%A6%AF%E0%A6%BC%E0%A6%A6%E0%A7%87%E0%A6%AC "লেখক:জয়দেব")]{.module-wikidata-link}
+গীতগোবিন্দ।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। জয়দেব? আহা, হা,
+কবিকুল-তিলক, ভক্তিরস-সাগর।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। জ্যেঠা মহাশয়, যদি
+আজ্ঞে হয় তবে এক্ষণে আমরা বিদায় হই।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। কেন, বেলা দেখ্‌ছি
+এখনো পাঁচটা বাজে নি, ত। তোমরা বাপু, এত সকালে যাবে কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে, আমরা সকাল সকাল
+কর্ম্ম নির্ব্বাহ করবো বলে সকালে যেতে চাই, অধিক রাত্রি জাগ্‌লে পাছে বেমো
+টেমো হয়, এই ভয়ে সকালে মীট্‌ করি।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। তোমাদের সভাটা
+কোথায়, বাপু?
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আজ্ঞে, সীক্‌দার
+পাড়ার গলিতে।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। আচ্ছা বাপু, তবে
+এসো গে। দেখো যেন অধিক রাত্রি করো না।
+
+[ ]{style="display:inline-block; width:2em;"}নব এবং কালী। আজ্ঞে না।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+[\[উভয়ের প্রস্থান।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। (স্বগত) এই কলিকাতা
+সহর বিষম ঠাঁই, তাতে করে ছেলেটিকে কি এক্‌লা পাঠ্‌য়ে ভাল কল্যেম্? (চিন্তা
+করিয়া) একবার বাবাজীকে পাঠ্‌য়ে দি না কেন, দেখে আসুক ব্যাপারটাই কি? আমার
+মনে যেন কেমন সন্দেহ হচ্ছে যে নবকে যেতে দিয়ে ভাল করি নাই।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+[\[প্রস্থান।]{style="font-size: 120%;"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+------------------------------------------------------------------------
+:::
+:::
+
+[]{#c2_________________________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE_%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c2_________________________________________________.xhtml#id-9
+.pagenum .ws-pagenum page-number="৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%AE"}
+
+::: {.center style="width:auto; margin-left:auto; margin-right:auto;"}
+[দ্বিতীয় গর্ভাঙ্ক।]{style="font-size: 120%;"}
+:::
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c8_Rule_Segment___Span___10px.svg_10px_Rule_Segment___Span___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c9_Rule_Segment___Flare_Left___12px.svg_12px_Rule_Segment___Flare_Left___12px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c10_Rule_Segment___Flare_Centre___22px.svg_22px_Rule_Segment___Flare_Centre___22px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c11_Rule_Segment___Flare_Right___12px.svg_12px_Rule_Segment___Flare_Right___12px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c8_Rule_Segment___Span___10px.svg_10px_Rule_Segment___Span___10px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+::: {.center style="width:auto; margin-left:auto; margin-right:auto;"}
+সিক্‌দার পাড়া ষ্ট্রীট। [(বাবাজীর প্রবেশ।)]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (স্বগত) এই তো
+সিক্‌দার পাড়ার গলি, তা কই? নব বাবুর সভাভবন কই? রাধেকৃষ্ণ। (পরিক্রমণ)।
+তা, দেখি, এই বাড়ীটাই বুঝি হবে। (দ্বারে আঘাত)
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। তুমি কে গা? কাকে
+খুঁজ্‌চো গা?"
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী! ওগো, এই কি
+জ্ঞানতরঙ্গিণীসভার বাড়ী?
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ও পুঁটী দেক্‌তো
+লা, কোন্‌ বেটা মাতাল এসে বুঝি দরজায় ঘা মাচ্চে? ওর মাথায় খানিক জল ঢেলে
+দে তো।
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (স্বগত) প্রভো,
+তোমারি ইচ্ছে। হায়, এত দিনের পর কি মাতাল হলেম্‌!
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। তুই বেটা কে রে?
+পালা, নইলে এখনি চৌকীদার ডেকে দেবো।
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (বেগে পরিক্রমণ
+করিয়া সরোষে) কি আপদ। রাধেকৃষ্ণ! কর্ত্ত মহাশয়ের কি আর লোক ছিল না, যে
+তিনি আমাকেই এ কর্ম্মে পাঠালেন? (পরিক্রমণ)। এই দেখ্‌চি একজন ভদ্রলোক এ
+দিকে আস্‌চে, তা একেই কেন জিজ্ঞাসা করিনে।
+
+::: {.center style="width:auto; margin-left:auto; margin-right:auto;"}
+(একজন মাতালের প্রবেশ।)
+:::
+
+[ ]{style="display:inline-block; width:2em;"}মাতাল। (বাবাজীকে অবলোকন
+করিয়া) ওগো, এখানে কোথা যাত্রা হচ্চে গা?
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। তা বাবু, আমি কেমন
+করে বল্‌বো?
+
+[ ]{style="display:inline-block; width:2em;"}মাতাল। সে কি গো? তুমি না সং
+সেজেচ?
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। রাধেকৃষ্ণ!
+
+::: {.__nop}
+:::
+
+[]{#c2_________________________________________________.xhtml#id-10
+.pagenum .ws-pagenum page-number="১০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A7%E0%A7%AF"}[ ]{style="display:inline-block; width:2em;"}মাতাল।
+তবে, শালা, তুই এখানে কচ্চিস্‌ কি? হাঃ শালা।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[প্রস্থান।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। কি সর্ব্বনাশ! বেটা
+কি পাষণ্ড গা? রাধেকৃষ্ণ! এ গলিতে কি কোন ভদ্রলোক বসতি করে গা?---এ আবার
+কি? (অবলোকন করিয়া) আহাহা, স্ত্রীলোক দুটি যে দেখ্‌তে নিতান্ত কদাকার তা
+নয়। এঁরা কে?---হরেকৃষ্ণ, হরেকৃষ্ণ। (একদৃষ্টে অবলোকন)।
+
+::: {.wst-center .tiInherit}
+[(দুইজন বারবিলাসিনীর পশ্চাতে দৃষ্টি করিতে করিতে
+প্রবেশ।)]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। ওলো বামা, গুরো
+পোড়ারমুখের আক্কেল দেখ্‌লি? আমাদের সঙ্গে যাচ্চি বলে আবার কোথায় গেল?
+
+[ ]{style="display:inline-block; width:2em;"}দ্বিতীয়। তবে বুঝি আস্ত্যে
+আস্ত্যে পদার বাড়ীতে ঢুকেচে। ভোর যেমন পোড়া কপাল, তাই ও হতোভাগাকে
+রেখেচিস। আমি হলে এতদিনে কুলোর বাতাস দিয়ে বিদায় কর্ত্তুম।
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। দাঁড়া না, বাড়ী যাই
+আগে। আজ মুড়ো খেঙ্গরা দে বিষ ঝাড়্‌বো। আমি তেমন বান্দা নই, বাবা। এই
+বয়েসে কত শত বেটার নাকের জলে, চক্ষের জলে করে ছেড়েচি। চল্‌না, আগে
+[[মদনমোহন](https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%A6%E0%A6%A8%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8 "w:মদনমোহন"){.extiw}]{.module-wikidata-link}
+দেখে আসি; এসে ওর শ্রাদ্ধ করবো এখন।
+
+[ ]{style="display:inline-block; width:2em;"}দ্বিতীয়। তুই যদি তাই পারবি
+তা হলে আর ভাবনা কি---ও থাকি, ঐ মোল্লার মতন কাচা খোলা কে একটা দড়িয়ে
+রয়েছে, দেখ্‌?
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। হ্যাঁ তো, হ্যাঁ তো।
+এই ষে আমাদের দিকে আসচে। ওলো বামা, ওটা মোল্লা নয় ভাই, রসের বৈরিগী ঠাকুর।
+ঐ খে কুঁড়োজালি হাতে আছে। (হাস্য করিয়া) আহাহা, মিনষের রকম দেখ্‌
+না---যেন তুলসীবনের বাঘ।
+
+::: {.__nop}
+:::
+
+[]{#c2_________________________________________________.xhtml#id-11
+.pagenum .ws-pagenum page-number="১১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%A6"}[ ]{style="display:inline-block; width:2em;"}বাবাজী।
+(নিকটে আসিয়া) ওগো, তোমরা বলতে পার, এখানে জ্ঞানতরঙ্গিনী সভা কোথা?
+
+[ ]{style="display:inline-block; width:2em;"}দ্বিতীয়। তরঙ্গিণী আবার কে?
+(থাকি ধারণ করা হাস্য)। বাবাজী, তরঙ্গিণী তোমার বষ্টুমীর নাম বুঝি?
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। আহা, বাবাজী, তোমার
+কি বষ্ট্‌মী হারয়েচে? তা পথে পথে কেঁদে বেড়ালে কি হবে? যা হবার তা
+হয়েচে, কি করবে ভাই? এখন আমাদের সঙ্গে আসবে তো বল?---কেমন বামা, ভেক নিতে
+পারবি?
+
+[ ]{style="display:inline-block; width:2em;"}দ্বিতীয়। কেন পারব না?
+পাঁচসিকে পেলিই পারি। কি বল, বাবাজী।
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। বাবাজী আর বলবেন কি?
+চল্‌ আমরা বাবাজীকে হরিবোল দিয়ে নিয়ে যাই। বল হরি, হরিবোল।
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (স্বগত) কি বিপদ্‌!
+রাধেকৃষ্ণ। (প্রকাশে) না বাছা, তোমরা যাও, আমার ঘাট্‌ হয়েছে।
+
+[ ]{style="display:inline-block; width:2em;"}দ্বিতীয়। হ্যেঁ, আমরা যাব
+বই কি? তোমার তো সেই তরঙ্গিণী বই আর মন উঠবে না? তা, আমরা যাই, আর তুমি
+এইখানে দাঁড়্‌য়ে দাঁড়য়ে কাঁদ। (বাবাজীর মুখের নিকট হস্ত নাড়িয়া)
+"সাধের বষ্টুমী প্রাণ হারয়েছে আমার"।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[দুইজন বারবিলাসিনীর প্রস্থান।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। আঃ, কি উৎপাৎ! এত
+যন্ত্রণাও জাজ কপালে ছিল!---কোথাই বা সভা আর কোথাই বা কি? লাভের মধ্যে কেবল
+আমারি যন্ত্রণ সার। (পরিক্রমণ করিয়া) যদি আবার ফিরে যাই তা হলে কর্ত্তাটী
+রাগ করবেন আমি যে ঘোর দায়ে পড়লেম্‌! এখন করি কি? (চিন্তাভাবে অবস্থিতি,
+পরে সম্মুখে অবলোকর করিয়া) হ্যেঁ, ভাল হয়েচে, এই একটা মুস্কিলআসান
+আস্‌চে, ওর পিছনের আলোয় আলোয় এই বেলা প্রস্থান করি---না---
+[]{#c2_________________________________________________.xhtml#id-12
+.pagenum .ws-pagenum page-number="১২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%A7"}ওমা,
+এজে সারজন সাহেব, রোঁদ ফিরতে বেরয়েচে দেখচি, এখানে চুপ করে দাঁড়য়ে থাকলে
+কি জানি যদি চোর বল্যে ধরে? কিন্তু এখন যাই কোথা? (চিন্তা) তাই ভাল, এই
+আড়ালে দাঁড়াই---ওমা, এই যে এসে পড়লো। (বেগে পলায়ন)।
+
+::: {.wst-center .tiInherit}
+(সারজন ও চৌকীদারের আলোক লইয়া প্রবেশ।)
+:::
+
+[ ]{style="display:inline-block; width:2em;"}সার। হাল্লো! চওকীডার! এক
+আডমী ওঢার ডৌড়কে গিয়া নেই?
+
+[ ]{style="display:inline-block; width:2em;"}চৌকী। নেই ছাব, হামতো কুচ
+নেহি দেখা।
+
+[ ]{style="display:inline-block; width:2em;"}সার। আলবট্‌ গিয়া, হাম্‌
+ডেকা। টোম্ জলডী ডওড়কে যাও, উষ্টরফ ডেকো, যাও---যাও---জলডী যাও, ইউ সুওর।
+
+[ ]{style="display:inline-block; width:2em;"}চৌকী। (বেগে অন্যদিকে গমন
+করিতে করিতে) কোন হেয় রে, খাড়া রও।
+
+[ ]{style="display:inline-block; width:2em;"}সার। ড্যাম ইওর আইজ---ইঢার,
+ইউ ফুল।
+
+[ ]{style="display:inline-block; width:2em;"}চৌকী। হাঁ ছাব, ইধর্‌। (বেগে
+প্রস্থান)।
+
+[ ]{style="display:inline-block; width:2em;"}সার। (ক্রোধে) আ! ইফ আই
+ক্যেন ক্যেচ হিম---
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। (উচ্চৈঃস্বরে)
+পাকড়ো। পাকড়ো---উহুহুহুহু---
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। আমি যাচ্চি বাবা,
+আর মারিস নে বাবা, দোহাই বাবা, তোর পায়ে পড়ি বাবা।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। শালা চোট্টা,
+তোমারা ওয়াস্তে দৌউড়কে হামারা জন গীয়া।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে।
+উহুঁহুঁহুঁহুঁ---বাবা, আমি চোর নই বাবা, আমি ভেকধারী বৈষ্ণব, বাবা।
+
+::: {.wst-center .tiInherit}
+(বারাজীকে লইয়া চৌকীদারের প্রবেশ।)
+:::
+
+[ ]{style="display:inline-block; width:2em;"}সার। আ ইউ, টোম্‌ চোট্টা
+হেয়।
+
+::: {.__nop}
+:::
+
+[]{#c2_________________________________________________.xhtml#id-13
+.pagenum .ws-pagenum page-number="১৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%A8"}[ ]{style="display:inline-block; width:2em;"}বাবাজী।
+(সত্রাসে) না সাহেব বাবা, আমি কিছু জানি নে, আমি---গ্যে, গ্যে, গ্যে---
+
+[ ]{style="display:inline-block; width:2em;"}সার। হ্যেং ইওর গ্যে, গ্যে,
+গ্যে,---চুপরাও, ইউ ব্লডী নিগর্‌, ডেকলাও টোমারা ব্যেগ মে কিয়া হেয়।
+(বলপূর্ব্ববক মালা গ্রহণ করিয়া আপনার গলায় পরিধান) হা, হা, হা, হা! বাপ
+রে বাপ,---হাম বড়া হিণ্ডু হুয়া-রাঢ়ে কিস্‌ ডে। হা, হা, হা!
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (সত্রাসে) দোহাই
+সাহেব মহাশয়, আমি গরিব বৈষ্ণব, আমি কিছু জানি নে, দোহাই বাবা, আমাকে ছেড়ে
+দেও।---(গমনোদ্যত)।
+
+[ ]{style="display:inline-block; width:2em;"}চৌকী। খাড়া রও, শালা।
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। দোহাই
+কোম্পানির---দোহাই কোম্পানির।
+
+[ ]{style="display:inline-block; width:2em;"}সার। হোল্‌ড ইউর টং, ইউ
+ব্ল্যাক্‌রূট্‌। ইয়েহ্‌ ব্যেগমে আওর কিয়া হেয় ডেকে গা। (ঝুলি বলপূর্ব্বক
+গ্রহণ এবং চারি টাকা ভূতলে পতন)।
+
+[ ]{style="display:inline-block; width:2em;"}সার। দেট্‌স্ রাইট্‌! ইউ
+সুটি ডেভল্‌। কেঙ্কা চোরি কিয়া? (চৌকীদারের প্রতি) ওস্কো ঠানে মে লে চলো।
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। দোহাই সাহেবের, আমি
+চুরি করি নি, আমাকে ছেড়ে দেও---দোহাই ধর্ম্মঅবতার, আমি ও টাকা চাই নে।
+
+[ ]{style="display:inline-block; width:2em;"}সার। সে নেই হোগা, টোম্‌
+ঠানেমে চলো---কিয়া? টোম্‌ যাগে নেই? আল্‌বট যানে হোগা।
+
+[ ]{style="display:inline-block; width:2em;"}চৌকী। চল্‌বে, থানে মে চল্‌।
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। দোহাই
+কোম্পানির---আমি টাকা কড়ি কিছুই চাই নে; তুমি বরঞ্চ টাকা নিয়ে যা ইচ্ছে
+হয় কর বাবা, কিন্তু আমাকে ছেড়ে দেও, বাবা।
+
+[ ]{style="display:inline-block; width:2em;"}সার। (হাস্য মুখে) কিয়া?
+টোম্‌ নেই মাংটা! আপন
+[]{#c2_________________________________________________.xhtml#id-14
+.pagenum .ws-pagenum page-number="১৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%A9"}জেবে
+টাকা রাখিয়া চৌকীদারের প্রতি) ওয়েল্‌ দেন্‌, হাম্‌ ডেক্‌টা ওস্কা কুচ্‌
+কসুর নেই, ওস্কো ছোড় ডেও।
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (সোল্লাসে) জয়
+মহাপ্রভু।
+
+[ ]{style="display:inline-block; width:2em;"}চৌকী। (বাবাজীর প্রতি
+জনান্তিকে) তোম্‌ হামকো তো কুচ্‌ দিয়া নেহি---আচ্ছা যাও, চলা যাও।
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। না দাদা, আমি একবার
+জ্ঞানতরঙ্গিণী সভায় যাব।
+
+[ ]{style="display:inline-block; width:2em;"}চৌকী। হাঁ হাঁ, ঐ
+বাড়ীমে---ও বড়া মজাকি জাগ্‌গা হেয়।
+
+[ ]{style="display:inline-block; width:2em;"}সার। ডেকো চোকীডার,
+রোপেয়াকা বাট্‌---(ওষ্ঠে অঙ্গুলি প্রদান)।
+
+[ ]{style="display:inline-block; width:2em;"}চোকী। যো হুকুম, খাবিন্‌।
+
+[ ]{style="display:inline-block; width:2em;"}সার। মম্! ইজ দি ওয়ার্ড,
+মাই বয়। আবি চলো।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+[\[সারজন ও চৌকীদারের প্রস্থান।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। রাধেকষ্ণ! আঃ
+বাঁচলেম্‌, আজ্‌ কি কুলগ্নেই বাড়ী থেকে বের্‌য়েছিলেম। ভাগ্যে টাকা কটা
+সঙ্গে ছিল, আর সারজন্‌ বেটারও হাতপাতা রোগ আছে, তাই রক্ষে---নইলে আজ্‌কে কি
+হাজতেই থাক্‌তে হতো, না কি হতো, কিছু বলা যায়না।
+
+::: {.wst-center .tiInherit}
+[(হোটেল্‌ বাক্‌স লইয়া দুই জন মুটীয়ার
+প্রবেশ।)]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}এ আবার কি? রাধেকৃষ্ণ---কি
+দুর্গন্ধ! এ বেটারা এখানে কি আন্‌ছে? (অন্তে অবস্থিতি।)
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। ইঃ, আজ্‌ যে কত চিজ্‌
+পেটিয়েচে তার হিসাব নাই, মোর গর্‌দান্‌টা যেন বেঁকে যাচ্চে।
+
+[ ]{style="display:inline-block; width:2em;"}দ্বিতীয়। দেখ্‌ মামু, এই
+হেঁদু বেটারাই দুনিয়াদারির মজা করে ন্যেলে। বেটারগো কি আরামের দীন, ভাই।
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। মর বেকুফ্‌ ও
+হারাম্‌খোর বেটারগো কি আর দীন আছে? ওরা না মানে আল্লা, না মানে দ্যেবতা।
+
+::: {.__nop}
+:::
+
+[]{#c2_________________________________________________.xhtml#id-15
+.pagenum .ws-pagenum page-number="১৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%AA"}[ ]{style="display:inline-block; width:2em;"}দ্বিতীয়।
+লেকীন্‌ ক্যেবল এই গৰুখেগো বেটারগো দৌলতেই মোগর পোচঘর এত ফেঁপে ওট্‌তেচে;
+সাম হলেই বেটারা বাদুড়ের মাফিক ঝাঁকে ঝাঁকে আসে পড়ে; আর কত যে খায়, কত
+যে পিয়ে যায়, তা কে বল্‌তি পারে।
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। ও কাদের মেঁয়া,
+মোদের কি সরিারাত এহানে দেঁড়য়ে থাক্তি হবে? দরয়ানজীকে ডাক না। ও
+দরওয়ানজী। এ মাড়ুয়াবাদি শালা গেল কোহানে?---ও দরওয়ানজী; দরওয়ানজী।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। কোন হেয় রে।
+
+[ ]{style="display:inline-block; width:2em;"}প্রথম। মোরা পোচঘরের মুটে
+গো।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। আও, ভিতর চলে আও।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[মুটিয়া গণের প্রস্থান।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (অগ্রসর হইয়া
+স্বগত) কি আশ্চর্য্য! এসব কিসের বাক্‌স? উঃ, থু, থু, রাধেকৃষ্ণ! আমি তো এ
+জ্ঞানতরঙ্গিণী সভার বিষয় কিছুই বুঝ্‌তে পাচ্চি না।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। বেল ফুল।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। চাই বরোফ্‌।
+
+::: {.wst-center .tiInherit}
+(মালি এবং বরোফ্‌ওয়ালার প্রবেশ)।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}মালী। বেলফুল,---ও
+দরওয়ানজী, বাবুরো এসেচে।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। না, আবি আয়া নেহি,
+থোড়া বাদ আও।
+
+[ ]{style="display:inline-block; width:2em;"}বরফ। চাই বরফ---কি গো
+দরওয়ানজী।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। তোম্বি থোড়া বাদ
+আও।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[মালি এবং বরফওয়ালার প্রস্থান।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (স্বগত) কি
+সর্ব্বনাশ, আমি তো এর কিছুই বুঝতে পাচ্চি না।
+
+::: {.__nop}
+:::
+
+[]{#c2_________________________________________________.xhtml#id-16
+.pagenum .ws-pagenum page-number="১৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%AB"}[ ]{style="display:inline-block; width:2em;"}নেপথ্যে
+দূরে। বেল ফুল---চাই বরোফ।
+
+::: {.wst-center .tiInherit}
+(যন্ত্রীগণ সহিত নিতম্বিনী আর পয়োধরীর প্রবেশ)।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}নিত। কাল্‌ যে ভাই কালীবাবু
+আমাকে ব্র্যেণ্ডি খাইয়েছিল---উঃ, আমার মাথাটা যেন এখনো ঘুচ্চে। আজ যে ভাই
+আমি কেমন করে নাচ্‌বো তাই ভাব্‌চি।
+
+[ ]{style="display:inline-block; width:2em;"}পয়ো। আমার ওখানেও সদানন্দ
+বাবু কাল ভারি ধুম লাগিয়েছিল। আজ্‌ কাল্‌ সদানন্দ ভাই খুব্‌ তোয়ের হয়ে
+উঠেছে। এমন ইয়ার মানুষ আর দুটী পাওয়া ভার।
+
+[ ]{style="display:inline-block; width:2em;"}যন্ত্রী। চল, ভিতরে যাওয়া
+যাউক্‌। ও দরওয়ানজী।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। কোন্‌ হ্যায়?
+
+[ ]{style="display:inline-block; width:2em;"}পয়ো। বলি আগে দুয়র খোলো,
+তার পরে কোন্‌ হ্যায় দেখ্‌তে পাবে এখন।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ওঃ, আপলোক হ্যায়,
+আইয়ে।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[যন্ত্রীগণ ইত্যাদির প্রস্থান।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বাবাজী। (অগ্রসর হইয়া
+স্বগত) একি চমৎকার ব্যাপার? এরা তে কশ্‌বী দেখ্‌তে পাচ্চি। কি সর্ব্বনাশ;
+আমি এতক্ষণে বুঝতে পাচ্চি কাণ্ডটা কি! নবকুমারটা দেখ্‌চি একবারে বয়ে গেছে।
+কর্ত্তা মহাশয় এসব কথা শুন্‌লে কি আর রক্ষে থাক্‌বে?
+
+::: {.wst-center .tiInherit}
+(নববাবু এবং কালীবাবুর প্রবেশ)।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}নব। হা, হা, হা---শ্রীমতী
+ভগবতীর গীত! তোমার ভাই কি চমৎকার মেমরি। হা, হা, হা।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আরে ও সব লক্ষীছাড়া
+বই কি আমি কখন খুলি না পড়ি, যে মনে থাক্‌বে।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (বাবাজীকে অবলোকন
+করিয়া) একি, এজে বাবাজী হে। কেমন্‌ ভাই কালী, আমি বলেছিলাম কি না যে
+কর্ত্তা একজন
+[]{#c2_________________________________________________.xhtml#id-17
+.pagenum .ws-pagenum page-number="১৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%AC"}না
+একজনকে অবশ্যই আমার পেছনে পেছনে পাঠাবেন; যা হৌক, একে যে আমরা দেখ্‌তে
+পেলেম এই আমাদের পরমভাগ্য বলতে হবে।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। বল তো ও বৈষ্ণব শালাকে
+ধরে এনে একটু ফাউল কট্‌লেট্‌ কি মটন চপ খাইয়ে দি---শালার জন্মটা সার্থক
+হউক।
+
+[ ]{style="display:inline-block; width:2em;"}নব। চুপকর হে, চুপকর। এ ভাই
+ঠাট্টার কথা নয়। (অগ্রসর হইয়া) কি গো, বাবাজী যে? তা আপ্‌নি এখানে কি মনে
+করে?
+
+[ ]{style="display:inline-block; width:2em;"}বাবা। না, এমন কিছু না, তবে
+কি না একটা কর্ম্ম বশতঃ এই দিগ দিয়ে যাচ্‌ছিলেম, তাই ভাবলেম যে নববাবুদের
+সভা ভবনটি একবার দেখে যাই।
+
+[ ]{style="display:inline-block; width:2em;"}নব। বটে বটে; চলুন, তবে
+ভিতরে চলুন।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। (জনান্তিকে নবকুমারের
+প্রতি) আরে করিস্‌ কি, পাগল? এটাকে এর ভিতরে নেগেলে কি হবে? আমরা তো আর
+হরিবাসর কত্যে যাচ্চি নে।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (জনান্তিকে কালীর প্রতি)
+আঃ, চুপ করনা। (প্রকাশে বাবাজীর প্রতি) বাবাজী, একবার ভিতরে পদার্পণ কল্যে
+ভাল হয় না।
+
+[ ]{style="display:inline-block; width:2em;"}বাবা। না বাবু, আমার
+অন্যত্তরে কর্ম্ম আছে, তোমরা যাও।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[প্রস্থান।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কালী। বল তো শালাকে ধাঁ করে
+ধরে এনে না হয় ঘা দুই লাগিয়ে দি!
+
+[ ]{style="display:inline-block; width:2em;"}নব। দরওয়ান।
+
+::: {.wst-center .tiInherit}
+(দৌবারিকের প্রবেশ)।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}দৌবা। মহারাজ।
+
+[ ]{style="display:inline-block; width:2em;"}নব। ও লোগ সব আয়া?
+
+::: {.__nop}
+:::
+
+[]{#c2_________________________________________________.xhtml#id-18
+.pagenum .ws-pagenum page-number="১৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%AD"}[ ]{style="display:inline-block; width:2em;"}দৌবা।
+জী, মহারাজ।
+
+[ ]{style="display:inline-block; width:2em;"}নব। আচ্ছা, তোম যাও।
+
+[ ]{style="display:inline-block; width:2em;"}দৌবা। জো হুকুম, মহারাজ।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[প্রস্থান।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}নব! আজ ভাই দেখচি এই বাবাজী
+বেটা একটা ভারি হেঙ্গাম করে বস্‌বে এখন। বোধ করি ও ঐ মাগীদের ভিতরে ঢুক্‌তে
+দেখেছে।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। পুঃ, তুমি তো ভারি
+কাউয়ার্ড হে! তোমার যে কিছু মরাল করেজ নেই। ও বেটাকে আবার ভয়?---চল।
+
+[ ]{style="display:inline-block; width:2em;"}নব। না হে না, তুমি ভাই এ সব
+বোঝ না। চল দেখি গে বেটার হাতে কিছু ও কর্ম্ম করে দিয়া যদি মুখ্‌ বন্দ
+কত্ত্যে পারি।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। নন্‌সেন্‌স! তার চেয়ে
+শালাকে গোটকত কিক্‌ দিয়ে একেবারে বৈকুণ্ঠে পাঠাও না কেন। ড্যাম্‌ দি
+ব্রুট্‌! ও শালাকে এ পৃথিবীতে কে চায়? ওর কি আর কোন মিসন্‌ আছে?
+
+[ ]{style="display:inline-block; width:2em;"}নব। দূর পাগল, এ সব
+ছেলেমানুষের কর্ম্ম নয়। চল, আমরা দুজনেই ওর কাছে যাই।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[উভয়ের প্রস্থান।
+:::
+
+::: {.wst-center .tiInherit}
+[ইতি প্রথমাঙ্ক।]{style="font-size: 120%;"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:2em;"}
+ 
+:::
+
+------------------------------------------------------------------------
+:::
+:::
+
+[]{#c3_________________________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE_%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c3_________________________________________________.xhtml#id-19
+.pagenum .ws-pagenum page-number="১৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%AE"}
+
+::: {.wst-center .tiInherit}
+[দ্বিতীয় অঙ্ক]{style="font-size: 144%;"}
+
+------------------------------------------------------------------------
+
+::: {.wst-dhr style="visibility:hidden; line-height:100%;"}
+ 
+:::
+
+[প্রথম গর্ভাঙ্ক।]{style="font-size: 120%;"}
+
+::: {.wst-custom-rule style="text-align:center; margin: 1em auto 1em auto; background-color:transparent;"}
+[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle
+typeof="mw:File"}[![](images/c6_Rule_Segment___Wave___40px.svg_40px_Rule_Segment___Wave___40px.svg.png){.mw-file-element}]{.mw-default-size
+.mw-valign-middle typeof="mw:File"}
+:::
+
+সভা ।
+
+[কতিপয় বাবুর প্রবেশ।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। নব আর কালী যে আজ এত
+দেরি করছে এর কারণ কি?
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। আমি তা কেমন করে বলবো?
+ওহে ওদের কথা ছেড়ে দেও, ওরা সকল কর্মেই লীড্ নিতে চায়, আর ভাবে যে আমরা
+না হলে বুঝি আর কোন কর্ম্মই হবে না।
+
+[ ]{style="display:inline-block; width:2em;"}শিবু যা বল ভাই, কিন্তু ওরা
+দুজনে লেখ পড়া বেস্ জানে।
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। বিটুইন্ আওয়ার
+সেল্বস, এমন কি জানে?
+
+[ ]{style="display:inline-block; width:2em;"}মহেশ। হাঁ, হাঁ, সকলেরি
+বিদ্যা জান আছে! সে দিন যে নব এক খানা চিঠি লিখেছিল, তা তো দেখিইছো, তাতে
+লিগুলি মরের্ যে দুর্দ্দশা তা তো মনে আছে?
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। এতেও আবার প্রাইড্
+টুকু দেখেছো! কালী আবার ও চেয়ে এক কাটী সরেস্।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। আঃ, তারা ফ্রেণ্ড
+মানুষ, ও সকল কথায় কাজ্ কি? বিশেষ ওরা আছে বলে তাই আজ্ও সভ চলছে---তা জান?
+
+[ ]{style="display:inline-block; width:2em;"}মহেশ। তা টুরূখ্ বলবো তার আর
+ফ্রেণ্ড কি ?
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। আচ্ছা, সে কথা যাউক;
+আমরাও তো মেম্বর বটে, তবে তাদের দুজনের জন্যে আমাদের ওএট্ করবার আবশ্যক কি?
+
+::: {.__nop}
+:::
+
+[]{#c3_________________________________________________.xhtml#id-20
+.pagenum .ws-pagenum page-number="২০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A8%E0%A7%AF"}[ ]{style="display:inline-block; width:2em;"}শিবু।
+তাইতো। আমাদের তো কোরম্ হয়েছে, তবে এখন্ সভার কর্ম্ম আরম্ভ করা যাউক না
+কেন?
+
+[ ]{style="display:inline-block; width:2em;"}মহেশ। হিয়র্, হিয়র্, আমি এ
+মোসন্ সেকেণ্ড করি।
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। হা, হা হা, এতে দেখছি
+করে। অবজেকসন নাই, একবারে নেম্ কল-ব্রাভো। হা, হা, হা।
+
+[ ]{style="display:inline-block; width:2em;"}মহেশ । (ঘড়ী দেখিয়া) নটা
+বাজ্তে কেবল পাঁচ মিনিট বাকী আছে, বোধ কবি নব আর কালী আজ এলো না, তা আমি
+চৈতন বাবুকে চ্যারম্যান্ প্রোপোজ্ করি।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়র, হিয়র!
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। (গাত্রোথান করিয়া)
+জেণ্টেলমেন, আপনারা অনুগ্রহ করে আমাকে যে পদে নিযুক্ত করেন, তার কর্ম্ম আমি
+যত দূব পারি প্রাণপণে চালাতে কসুর করবো না,-নাউ টু বিজনেস্।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়র, হিয়র। (করতালি
+)।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। (উচ্চস্বরে)
+খানসামা-বেয়ারা-
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। জি, আজ্ঞে।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন । গোটা দুই বাণ্ডি অব
+তামাক নে আর (উপবিষ্ট হইয়া) যদি কারো বিয়ার খেতে ইচ্ছে হয় তো বল।
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। এমন সময়ে কোন্ শালা
+বিয়ার খায়।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়র, হিয়র।
+
+::: {.wst-center .tiInherit}
+(খানসামা এবং বেয়ারার মদ্য এবং তামাক লইয়া প্রবেশ।)
+:::
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। সব্ বাবু লোককে সরাব
+দেও, (সকলের মদ্য পান ) আর বোতল গ্লাস সব হিঁয়া ধর্ দেও।
+
+থান্। আচ্ছা বাবু।
+
+::: {.wst-center .tiInherit}
+\[বোতল ইত্যাদি রাখিয়া প্রস্থান।
+:::
+
+[]{#c3_________________________________________________.xhtml#id-21
+.pagenum .ws-pagenum page-number="২১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%A6"}[ ]{style="display:inline-block; width:2em;"}চৈতন।
+বেয়ারা---ঐ খেমটা ওয়ালিদের ডেকে দেতো। আর দেখ্, খানিকটে বরফ্ আন্।
+
+[ ]{style="display:inline-block; width:2em;"}বেয়ারা। যে অজ্ঞে।
+
+::: {.wst-running-header .wst-running-header-3 .wst-running-header-default}
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+\[প্রস্থান।
+:::
+:::
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। আমি আমাদের নতুন
+চেয়ারমেনের হেলথ দিতে চাই।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়ার, হিয়ার
+(মদ্যপান করিয়া) হিপ্, হিপ্, হুরে, হুরে।
+
+::: {.wst-center .tiInherit}
+\[নিতম্বিনী, পায়ে ধরী এবং যস্ত্রীগণের প্রবেশ।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। আরে এসো, বসো। কেমন
+ভাই, চিনতে পার? তবে ভাল আছ তো? (সকলের উপবেশন)।
+
+[ ]{style="display:inline-block; width:2em;"}নিত। যেমন রেখেছেন।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। আমি আর তোমাকে রেখেছি
+কই? আমার কি তেমন কপাল?
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। ব্রাভো, হিয়ার,
+(করতালি)।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। ও পয়োধরি, একটু এদিকে
+সরে বসো না।
+
+[ ]{style="display:inline-block; width:2em;"}পযো। না, আমি বেস আছি।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। (দ্বিতীয়ের প্রতি)
+বলাই বাবু, এঁদের একটু কিছু খাওয়াও না।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। এই এসো (সকলের
+মদ্যপান)।
+
+[ ]{style="display:inline-block; width:2em;"}শিবু। (চতুর্থের প্রতি) ও
+শালা, তুই ঘুমুচ্চিস না কি?
+
+[ ]{style="display:inline-block; width:2em;"}মহেশ। (হাই তুলিয়া) না হে
+তা নয়, ঘুমবো কেন?-নব আসেমি বটে?
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। (হাস্য করিয়া)
+ব্রাভো, ব্রাভো।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। (পয়োধরীর হস্ত ধারণ
+করিয়া) একটি গাওনা ভাই।
+
+::: {.__nop}
+:::
+
+[]{#c3_________________________________________________.xhtml#id-22
+.pagenum .ws-pagenum page-number="২২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%A7"}[ ]{style="display:inline-block; width:2em;"}পয়ো।
+এর পর হলে ভাল হয় না?
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। না না, পরে আবার কেন?
+শুভকর্ম্মে বিলম্বে কাজ কি।
+
+[ ]{style="display:inline-block; width:2em;"}পয়ো। আচ্ছ। তবে গাই,
+(যন্ত্রী দিগের প্রতি) আড় খেম্‌টা।
+
+::: {.wst-center .tiInherit}
+গীত।
+
+[রাগিণী শঙ্করা, তাল খেমটা।]{style="font-size: 90%;"}
+:::
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এখনকি আর্ নাগর্ তোমার্\
+[আমার্ পুতি, তেমন্ আছে।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 1em;"}\
+নূতন পেয়ে পুরাতনে\
+[তোমার্ সে যতন্ গিয়েছে।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 1em;"}\
+\
+তখনকার ভাব থাকতো যদি,\
+তোমায়্ পেতেম্ নিরবধি,\
+এখন্, ওহে গুণনিধি,\
+[আমায় বিধি বাম হয়েছে।]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 1em;"}\
+\
+যা হবার্ আমার হবে,\
+তুমি তো হে সুখে রবে,\
+বল দেখি শুনি তবে,\
+[কোন নতুনে মন মজেছে॥]{.mw-poem-indented
+style="display: inline-block; margin-inline-start: 1em;"}
+:::
+:::
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। কিয়াবাৎ, সাবাস্,
+বেঁচে থাক বাবা, জীতা রাও বাবা।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। ও বলাই বাবু, তুমি
+কেমন সাকী হে?
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। সাকী আবার কি?
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। যে মদ দেয় তাকে
+পারসীতে সাকী বলে।
+
+[ ]{style="display:inline-block; width:2em;"}শিবু। (গাইয়া) "গর্ ইয়ার
+নহো সাকী"।---
+
+::: {.__nop}
+:::
+
+[]{#c3_________________________________________________.xhtml#id-23
+.pagenum .ws-pagenum page-number="২৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%A8"}তা,
+এসো, (সকলের মদ্য পান)।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। চুপ কর তো, কে যেন
+উপরে আসছে না?
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। বোধ করি নব আর কালী---
+
+::: {.wst-center .tiInherit}
+(নব এবং কালীর প্রবেশ)।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। (সকলে গাত্রোথ্থান
+করিয়া) হিপ্ হিপ্, হুরে।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। (প্রমত্ত ভাবে) হুরে,
+হুরে।
+
+[ ]{style="display:inline-block; width:2em;"}নব। বসো, ভাই, সকলে বসো,
+(সকলের উপবেশন) দেখ ভাই, আজ আমাদের এক্সকিউজ কর্ত্তে হবে, আমাদের একটু
+কর্ম্ম ছিল বলে তাই আসতে দেরি হয়ে গেচে।
+
+[ ]{style="display:inline-block; width:2em;"}শিবু । (প্রমত্তভাবে) দ্যাটস
+এ লাই।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (ক্রুদ্ধভাবে) হোয়াট,
+তুমি আমাকে লায়র বল? তুমি জান না আমি তোমাকে এখনি সুট করবো?
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। (নবকে ধরিয়া বলাইয়া)
+হাঃ, যেতে দেও, যেতে দেও, একটা ট্রাইফ্লীং কথা নিয়ে মিছে ঝকড়া কেন?
+
+[ ]{style="display:inline-block; width:2em;"}নব। ট্রাইফ্লীং ---ও আমাকে
+লাইয়র বললে---আবার ট্রাইফ্লীং? ও আমাকে বাঙ্গালা করে বল্লে না কেন? ও
+আমাকে মিথ্যাবাদী বললে না কেন? তাতে কোন্ শাল রাগতো? কিন্তু ---লাইয়র---এ
+কি বরদাস্ত হয়।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। আরে যেতে দেও, ও কথার
+আর মেন্সন্ করোনা। (উপবেশন করিয়া)।
+
+[ ]{style="display:inline-block; width:2em;"}নব। কি গো পয়োধরি,
+নিতম্বিনি, তোমারা ভাল আছ তো।
+
+[ ]{style="display:inline-block; width:2em;"}পয়ো। হাঁ, আমরা তো আছি ভাল,
+কিন্তু তোমায় যে বড়ভাল দেখচি নে---এখন তোমাকে ঠাণ্ডা দেখলে বাচি।
+
+[ ]{style="display:inline-block; width:2em;"}নব। আমি তো ঠাণ্ডাই আছি, তবে
+এখন গরম হবে।-ওহে বলাই, একটু ব্র্যেণ্ডি দেও তো।
+
+::: {.__nop}
+:::
+
+[]{#c3_________________________________________________.xhtml#id-24
+.pagenum .ws-pagenum page-number="২৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%A9"}﻿[ ]{style="display:inline-block; width:2em;"}সকলে।
+ওহে আমাদের ভুলো না হে। (সকলের মদ্য পান)
+
+[ ]{style="display:inline-block; width:2em;"}নব। ওহে কালী, তুমি যে চুপ
+করে রয়েচো।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। আমি ঐ বৈষ্ণৰ শালার
+ব্যবহার দেখে একবারে অবাক্ হয়েচি৷ শাল এদিকে মাল। ঠক্ ঠক্ করে, আবার ঘুশ
+খেয়ে মিথ্যা কথা কইতে স্বীকার পেলে? শালা কি হিপক্রীট।
+
+[ ]{style="display:inline-block; width:2em;"}নব। মঞ্চক, সে থাক্। ও
+পয়োধরি, তোমরা একবার ওঠ না, নাচটা দেখা যাক।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। না না, আগে তোমার
+ইস্পীচ।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (গাত্রোথান করিয়া)
+আচ্ছা; জেণ্টেলম্যেন, আপনারা সকলে এই দেয়ালের প্রতি একবার চেয়ে দেখুন; এই
+যে কয়েকটি অক্ষর দেখচেন, এই সকল একত্র করে পড়লে "জ্ঞানতরঙ্গিণী সভা"
+পাওয়া যায়।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়ার, হিয়ার।
+
+[ ]{style="display:inline-block; width:2em;"}নব। জেণ্টেলম্যেন, এই সভার
+নাম জ্ঞানতরঙ্গিণী সভা---আমরা সকলে এর মেম্বর---আমরা এখানে মীট করো যাতে
+জ্ঞান জন্মে তাই করে থাকি-এণ্ড উই আর জলি গুড ফেলোজ্।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়ার, হিয়ার, উই আর
+জলি গুড ফেলোজ্।
+
+[ ]{style="display:inline-block; width:2em;"}নব। জেণ্টেলম্যেন, আমাদের
+সকলের হিন্দুকুলে জন্ম, কিন্তু আমরা বিদ্যাবলে সুপরষ্টিসনের শিকলি কেটে
+ফ্রী হয়েচি; আমরা পুত্তলিক। দেখে হাঁটু নোয়াতে আর স্বীকার করি নে,
+জ্ঞানের বাতির দ্বারা আমাদের অজ্ঞান অন্ধকার দুর হয়েছে; এখন আমার প্রর্থনা
+এই যে, তোমরা সকলে মাথ মন এক করে, এদেশের সোসীয়াল রিফরমেসন যাতে হয় তার
+চেষ্টা কর।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়ার, হিয়ার।
+
+[ ]{style="display:inline-block; width:2em;"}নব। জেণ্টেলম্যেন, তোমাদের
+মেয়েদের এজুকেট কর,
+[]{#c3_________________________________________________.xhtml#id-25
+.pagenum .ws-pagenum page-number="২৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%AA"}---তাদের
+স্বাধীনতা দেও---জাত ভেদ তফাৎ কর---আর বিধবা-দের বিবাহ দেও---তা হলে এবং
+কেবল তা হলেই, আমাদের প্রিয় ভারতভূমি ইংলণ্ড প্রভৃতি সভ্য দেশর সঙ্গে
+টক্কর দিতে পারবে---নচেৎ নয়!
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়ার, হিয়ার।
+
+[ ]{style="display:inline-block; width:2em;"}নব। কিন্তু জেণ্টেলম্যেন,
+এখন এ দেশ আমাদের পক্ষে যেন এক মস্ত জেলখানা; এই গৃহ কেবল আমাদের লিবরটী
+হল্---অর্থাৎ আমাদের স্বাধীনতার দালান; এখানে যার যে খুসি, সে তাই কর
+জেণ্টেলম্যেন, ইন্‌ দি নেম্ অব ফ্রীডম, লেট্ অস এঞ্জয় আওরসেলভস্!
+(উপবেশন)।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিয়ার,
+হিয়ার,---হিপ, হিপ, হুরে, হু---রে; লিবরটা হল---বি ফ্রী---লেট অল এঞ্জয়
+আওরসেলভস্।
+
+[ ]{style="display:inline-block; width:2em;"}নব। ওহে বলাই, একবার সকলকে
+দেও না।
+
+[ ]{style="display:inline-block; width:2em;"}বলাই। আচ্ছা,--- এই এসো,
+(সকলের মদ্যপান)।
+
+[ ]{style="display:inline-block; width:2em;"}নব। তবে এইবার নাচ আরম্ভ
+হোক। কম্, ওপেন্ দি বল্, মাই বিউটিস।
+
+[ ]{style="display:inline-block; width:2em;"}পয়ো, নিত। নৃত্য এবং গীত।
+
+[ ]{style="display:inline-block; width:2em;"}নব। কিয়াবৎ, জীতা রও। বেঁচে
+থাক, ভাই।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। হুরে, জ্ঞান তরঙ্গিণী
+সভা ফর এভর।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। জ্ঞানতরঙ্গিণী সভা ফর
+এভর (করতালি)।
+
+[ ]{style="display:inline-block; width:2em;"}নব। চল ভাই, এখন সপর টেবিলে
+যাওয়া যাউক।
+
+[ ]{style="display:inline-block; width:2em;"}চৈতন। (গাত্রোত্থান
+করিয়া)---থ্রী চিয়ার্স ফর আমাদের চ্যারম্যান্---
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। হিপ, হিপ্,
+হিপ---হুরে! হু------রে-হুরে।
+
+[ ]{style="display:inline-block; width:2em;"}নব। ও পয়োধরি, তুমি, ভাই,
+আমার আরম্ নেও।
+
+[ ]{style="display:inline-block; width:2em;"}পয়ো। তোমার কি নেবো, ভাই?
+
+::: {.__nop}
+:::
+
+[]{#c3_________________________________________________.xhtml#id-26
+.pagenum .ws-pagenum page-number="২৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%AB"}[ ]{style="display:inline-block; width:2em;"}নব।
+এসো, আমার হাত ধর।
+
+[ ]{style="display:inline-block; width:2em;"}কালী। ও নিতম্বিনি, তুমি
+তাই, আমাকে ফেভর কর। আহা! কি সফ্‌ট হাত।
+
+[ ]{style="display:inline-block; width:2em;"}সকলে। ব্বাভো।(করতালি)।
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+\[ যন্ত্রীগণ ব্যতীত সকলের প্রস্থান।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}তবলা। ও ভাই, দেখে তো ও
+বোতলটায় আর কিছু আছে কিনা।
+
+[ ]{style="display:inline-block; width:2em;"}বেহালা। কৈ দেখি? হ্যা ঁআছে।
+এই নেও,(উভয়ের মদ্যপান)।
+
+[ ]{style="display:inline-block; width:2em;"}তবলা। আঃ, খাসা মাল যে হে।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। হিপ, হিপ, হুরে।
+
+[ ]{style="display:inline-block; width:2em;"}বেহালা। চল ভাই এক ছিলিম
+গাঁজার চেষ্টা দেখি গিয়ে--- এ ব্রাণ্ডিতে আমাদের সানে না।
+:::
+
+[ ]{about="#mwt2"}
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;" about="#mwt2"}
+\[সকলের প্রস্থান।
+:::
+
+[ ]{about="#mwt2"}
+
+------------------------------------------------------------------------
+
+[ ]{about="#mwt2"}
+:::
+
+[]{#c4____________________________________________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c4____________________________________________________.xhtml#id-26-n30
+.pagenum .ws-pagenum page-number="২৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%AB"}
+
+::: {.wst-center .tiInherit}
+দ্বিতীয় গর্তাঙ্ক।
+:::
+
+------------------------------------------------------------------------
+
+::: {.wst-center .tiInherit}
+[নবকুমার বাবুর শয়ন মন্দির।]{style="font-size: 90%;"}
+:::
+
+::: {.wst-center .tiInherit}
+প্রসন্নময়ী, নৃত্যকালী, কমলা, এবং হরকামিনী, আসীন।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। এই নেও---
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। কি খেল্‌লে ভাই?
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। চিড়িতনের দহলা।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। আরে মলো, চিড়িতন যে
+রঙ, ত্র‌ুপ খেল্‌লি কেন?
+
+::: {.__nop}
+:::
+
+[]{#c4____________________________________________________.xhtml#id-27
+.pagenum .ws-pagenum page-number="২৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%AC"}﻿[ ]{style="display:inline-block; width:2em;"}প্রসন্ন।
+তুই, ভাই, মিছে বকিস্ কেন? হাতে রঙ না থাকে পাব সে মা।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। এই এলো, আমি টেক্কা
+মারলেম।
+
+[ ]{style="display:inline-block; width:2em;"}হর। এই নেও।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য ও কিও, পাষ দিলে যে?
+
+[ ]{style="display:inline-block; width:2em;"}হর। হাতে ত্রুপ না থাকলে পাষ
+দেবো না তো কি করবো।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। এস কমল, এবার ভাই
+তোমার খেলা।
+
+[ ]{style="display:inline-block; width:2em;"}কমল। আমি ভাই বিবি দিলাম।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। মর, ও যে আমাদের পিট,
+তুই বিবি দিলি কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কমল। বাঃ বিবি দেবে না তে
+কি? সায়েব কোথা?
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। এই যে সাহেব আমার
+হাতে রয়েচে-।
+
+[ ]{style="display:inline-block; width:2em;"}কমল। আমি তো ভাই আর জান নই৷
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। মর ছুঁড়ি, খেলার
+ইসরায় বুঝিতে পারিস্ নে? তোর মোতন বোকা মেয়ে তে, আর দুটী নাই লা, তুই যদি
+তাস্ না খেলতে পারিস, তবে খেলতে অসিস্ কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কমল। কেন, খেলতে পারবে না
+কেন?
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। একে কি কেউ খেলা বলে?
+তুই আমার টেক্কার উপর বিবি দিলি।
+
+[ ]{style="display:inline-block; width:2em;"}কমল। কেন? বিবিটে ধরণ গেলে
+বুঝি ভাল হতো?
+
+[ ]{style="display:inline-block; width:2em;"}হর। আর ভাই, মিছে গোল করিস্
+কেন?
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। (কমলার প্রতি) কি
+আপোদ, যখন সায়েৰ আমার হাতে আছে তখন তোর আর ভয় কি?
+
+[ ]{style="display:inline-block; width:2em;"}কমল। বস্, তুই পাগল হলি না
+কি লো? তোর হাতে সাহেব তা আমি টের পাব কেমন করে লা?
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। তুই ভাই যদি তাল খেলা
+কাকে বলে তা জানতিস্ তৰে অবিশ্যি টের পেতিস্।
+
+::: {.__nop}
+:::
+
+[]{#c4____________________________________________________.xhtml#id-28
+.pagenum .ws-pagenum page-number="২৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%AD"}﻿[ ]{style="display:inline-block; width:2em;"}কমল।
+ও প্রলয়, শুনলি তো ভাই, এমন কি কখন হয়? বিবি ধরা গেমে, বিবি পালাবার বাগ
+পেলে কি কেউ তা ছাড়ে?
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ও প্রসন্ন-
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। চুপ্ কর্ লো, চুপ্
+কর্, ঐ শোন্, মা ডাকচেন-
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ও বোউ-
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন (উচ্চস্বরে) কি, মা-
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ওলো, তোরা ওখানে কি
+করচিস্ লা।
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। (উচ্চস্বরে) আমরা
+মা, দাদার বিছানা পাড়চি।
+
+[ ]{style="display:inline-block; width:2em;"}হর। ও ঠাকুরঝি, তাস ষোডাটা
+ভাই, নুকোও, ঠাকরুণ দেখতে পেলে আর রক্ষে থাকবে না।
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। (তাস বালিশের নিচে
+গোপন করিয়া) আয় ভাই আমরা সকলে এই চাদর খানা ধরে ঝাড়তে থাকি, তা হলে মা
+কিছু টের পাবেন না।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। আরে মলো---আবার
+টেক্কা---
+
+[ ]{style="display:inline-block; width:2em;"}কমল। আরে তাতে বয়ে গেল কি?
+সায়েব কি বিবি ধরতে পারে না?
+
+[ ]{style="display:inline-block; width:2em;"}হর। তোদের পায়ে পড়ি ভাই
+চুপ কর্, ঐ দেখ ঠাকরুণ উপরে অসচেন। ধর্, সকলে মিলে এই চাদর খানা ধর।
+
+::: {.wst-center .tiInherit}
+[(গৃহিণীর প্রবেশ)।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। ওলো, তোরা এখানে কি
+করচিস লা।
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। এই যে মা, আমরা
+দাদার বিছানা পাড়চ্যি।
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। ওমা, তোদের কি
+সন্ধ্য অবধি একটা বিছানা পাড়তে গেল? তা হবে না কেন? তোরা এখন সব কলিকালের
+মেয়ে কি না।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। কেন জেঠাইমা, আমার
+কলিকালের মেয়ে কেন?
+
+::: {.__nop}
+:::
+
+[]{#c4____________________________________________________.xhtml#id-29
+.pagenum .ws-pagenum page-number="২৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%AE"}[ ]{style="display:inline-block; width:2em;"}গৃহিণী।
+আর তোরা দেখচি একবারে কাজের সদ্দার হয়ে পড়েচিস। ভাগ্যে অজ নব বাড়ী নেই,
+তা হলে তো সে এতক্ষন শুতে আসতো।
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। হ্যাঁ মা, দাদা আজ
+কোথায় গেছেন গা?
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। ঐ যে রামমোহন
+রায়---না\--কার কি সভা আছে---?
+
+[ ]{style="display:inline-block; width:2em;"}কমলা। ছোটদাদা কি তবে তাঁর
+জ্ঞানতরঙ্গিণী সভায় গেছেন?
+
+[ ]{style="display:inline-block; width:2em;"}হর। (জনান্তিকে প্রসম্নের
+প্রতি) তবেই হয়েচে! ও ঠাকুরঝি, আজ দেখচি্ তোর ভারি আহ্লাদের দিন। দেখ্,
+হয় তো তোর দাদা আজ আবার এসে তোকে নিয়ে সেই রকম রঙ্গ বাধায়।
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। বউ মা কি বলছে,
+প্রসন্ন?
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ও বেমোল, মা ঠাকরুণ
+কোথায় গো? কত্তা মশায় বৈটকখান থেকে উঠেছেন।
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। তবে আমি যাই, তোরা
+মা বিছান করে শীঘ্র নীচে আয়।
+
+::: {.wst-running-header .wst-running-header-3 .wst-running-header-default}
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+\[প্রস্থান।
+:::
+:::
+
+[ ]{style="display:inline-block; width:2em;"}হর। (সহাস্য বদনে) ও
+ঠাকুরঝি? বল না রে সে দিন তোর ভাই কি করেছিল?
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। আ., ছি।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। কেন, কেন, কি করেছিল?
+বলনা কেন, ভাই?
+
+[ ]{style="display:inline-block; width:2em;"}হর। (সহাস্য বদনে) বল না
+ঠাকুরঝি?
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। না, ভাই, তুই যদি
+আমাকে এত বিরক্ত করিস্, তবে এই আমি চললেম।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। কেন? বল না কি
+হয়েছিল। ও ছোট বউ, তা তুই ভাই বল।
+
+[ ]{style="display:inline-block; width:2em;"}হর। তরে বলবো? সে দিন বাবু
+জ্ঞানতরঙ্গিণী সভা থেকে
+[]{#c4____________________________________________________.xhtml#id-30
+.pagenum .ws-pagenum page-number="৩০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%A9%E0%A7%AF"}﻿ফিরে
+এসে ঠাকরঝিকে দেখেই অমনি ধরে ওর গালে একটা চুমো খেলেন; ঠাকুরঝি তো ভাই
+পালাবার জন্যে ব্যস্ত, তা তিনি বললেন যে কেন? এতে দোষ কি? সায়েবরা যে
+বোনের গালে চুমো খায়, আর আমরা কল্লেই কি দোষ হয়?
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। ছি, যাও মেনে, বউ।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। ও মা, ছি। ইংরিজী
+পড়লে কি লোক এত বেহায় হয় গা।
+
+[ ]{style="display:inline-block; width:2em;"}হর। আরও শোন্ না, আবার বাবু
+বলেন কি?---
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। তোর দাদা মদ খেয়ে
+কি করে লো?
+
+[ ]{style="display:inline-block; width:2em;"}হর। কেন ভাই, সে
+জ্ঞানতরঙ্গিণী সভাতেও যায় না, অণর বনের গায়েও হাত দেয় না, আর যা করুক,
+সে যাহউক ঠাকুরঝি, তুই ভাই তোর দাদকে নে না কেন? আমি না হয় বাপের বাড়ী
+গিয়ে থাকি; তোর ভাতার তে তোকে একবার মনেও করে না। তা নে, তুই ভাই, তোর
+দাদাকে নে।
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। হ্যাঁ, আর তুই
+গিয়ে তোর দাদাকে নে থাক্।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ছেড়ে দেও হামকো।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। তোমাব পায়ে পড়ি,
+দাদাবাবু, এত চেচঁয়ে কথা কয়ো না, কত্তা মশায় ঐ ঘরে ভাত খাচ্চেন।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। ডেম কত্তা মশায়!
+আমি কি কারো তক্কা রাখি?
+
+[ ]{style="display:inline-block; width:2em;"}কমলা। ঐ যে ছোটদাদা আসচেন।
+
+[ ]{style="display:inline-block; width:2em;"}নৃত্য। আর, ভাই, আমরা লুকয়ে
+একটু তামাসা দেখি।
+
+[ ]{style="display:inline-block; width:2em;"}হর। (দীর্ঘনিশ্বাস পরিত্যাগ
+করিয়া) না ভাই, আমার আর ওসব ভাল লাগে না। আঃ, সমস্ত রাতটা মুখ থেকে প্যাঁজ
+অপর মদের গন্ধ ভক্‌ ভক্ করো বেরোবে এখন, আর এমন নাক্ ডাকুনি-বোধ করি মরা
+মানুষও শুনলে জেগে উঠে! ছি!
+
+[ ]{style="display:inline-block; width:2em;"}কমলা। আয় লো আয়। (সকলের
+গুপ্তভাবে অবস্থিতি)।
+[]{#c4____________________________________________________.xhtml#id-31
+.pagenum .ws-pagenum page-number="৩১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%AA%E0%A7%A6"}
+
+::: {.wst-center .tiInherit}
+(নব বাবুকে লইয়া বৈদ্যনাথের প্রবেশ)।
+:::
+
+[ ]{style="display:inline-block; width:2em;"}নব। (প্রমত্তভাবে)
+বোদে---মাই গুড ফেলো---তোকে আমি রিফরম্ কত্যে চাই। তুই বুঝলি?
+
+[ ]{style="display:inline-block; width:2em;"}বোদে। যে আজ্ঞে।
+
+[ ]{style="display:inline-block; width:2em;"}নব। বোদে---একটা
+বিয়ার---না, ঐ ব্রাণ্ডি ল্যাও।
+
+[ ]{style="display:inline-block; width:2em;"}বৈদ্য। যে অজ্ঞে, আপনি যেয়ে
+ঐ বিছানায় বসুন। আমি ব্রাণ্ডি এনে দিচ্ছি। (স্বগত) দাদাবাবু যদি শীঘ্র
+ঘুমিয়ে না পড়ে, তবেই দেখছি আজ একটা কাণ্ড হবে এখন। কত্তা এঁকে এমন দেখলে
+কি আর কিছু বাকী রাখবেন।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (শষ্যোপরি উপবিষ্ট
+হইয়া) ল্যাও---ব্রাণ্ডি ল্যাও---জলদি।
+
+[ ]{style="display:inline-block; width:2em;"}বৈদ্য। আজ্ঞে, এই যাই।
+
+::: {.wst-running-header .wst-running-header-3 .wst-running-header-default}
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+\[প্রস্থান।
+:::
+:::
+
+[ ]{style="display:inline-block; width:2em;"}নব। (স্বগত) ড্যাম কত্তা
+--ওলড ফুল আর কদ্দিন বাঁচবে? আমি প্রাণ থাকতে এ সভা কখনই এবলিশ কর্ত্তে
+পারবো না। বুড়ো একবার চখ্ বুজলে হয়, তা হলে অপর আমাকে কোন্ শালার সাধ্য
+যে কিছু বলতে পাবে? হা হা হা, ওণ্ট আই এঞ্জয় মিসেলফ্? (উচ্চস্বরে)
+ল্যাও---মদ্ ল্যাও।
+
+[ ]{style="display:inline-block; width:2em;"}হর। (কিঞ্চিৎ অগ্রসর হইয়া)
+কি সর্ব্বনাশ। ওলো ঠাকুরঝি---
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। (ঐ) কি ?
+
+[ ]{style="display:inline-block; width:2em;"}হর। ঐ দেখচিস্ কত্তা।
+ঠাকরুণের ঘরে ভাত খেতে বসেছেন।
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। তা আমি কি করবো?
+
+[ ]{style="display:inline-block; width:2em;"}হর। তুই, ভাই, কাছে গিয়ে
+তোর দাদাকে চুপ করতে বল না।
+
+::: {.__nop}
+:::
+
+[]{#c4____________________________________________________.xhtml#id-32
+.pagenum .ws-pagenum page-number="৩২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%AA%E0%A7%A7"}﻿[ ]{style="display:inline-block; width:2em;"}প্রসন্ন।
+(সভয়ে) ওমা, তা তে ভাই আমি পারবে না।
+
+[ ]{style="display:inline-block; width:2em;"}হর। (সহাস্যে বদনে) আঃ, তার
+দোষ কি? তুই তে ভাই আর কচি মেয়েটী নোস, যে বেটাছেলের মুখ দেখলে ডরাবি?
+ষানালা।
+
+[ ]{style="display:inline-block; width:2em;"}নব। ল্যাও-মদ ল্যাও।
+
+[ ]{style="display:inline-block; width:2em;"}হর। ওমা? কি সর্ব্বনাশ।
+(অগ্রসর হইয়া) কর কি? কর্ত্তা বাড়ীয় ভেতরে ভাত খাচ্ছেন, তা জান?
+
+[ ]{style="display:inline-block; width:2em;"}নব। (সচকি) একি? পয়োধরী যে?
+আরে এসো, এসো। এ অভাজনকে কি ভাই তুমি এত ভাল বাস, ষে এরজন্যে ক্লেশ স্বীকার
+করে এত রাত্রে এই নিকুঞ্জ বনে এসেছ---হা, হা, হা, এসো, এসো। (গাত্রোত্থান)।
+
+[ ]{style="display:inline-block; width:2em;"}হর। ও ঠাকুবঝি, কি বকচে
+বুঝতে পারিস ভাই?
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। (সহস্য বদনে)
+ও,ভাই, তোদের কথা, আমি আর ওর কি বুঝবো।
+
+[ ]{style="display:inline-block; width:2em;"}নব। (পরিক্রমণ করিতে করিতে)
+এসো ভাই, আমি তোমার ডেম্ড স্লেভ্। এসো-(ভূতলে পতন)।
+
+[ ]{style="display:inline-block; width:2em;"}হর, প্রসন্ন, ইত্যাদি।
+(অগ্রসর হইয়া) ওমা, একি হলো? (ক্রন্দন)।
+
+[ ]{style="display:inline-block; width:2em;"}নেপথ্যে। কেন, কেন, কি
+হয়েছে?
+
+::: {.wst-center .tiInherit}
+[(গৃহিণীর পুনঃ প্রবেশ)।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। (নবকুমারকে অবলোকন
+করিয়া) একি, একি? এ আমার সোণার চাঁদ যে মাটিতে গড়াচ্চে? ওমা, কি হলো?
+(ক্রন্দন করিতে করিতে) ওঠো বাবা, ওঠো। ওমা, আমার কি হলো! ওমা, আমার কি হলো!
+ও প্রসন্ন, তুই ওঁকে একবার শীঘ্র ডেকে আনত লা। (প্রসন্নের প্রস্থান) ওমা,
+ওমা, আমার কি হলো! (ক্রন্দন)।
+
+::: {.__nop}
+:::
+
+[]{#c4____________________________________________________.xhtml#id-33
+.pagenum .ws-pagenum page-number="৩৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%AA%E0%A7%A8"}[ ]{style="display:inline-block; width:2em;"}নৃত্য।
+উঃ জেঠাই মা, দেখ্ দাদার মুখদিয়ে কেমন একটা বদগন্ধ বেরুচ্ছে।
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। উঁঃ, ছি! তাইতো লো।
+ওমা, একি সর্ব্বনাশ! আমার দুধের বাছাকে কি কেউ বিষ্ টিষ্ খাইয়ে দিয়েছে না
+কি? ওমা, আমার কি হবে! (ক্রন্দন)।
+
+::: {.wst-center .tiInherit}
+[(প্রসন্নের সহিত কর্ত্তার প্রবেশ)।]{style="font-size: 120%;"}
+:::
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। এ কি?
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। এই দেখ, আমার নব
+কেমন হয়ে পড়েছে। ওমা, আমার কি হবে!
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। (অবলোকন করিয়া
+সরোষে) কি সর্ব্বনাশ, রাধেকৃষ্ণ! হা দুরাচার! হা নবাধম! হা কুলোঙ্গার।
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। (সরোষে) একি? বুড়ো
+হলে লোক পাগল হয় না কি? যাও, তুমি আমার সোনার নবকে অমন কব্যে বকচো কেন?
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। (সরোষে) ষোনাব নব!
+হ্যা। ওকে যখন প্রসব করেছিলে, তখন নুন্ খাইয়ে মেরে ফেলতে পার নি?
+
+[ ]{style="display:inline-block; width:2em;"}নব। হিয়র, হিয়র, হুরে।
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। ওমা আমার কি হলে।
+এমন এলো মেলো বকচে কেম? ওমা, ছেলেটিকে তো ভূতে টূতে পায়নি?
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। তোমার কি কিছুমাত্র
+জ্ঞান নাই? তুমি কি দেখতে পাচ্চ না যে ও লক্ষীছাড়া মাতাল হয়েছে।
+
+{gap}}নব। হিয়র, হিয়র।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। (সরোষে) চুপ্,
+বেহায়া, তোর কি কিছুমাত লজ্জা নাই?
+
+[ ]{style="display:inline-block; width:2em;"}নব। ড্যাম লজ্জা, মদ্ ল্যাও।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। শুললে তো?
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। আমার এ দুধের বাছাকে
+এসব্ কে শেখালে গা?
+
+::: {.__nop}
+:::
+
+[]{#c4____________________________________________________.xhtml#id-34
+.pagenum .ws-pagenum page-number="৩৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%87_%E0%A6%95%E0%A6%BF_%E0%A6%AC%E0%A6%B2%E0%A7%87_%E0%A6%B8%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE%3F.pdf/%E0%A7%AA%E0%A7%A9"}[ ]{style="display:inline-block; width:2em;"}কর্ত্তা।
+আর শেখাবে কে? এ কলকাতা মহালাপ নগর-কর্জি রাজধানী, এখানে কি কোন ভদ্র লোকের
+বসতি করা উচিত?
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। ওমা, তাইতো, এত কে
+জানে, না?
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। কাল প্রাতেই আমি
+তোমাদের সকলকে সঙ্গে নিয়ে শ্রীবৃন্দাবনে যাত্রা করবো। এ লক্ষীছাড়াকে আর
+এখানে রেখে কাজ নেই। চল, এখন আমরা যাই। এ বানরটা একটু ঘুমুক-
+
+[ ]{style="display:inline-block; width:2em;"}নব। হিয়র, হিয়র, আই
+সেকেণ্ড দি বেজোলুসন।
+
+[ ]{style="display:inline-block; width:2em;"}কর্ত্তা। হায় আমার বংশেও
+এমন কুলাঙ্গার জন্মেছিল?
+
+[ ]{style="display:inline-block; width:2em;"}গৃহিণী। ও প্রসন্ন, ও কমলা,
+ওলো তোরা মা এখানে একটু থকে আয়
+
+::: {.wst-running-header .wst-running-header-3 .wst-running-header-default}
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+[\[কর্ত্তা এবং গৃহিণীর প্রস্থান।]{style="font-size: 120%;"}
+:::
+:::
+
+[ ]{style="display:inline-block; width:2em;"}হর। (অগ্রসর হইয়া) ও
+ঠাকুরঝি, এই ভাই তোর দাদার দশা দেখ্। হায়, এই কলকেতায় যে অজ্ কাল কত
+অভাগা স্ত্রী আমার মতন এইরূপ যন্ত্রনা ভোগ করে তার সীমা নাই। হে বিধাতা!
+তুমি আমাদের উপর এত বাম হলে কেন?
+
+[ ]{style="display:inline-block; width:2em;"}প্রসন্ন। তা এ অজ আর নতুন
+দেখিলি না কি? জ্ঞান তরঙ্গিণী সভাতে এই রকম জ্ঞানই হয়ে থাকে।
+
+[ ]{style="display:inline-block; width:2em;"}হর। তা বই আর কি ভাই? আজ কাল
+কলকেতায় যাঁরা লেখা পড়া শেখেন, তাদের মধ্যে অনেকেরই কেবল এই জ্ঞানটী ভাল
+জন্মে। তা ভাই দেখ্ দেখি, এমন স্বামী থাকলিই বাকি আর না থাকলিই বা কি।
+ঠাকুরঝি তোকে বলতে কি ভাই, এই সব দেখে শুনে আমার ইচ্ছে করে যে গলায় দড়ি
+দে মরি। (দীর্ঘ-নিশ্বাস) ছি, ছি, ছি। (চিন্তা করিয়া) বেহায়ারা আবার বলে
+কি যে আমরা সায়েবদের মতো সভ্য হয়েচি। হা আমার পোড়া কপাল! মদ্ খাস করেই
+কি সভ্য হয়?-একেই কি বলে সভ্যতা?
+
+::: {.wst-center .tiInherit}
+ববদিকা পতন
+:::
+:::
+:::
+
+[]{#about.xhtml}
+
+::: {.section mw-section-id="0"}
+:::
+
+::: {.section mw-section-id="-1"}
+[]{#about.xhtml#id-.E0.A6.8F.E0.A6.87_.E0.A6.A1.E0.A6.BF.E0.A6.9C.E0.A6.BF.E0.A6.9F.E0.A6.BE.E0.A6.B2_.E0.A6.B8.E0.A6.82.E0.A6.B8.E0.A7.8D.E0.A6.95.E0.A6.B0.E0.A6.A3_.E0.A6.B8.E0.A6.AE.E0.A7.8D.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.95.E0.A7.87 typeof="mw:FallbackId"}এই ডিজিটাল সংস্করণ সম্পর্কে {#about.xhtml#e_i_dijitala_sanskarana_samparke}
+=================================================================================================================================================================================================================================================================================================
+
+এই ই-বই অনলাইন গ্রন্থাগার
+[উইকিসংকলন](https://bn.wikisource.org/wiki/প্রধান_পাতা "প্রধান পাতা"){.mw-redirect}^[[\[1\]]{.mw-reflink-text}](#about.xhtml#cite_note-1)^
+হতে প্রাপ্ত। স্বেচ্ছাসেবীদের দ্বারা নির্মিত এই বহুভাষী ডিজিটাল
+গ্রন্থাগার উপন্যাস, কবিতা, পত্র-পত্রিকা ইত্যাদি সমস্ত ধরণের প্রকাশনার
+মুক্ত সংকলন গড়ে তোলার জন্য অঙ্গীকারবদ্ধ।
+
+আমরা কপিরাইটমুক্ত অথবা মুক্ত লাইসেন্সের অধীনে প্রকাশিত বইগুলিকে
+বিনামূল্যে প্রদান করে থাকি। আপনি আমাদের ই-বইগুলিকে [ক্রিয়েটিভ কমন্স
+অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক ৩.০
+আনপোর্টেড](https://creativecommons.org/licenses/by-sa/3.0/deed.bn){.external
+.text} লাইসেন্স^[[\[2\]]{.mw-reflink-text}](#about.xhtml#cite_note-2)^
+বা [জিএনইউ ফ্রি ডকুমেন্টশন
+লাইসেন্সের](http://www.gnu.org/copyleft/fdl.html){.external
+.text}^[[\[3\]]{.mw-reflink-text}](#about.xhtml#cite_note-3)^ শর্তাধীনে
+বাণিজ্যিক উদ্দেশ্য সহ যে কোন উদ্দেশ্যে ব্যবহার করতে পারেন।
+
+উইকিসংকলন সর্বদা নতুন সদস্যদের জন্য উন্মুক্ত। এই ই-বইয়ে কিছু ভুল
+ভ্রান্তি থেকে যাওয়া সম্ভব, সেক্ষেত্রে আপনি [এই
+পাতায়](https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা "উইকিসংকলন:লিপিশালা")
+জানাতে পারেন^[[\[4\]]{.mw-reflink-text}](#about.xhtml#cite_note-4)^।
+
+নিম্নে তালিকাভুক্ত ব্যবহারকারীরা এই ই-বইয়ে অবদান রেখেছেন:
+
+::: {#about.xhtml#ws-contributor}
+-   Safuan12616
+-   Integrity2020
+-   Bodhisattwa
+-   Mahir256
+-   AbuSayeed
+-   Inductiveload
+-   Theknightwho
+-   Jayantanth
+-   DoraShin15
+:::
+
+\
+
+------------------------------------------------------------------------
+
+1.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-1)
+    [https://bn.wikisource.org]{.mw-reference-text}]{#about.xhtml#cite_note-1}
+2.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-2)
+    [https://creativecommons.org/licenses/by-sa/3.0/deed.bn]{.mw-reference-text}]{#about.xhtml#cite_note-2}
+3.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-3)
+    [http://www.gnu.org/copyleft/fdl.html]{.mw-reference-text}]{#about.xhtml#cite_note-3}
+4.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-4)
+    [https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা]{.mw-reference-text}]{#about.xhtml#cite_note-4}
+:::

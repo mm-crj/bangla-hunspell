@@ -1,0 +1,4245 @@
+---
+contributor: Wikisource
+identifier: 'https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80\_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE'
+language: bn
+rights:
+- GNU Free Documentation License
+- 'Creative Commons BY-SA 3.0'
+source: 'https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80\_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE'
+title: রূপসী বাংলা
+---
+
+![](title.xhtml)
+
+[]{#title.xhtml}
+
+রূপসী বাংলা
+-----------
+
+### 
+
+\
+![](images/Accueil_scribe.png)\
+
+##### 
+
+\
+
+###### ৭ অক্টোবর, ২০২৩ তারিখে উইকিসংকলন থেকে রপ্তানিকৃত
+
+[]{#c0____________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork" itemid="http://www.wikidata.org/entity/Q111744924"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c0____________.xhtml#pracchada .pagenum .ws-pagenum
+page-number="প্রচ্ছদ"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7"}
+
+![](images/c62____________________.jpg_500px____________________.jpg){.mw-file-element}
+:::
+
+[ ]{#c0____________.xhtml#page .center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt3" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt5" lang="bn"}
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt6" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt8" lang="bn"}
+[]{#c0____________.xhtml#sironama .pagenum .ws-pagenum
+page-number="শিরোনাম"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:9em;"}
+ 
+:::
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+[**র‍ূপসী
+বাংলা**]{style="font-size: 120%;"}[ ]{style="display:inline-block; width:6em;"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:25em;"}
+ 
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt9" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt11" lang="bn"}
+[]{#c0____________.xhtml#pracchada-n4 .pagenum .ws-pagenum
+page-number="প্রচ্ছদ"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD"}
+
+::: {.wst-center .tiInherit}
+**জীবনানন্দ দাশ**
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:8em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+[**রূ প
+সী**]{style="font-size:182%;"}[[![](images/c63______________________.jpg_100px______________________.jpg){.mw-file-element}](https://bn.wikisource.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A6_%E0%A7%A8.jpg){.mw-file-description}]{typeof="mw:File"}[**বাংলা**]{style="font-size:182%;"}
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:12em;"}
+ 
+:::
+
+::: {.wst-center .tiInherit}
+**সিগনেট প্রেস । কলকাতা ২০**
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt12" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt14" lang="bn"}
+[]{#c0____________.xhtml#utsarga .pagenum .ws-pagenum
+page-number="উৎসর্গ"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AF"}
+
+::: {.wst-dhr style="visibility:hidden; line-height:7em;"}
+ 
+:::
+
+::: {.wst-running-header .wst-running-header-3 .wst-running-header-default}
+::: {.wst-running-header-cell}
+**উ ৎ স র্গ**
+:::
+
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+---আবহমান বাংলা, বাঙালী
+:::
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:15em;"}
+ 
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt15" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt17" lang="bn"}
+[]{#c0____________.xhtml#prakasaka .pagenum .ws-pagenum
+page-number="প্রকাশক"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7%E0%A7%A6"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+রচনাকাল মার্চ ১৯৩২\
+প্রথম সংস্করণ\
+অগাস্ট ১৯৫৭\
+প্রকাশক\
+দিলীপকুমার গুপ্ত\
+সিগনেট প্রেস\
+১০।২ এলগিন রোড\
+কলকাতা ২০\
+প্রচ্ছদপট\
+সত্যজিৎ রায়\
+সহায়তা করেছেন\
+পীযূষ মিত্র\
+মুদ্রক\
+শৈলেন্দ্রনাথ গুহরায়\
+শ্রীসরস্বতী প্রেস লিমিটেড\
+৩২ আপার সারকুলার রোড\
+ব্লক---র‍ূপমুদ্রা লিমিটেড\
+৪ নিউ বহ‍ুবাজার লেন\
+বাঁধিয়েছেন\
+বাসন্তী বাইণ্ডিং ওয়ার্কস\
+৬১।১ মির্জাপুর স্ট্রীট\
+সর্বস্বত্ব সংরক্ষিত\
+\
+\
+\
+দাম তিন টাকা
+:::
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt18" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt20" lang="bn"}
+[]{#c0____________.xhtml#bhumika .pagenum .ws-pagenum
+page-number="ভূমিকা"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7%E0%A7%A7"}
+
+::: {.wst-center .tiInherit}
+**ভূমিকা**
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:4em;"}
+ 
+:::
+
+এই কাব্যগ্রন্থে যে-কবিতাগ‍ুলি সঙ্কলিত হল, তার সবগ‍ুলিই কবির জীবিত-কালে
+অপ্রকাশিত ছিল; তাঁর মৃত্যুর পরে কোনো-কোনো কবিতা বিভিন্ন পত্র-পত্রিকায়
+প্রকাশিত হয়েছে।
+
+[ ]{style="display:inline-block; width:1em;"}কবিতাগ‍ুলি প্রথম বারে যেমন
+লেখা হয়েছিল, ঠিক তেমনই পাণ্ডুলিপিবদ্ধ অবস্থায় রক্ষিত ছিল; সম্পূর্ণ
+অপরিমার্জিত। পঁচিশ বছর আগে খুব পাশাপাশি সময়ের মধ্যে একটি বিশেষ ভাবাবেগে
+আক্রান্ত হয়ে কবিতাগুলি রচিত হয়েছিল। এ-সব কবিতা 'ধূসর
+পাণ্ডুলিপি'-পর্যায়ের শেষের দিকের ফসল।
+
+[ ]{style="display:inline-block; width:1em;"}কবির কাছে 'এরা প্রত্যেকে
+আলাদা আলাদা স্বতন্ত্র সত্তার মতো নয় কেউ, অপরপক্ষে সার্বিক বোধে একশরীরী;
+গ্রামবাংলার আলুলায়িত প্রতিবেশপ্রসূতির মতো ব্যষ্টিগত হয়েও পরিপূরকের মতো
+পরস্পরনির্ভর।..'
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+::: {.wst-running-header .wst-running-header-3 .wst-running-header-default}
+::: {.wst-running-header-cell}
+৩১ জুলাই ১৯৫৭
+:::
+
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+**---অশোকানন্দ দাশ**
+:::
+:::
+:::
+
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt21" typeof="mw:Transclusion"}
+
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt23" lang="bn"}
+[]{#c0____________.xhtml#sucipatra .pagenum .ws-pagenum
+page-number="সূচীপত্র"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD%E0%A7%AC"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:500px; text-align:justify;"}
+::: {.wst-center .tiInherit}
+**প্রথম পংক্তির সূচী**
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+```{=html}
+<table class="ws-summary __toc_table wst-toc-table" style>
+```
+```{=html}
+<tbody>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[সেই দিন এই মাঠ স্তব্ধ হবে নাকো
+জানি---](#c1__________________.xhtml "রূপসী বাংলা/সূচনা")
+:::
+:::
+:::
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৯]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[তোমরা যেখানে সাধ চলে যাও---আমি এই বাংলার
+পারে](#c2______________.xhtml "রূপসী বাংলা/১")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১১]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[বাংলার মুখ আমি দেখিয়াছি, তাই আমি পৃথিবীর
+র‍ূপ](#c3______________.xhtml "রূপসী বাংলা/২")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১২]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[যত দিন বেঁচে আছি আকাশ চলিয়া গেছে কোথায়
+আকাশে](#c4______________.xhtml "রূপসী বাংলা/৩")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১৩]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এক দিন জলসিড়ি নদীটির পারে এই বাংলার
+মাঠে](#c5______________.xhtml "রূপসী বাংলা/৪")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১৪]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[আকাশে সাতটি তারা যখন উঠেছে ফুটে আমি এই
+ঘাসে](#c6______________.xhtml "রূপসী বাংলা/৫")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১৫]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[কোথাও দেখি নি, আহা, এমন বিজন ঘাস---প্রান্তরের
+পারে](#c7______________.xhtml "রূপসী বাংলা/৬")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১৬]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[হায় পাখি, একদিন কালীদহে ছিলে না কি---দহের
+বাতাসে](#c8______________.xhtml "রূপসী বাংলা/৭")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১৭]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[জীবন অথবা মৃত্যু চোখে র'বে---আর এই বাংলার
+ঘাস](#c9______________.xhtml "রূপসী বাংলা/৮")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১৮]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[যেদিন সরিয়া যাব তোমাদের কাছ থেকে---দূর
+কুয়াশায়](#c10______________.xhtml "রূপসী বাংলা/৯")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[১৯]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[পৃথিবী রয়েছে ব্যস্ত কোনখানে সফলতা শক্তির
+ভিতর,](#c11_______________.xhtml "রূপসী বাংলা/১০")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২০]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[ঘুমায়ে পড়িব আমি একদিন তোমাদের নক্ষত্রের
+রাতে](#c12_______________.xhtml "রূপসী বাংলা/১১")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২১]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[ঘুমায়ে পড়িব আমি একদিন তোমাদের নক্ষত্রের
+রাতে;](#c13_______________.xhtml "রূপসী বাংলা/১২")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২২]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[যখন মৃত্যুর ঘুমে শ‍ুয়ে র'ব---অন্ধকারে নক্ষত্রের
+নিচে](#c14_______________.xhtml "রূপসী বাংলা/১৩")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২৩]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[আবার আসিব ফিরে ধানসিড়িটির তীরে---এই
+বাংলায়](#c15_______________.xhtml "রূপসী বাংলা/১৪")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২৪]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[যদি আমি ঝ'রে যাই একদিন কার্তিকের নীল
+কুয়াশায়:](#c16_______________.xhtml "রূপসী বাংলা/১৫")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২৫]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[মনে হয় একদিন আকাশের শ‍ুকতারা দেখিব না
+আর](#c17_______________.xhtml "রূপসী বাংলা/১৬")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২৬]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[যে শালিখ মরে যায় কুয়াশায়---সে তো আর ফিরে নাহি
+আসে:](#c18_______________.xhtml "রূপসী বাংলা/১৭")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২৭]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[কোথাও চলিয়া যাব একদিন;---তারপর রাত্রির
+আকাশ](#c19_______________.xhtml "রূপসী বাংলা/১৮")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২৮]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[তোমার বুকের থেকে একদিন চ'লে যাবে তোমার
+সন্তান](#c20_______________.xhtml "রূপসী বাংলা/১৯")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[২৯]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[গোলপাতা ছাউনির বুক চুমে নীল ধোঁয়া সকালে
+সন্ধ্যায়](#c21_______________.xhtml "রূপসী বাংলা/২০")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩০]{style="text-align:right"} []{#c0____________.xhtml#sucipatra-n9
+.pagenum .ws-pagenum page-number="সূচীপত্র"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD%E0%A7%AD"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[অশ্বত্থে সন্ধ্যার হাওয়া যখন লেগেছে নীল বাংলার
+বনে](#c22_______________.xhtml "রূপসী বাংলা/২১")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩১]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[ভিজে হয়ে আসে মেঘে এ-দুপুর---চিল একা নদীটির
+পাশে](#c23_______________.xhtml "রূপসী বাংলা/২২")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩২]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[খুঁজে তারে মর মিছে---পাড়াগাঁর পথে তারে পাবে নাকো
+আর;](#c24_______________.xhtml "রূপসী বাংলা/২৩")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩৩]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[পাড়াগাঁর দু'-পহর ভালোবাসি---রৌদ্রে যেন গন্ধ লেগে
+আছে](#c25_______________.xhtml "রূপসী বাংলা/২৪")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩৪]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[কখন সোনার রোদ নিভে গেছে---অবিরল শুপুরির
+সারি](#c26_______________.xhtml "রূপসী বাংলা/২৫")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩৫]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এই পৃথিবীতে এক স্থান আছে---সব চেয়ে সুন্দর
+করুণ:](#c27_______________.xhtml "রূপসী বাংলা/২৬")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩৬]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[কত ভোরে---দু'-পহরে---সন্ধ্যায় দেখি নীল শুপুরির
+বন](#c28_______________.xhtml "রূপসী বাংলা/২৭")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩৭]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এই ডাঙা ছেড়ে হায় রূপ কে খুঁজিতে যায় পৃথিবীর
+পথে।](#c29_______________.xhtml "রূপসী বাংলা/২৮")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩৮]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এখানে আকাশ নীল---নীলাভ আকাশ জুড়ে সজিনার
+ফুল](#c30_______________.xhtml "রূপসী বাংলা/২৯")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৩৯]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[কোথাও মঠের কাছে---যেইখানে ভাঙা মঠ নীল হয়ে
+আছে](#c31_______________.xhtml "রূপসী বাংলা/৩০")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪০]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[চ'লে যাব শুকনো পাতা-ছাওয়া ঘাসে---জামরুলে হিজলের
+বনে;](#c32_______________.xhtml "রূপসী বাংলা/৩১")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪১]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এখানে ঘুঘুর ডাকে অপরাহ্ণে শান্তি আসে মানুষের
+মনে;](#c33_______________.xhtml "রূপসী বাংলা/৩২")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪২]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[শ্মশানের দেশে তুমি আসিয়াছ---বহুকাল গেয়ে গেছ
+গান](#c34_______________.xhtml "রূপসী বাংলা/৩৩")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪৩]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[তবু তাহা ভুল জানি, রাজবল্লভের কীর্তি ভাঙে
+কীর্তিনাশা;](#c35_______________.xhtml "রূপসী বাংলা/৩৪")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪৪]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[সোনার খাঁচার বুকে রহিব না আমি আর শুকের
+মতন;](#c36_______________.xhtml "রূপসী বাংলা/৩৫")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪৫]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[কত দিন সন্ধ্যার অন্ধকারে মিলিয়াছি আমরা
+দু'জনে;](#c37_______________.xhtml "রূপসী বাংলা/৩৬")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪৬]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এ-সব কবিতা আমি যখন লিখেছি ব'সে নিজ মনে
+একা;](#c38_______________.xhtml "রূপসী বাংলা/৩৭")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪৭]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[কত দিন তুমি আর আমি এসে এইখানে বসিয়াছি ঘরের
+ভিতর](#c39_______________.xhtml "রূপসী বাংলা/৩৮")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪৮]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এখানে প্রাণের স্রোত আসে যায়---সন্ধ্যায় ঘুমায়
+নীরবে](#c40_______________.xhtml "রূপসী বাংলা/৩৯")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৪৯]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[একদিন যদি আমি কোনো দূর মান্দ্রাজের সমুদ্রের
+জলে](#c41_______________.xhtml "রূপসী বাংলা/৪০")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫০]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[দূর পৃথিবীর গন্ধে ভ'রে ওঠে আমার এ বাঙালীর
+মন](#c42_______________.xhtml "রূপসী বাংলা/৪১")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫১]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[অশ্বত্থ বটের পথে অনেক হয়েছি আমি তোমাদের
+সাথী;](#c43_______________.xhtml "রূপসী বাংলা/৪২")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫২]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[ঘাসের বুকের থেকে কবে আমি পেয়েছি যে আমার
+শরীর---](#c44_______________.xhtml "রূপসী বাংলা/৪৩")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫৩]{style="text-align:right"} []{#c0____________.xhtml#sucipatra-n10
+.pagenum .ws-pagenum page-number="সূচীপত্র"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD%E0%A7%AE"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এই জল ভালো লাগে;---বৃষ্টির র‍ূপালি জল কত দিন
+এসে](#c45_______________.xhtml "রূপসী বাংলা/৪৪")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫৪]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[একদিন পৃথিবীর পথে আমি ফলিয়াছি; আমার
+শরীর](#c46_______________.xhtml "রূপসী বাংলা/৪৫")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫৫]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[পৃথিবীর পথে আমি বহ‍ুদিন বাস ক'রে হৃদরের নরম
+কাতর](#c47_______________.xhtml "রূপসী বাংলা/৪৬")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫৬]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[মানুষের ব্যথা আমি পেয়ে গেছি পৃথিবীর পথে এসে---হাসির
+আস্বাদ](#c48_______________.xhtml "রূপসী বাংলা/৪৭")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫৭]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[তুমি কেন বহ‍ু দূরে---ঢের দূরে---আরো দূরে---নক্ষত্রের অস্পষ্ট
+আকাশ,](#c49_______________.xhtml "রূপসী বাংলা/৪৮")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫৮]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[আমাদের র‍ূঢ় কথা শ‍ুনে তুমি স'রে যাও আরো দূরে বুঝি
+নীলাকাশ;](#c50_______________.xhtml "রূপসী বাংলা/৪৯")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৫৯]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[এই পৃথিবীতে আমি অবসর নিয়ে শ‍ুধু আসিয়াছি---আমি হৃষ্ট
+কবি](#c51_______________.xhtml "রূপসী বাংলা/৫০")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬০]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[বাতাসে ধানের শব্দ শ‍ুনিয়াছি---ঝরিতেছে ধীরে ধীরে অপরাহ্ণ
+ভ'রে;](#c52_______________.xhtml "রূপসী বাংলা/৫১")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬১]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[একদিন এই দেহ ঘাস থেকে ধানের আঘ্রাণ থেকে এই
+বাংলার](#c53_______________.xhtml "রূপসী বাংলা/৫২")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬২]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[আজ তারা কই সব? ওখানে হিজল গাছ ছিল এক---পুকুরের
+জলে](#c54_______________.xhtml "রূপসী বাংলা/৫৩")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬৩]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[হৃদয়ে প্রেমের দিন কখন যে শেষ হয়---চিতা শ‍ুধু প'ড়ে থাকে
+তার,](#c55_______________.xhtml "রূপসী বাংলা/৫৪")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬৪]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[কোনোদিন দেখিব না তারে আমি; হেমন্তে পাকিবে ধান, আষাঢ়ের
+রাতে](#c56_______________.xhtml "রূপসী বাংলা/৫৫")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬৫]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[ঘাসের ভিতরে যেই চড়ায়ের শাদা ডিম ভেঙে আছে---আমি
+ভালোবাসি](#c57_______________.xhtml "রূপসী বাংলা/৫৬")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬৬]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[(এই সব ভালো লাগে): জানালার ফাঁক দিয়ে ভোরের সোনালি রোদ
+এসে](#c58_______________.xhtml "রূপসী বাংলা/৫৭")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬৭]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[সন্ধ্যা হয়---চারিদিকে শান্ত
+নীরবতা;](#c59_______________.xhtml "রূপসী বাংলা/৫৮")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬৮]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[একদিন কুয়াশার এই মাঠে আমারে পাবে না কেউ খুঁজে আর,
+জানি;](#c60_______________.xhtml "রূপসী বাংলা/৫৯")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৬৯]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr class="__toc_row_m-1 __toc_row_2-1">
+```
+```{=html}
+<td colspan="2">
+```
+[ভেবে ভেবে ব্যথা পাব;---মনে হবে, পৃথিবীর পথে যদি থাকিতাম
+বেঁচে](#c61_______________.xhtml "রূপসী বাংলা/৬০")
+
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+[৭০]{style="text-align:right"}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</tbody>
+```
+```{=html}
+</table>
+```
+```{=html}
+</div>
+```
+```{=html}
+</div>
+```
+[ ]{.center .pagebreak
+style="clear:both; display:block; font-size:smaller; border-bottom:1px dashed; border-color:#999999"
+about="#mwt24" typeof="mw:Transclusion"}
+
+[ ]{about="#mwt25"}
+
+```{=html}
+</section>
+```
+[]{#c1__________________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%A8%E0%A6%BE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c1__________________.xhtml#id-9 .pagenum .ws-pagenum page-number="৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7%E0%A7%A9"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+সেই দিন এই মাঠ স্তব্ধ হবে নাকো জানি---\
+এই নদী নক্ষত্রের তলে\
+সেদিনো দেখিবে স্বপ্ন---\
+সোনার স্বপ্নের সাধ পৃথিবীতে কবে আর ঝরে!\
+আমি চ'লে যাব ব'লে\
+চালতাফুল কি আর ভিজিবে না শিশিরের জলে\
+নরম গন্ধের ঢেউয়ে?\
+লক্ষ্মীপেঁচা গান গাবে নাকি তার লক্ষ্মীটির তরে?\
+সোনার স্বপ্নের সাধ পৃথিবীতে কবে আর ঝরে!\
+
+::: {.wst-dhr style="visibility:hidden; line-height:3em;"}
+ 
+:::
+
+\
+
+চারিদিকে শান্ত বাতি---ভিজে গন্ধ---মৃদু কলরব;\
+খেয়ানৌকোগ‍ুলো এসে লেগেছে চরের খুব কাছে;\
+পৃথিবীর এই সব গল্প বেঁচে র'বে চিরকাল;---\
+এশিরিয়া ধুলো আজ---বেবিলন ছাই হয়ে আছে।
+:::
+:::
+:::
+:::
+
+[]{#c2______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c2______________.xhtml#id-11 .pagenum .ws-pagenum page-number="১১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7%E0%A7%AB"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+তোমরা যেখানে সাধ চ'লে যাও―আমি এই বাংলার পারে\
+র'য়ে যাব; দেখিব কাঁঠালপাতা ঝরিতেছে ভোরের বাতাসে;\
+দেখিব খয়েরী ডানা শালিখের সন্ধ্যায় হিম হয়ে আসে\
+ধবল রোমের নিচে তাহার হলুদ ঠ্যাং ঘাসে অন্ধকারে\
+নেচে চলে―একবার―দুইবার―তারপর হঠাৎ তাহারে\
+বনের হিজল গাছ ডাক দিয়ে নিয়ে যায় হৃদয়ের পাশে;\
+দেখিব মেয়েলি হাত সকরুণ―শাদা শাঁখা ধূসর বাতাসে\
+শঙ্খের মতো কাঁদে; সন্ধ্যায় দাঁড়াল সে পুকুরের ধারে,\
+\
+খইরঙা হাঁসটিরে নিয়ে যাবে যেন কোন কাহিনীর দেশে―\
+'পরণ-কথা'র গন্ধ লেগে আছে যেন তার নরম শরীরে,\
+কল্‌মীদামের থেকে জন্মেছে সে যেন এই পুকুরের নীড়ে―\
+নীরবে পা ধোয় জলে একবার―তারপর দূরে নির‍ুদ্দেশে\
+চ'লে যায় কুয়াশায়,―তবু জানি কোনোদিন পৃথিবীর ভিড়ে\
+হারাব না তারে আমি―সে যে আছে আমার এ বাংলার তীরে।
+:::
+:::
+:::
+:::
+
+[]{#c3______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c3______________.xhtml#id-12 .pagenum .ws-pagenum page-number="১২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7%E0%A7%AC"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+বাংলার মুখ আমি দেখিয়াছি, তাই আমি পৃথিবীর র‍ূপ\
+খুঁজিতে যাই না আর: অন্ধকারে জৈগে উঠে ডুমুরের গাছে\
+চেয়ে দেখি ছাতার মতন বড় পাতাটির নিচে ব'সে আছে\
+ভোরের দয়েলপাখি―চারিদিকে চেয়ে দেখি পল্লবের স্তূপ\
+জাম―বট―কাঁঠালের―হিজলের―অশথের ক'রে আছে চুপ;\
+ফণীমনসার ঝোপে শটিবনে তাহাদের ছায়া পড়িয়াছে;\
+মধুকর ডিঙা থেকে না জানি সে কবে চাঁদ চম্পার কাছে\
+এমনই হিজল―বট―তমালের নীল ছায়া বাংলার অপরূপ রূপ\
+\
+দেখেছিল; বেহুলাও একদিন গাঙুড়ের জলে ভেলা নিয়ে―\
+কৃষ্ণা দ্বাদশীর জ্যোৎস্না যখন মরিয়া গেছে নদীর চড়ায়―\
+সোনালি ধানের পাশে অসংখ্য অশ্বত্থ বট দেখেছিল, হায়,\
+শ্যামার নরম গান শ‍ুনেছিল,―একদিন অমরায় গিয়ে\
+ছিন্ন খঞ্জনার মতো যখন সে নেচেছিল ইন্দ্রের সভায়\
+বাংলার নদী মাঠ ভাঁটফুল ঘুঙুরের মতো তার কেঁদেছিল পায়।
+:::
+:::
+:::
+:::
+
+[]{#c4______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c4______________.xhtml#id-13 .pagenum .ws-pagenum page-number="১৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7%E0%A7%AD"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+যতদিন বেঁচে আছি আকাশ চলিয়া গেছে কোথায় আকাশে\
+অপরাজিতার মতো নীল হয়ে---আরো নীল---আরো নীল হয়ে\
+আমি যে দেখিতে চাই;---সে আকাশ পাখনায় নিঙড়ায়ে লয়ে\
+কোথায় ভোরের বক মাছরাঙা উড়ে যায় আশ্বিনের মাসে,\
+আমি যে দেখিতে চাই;---আমি যে বসিতে চাই বাংলার ঘাসে;\
+পৃথিবীর পথে ঘুরে বহ‍ু দিন অনেক বেদনা প্রাণে স'য়ে\
+ধানসিড়িটির সাথে বাংলার শ্মশানের দিকে যাব ব'য়ে,\
+যেইখানে এলোচুলে রামপ্রসাদের সেই শ্যামা আজো আসে,\
+যেইখানে কল্কাপেড়ে শাড়ি প'রে কোনো এক সুন্দরীর শব\
+চন্দন চিতায় চড়ে---আমের শাখায় শ‍ুক ভুলে যায় কথা;\
+যেইখানে সব চেয়ে বেশি র‍ূপ---সব চেয়ে গাঢ় বিষণ্ণতা;\
+যেখানে শ‍ুকায় পদ্ম---বহু দিন বিশালাক্ষী যেখানে নীরব;\
+যেইখানে একদিন শঙ্খমালা চন্দ্রমালা মানিকমালার\
+কাঁকন বাজিত, আহা, কোনোদিন বাজিবে কি আর!
+:::
+:::
+:::
+:::
+
+[]{#c5______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c5______________.xhtml#id-14 .pagenum .ws-pagenum page-number="১৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7%E0%A7%AE"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+একদিন জলসিড়ি নদীটির পারে এই বাংলার মাঠে\
+বিশীর্ণ বটের নিচে শ‍ুয়ে র'ব;---পশমের মতো লাল ফল\
+ঝরিবে বিজন ঘাসে,---বাঁকা চাঁদ জেগে র'বে,---নদীটির জল\
+বাঙালী মেয়ের মতো বিশালাক্ষী মন্দিরের ধূসর কপাটে\
+আঘাত করিয়া যাবে ভয়ে ভয়ে---তারপর যেই ভাঙা ঘাটে\
+র‍ূপসীরা আজ আর আসে নাকো, পাট শ‍ুধু পচে অবিরল,\
+সেইখানে কলমীর দামে বেঁধে প্রেতিনীর মতন কেবল\
+কাঁদিবে সে সারা রাত,---দেখিবে কখন কারা এসে আমকাঠে\
+\
+সাজায়ে রেখেছে চিতা: বাংলার শ্রাবণের বিস্মিত আকাশ\
+চেয়ে র'বে; ভিজে পেঁচা শান্ত স্নিগ্ধ চোখ মেলে কদমের বনে\
+শোনাবে লক্ষ্মীর গল্প---ভাসানের গান নদী শোনাবে নির্জনে;\
+চারিদিকে বাংলার ধানী শাড়ি---শাদা শাঁখা---বাংলার ঘাস\
+আকন্দ বাসকলতা-ঘেরা এক নীল মঠ---আপনার মনে\
+ভাঙিতেছে ধীরে ধীরে;---চারিদিকে এই সব আশ্চর্য উচ্ছ্বাস---
+:::
+:::
+:::
+:::
+
+[]{#c6______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c6______________.xhtml#id-15 .pagenum .ws-pagenum page-number="১৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A7%E0%A7%AF"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+আকাশে সাতটি তারা যখন উঠেছে ফুটে আমি এই ঘাসে\
+ব'সে থাকি; কামরাঙা-লাল মেঘ যেন মৃত মনিয়ার মতো\
+গঙ্গাসাগরের ঢেউয়ে ডুবে গেছে---আসিয়াছে শান্ত অনুগত\
+বাংলার নীল সন্ধ্যা---কেশবতী কন্যা যেন এসেছে আকাশে:\
+আমার চোখের 'পরে আমার মুখের 'পরে চুল তার ভাসে;\
+পৃথিবীর কোনো পথ এ কন্যারে দেখে নিকো---দেখি নাই অত\
+অজস্র চুলের চুমা হিজলে কাঁঠালে জামে ঝরে অবিরত,\
+জানি নাই এত স্নিগ্ধ গন্ধ ঝরে র‍ূপসীর চুলের বিন্যাসে\
+\
+পৃথিবীর কোনো পথে:নরম ধানের গন্ধ---কল্‌মীর ঘ্রাণ,\
+হাঁসের পালক, শর, পুকুরের জল, চাঁদা সরপুঁটিদের\
+মৃদু ঘ্রাণ, কিশোরীর চাল-ধোয়া ভিজে হাত---শীত হাতখান,\
+কিশোরের পায়ে-দলা মুথাঘাস,---লাল লাল বটের ফলের\
+ব্যথিত গন্ধের ক্লান্ত নীরবতা---এরি মাঝে বাংলার প্রাণ:\
+আকাশে সাতটি তারা যখন উঠেছে ফাুটে আমি পাই টের।
+:::
+:::
+:::
+:::
+
+[]{#c7______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AC">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c7______________.xhtml#id-16 .pagenum .ws-pagenum page-number="১৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%A6"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+কোথাও দেখি নি, আহা, এমন বিজন ঘাস---প্রান্তরের পারে\
+নরম বিমর্ষ চোখে চেয়ে আছে---নীল বুকে আছে তাহাদের\
+গঙ্গাফড়িঙের নীড়, কাঁচপোকা, প্রজাপতি, শ্যামাপোকা ঢের,\
+হিজলের ক্লান্ত পাতা---বটের অজস্র ফল ঝরে বারে বারে\
+তাহাদের শ্যাম বুকে;---পাড়াগাঁর কিশোরেরা যখন কান্তারে\
+বেতের নরম ফল, নাটাফল খেতে আসে, ধুন্দুল বীজের\
+খোঁজ করে ঘাসে ঘাসে,---বক তাহা জানে নাকো, পায় নাকো টের\
+শালিখ খঞ্জনা তাহা;---লক্ষ লক্ষ ঘাস এই নদীর দু'ধারে\
+\
+নরম কান্তারে এই পাড়াগাঁর বুকে শ‍ুয়ে সে কোন দিনের\
+কথা ভাবে; তখন এ জলসিড়ি শ‍ুকায় নি, মজে নি আকাশ,\
+বল্লাল সেনের ঘোড়া---ঘোড়ার কেশর ঘেরা ঘুঙুর জিনের\
+শব্দ হ'ত এই পথে---আরো আগে রাজপুত্র কত দিন রাশ\
+টেনে টেনে এই পথে---কি যেন খুঁজেছে, আহা, হয়েছে উদাস;\
+আজ আর খোঁজাখুঁজি নাই কিছু---নাটাফলে মিটিতেছে আশ---
+:::
+:::
+:::
+:::
+
+[]{#c8______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AD">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c8______________.xhtml#id-17 .pagenum .ws-pagenum page-number="১৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%A7"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+হায় পাখি, একদিন কালীদহে ছিলে না কি---দহের বাতাসে\
+আষাঢ়ের দু'-পহরে কলরব কর নি কি এই বাংলায়!\
+আজ সারাদিন এই বাদলের কোলাহলে মেঘের ছায়ায়\
+চাঁদ সদাগর: তার মধুকর ডিঙাটির কথা মনে আসে,\
+কালীদহে কবে তারা পড়েছিল একদিন ঝড়ের আকাশে,---\
+সেদিনো অসংখ্য পাখি উড়েছিল না কি কালো বাতাসের গায়,\
+আজ সারাদিন এই বাদলের জলে ধলেশ্বরীর চড়ায়\
+গাংশালিখের ঝাঁক, মনে হয়, যেন সেই কালীদহে ভাসে:\
+এই সব পাখিগ‍ুলো কিছুতেই আজিকার নয় যেন---নয়---\
+\
+এ নদীও ধলেশ্বরী নয় যেন---এ আকাশ নয় আজিকার:\
+ফণীমনসার বনে মনসা রয়েছে না কি?---আছে; মনে হয়,\
+এ নদী কি কালীদহ নয়? আহা, ঐ ঘাটে এলানো খোঁপার\
+সনকার মুখে আমি দেখি না কি? বিষণ্ণ মলিন ক্লান্ত কি যে\
+সত্য সব;---তোমার এ স্বপ্ন সত্য, মনসা বলিয়া গেল নিজে৷
+:::
+:::
+:::
+:::
+
+[]{#c9______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c9______________.xhtml#id-18 .pagenum .ws-pagenum page-number="১৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%A8"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+জীবন অথবা মৃত্যু চোখে র'বে---আর এই বাংলার ঘাস\
+র'বে বুকে; এই ঘাস: সীতারাম রাজারাম রামনাথ রায়---\
+ইহাদের ঘোড়া আজো অন্ধকারে এই ঘাস ভেঙে চ'লে যায়---\
+এই ঘাস: এরি নিচে কঙ্কাবতী শঙ্খমালা করিতেছে বাস:\
+তাদের দেহের গন্ধ, চাঁপাফুল মাখা ম্লান চুলের বিন্যাস\
+ঘাস আজো ঢেকে আছে; যখন হেমন্ত আসে গৌড় বাংলায়\
+কার্তিকের অপরাহ্ণে হিজলের পাতা শাদা উঠানের গায়\
+ঝ'রে পড়ে, পুকুরের ক্লান্ত জল ছেড়ে দিয়ে চ'লে যায় হাঁস,\
+\
+আমি এ ঘাসের বুকে শ‍ুয়ে থাকি---শালিখ নিয়েছে নিঙড়ায়ে\
+নরম হলুদ পায়ে এই ঘাস; এ সবুজ ঘাসের ভিতরে\
+সোঁদা ধুলো শ‍ুয়ে আছে---কাঁচের মতন পাখা এ ঘাসের গায়ে\
+ভেরেণ্‍ডাফুলের নীল ভোমরারা বুলাতেছে---শাদা স্তন ঝরে\
+করবীর: কোন্ এক কিশোরী এসে ছিঁড়ে নিয়ে চ'লে গেছে ফুল,\
+তাই দুধ ঝরিতেছে করবীর ঘাসে ঘাসে: নরম ব্যাকুল৷
+:::
+:::
+:::
+:::
+
+[]{#c10______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AF">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c10______________.xhtml#id-19 .pagenum .ws-pagenum page-number="১৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%A9"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+যেদিন সরিয়া যাব তোমাদের কাছ থেকে---দূর কুয়াশায়\
+চ'লে যাব, সেদিন মরণ এসে অন্ধকারে আমার শরীর\
+ভিক্ষা ক'রে লয়ে যাবে;---সেদিন দু'দণ্ড এই বাংলার তীর---\
+এই নীল বাংলার তীরে শ‍ুয়ে একা একা কি ভাবিব, হায়;---\
+সেদিন র'বে না কোনো ক্ষোভ মনে---এই সোঁদা ঘাসের ধূলায়\
+জীবন যে কাটিয়াছে বাংলায়---চারিদিকে বাঙালীর ভিড়\
+বহ‍ু দিন কীর্তন ভাসান গান র‍ূপকথা যাত্রা পাঁচালীর\
+নরম নিবিড় ছন্দে যারা আজো শ্রাবণের জীবন গোঙায়,\
+আমারে দিয়েছে তৃপ্তি; কোনো দিন র‍ূপহীন প্রবাসের পথে\
+বাংলার মুখ ভুলে খাঁচার ভিতরে নষ্ট শ‍ুকের মতন\
+কাটাই নি দিন মাস, বেহ‍ুলার লহনার মধুর জগতে\
+তাদের পায়ের ধুলো-মাখা পথে বিকায়ে দিয়েছি আমি মন\
+বাঙালী নারীর কাছে---চাল-ধোয়া স্নিগ্ধ হাত, ধান-মাখা চুল,\
+হাতে তার শাড়িটির কস্তা পাড়;---ডাঁশা আম কামরাঙা কুল৷
+:::
+:::
+:::
+:::
+
+[]{#c11_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c11_______________.xhtml#id-20 .pagenum .ws-pagenum page-number="২০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%AA"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+পৃথিবী রয়েছে ব্যস্ত কোনখানে সফলতা শক্তির ভিতর,\
+কোনখানে আকাশের গায়ে র‍ূঢ় মনুমেণ্ট উঠিতেছে জেগে,\
+কোথায় মাস্তুল তুলে জাহাজের ভিড় সব লেগে আছে মেঘে,\
+জানি নাকো;―আমি এই বাংলার পাড়াগাঁয়ে বাঁধিয়াছি ঘর:\
+সন্ধ্যায় যে দাঁড়কাক উড়ে যায় তালবনে―মুখে দু'টো খড়\
+নিয়ে যায়―সকালে যে নিমপাখি উড়ে আসে কাতর আবেগে\
+নীল তেঁতুলের বনে―তেমনি করুণা এক বুকে আছে লেগে;\
+বঁইচির বনে আমি জোনাকির র‍ূপ দেখে হয়েছি কাতর;\
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+\
+
+কদমের ডালে আমি শ‍ুনেছি যে লক্ষ্মীপেঁচা গেয়ে গেছে গান\
+নিশ‍ুতি জ্যোৎস্নার রাতে,―টুপ্ টুপ্ টুপ্ টুপ্ সারারাত ঝরে\
+শ‍ুনেছি শিশিরগ‍ুলো, ম্লান মুখে গড় এসে করেছে আহ্বান\
+ভাঙা সোঁদা ইঁটগ‍ুলো,―তারি বুকে নদী এসে কি কথা মর্মরে;\
+কেউ নাই কোনোদিকে―তবু যদি জ্যোৎস্নায় পেতে থাক কান\
+শ‍ুনিবে বাতাসে শব্দ: 'ঘোড়া চ'ড়ে কই যাও হে রায়রায়ান―'
+:::
+:::
+:::
+:::
+
+[]{#c12_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%A7">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c12_______________.xhtml#id-21 .pagenum .ws-pagenum page-number="২১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%AB"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+ঘুমায়ে পড়িব আমি একদিন তোমাদের নক্ষত্রের রাতে\
+শিয়রে বৈশাখ মেঘ---শাদা শাদা যেন কড়ি-শঙ্খের পাহাড়\
+নদীর ওপার থেকে চেয়ে র'বে---কোনো এক শঙ্খবালিকার\
+ধূসর র‍ূপের কথা মনে হবে---এই আম জামের ছায়াতে\
+কবে যেন তারে আমি দেখিয়াছি---কবে যেন রাখিয়াছে হাতে\
+তার হাত---কবে যেন তারপর শ্মশান চিতায় তার হাড়\
+ঝ'রে গেছে, কবে যেন; এ জনমে নয় যেন---এই পাড়াগাঁর\
+পথে তবু, তিন শো বছর আগে হয়তো বা---আমি তার সাথে\
+\
+কাটায়েছি;---পাঁচ শো বছর আগে হয়তো বা---সাত শো বছর\
+কেটে গেছে তারপর তোমাদের আম জাম কাঁঠালের দেশে;\
+ধান কাটা হয়ে গেলে মাঠে মাঠে কত বার কুড়ালাম খড়,\
+বাঁধিলাম ঘর এই শ্যামা আর খঞ্জনার দেশ ভালোবেসে,\
+ভাসানের গান শ‍ুনে কত বার ঘর আর খড় গেল ভেসে\
+মাথুরের পালা বেঁধে কত বার ফাঁকা হ'ল খড় আর ঘর।
+:::
+:::
+:::
+:::
+
+[]{#c13_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%A8">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c13_______________.xhtml#id-22 .pagenum .ws-pagenum page-number="২২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%AC"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+ঘুমায়ে পড়িব আমি একদিন তোমাদের নক্ষত্রের রাতে;\
+তখনো যৌবন প্রাণে লেগে আছে হয়তো বা---আমার তর‍ুণ দিন\
+তখনো হয় নি শেষ---সেই ভালো---ঘুম আসে---বাংলার তৃণ\
+আমার বুকের নিচে চোখ বুজে---বাংলার আমের পাতাতে\
+কাঁচপোকা ঘুমায়েছে---আমিও ঘুমায়ে র'ব তাহাদের সাথে,\
+ঘুমাব প্রাণের সাধে এই মাঠে---এই ঘাসে---কথাভাষাহীন\
+আমার প্রাণের গল্প ধীরে ধীরে মুছে যাবে---অনেক নবীন\
+নতুন উৎসব র'বে উজানের---জীবনের মধুর আঘাতে\
+\
+তোমাদের ব্যস্ত মনে;---তবুও, কিশোর, তুমি নখের আঁচড়ে\
+যখন এ ঘাস ছিঁড়ে চ'লে যাবে---যখন মানিকমালা ভোরে\
+লাল লাল বটফল কামরাঙা কুড়াতে আসিবে এই পথে---\
+যখন হলুদ বোঁটা শেফালীর কোনো এক নরম শরতে\
+ঝরিবে ঘাসের 'পরে,---শালিখ খঞ্জনা আজ কতদূর ওড়ে---\
+কতখানি রোদ---মেঘ---টের পাব শ‍ুয়ে শ‍ুয়ে মরণের ঘোরে৷
+:::
+:::
+:::
+:::
+
+[]{#c14_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%A9">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c14_______________.xhtml#id-23 .pagenum .ws-pagenum page-number="২৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%AD"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+যখন মৃত্যুর ঘুমে শ‍ুয়ে র'ব---অন্ধকারে নক্ষত্রের নিচে\
+কাঁঠাল গাছের তলে হয়তো বা ধলেশ্বরী চিলাইয়ের পাশে---\
+দিনমানে কোনো মুখ হয়তো সে শ্মশানের কাছে নাহি আসে---\
+তবুও কাঁঠাল জাম বাংলার---তাহাদের ছায়া যে পড়িছে\
+আমার বুকের 'পরে---আমার মুখের 'পরে নীরবে ঝরিছে\
+খয়েরী অশথপাতা---বঁইচি শেয়ালকাঁটা আমার এ দেহ ভালোবাসে,\
+নিবিড় হয়েছে তাই আমার চিতার ছাইয়ে---বাংলার ঘাসে\
+গভীর ঘাসের গ‍ুচ্ছে র'য়েছি ঘুমায়ে আমি,---নক্ষত্র নড়িছে\
+\
+আকাশের থেকে দূর---আরো দূর---আরো দূর---নির্জন আকাশে\
+বাংলার---তারপর অকারণ ঘুমে আমি প'ড়ে যাই ঢুলে;\
+আবার যখন জাগি, আমার শ্মশানচিতা বাংলার ঘাসে\
+ভ'রে আছে, চেয়ে দেখি,---বাসকের গন্ধ পাই---আনারস ফুলে\
+ভোমরা উড়িছে, শ‍ুনি---গ‍ুব্‌রে পোকার ক্ষীণ গ‍ুমরানি ভাসিছে বাতাসে\
+রোদের দুপুর ভ'রে---শ‍ুনি আমি: ইহারা আমারে ভালোবাসে---
+:::
+:::
+:::
+:::
+
+[]{#c15_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%AA">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c15_______________.xhtml#id-24 .pagenum .ws-pagenum page-number="২৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%AE"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+আবার আসিব ফিরে ধানসিড়িটির তীরে---এই বাংলায়\
+হয়তো মানুষ নয়,---হয়তো বা শঙ্খচিল শালিখের বেশে;\
+হয়তো ভোরের কাক হয়ে এই কার্তিকের নবান্নের দেশে\
+কুয়াশার বুকে ভেসে একদিন আসিব এ কাঁঠাল-ছায়ায়;\
+হয়তো বা হাঁস হ'ব---কিশোরীর---ঘুঙুর রহিবে লাল পায়,\
+সারা দিন কেটে যাবে কলমীর গন্ধ ভরা জলে ভেসে ভেসে;\
+আবার আসিব আমি বাংলার নদী মাঠ ক্ষেত ভালোবেসে\
+জলাঙ্গীর ঢেউয়ে ভেজা বাংলার এ সবুজ কর‍ুণ ডাঙায়;\
+\
+হয়তো দেখিবে চেয়ে সুদর্শন উড়িতেছে সন্ধ্যার বাতাসে;\
+হয়তো শ‍ুনিবে এক লক্ষ্মীপেঁচা ডাকিতেছে শিমুলের ডালে;\
+হয়তো খইয়ের ধান ছড়াতেছে শিশ‍ু এক উঠানের ঘাসে;\
+র‍ূপ্‌সার ঘোলা জলে হয়তো কিশোর এক শাদা ছেঁড়া পালে\
+ডিঙা বায়;---রাঙা মেঘ সাঁতরায়ে অন্ধকারে আসিতেছে নীড়ে\
+দেখিবে ধবল বক: আমারেই পাবে তুমি ইহাদের ভিড়ে---
+:::
+:::
+:::
+:::
+
+[]{#c16_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%AB">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c16_______________.xhtml#id-25 .pagenum .ws-pagenum page-number="২৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A8%E0%A7%AF"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+যদি আমি ঝ'রে যাই একদিন কার্তিকের নীল কুয়াশায়:\
+যখন ঝরিছে ধান বাংলার ক্ষেতে ক্ষেতে ম্লান চোখ বুজে,\
+যখন চড়াই পাখি কাঁঠালীচাঁপার নীড়ে ঠোঁট আছে গ‍ুঁজে,\
+যখন হলুদ পাতা মিশিতেছে উঠানের খয়েরী পাতায়,\
+যখন পুকুরে হাঁস সোঁদা জলে শিশিরের গন্ধ শ‍ুধু পায়,\
+শামুক গ‍ুগলিগ‍ুলো প'ড়ে আছে শ্যাওলার মলিন সবুজে,---\
+তখন আমারে যদি পাও নাকো লালশাক-ছাওয়া মাঠে খুঁজে,\
+ঠেস্ দিয়ে ব'সে আর থাকি নাকো যদি বুনো চাল্‌তার গায়,\
+\
+তাহ'লে জানিও তুমি আসিয়াছে অন্ধকারে মৃত্যুর আহ্বান---\
+যার ডাক শ‍ুনে রাঙা রৌদ্রেরো চিল আর শালিখের ভিড়\
+একদিন ছেড়ে যাবে আম জাম বনে নীল বাংলার তীর,\
+যার ডাক শ‍ুনে আজ ক্ষেতে ক্ষেতে ঝরিতেছে খই আর মৌরির ধান;---\
+কবে যে আসিবে মৃত্যু: বাসমতী চালে-ভেজা শাদা হাতখান\
+রাখো বুকে, হে কিশোরী, গোরোচনার‍ূপে আমি করিব যে স্নান---
+:::
+:::
+:::
+:::
+
+[]{#c17_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%AC">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c17_______________.xhtml#id-26 .pagenum .ws-pagenum page-number="২৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%A6"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+মনে হয় একদিন আকাশের শ‍ুকতারা দেখিব না আর;\
+দেখিব না হেলেঞ্চার ঝোপ থেকে এক ঝাড় জোনাকি কখন\
+নিভে যায়;---দেখিব না আর আমি পরিচিত এই বাঁশবন,\
+শ‍ুকনো বাঁশের পাতা-ছাওয়া মাটি হয়ে যাবে গভীর আঁধার\
+আমার চোখের কাছে;---লক্ষ্মীপূর্ণিমার রাতে সে কবে আবার\
+পেঁচা ডাকে জ্যোৎস্নায়;---হিজলের বাঁকা ডাল করে গ‍ুঞ্জরণ;\
+সারা রাত কিশোরীর লাল পাড় চাঁদে ভাসে---হাতের কাঁকন\
+বেজে ওঠে: বুঝিব না---গঙ্গাজল, নারকোলনাড়ুগ‍ুলো তার\
+\
+জানি না সে কারে দেবে---জানি না সে চিনি আর শাদা তালশাঁস\
+হাতে লয়ে পলাশের দিকে চেয়ে দুয়ারে দাঁড়ায়ে র'বে কি না\...\
+আবার কাহার সাথে ভালোবাসা হবে তার--- আমি তা জানি না;---\
+মৃত্যুরে কে মনে রাখে?\...কীর্তিনাশা খুঁড়ে খুঁড়ে চলে বারো মাস\
+নতুন ডাঙার দিকে---পিছনের অবিরল মৃত চর বিনা\
+দিন তার কেটে যায়---শ‍ুকতারা নিভে গেলে কাঁদে কি আকাশ?
+:::
+:::
+:::
+:::
+
+[]{#c18_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%AD">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c18_______________.xhtml#id-27 .pagenum .ws-pagenum page-number="২৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%A7"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+যে শালিখ মরে যায় কুয়াশায়---সে তো আর ফিরে নাহি আসে:\
+কাঞ্চনমালা যে কবে ঝ'রে গেছে;---বনে আজো কলমীর ফুল\
+ফুটে যায়---সে তবু ফেরে না, হায়,---বিশালাক্ষী: সে-ও তো রাতুল\
+চরণ মুছিয়া নিয়া চ'লে গেছে;---মাঝপথে জলের উচ্ছ্বাসে\
+বাধা পেয়ে নদীরা মজিয়া গেছে দিকে দিকে---শ্মশানের পাশে\
+আর তারা আসে নাকো;---সুন্দরীর বনে বাঘ ভিজে জুল জুল\
+চোখ তুলে চেয়ে থাকে---কত পাটরানীদের গাঢ় এলো চুল\
+এই গৌড় বাংলার---প'ড়ে আছে তাহার পায়ের তলে ঘাসে\
+\
+জানে সে কি! দেখে না কি তারাবনে প'ড়ে আছে বিচূর্ণ দেউল,\
+বিশ‍ুষ্ক পদ্মের দীঘি---ফোঁপরা মহলা ঘাট, হাজার মহাল\
+মৃত সব র‍ূপসীরা: বুকে আজ ভেরেণ্‍ডার ফুলে ভীমর‍ুল\
+গান গায়---পাশ দিয়ে খল্ খল্ খল্ খল্ ব'য়ে যায় খাল,\
+তবু ঘুম ভাঙে নাকো---একবার ঘুমালে কে উঠে আসে আর\
+যদিও ডুকারি যায় শঙ্খচিল---মর্মরিয়া মরে গো মাদার।
+:::
+:::
+:::
+:::
+
+[]{#c19_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%AE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c19_______________.xhtml#id-28 .pagenum .ws-pagenum page-number="২৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%A8"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+কোথাও চলিয়া যাব একদিন;---তারপর রাত্রির আকাশ\
+অসংখ্য নক্ষত্র নিয়ে ঘুরে যাবে কত কাল জানিব না আমি;\
+জানিব না কত কাল উঠানে ঝরিবে এই হলুদ বাদামী\
+পাতাগ‍ুলো---মাদারের ডুমুরের---সোঁদা গন্ধ---বাংলার শ্বাস\
+বুকে নিয়ে তাহাদের;---জানিব না পরথুপী মধুকূপী ঘাস\
+কত কাল প্রান্তরে ছড়ায়ে র'বে,---কাঁঠাল-শাখার থেকে নামি\
+পাখনা ডলিবে পেঁচা এই ঘাসে---বাংলার সবুজ বালামী\
+ধানী শাল পশ্‌মিনা বুকে তার---শরতের রোদের বিলাস\
+কত কাল নিঙড়াবে;---আঁচলে নাটার কথা ভুলে গিয়ে বুঝি\
+কিশোরের মুখে চেয়ে কিশোরী করিবে তার মৃদু মাথা নিচু;\
+আসন্ন সন্ধ্যার কাক---কর‍ুণ কাকের দল খোড়ো নীড় খুঁজি\
+উড়ে যাবে;---দুপুরে ঘাসের বুকে সিঁদুরের মতো রাঙা লিচু\
+মুখ গ‍ুঁজে প'ড়ে র'বে;---আমিও ঘাসের বুকে র'ব মুখ গ‍ুঁজি:\
+মৃদু কাঁকনের শব্দ---গোরোচনা জিনি রং চিনিব না কিছু---
+:::
+:::
+:::
+:::
+
+[]{#c20_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A7%E0%A7%AF">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c20_______________.xhtml#id-29 .pagenum .ws-pagenum page-number="২৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%A9"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+তোমার বুকের থেকে একদিন চ'লে যাবে তোমার সন্তান\
+বাংলার বুকে ছেড়ে চ'লে যাবে; যে ইঙ্গিতে নক্ষত্রও ঝরে,\
+আকাশের নীলাভ নরম বুকে ছেড়ে দিয়ে হিমের ভিতরে\
+ডুবে যায়,---কুয়াশায় ঝ'রে পড়ে দিকে দিকে র‍ূপশালী ধান\
+একদিন;---হয়তো বা নিমপেঁচা অন্ধকারে গা'বে তার গান,\
+আমারে কুড়ায়ে নেবে মেঠো ইঁদুরের মতো মরণের ঘরে---\
+হৃদয়ে ক্ষুদের গন্ধ লেগে আছে আকাঙ্ক্ষার---তবুও তো চোখের উপরে\
+নীল মৃত্যু উজাগর---বাঁকা চাঁদ, শূন্য মাঠ, শিশিরের ঘ্রাণ---\
+\
+কখন মরণ আসে কে বা জানে---কালীদহে কখন যে ঝড়\
+কমলের নাল ভাঙে---ছিঁড়ে ফেলে গাংচিল শালিখের প্রাণ\
+জানি নাকো;---তবু যেন মরি আমি এই মাঠ-ঘাটের ভিতর,\
+কৃষ্ণা যমুনার নয়---যেন এই গাঙুড়ের ঢেউয়ের আঘ্রাণ\
+লেগে থাকে চোখে মুখে---র‍ূপসী বাংলা যেন বুকের উপর\
+জেগে থাকে; তারি নিচে শ‍ুয়ে থাকি যেন আমি অর্ধনারীশ্বর।
+:::
+:::
+:::
+:::
+
+[]{#c21_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c21_______________.xhtml#id-30 .pagenum .ws-pagenum page-number="৩০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%AA"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+গোলপাতা ছাউনির বুক চুমে নীল ধোঁয়া সকালে সন্ধ্যায়\
+উড়ে যায়---মিশে যায় আমবনে কার্তিকের কুয়াশার সাথে;\
+পুকুরের লাল সর ক্ষীণ ঢেউয়ে বার বার চায় যে জড়াতে\
+করবীর কচি ডাল; চুমো খেতে চায় মাছরাঙাটির পায়;\
+এক-একটি ইঁট ধ্বসে---ডুবজলে ডুব দিয়ে কোথায় হারায়\
+ভাঙা ঘাটলায় এই---আজ আর কেউ এসে চাল-ধোয়া হাতে\
+বিনুনি খসায় নাকো---শুকনো পাতা সারা দিন থাকে যে গড়াতে;\
+কড়ি খেলিবার ঘর মজে গিয়ে গোখুরার ফাটলে হারায়;\
+\
+ডাইনীর মতো হাত তুলে তুলে ভাঁট আঁশশ্যাওড়ার বন\
+বাতাসে কি কথা কয় বুঝি নাকো,---বুঝি নাকো চিল কেন কাঁদে;\
+পৃথিবীর কোনো পথে দেখি নাই আমি, হায়, এমন বিজন\
+শাদা পথ---সোঁদা পথ---বাঁশের ঘোমটা মুখে বিধবার ছাঁদে\
+চ'লে গেছে---শ্মশানের পায়ে বুঝি;---সন্ধ্যা আসে সহসা কখন;\
+সজিনার ডালে পেঁচা কাঁদে নিম---নিম---নিম কার্তিকের চাঁদে।
+:::
+:::
+:::
+:::
+
+[]{#c22_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%A7">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c22_______________.xhtml#id-31 .pagenum .ws-pagenum page-number="৩১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%AB"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+অশ্বত্থে সন্ধ্যার হাওয়া যখন লেগেছে নীল বাংলার বনে\
+মাঠে মাঠে ফিরি একা: মনে হয় বাংলার জীবনে সঙ্কট\
+শেষ হয়ে গেছে আজ;---চেয়ে দেখ কত শত শতাব্দীর বট\
+হাজার সবুজ পাতা লাল ফল বুকে লয়ে শাখার ব্যজনে\
+আকাঙ্ক্ষার গান গায়---অশ্বত্থেরো কি যেন কামনা জাগে মনে:\
+সতীর শীতল শব বহু দিন কোলে লয়ে যেন অকপট\
+উমার প্রেমের গল্প পেয়েছে সে,---চন্দ্রশেখরের মতো তার জট\
+উজ্জ্বল হতেছে তাই সপ্তমীর চাঁদে আজ পুনরাগমনে;\
+\
+মধুকূপী ঘাস-ছাওয়া ধলেশ্বরীটির পারে গৌরী বাংলার\
+এবার বল্লাল সেন আসিবে না জানি আমি---রায়গুণাকর\
+আসিবে না---দেশবন্ধু, আসিয়াছে খরধার পদ্মায় এবার,\
+কালীদহে ক্লান্ত গাংশালিখের ভিড়ে যেন আসিয়াছে ঝড়,\
+আসিয়াছে চণ্ডীদাস---রামপ্রসাদের শ্যামা সাথে সাথে তার:\
+শঙ্খমালা, চন্দ্রমালা: মৃত শত কিশোরীর কঙ্কণের স্বর।
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:1.5em;"}
+ 
+:::
+
+**দেশবন্ধু: ১৩২৬-১০৩২-এর স্মরণে**
+:::
+:::
+:::
+
+[]{#c23_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%A8">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c23_______________.xhtml#id-32 .pagenum .ws-pagenum page-number="৩২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%AC"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+ভিজে হয়ে আসে মেঘে এ-দুপুর---চিল একা নদীটির পাশে\
+জার‍ুল গাছের ডালে ব'সে ব'সে চেয়ে থাকে ওপারের দিকে;\
+পায়রা গিয়েছে উড়ে চবুতরে, খোপে তার;---শসালতাটিকে\
+ছেড়ে গেছে মৌমাছি;---কালো মেঘ জমিয়াছে মাঘের আকাশে,\
+মরা প্রজাপতিটির পাখার নরম রেণু, ফেলে দিয়ে ঘাসে\
+পিঁপড়েরা চ'লে যায়;---দুই দণ্‍ড আম গাছে শালিখে শালিখে\
+ঝুটোপুটি, কোলাহল---বউকথাকও আর রাঙা বউটিকে\
+ডাকে নাকো---হলুদ পাখনা তার কোন্ যেন কাঁঠালে পলাশে\
+\
+হারায়েছে; বউও উঠানে নাই---প'ড়ে আছে একখানা ঢেঁকি:\
+ধান কে কুটিবে বল---কত দিন সে তো আর কোটে নাকো ধান,\
+রোদেও শ‍ুকাতে সে যে আসে নাকো চুল তার---করে নাকো স্নান\
+এ-পুকুরে---ভাঁড়ারে ধানের বীজ কলায়ে গিয়েছে তার দেখি,\
+তবুও সে আসে নাকো; আজ এ-দুপুরে এসে খই ভাজিবে কি?\
+হে চিল, সোনালি চিল, রাঙা রাজকন্যা আর পাবে না কি প্রাণ?
+:::
+:::
+:::
+:::
+
+[]{#c24_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%A9">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c24_______________.xhtml#id-33 .pagenum .ws-pagenum page-number="৩৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%AD"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+খুঁজে তারে মর মিছে---পাড়াগাঁর পথে তারে পাবে নাকো আর;\
+রয়েছে অনেক কাক এ-উঠানে---তব, সেই ক্লান্ত দাঁড়কাক\
+নাই আর;---অনেক বছর আগে আমে জামে হৃষ্ট এক ঝাঁক\
+দাঁড়কাক দেখা যেত দিন রাত,---সে আমার ছেলেবেলাকার\
+কবেকার কথা সব; আসিবে না পৃথিবীতে সেদিন আবার:\
+রাত না ফুরাতে সে যে কদমের ডাল থেকে দিয়ে যেত ডাক,---\
+এখনো কাকের শব্দে অন্ধকার ভোরে আমি বিমনা, অবাক\
+তার কথা ভাবি শ‍ুধু; এত দিনে কোথায় সে? কি যে হ'ল তার\
+\
+কোথায় সে নিয়ে গেছে সঙ্গে ক'রে সেই নদী, ক্ষেত, মাঠ, ঘাস,\
+সেই দিন, সেই রাত্রি, সেই সব ম্লান চুল, ভিজে শাদা হাত\
+সেই সব নোনা গাছ, করমচা, শামুক, গ‍ুগ্‌লি, কচি তালশাঁস,\
+সেই সব ভিজে ধূলো, বেলকুঁড়ি-ছাওয়া পথ---ধোঁয়াওঠা ভাত,\
+কোথায় গিয়েছে সব?---অসংখ্য কাকের শব্দে ভরিছে আকাশ\
+ভোর রাতে---নবান্নের ভোরে আজ বুকে যেন কিসের আঘাত!
+:::
+:::
+:::
+:::
+
+[]{#c25_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%AA">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c25_______________.xhtml#id-34 .pagenum .ws-pagenum page-number="৩৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%AE"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+পাড়াগাঁর দু'-পহর ভালোবাসি---রৌদ্রে যেন গন্ধ লেগে আছে\
+স্বপনের;---কোন গল্প, কি কাহিনী, কি স্বপ্ন যে বাঁধিয়াছে ঘর\
+আমার হৃদয়ে, আহা, কেউ তাহা জানে নাকো---কেবল প্রান্তর\
+জানে তাহা, আর ঐ প্রান্তরের শঙ্খচিল; তাহাদের কাছে\
+যেন এ-জনমে নয়---যেন ঢের যুগ ধ'রে কথা শিখিয়াছে\
+এ-হৃদয়---স্বপ্নে যে-বেদনা আছে: শুষ্ক পাতা---শালিখের স্বর,\
+ভাঙা মঠ---নক্সাপেড়ে শাড়িখানা মেয়েটির রৌদ্রের ভিতর\
+হলুদ পাতার মতো স'রে যায়, জলসিড়িটির পাশে ঘাসে\
+\
+শাখাগ‍ুলো নুয়ে আছে বহ‍ু দিন ছন্দোহীন বুনো চালতার:\
+জলে তার মুখখানা দেখা যায়---ডিঙিও ভাসিছে কার জলে,\
+মালিক কোথাও নাই, কোনোদিন এই দিকে আসিবে না আর,\
+ঝাঁঝরা ফোঁপরা, আহা, ডিঙিটিরে বেঁধে রেখে গিয়েছে হিজলে\
+পাড়াগাঁর দু'পহর ভালোবাসি---রৌদ্রে যেন ভিজে বেদনার\
+গন্ধ লেগে আছে, আহা, কেঁদে কেঁদে ভাসিতেছে আকাশের তলে৷
+:::
+:::
+:::
+:::
+
+[]{#c26_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%AB">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c26_______________.xhtml#id-35 .pagenum .ws-pagenum page-number="৩৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%A9%E0%A7%AF"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+কখন সোনার রোদ নিভে গেছে---অবিরল শ‍ুপুরির সারি\
+আঁধারে যেতেছে ডুবে---প্রান্তরের পার থেকে গরম বাতাস\
+ক্ষুধিত চিলের মতো চৈত্রের এ-অন্ধকারে ফেলিতেছে শ্বাস;\
+কোন চৈত্রে চ'লে গেছে সেই মেয়ে---আসিবে না, ক'রে গেছে আড়ি:\
+ক্ষীর‍ুই গাছের পাশে একাকী দাঁড়ায়ে আজ বলিতে কি পারি\
+কোথাও সে নাই এই পৃথিবীতে---তাহার শরীর থেকে শ্বাস\
+ঝ'রে গেছে ব'লে তারে ভুলে গেছে নক্ষত্রের অসীম আকাশ,\
+কোথাও সে নাই আর---পাব নাকো তারে কোনো পৃথিবী নিঙাড়ি?\
+\
+এই মাঠে---এই ঘাসে---ফল্‌সা এ-ক্ষীর‍ুয়ে যে গন্ধ লেগে আছে\
+আজো তার; যখন তুলিতে যাই ঢেঁকিশাক---দুপুরের রোদে\
+সর্ষের ক্ষেতের দিকে চেয়ে থাকি---অঘ্রাণে যে ধান ঝরিয়াছে,\
+তাহার দু'এক গ‍ুচ্ছ তুলে নিই, চেয়ে দেখি নির্জন আমোদে\
+পৃথিবীর রাঙা রোদ চড়িতেছে আকাঙ্ক্ষায় চিনিচাঁপা গাছে---\
+জানি সে আমার কাছে আছে আজো---আজো সে আমার কাছে আছে!
+:::
+:::
+:::
+:::
+
+[]{#c27_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%AC">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c27_______________.xhtml#id-36 .pagenum .ws-pagenum page-number="৩৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%A6"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এই পৃথিবীতে এক স্থান আছে---সব চেয়ে সুন্দর কর‍ুণ:\
+সেখানে সবুজ ডাঙা ভ'রে আছে মধুকূপী ঘাসে অবিরল;\
+সেখানে গাছের নাম: কাঁঠাল, অশ্বত্থ, বট, জারুল, হিজল;\
+সেখানে ভোরের মেঘে নাটার রঙের মতো জাগিছে অর‍ুণ;\
+সেখানে বার‍ুণী থাকে গঙ্গাসাগরের বুকে,---সেখানে বর‍ুণ\
+কর্ণফুলী ধলেশ্বরী পদ্মা জলাঙ্গীরে দেয় অবিরল জল;\
+সেইখানে শঙ্খচিল পানের বনের মতো হাওয়ায় চঞ্চল,\
+সেইখানে লক্ষ্মীপেঁচা ধানের গন্ধের মতো অস্ফুট, তর‍ুণ;\
+\
+সেখানে লেবুর শাখা নুয়ে থাকে অন্ধকারে ঘাসের উপর;\
+সুদর্শন উড়ে যায় ঘরে তার অন্ধকার সন্ধ্যার বাতাসে;\
+সেখানে হলুদ শাড়ি লেগে থাকে র‍ূপসীর শরীরের 'পর---\
+শঙ্খমালা নাম তার: এ-বিশাল পৃথিবীর কোনো নদী ঘাসে\
+তারে আর খুঁজে তুমি পাবে নাকো---বিশালাক্ষী দিয়েছিল বর,\
+তাই সে জন্মেছে নীল বাংলার ঘাস আর ধানের ভিতর।
+:::
+:::
+:::
+:::
+
+[]{#c28_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%AD">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c28_______________.xhtml#id-37 .pagenum .ws-pagenum page-number="৩৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%A7"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+কত ভোরে---দু'-পহরে---সন্ধ্যায় দেখি নীল শ‍ুপুরির বন\
+বাতাসে কাঁপিছে ধীরে;---খাঁচার শ‍ুকের মতো গাহিতেছে গান\
+কোন এক রাজকন্যা---পরনে ঘাসের শাড়ি---কালো চুল ধান\
+বাংলার শালিধান---আঙিনায় ইহাদের করেছে বরণ,\
+হৃদয়ে জলের গন্ধ কন্যার---ঘুম নাই, নাইকো মরণ\
+তার আর কোনোদিন---পালঙ্কে সে শোয় নাকো, হয় নাকো ম্লান,\
+লক্ষ্মীপেঁচা শ্যামা আর শালিখের গানে তারে জাগিতেছে প্রাণ\
+সারাদিন---সারারাত বুকে ক'রে আছে তার শ‍ুপুরির বন;\
+\
+সকালে কাকের ডাকে আলো আসে, চেয়ে দেখি কালো দাঁড়কাক\
+সবুজ জঙ্গল ছেয়ে শ‍ুপুরির---শ্রীমন্তও দেখেছে এমন:\
+যখন ময়ূরপঙ্খী ভোরের সিন্ধুর মেঘে হয়েছে অবাক,\
+সুদূর প্রবাস থেকে ফিরে এসে বাংলার শ‍ুপুরির বন\
+দেখিয়াছে---অকস্মাৎ গাঢ় নীল; কর‍ুণ কাকের ক্লান্ত ডাক\
+শ‍ুনিয়াছে---সে কত শতাব্দী আগে ডেকেছিল তাহারা যখন।
+:::
+:::
+:::
+:::
+
+[]{#c29_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%AE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c29_______________.xhtml#id-38 .pagenum .ws-pagenum page-number="৩৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%A8"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এই ডাঙা ছেড়ে হায় রূপ কে খুঁজিতে যায় পৃথিবীর পথে।\
+বটের শ‍ুকনো পাতা যেন এক যুগান্তের গল্প ডেকে আনে:\
+ছড়ায়ে র'য়েছে তারা প্রান্তরের পথে পথে নির্জন অঘ্রাণে;---\
+তাদের উপেক্ষা ক'রে কে যাবে বিদেশে বল---আমি কোনো-মতে\
+বাসমতী ধানক্ষেত ছেড়ে দিয়ে মালাবারে---উটির পর্বতে\
+যাব নাকো;---দেখিব না পামগাছ মাথা নাড়ে সমুদ্রের গানে\
+কোন্ দেশে,---কোথায় এলাচিফুল দার‍ুচিনি বার‍ুণীর প্রাণে\
+বিনুনি খসায়ে ব'সে থাকিবার স্বপ্ন আনে;---পৃথিবীর পথে\
+\
+\
+যাব নাকো:অশ্বত্থের ঝরাপাতা ম্লান শাদা ধুলোর ভিতর,\
+যখন এ-দু'-পহরে কেউ নাই কোনো দিকে---পাখিটিও নাই,\
+অবিরল ঘাস শুধু, ছড়ায়ে র'য়েছে মাটি কাঁকরের 'পর,\
+খড়কুটো উল্টায়ে ফিরিতেছে দ'-একটা বিষণ্ণ চড়াই,\
+অশ্বত্থের পাতাগ‍ুলো পড়ে আছে ম্লান শাদা ধুলোর ভিতর;\
+এই পথ ছেড়ে দিয়ে এ-জীবন কোনোখানে গেল নাকো তাই।
+:::
+:::
+:::
+:::
+
+[]{#c30_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A8%E0%A7%AF">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c30_______________.xhtml#id-39 .pagenum .ws-pagenum page-number="৩৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%A9"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এখানে আকাশ নীল---নীলাভ আকাশ জুড়ে সজিনার ফুল\
+ফুটে থাকে হিম শাদা---রং তার আশ্বিনের আলোর মতন;\
+আকন্দফুলের কালো ভীমর‍ূল এইখানে করে গ‍ুঞ্জরণ\
+রৌদ্রের দুপুর ভ'রে;---বার বার রোদ তার সুচিক্কণ চুল\
+কাঁঠাল জামের বুকে নিঙড়ায়;---দহে বিলে চঞ্চল আঙুল\
+বুলায়ে বুলায়ে ফেরে এইখানে জাম লিচু কাঁঠালের বন,\
+ধনপতি, শ্রীমন্তের, বেহ‍ুলার, লহনার ছুঁয়েছে চরণ;\
+মেঠো পথে মিশে আছে কাক আর কোকিলের শরীরের ধূল,\
+\
+কবেকার কোকিলের, জান কি তা? যখন মুকুন্দরাম, হায়,\
+লিখিতেছিলেন ব'সে দু'-পহরে সাধের সে চণ্‍ডিকামঙ্গল,\
+কোকিলের ডাক শ‍ুনে লেখা তাঁর বাধা পায়---থেমে থেমে যায়;---\
+অথবা বেহ‍ুলা একা যখন চলেছে ভেঙে গাঙুড়ের জল\
+সন্ধ্যার অন্ধকারে, ধান ক্ষেতে, আমবনে, অস্পষ্ট শাখায়\
+কোকিলের ডাক শুনে চোখে তার ফুটেছিল কুয়াশা কেবল।
+:::
+:::
+:::
+:::
+
+[]{#c31_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c31_______________.xhtml#id-40 .pagenum .ws-pagenum page-number="৪০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%AA"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+কোথাও মঠের কাছে---যেইখানে ভাঙা মঠ নীল হয়ে আছে\
+শ্যাওলায়---অনেক গভীর ঘাস জমে গেছে বুকের ভিতর,\
+পাশে দীঘি মজে আছে---র‍ূপালি মাছের কণ্ঠে কামনার স্বর\
+যেইখানে পাটরানী আর তার র‍ূপসী সখীরা শ‍ুনিয়াছে\
+বহ‍ু---বহ‍ু দিন আগে;---যেইখানে শঙ্খমালা কাঁথা বুনিয়াছে\
+সে কত শতাব্দী আগে মাছরাঙা-ঝিলমিল;---কড়ি-খেলা ঘর;\
+কোন্ যেন কুহকীর ঝাড়ফুঁকে ডুবে গেছে সব তারপর;\
+একদিন আমি যাব দু'-পহরে সেই দূর প্রান্তরের কাছে,\
+\
+সেখানে মানুষে কেউ যায় নাকো---দেখা যায় বাঘিনীর ডোরা\
+বেতের বনের ফাঁকে,---জারুল গাছের তলে রৌদ্র পোহায়\
+র‍ূপসী মৃগীর মুখে দেখা যায়,---শাদা ভাঁটপুষ্পের তোড়া\
+আলোকলতার পাশে গন্ধ ঢালে দ্রোণ ফুল বাসকের গায়;\
+তবুও সেখানে আমি নিয়ে যাব এক দিন পাট্‌কিলে ঘোড়া,\
+যার র‍ূপ জন্মে জন্মে কাঁদায়েছে আমি তারে খুঁজিব সেথায়৷
+:::
+:::
+:::
+:::
+
+[]{#c32_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%A7">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c32_______________.xhtml#id-41 .pagenum .ws-pagenum page-number="৪১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%AB"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+চ'লে যাব শ‍ুকনো পাতা-ছাওয়া ঘাসে---জামর‍ূল হিজলের বনে;\
+তল্‌তা বাঁশের ছিপ হাতে র'বে---মাছ আমি ধরিব না কিছু;---\
+দীঘির জলের গন্ধে র‍ূপালি চিতল তার র‍ূপসীর পিছু\
+জামের গভীর পাতা-মাখা শান্ত নীল জলে খেলিছে গোপনে;\
+আনারস-ঝোপে ঐ মাছরাঙা তার মাছরাঙাটির মনে\
+অস্পষ্ট আলোয় যেন মুছে যায়;---সিঁদুরের মতো রাঙা লিচু\
+ঝ'রে পড়ে পাতা ঘাসে---চেয়ে দেখি কিশোরী করেছে মাথা নিচু---\
+এসেছে সে দুপুরের অবসরে জামর‍ুল লিচু আহরণে,---\
+\
+চ'লে যায়; নীলাম্বরী স'রে যায় কোকিলের পাখনার মতো\
+ক্ষীর‍ুয়ের শাখা ছুঁয়ে চালতার ডাল ছেড়ে বাঁশের পিছনে\
+কোনো দূর আকাঙ্ক্ষার ক্ষেতে মাঠে চ'লে যায় যেন অব্যাহত,\
+যদি তার পিছে যাও দেখিবে সে আকন্দের করবীর বনে\
+ভোমরার ভয়ে ভীর‍ু; বহ‍ুক্ষণ পায়চারি ক'রে আনমনে\
+তারপর চ'লে গেল:উড়ে গেল যেন নীল ভোমরার সনে।
+:::
+:::
+:::
+:::
+
+[]{#c33_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%A8">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c33_______________.xhtml#id-42 .pagenum .ws-pagenum page-number="৪২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%AC"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এখানে ঘুঘুর ডাকে অপরাহ্ণে শান্তি আসে মানুষের মনে;\
+এখানে সবুজ শাখা আঁকাবাঁকা হলুদ পাখিরে রাখে ঢেকে;\
+জামের আড়ালে সেই বউকথাকওটিরে যদি ফেল দেখে\
+একবার,---একবার দু'-পহর অপরাহ্ণে যদি এই ঘুঘুর গ‍ুঞ্জনে\
+ধরা দাও,---তাহ'লে অনন্তকাল থাকিতে যে হবে এই বনে;\
+মৌরির গন্ধমাখা ঘাসের শরীরে ক্লান্ত দেহটিরে রেখে\
+আশ্বিনের ক্ষেতঝরা কচি কচি শ্যামা পোকাদের কাছে ডেকে\
+র'ব আমি;---চকোরীর সাথে যেন চকোরের মতন মিলনে;\
+\
+উঠানে কে র‍ূপবতী খেলা করে---ছড়ায়ে দিতেছে বুঝি ধান\
+শালিখেরে; ঘাস থেকে ঘাসে ঘাসে খুঁটে খুঁটে খেতেছে সে তাই;\
+হলুদ নরম পায়ে খয়েরী শালিখগ‍ুলো ডলিছে উঠান;\
+চেয়ে দেখ সুন্দরীরে: গোরোচনা র‍ূপ নিয়ে এসেছে কি রাই!\
+নীলনদে---গাঢ় রৌদ্রে---কবে আমি দেখিয়াছি---করেছিল স্নান---
+:::
+:::
+:::
+:::
+
+[]{#c34_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%A9">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c34_______________.xhtml#id-43 .pagenum .ws-pagenum page-number="৪৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%AD"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+শ্মশানের দেশে তুমি আসিয়াছ---বহ‍ুকাল গেয়ে গেছ গান\
+সোনালি চিলের মতো উড়ে উড়ে আকাশের রৌদ্র আর মেঘে,---\
+লক্ষ্মীর বাহন যেই স্নিগ্ধ পাখি আশ্বিনের জ্যোৎস্নার আবেগে\
+গান গায়---শ‍ুনিয়াছি রাখিপূর্ণিমার রাতে তোমার আহ্বান\
+তার মতো; আম চাঁপা কদমের গাছ থেকে গাহে অফুরান\
+যেন স্নিগ্ধ ধান ঝরে ... অনন্ত সবুজ শালি আছে যেন লেগে\
+বুকে তব; বল্লালের বাংলায় কবে যে উঠিলে তুমি জেগে;\
+পদ্মা মেঘনা ইছামতী নয় শুধু, -- তুমি কবি করিয়াছ স্নান\
+\
+সাত সমুদ্রের জলে,---ঘোড়া নিয়ে গেছ তুমি ধূম্র নারীদেশে\
+অর্জুনের মতো, আহা,---আরো দূর ম্লান নীল র‍ূপের কুয়াশা\
+ফুঁড়েছ সুপর্ণ তুমি---দূর রং আরো দূর রেখা ভালোবেসে;\
+আমাদের কালীদহ---গাঙুড়---গাঙের চিল তবু ভালোবাসা\
+চায় যে তোমার কাছে---চায়, তুমি ঢেলে দাও নিজেরে নিঃশেষে\
+এই দহে---এই চূর্ণ মঠে মঠে---এই জীর্ণ বটে বাঁধ বাসা।
+:::
+:::
+:::
+:::
+
+[]{#c35_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%AA">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c35_______________.xhtml#id-44 .pagenum .ws-pagenum page-number="৪৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%AE"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+তবু তাহা ভুল জানি ... রাজবল্লভের কীর্তি ভাঙে কীর্তিনাশা;\
+তবুও পদ্মার র‍ূপ একুশরত্নের চেয়ে আরো ঢের গাঢ়---\
+আরো ঢের প্রাণ তার, বেগ তার, আরো ঢের জল, জয় আরো;\
+তোমারো পৃথিবী পথ; নক্ষত্রের সাথে তুমি খেলিতেছ পাশা:\
+শঙ্খমালা নয় শ‍ুধু:অনুরাধা রোহিণীরও চাও ভালোবাসা,\
+না জানি সে কত আশা---কত ভালোবাসা তুমি বাসিতে যে পার!\
+এখানে নদীর ধারে বাসমতী ধানগ‍ুলো ঝরিছে আবারো;\
+প্রান্তরের কুয়াশায় এইখানে বাদুড়ের যাওয়া আর আসা---\
+\
+এসেছে সন্ধ্যার কাক ঘরে ফিরে;---দাঁড়ায়ে রয়েছে জীর্ণ মঠ;\
+মাঠের আঁধার পথে শিশ‍ু কাঁদে---লালপেড়ে পুরোনো শাড়ির\
+ছবিটি মুছিয়া যায় ধীরে ধীরে---কে এসেছে আমার নিকট?\
+'কার শিশ‍ু? বল তুমি':শ‍ুধালাম; উত্তর দিল না কিছু বট;\
+কেউ নাই কোনোদিকে---মাঠে পথে কুয়াশার ভিড়;\
+তোমারে শ‍ুধাই কবি: 'তুমিও কি জান কিছু, এই শিশ‍ুটির।'
+:::
+:::
+:::
+:::
+
+[]{#c36_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%AB">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c36_______________.xhtml#id-45 .pagenum .ws-pagenum page-number="৪৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AA%E0%A7%AF"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+সোনার খাঁচার বুকে রহিব না আমি আর শ‍ুকের মতন;\
+কি গল্প শ‍ুনিতে চাও তোমরা আমার কাছে---কোন্ গান, বল,\
+তাহ'লে এ-দেউলের খিলানের গল্প ছেড়ে চল, উড়ে চল,---\
+যেখানে গভীর ভোরে নোনাফল পাকিয়াছে,---আছে আতাবন;\
+পউষের ভিজে ভোরে, আজ হায় মন যেন করিছে কেমন;---\
+চন্দ্রমালা, রাজকন্যা, মুখ তুলে চেয়ে দেখ---শ‍ুধাই, শ‍ুন লো,\
+কি গল্প শ‍ুনিতে চাও তোমরা আমার কাছে,---কোন্ গান, বল,\
+আমার সোনার খাঁচা খুলে দাও, আমি যে বনের হীরামন;\
+\
+রাজকন্যা শোনে নাকো---আজ ভোরে আরসীতে দেখে নাকো মুখ,\
+কোথায় পাহাড় দূরে শাদা হয়ে আছে যেন কড়ির মতন,---\
+সেই দিকে চেয়ে চেয়ে দিনভোর ফেটে যায় র‍ূপসীর বুক;\
+তবুও সে বোঝে না কি আমারো যে সাধ আছে---আছে আনমন\
+আমারো যে ... চন্দ্রমালা, রাজকন্যা, শোন শোন তোল তো চিবুক।\
+হাড়পাহাড়ের দিকে চেয়ে চেয়ে হিম হয়ে গেছে তার স্তন।
+:::
+:::
+:::
+:::
+
+[]{#c37_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%AC">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c37_______________.xhtml#id-46 .pagenum .ws-pagenum page-number="৪৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%A6"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+কত দিন সন্ধ্যার অন্ধকারে মিলিয়াছি আমরা দু'জনে;\
+আকাশপ্রদীপ জ্বেলে তখন কাহারা যেন কার্তিকের মাস\
+সাজায়েছে,---মাঠ থেকে গাজন গানের ম্লান ধোঁয়াটে উচ্ছ্বাস\
+ভেসে আসে;---ডানা তুলে সাপমাসী উড়ে যায় আপনার মনে\
+আকন্দ বনের দিকে;---একদল দাঁড়কাক ম্লান গ‍ুঞ্জরণে\
+নাটার মতন রাঙা মেঘ নিঙড়ায়ে নিয়ে সন্ধ্যার আকাশ\
+দু'মুহূর্ত ভ'রে রাখে---তারপর মৌরির গন্ধমাখা ঘাস\
+প'ড়ে থাকে; লক্ষ্মীপেঁচা ডাল থেকে ডালে শ‍ুধু, উড়ে চলে বনে\
+\
+আধ-ফোটা জ্যোৎস্নায়; তখন ঘাসের পাশে কত দিন তুমি\
+হলুদ শাড়িটি বুকে অন্ধকারে ফিঙ্গার পাখনার মতো\
+বসেছ আমার কাছে এইখানে---আসিয়াছে শটিবন চুমি\
+গভীর আঁধার আরো---দেখিয়াছি বাদুড়ের মৃদু অবিরত\
+আসা-যাওয়া আমরা দু'জনে ব'সে---বলিয়াছি ছেঁড়াফাঁড়া কত\
+মাঠ ও চাঁদের কথা:ম্লান চোখে একদিন সব শ‍ুনেছ তো।
+:::
+:::
+:::
+:::
+
+[]{#c38_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%AD">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c38_______________.xhtml#id-47 .pagenum .ws-pagenum page-number="৪৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%A7"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এ-সব কবিতা আমি যখন লিখেছি ব'সে নিজ মনে একা;\
+চালতার পাতা থেকে টুপ্ টুপু জ্যোৎস্নায় ঝরেছে শিশির;\
+কুয়াশায় স্থির হয়ে ছিল ম্লান ধানসিড়ি নদীটির তীর;\
+বাদুড় আঁধার ডানা মেলে হিম জ্যোৎস্নায় কাটিয়াছে রেখা\
+আকাঙ্ক্ষার; নিভু দীপ আগলায়ে মনোরমা দিয়ে গেছে দেখা\
+সঙ্গে তার কবেকার মৌমাছির .. কিশোরীর ভিড়\
+আমের বউল দিল শীতরাতে;---আনিল আতার হিম ক্ষীর;\
+মলিন আলোয় আমি তাহাদের দেখিলাম,---এ-কবিতা লেখা\
+\
+তাহাদের ম্লান চুল মনে ক'রে; তাহাদের কড়ির মতন\
+ধূসর হাতের র‍ূপ মনে ক'রে; তাহাদের হৃদয়ের তরে।\
+সে কত শতাব্দী আগে তাহাদের কর‍ুণ শঙ্খের মতো স্তন\
+তাদের হলুদ শাড়ি---ক্ষীর দেহ---তাহাদের অপর‍ূপ মন\
+চ'লে গেছে পৃথিবীর সব চেয়ে শান্ত হিম সান্ত্বনার ঘরে:\
+আমার বিষণ্ণ স্বপ্নে থেকে থেকে তাহাদের ঘুম ভেঙে পড়ে।
+:::
+:::
+:::
+:::
+
+[]{#c39_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%AE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c39_______________.xhtml#id-48 .pagenum .ws-pagenum page-number="৪৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%A8"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+কত দিন তুমি আর আমি এসে এইখানে বসিয়াছি ঘরের ভিতর\
+খড়ের চালের নিচে, অন্ধকারে;---সন্ধ্যায় ধূসর সজল\
+মৃদু হাত খেলিতেছে হিজল জামের ডালে---বাদুড় কেবল\
+করিতেছে আসা-যাওয়া আকাশের মৃদু পথে;---ছিন্ন ভিজে খড়\
+বুকে নিয়ে সনকার মতো যেন প'ড়ে আছে নরম প্রান্তর;\
+বাঁকা চাঁদ চেয়ে আছে;---কুয়াশায় গা ভাসায়ে দেয় অবিরল\
+নিঃশব্দ গ‍ুবরে-পোকা---সাপমাসী---ধানী শ্যামাপোকাদের দল;\
+দিকে দিকে চাল-ধোয়া গন্ধ মৃদু---ধূসর শাড়ির ক্ষীণ স্বর\
+\
+শোনা যায়;---মানুষের হৃদয়ের পুরোনো নীরব\
+বেদনার গন্ধ ভাসে;---খড়ের চালের নিচে তুমি আর আমি\
+কত দিন মলিন আলোয় ব'সে দেখেছি বুঝেছি এই সব;\
+সময়ের হাত থেকে ছুটি পেয়ে স্বপনের গোধূলিতে নামি\
+খড়ের চালের নিচে মুখোমুখি বসে থেকে তুমি আর আমি\
+ধূসর আলোয় ব'সে কত দিন দেখেছি বুঝেছি এই সব।
+:::
+:::
+:::
+:::
+
+[]{#c40_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%A9%E0%A7%AF">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c40_______________.xhtml#id-49 .pagenum .ws-pagenum page-number="৪৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%A9"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এখানে প্রাণের স্রোত আসে যায়---সন্ধ্যায় ঘুমায় নীরবে\
+মাটির ভিটের 'পরে---লেগে থাকে অন্ধকার ধুলোর আঘ্রাণ\
+তাহাদের চোখে-মুখে;---কদমের ডালে পেঁচা গেয়ে যায় গান;\
+মনে হয় এক দিন পৃথিবীতে হয়তো এ-জ্যোৎস্না শ‍ুধু র'বে,\
+এই শীত র'বে শ‍ুধু; রাত্রি ভ'রে এই লক্ষ্মীপেঁচা কথা ক'বে---\
+কাঁঠালের ডাল থেকে হিজলের ডালে গিয়ে করিবে আহ্বান\
+সাপমাসী পোকাটিরে\...সেই দিন আঁধারে উঠিবে ন'ড়ে ধান\
+ইঁদুরের ঠোঁটে-চোখে;---বাদুড়ের কালো ডানা করমচা-পল্লবে\
+\
+কুয়াশারে নিঙড়ায়ে উড়ে যাবে আরো দূর নীল কুয়াশায়,\
+কেউ তাহা দেখিবে না;---সেদিন এ-পাড়াগাঁর পথের বিস্ময়\
+দেখিতে পাব না আর---ঘুমায়ে রহিবে সব:যেমন ঘুমায়\
+আজ রাতে মৃত যারা; যেমন হতেছে ঘুমে ক্ষয়\
+অশ্বত্থ ঝাউয়ের পাতা চুপে চুপে আজ রাতে, হায়;\
+যেমন ঘুমায় মৃতা,---তাহার বুকের শাড়ি যেমন ঘুমায়।
+:::
+:::
+:::
+:::
+
+[]{#c41_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c41_______________.xhtml#id-50 .pagenum .ws-pagenum page-number="৫০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%AA"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+একদিন যদি আমি কোনো দূর মান্দ্রাজের সমুদ্রের জলে\
+ফেনার মতন ভাসি শীত রাতে---আসি নাকো তোমাদের মাঝে\
+ফিরে আর---লিচুর পাতার 'পরে বহুদিন সাঁঝে\
+যেই পথে আসা-যাওয়া করিয়াছি,---একদিন নক্ষত্রের তলে\
+কয়েকটা নাটাফল তুলে নিয়ে আনারসী শাড়ির আঁচলে\
+ফিঙার মতন তুমি লঘু চোখে চ'লে যাও জীবনের কাজে,\
+এই শুধু ... বেজির পায়ের শব্দ পাতার উপরে যদি বাজে\
+সারারাত ... ডানার অস্পষ্ট ছায়া বাদুড়ের ক্লান্ত হয়ে চলে\
+\
+যদি সে-পাতার 'পরে,---শেষ রাতে পৃথিবীর অন্ধকারে শীতে\
+তোমার ক্ষীরের মতো মৃদু দেহ---ধূসর চিবুক, বাম হাত\
+চালতা গাছের পাশে খোড়ো ঘরে স্নিগ্ধ হয়ে ঘুমায় নিভৃতে,\
+তবুও তোমার ঘুম ভেঙে যাবে একদিন চুপে অকস্মাৎ,\
+তুমি যে কড়ির মালা দিয়েছিলে---সে-হার ফিরায়ে দিয়ে দিতে\
+যখন কে এক ছায়া এসেছিল ... দরজায় করে নি আঘাত।
+:::
+:::
+:::
+:::
+
+[]{#c42_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%A7">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c42_______________.xhtml#id-51 .pagenum .ws-pagenum page-number="৫১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%AB"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+দূর পৃথিবীর গন্ধে ভ'রে ওঠে আমার এ বাঙালীর মন\
+আজ রাতে; একদিন মৃত্যু এসে যদি দূর নক্ষত্রের তলে\
+অচেনা ঘাসের বুকে আমারে ঘুমায়ে যেতে বলে,\
+তবুও সে ঘাস এই বাংলার অবিরল ঘাসের মতন\
+মউরির মৃদু গন্ধে ভ'রে র'বে;―কিশোরীর স্তন\
+প্রথম জননী হয়ে যেমন ননীর ঢেউয়ে গলে\
+পৃথিবীর সব দেশে―সব চেয়ে ঢের দূর নক্ষত্রের তলে\
+সব পথে এই সব শান্তি আছে: ঘাস―চোখ―শাদা হাত―স্তন―\
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+\
+
+কোথাও আসিবে মৃত্যু―কোথাও সবুজ মৃদু ঘাস\
+আমারে রাখিবে ঢেকে―ভোরে, রাতে, দু'-পহরে পাখির হৃদয়\
+ঘাসের মতন সাধে ছেয়ে র'বে―রাতের আকাশ\
+নক্ষত্রের নীল ফুলে ফুটে র'বে;―বাংলার নক্ষত্র কি নয়?\
+জানি নাকো; তবুও তাদের বুকে স্থির শান্তি―শান্তি লেগে রয়:\
+আকাশের বুকে তারা যেন চোখ―শাদা হাত―যেন স্তন―ঘাস―।
+:::
+:::
+:::
+:::
+
+[]{#c43_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%A8">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c43_______________.xhtml#id-52 .pagenum .ws-pagenum page-number="৫২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%AC"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+অশ্বত্থ বটের পথে অনেক হয়েছি আমি তোমাদের সাথী;\
+ছড়ায়েছি খই ধান বহ‍ুদিন উঠানের শালিখের তরে;\
+সন্ধ্যায় পুকুর থেকে হাঁসটিরে নিয়ে আমি তোমাদের ঘরে\
+গিয়েছি অনেক দিন,---দেখিয়াছি ধূপ জ্বাল, ধর সন্ধ্যাবাতি\
+থোড়ের মতন শাদা ভিজে হাতে,---এখুনি আসিবে কিনা রাতি\
+বিনুনি বেঁধেছ তাই---কাঁচপোকাটিপ তুমি কপালের 'পরে\
+পরিয়াছ\...তারপর ঘুমায়েছ: কল্কাপাড় আঁচলটি ঝরে\
+পানের বাটার 'পরে; নোনার মতন নম্র শরীরটি পাতি\
+\
+নির্জন পালঙ্কে তুমি ঘুমায়েছ,---বউকথাকওটির ছানা\
+নীল জামরুল নীড়ে---জ্যোৎস্নায়---ঘুমায়ে রয়েছে যেন, হায়,\
+আর রাত্রি মাতা-পাখিটির মতো ছড়ায়ে রয়েছে তার ডানা।\...\
+আজ আমি ক্লান্ত চোখে ব্যবহৃত জীবনের ধূলোয় কাঁটায়\
+চ'লে গেছি বহ‍ু দূরে;---দেখ নিকো, বোঝ নিকো, কর নিকো মানা;\
+র‍ূপসী শঙ্খের কৌটা তুমি যে গো প্রাণহীন---পানের বাটায়।
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+::: {style="text-align:left; margin-left:0"}
+[**১৩২৬-এর কতকগ‍ুলো দিনের স্মরণে**]{style="font-size: 90%;"}
+:::
+:::
+:::
+:::
+
+[]{#c44_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%A9">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c44_______________.xhtml#id-53 .pagenum .ws-pagenum page-number="৫৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%AD"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+ঘাসের বুকের থেকে কবে আমি পেয়েছি যে আমার শরীর---\
+সবুজ ঘাসের থেকে; তাই রোদ ভালো লাগে---তাই নীলাকাশ\
+মৃদু ভিজে সকর‍ুণ মনে হয়;---পথে পথে তাই এই ঘাস\
+জলের মতন স্নিগ্ধ মনে হয়;---মউমাছিদের যেন নীড়\
+এই ঘাস;---যত দূর যাই আমি আরো যত দূর পৃথিবীর\
+নরম পায়ের তলে যেন কত কুমারীর বুকের নিঃশ্বাস\
+কথা কয়---তাহাদের শান্ত হাত খেলা করে---তাদের খোঁপার এলো ফাঁস\
+খুলে যায়---ধূসর শাড়ির গন্ধে আসে তারা---অনেক নিবিড়\
+\
+পুরোনো প্রাণের কথা কয়ে যায়---হৃদয়ের বেদনার কথা---\
+সান্ত্বনার নিভৃত নরম কথা---মাঠের চাঁদের গল্প করে---\
+আকাশের নক্ষত্রের কথা কয়;---শিশিরের শীত সরলতা\
+তাহাদের ভালো লাগে,---কুয়াশারে ভালো লাগে চোখের উপরে;\
+গরম বৃষ্টির ফোঁটা ভালো লাগে; শীত রাতে---পেঁচার নম্রতা;\
+ভালো লাগে এই যে অশ্বত্থপাতা আমপাতা সারা রাত ঝরে।
+:::
+:::
+:::
+:::
+
+[]{#c45_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%AA">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c45_______________.xhtml#id-54 .pagenum .ws-pagenum page-number="৫৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%AE"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এই জল ভালো লাগে;---বৃষ্টির র‍ূপালি জল কত দিন এসে\
+ধুয়েছে আমার দেহ---বুলায়ে দিয়েছে চুল---চোখের উপরে\
+তার শান্ত স্নিগ্ধ হাত রেখে কত খেলিয়াছে,---আবেগের ভরে\
+ঠোঁটে এসে চুমো দিয়ে চ'লে গেছে কুমারীর মতো ভালোবেসে;\
+এই জল ভালো লাগে;---নীলপাতা মৃদু ঘাস রৌদ্রের দেশে\
+ফিঙ্গা যেমন তার দিনগ‍ুলো ভালোবাসে---বনের ভিতরে\
+বার বার উড়ে যায়,---তেমনি গোপন প্রেমে এই জল ঝরে\
+আমার দেহের 'পরে আমার চোখের 'পরে ধানের আবেশে\
+\
+ঝ'রে পড়ে;---যখন অঘ্রাণ রাতে ভরা ক্ষেত হয়েছে হলুদ,\
+যখন জামের ডালে পেঁচার নরম হিম গান শোনা যায়,\
+বনের কিনারে ঝরে যেই ধান বুকে ক'রে শান্ত শালি-ক্ষুদ,\
+তেমনি ঝরিছে জল আমার ঠোঁটের 'পরে---চোখের পাতায়---\
+আমার চুলের 'পরে;---অপরাহ্ণে রাঙা রোদ সবুজ আতায়\
+রেখেছে নরম হাত যেন তার---ঢালিছে বুকের থেকে দুধ।
+:::
+:::
+:::
+:::
+
+[]{#c46_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%AB">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c46_______________.xhtml#id-55 .pagenum .ws-pagenum page-number="৫৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AB%E0%A7%AF"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+একদিন পৃথিবীর পথে আমি ফলিয়াছি; আমার শরীর\
+নরম ঘাসের পথে হাঁটিয়াছে; বসিয়াছে ঘাসে\
+দেখিয়াছে নক্ষত্রেরা জোনাকিপোকার মতো কৌতুকের অমেয় আকাশে\
+খেলা করে; নদীর জলের গন্ধে ভ'রে যায় ভিজে স্নিগ্ধ তীর\
+অন্ধকারে; পথে পথে শব্দ পাই কাহাদের নরম শাড়ির,\
+ম্লান চুল দেখা যায়; সান্ত্বনার কথা নিয়ে কারা কাছে আসে---\
+ধূসর কড়ির মতো হাতগুলো---নগ্ন হাত সন্ধ্যার বাতাসে\
+দেখা যায়; হলুদ ঘাসের কাছে মরা হিম প্রজাপতিটির\
+\
+সুন্দর করুণ পাখা প'ড়ে আছে---দেখি আমি; চুপে থেমে থাকি;\
+আকাশে কমলা রঙ্ ফুটে ওঠে সন্ধ্যায়---কাকগুলো নীল মনে হয়;\
+অনেক লোকের ভিড়ে ডুবে যাই---কথা কই---হাতে হাত রাখি;\
+করুণ বিষণ্ন চুলে কার যেন কোথাকার গভীর বিস্ময়\
+লুকায়ে রয়েছে বুঝি;\... নক্ষত্রের নিচে আমি ঘুমাই একাকী;\
+পেঁচার ধূসর ডানা সারারাত জোনাকির সাথে কথা কয়।
+:::
+:::
+:::
+:::
+
+[]{#c47_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%AC">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c47_______________.xhtml#id-56 .pagenum .ws-pagenum page-number="৫৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%A6"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+পৃথিবীর পথে আমি বহুদিন বাস ক'রে হৃদয়ের নরম কাতর\
+অনেক নিভৃত কথা জানিয়াছি; পৃথিবীতে আমি বহুদিন\
+কাটায়েছি; বনে বনে ডালপালা উড়িতেছে---যেন পরী জিন্\
+কথা কয়; ধূসর সন্ধ্যায় আমি ইহাদের শরীরের 'পর\
+খইয়ের ধানের মতো দেখিয়াছি ঝরে ঝর্ ঝর্\
+দু'-ফোঁটা মাঘের বৃষ্টি,---শাদা ধুলো জলে ভিজে হয়েছে মলিন,\
+ম্লান গন্ধ মাঠে ক্ষেতে---গুবরে পোকার তুচ্ছ বুক থেকে ক্ষীণ\
+অস্পষ্ট করুণ শব্দ ডুবিতেছে অন্ধকারে নদীর ভিতর:\
+\
+এই সব দেখিয়াছি; দেখিয়াছি নদীটিরে---মজিতেছে ঢালু, অন্ধকারে;\
+সাপমাসী উড়ে যায়; দাঁড়কাক অশ্বত্থের নীড়ের ভিতর\
+পাখ্‌নার শব্দ করে অবিরাম; কুয়াশায় একাকী মাঠের ঐ ধারে\
+কে যেন দাঁড়ায়ে আছে: আরো দূরে দু'-একটা স্তব্ধ খোড়ো ঘর\
+প'ড়ে আছে; খাগড়ার বনে ব্যাং ডাকে কেন---থামিতে কি পারে;\
+(কাকের তরুণ ডিম পিছলায়ে প'ড়ে যায় শ্যাওড়ার ঝাড়ে।)
+:::
+:::
+:::
+:::
+
+[]{#c48_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%AD">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c48_______________.xhtml#id-57 .pagenum .ws-pagenum page-number="৫৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%A7"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+মানুষের ব্যথা আমি পেয়ে গেছি পৃথিবীর পথে এসে---হাসির আস্বাদ\
+পেয়ে গেছি; দেখেছি আকাশে দূরে কড়ির মতন শাদা মেঘের পাহাড়ে\
+সূর্যের রাঙা ঘোড়া: পক্ষিরাজের মতো কমলারঙের পাখা ঝাড়ে\
+রাতের কুয়াশা ছিঁড়ে; দেখেছি শরের বনে শাদা রাজহাঁসদের সাধ\
+উঠেছে আনন্দে জেগে---নদীর স্রোতের দিকে বাতাসের মতন অবাধ\
+চ'লে গেছে কলরবে; দেখেছি সবুজ ঘাস---যত দূর চোখ যেতে পারে:\
+ঘাসের প্রকাশ আমি দেখিয়াছি অবিরল,---পৃথিবীর ক্লান্ত বেদনারে\
+ঢেকে আছে; দেখিয়াছি বাসমতী, কাশবন আকাঙ্ক্ষার রক্ত, অপরাধ\
+\
+মুছায়ে দিতেছে যেন বার বার---কোন্ এক রহস্যের কুয়াশার থেকে\
+যেখানে জন্মে না কেউ, যেখানে মরে না কেউ, সেই কুহকের থেকে এসে\
+রাঙা রোদ, শালিধান, ঘাস, কাশ, মরালেরা বার বার রাখিতেছে ঢেকে\
+আমাদের রুক্ষ প্রশ্ন, ক্লান্ত ক্ষুধা, স্ফুট মৃত্যু ---আমাদের বিস্মিত
+নীরব\
+রেখে দেয়---পৃথিবীর পথে আমি কেটেছি আঁচড় ঢের, অশ্রু, গেছি রেখে;\
+তব, ঐ মরালীরা কাশ ধান রোদ ঘাস এসে এসে মুছে দেয় সব।
+:::
+:::
+:::
+:::
+
+[]{#c49_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%AE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c49_______________.xhtml#id-58 .pagenum .ws-pagenum page-number="৫৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%A8"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+তুমি কেন বহু দূরে---ঢের দূরে---আরো দূরে---নক্ষত্রের অস্পষ্ট আকাশ,\
+তুমি কেন কোনোদিন পৃথিবীর ভিড়ে এসে বল নাকো একটিও কথা;\
+আমরা মিনার গড়ি---ভেঙে পড়ে দু'-দিনেই---স্বপনের ডানা ছিঁড়ে ব্যথা\
+রক্ত হয়ে ঝরে শুধু এইখানে---ক্ষুধা হয়ে ব্যথা দেয়---নীল নাভিশ্বাস\
+ফেনায়ে তুলিছে শুধু পৃথিবীতে পিরামিড্-যুগ থেকে আজো বারোমাস;\
+আমাদের সত্য, আহা, রক্ত হয়ে ঝরে শুধু;---আমাদের প্রাণের মমতা\
+ফড়িঙের ডানা নিয়ে ওড়ে, আহা: চেয়ে দেখে অন্ধকার কঠিন ক্ষমতা\
+ক্ষমাহীন---বার বার পথ আটকায়ে ফেলে---বার বার করে তারে গ্রাস;\
+\
+তারপরে চোখ তুলে দেখি অই কোন্ দূর নক্ষত্রের ক্লান্ত আয়োজন\
+ক্লান্তিরে ভুলিতে বলে---ঘিয়ের সোনার-দীপে লাল নীল শিখা\
+জ্বলিতেছে যেন দূরে রহস্যের কুয়াশায়,--- আবার স্বপ্নের গন্ধে মন\
+কেঁদে ওঠে;---তবু জানি আমাদের স্বপ্ন হতে অশ্রু, ক্লান্তি রক্তের কণিকা\
+ঝরে শুধু---স্বপ্ন কি দেখেনি বুদ্ধ---নিউসিডিয়ায় বসে দেখেনি মণিকা?\
+স্বপ্ন কি দেখেনি রোম, এশিরিয়া, উজ্জয়িনী, গৌড়-বাংলা, দিল্লী, বেবিলন?
+:::
+:::
+:::
+:::
+
+[]{#c50_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AA%E0%A7%AF">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c50_______________.xhtml#id-59 .pagenum .ws-pagenum page-number="৫৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%A9"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+আমাদের রূঢ় কথা শুনে তুমি সরে যাও আরো দূরে বুঝি নীলাকাশ;\
+তোমার অনন্ত নীল সোনালি ভোমরা নিয়ে কোনো দূর শান্তির ভিতরে\
+ডুবে যাবে?\... কত কাল কেটে গেল, তবু তার কুয়াশার পর্দা না স'রে\
+পিরামিড্ বেবিলন শেষ হ'ল---ঝ'রে গেল কতবার প্রান্তরের ঘাস;\
+তবুও লুকায়ে আছে যেই রূপ নক্ষত্রে তা' কোনোদিন হ'ল না প্রকাশ;\
+যেই স্বপ্ন যেই সত্য নিয়ে আজ আমরা চলিয়া যাই ঘরে,\
+কোনো এক অন্ধকারে হয়তো তা' আকাশের যাযাবর মরালের স্বরে\
+নতুন স্পন্দন পায়---নতুন আগ্রহে গন্ধে ভ'রে ওঠে পৃথিবীর শ্বাস;\
+\
+তখন আমরা অই নক্ষত্রের দিকে চাই---মনে হয় সব অস্পষ্টতা\
+ধীরে ধীরে ঝরিতেছে,---যেই রূপ কোনোদিন দেখি নাই পৃথিবীর পথে,\
+যেই শান্তি মৃত জননীর মতো চেয়ে থাকে---কয় নাকো কথা,\
+যেই স্বপ্ন বার বার নষ্ট হয় আমাদের এই সত্য রক্তের জগতে,\
+আজ যাহা ক্লান্ত ক্ষীণ আজ যাহা নগ্ন চূর্ণ---অন্ধ মৃত হিম,\
+একদিন নক্ষত্রের দেশে তারা হয়ে র'বে গোলাপের মতন রক্তিম৷
+:::
+:::
+:::
+:::
+
+[]{#c51_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c51_______________.xhtml#id-60 .pagenum .ws-pagenum page-number="৬০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%AA"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+এই পৃথিবীতে আমি অবসর নিয়ে শুধু আসিয়াছি---আমি হৃষ্ট কবি\
+আমি এক;---ধুয়েছি আমার দেহ অন্ধকারে একা একা সমুদ্রের জলে;\
+ভালোবাসিয়াছি আমি রাঙা রোদ ক্ষান্ত কার্তিকের মাঠে---ঘাসের আঁচলে\
+ফড়িঙের মতো আমি বেড়ায়েছি;---দেখেছি কিশোরী এসে হলুদ করবী\
+ছিঁড়ে নেয়---বুকে তার লাল-পেড়ে ভিজে শাড়ি করুণ শঙ্খের মতো ছবি\
+ফুটাতেছে;---ভোরের আকাশখানা রাজহাঁস ভ'রে গেছে নব কোলাহলে\
+নব নব সূচনার; নদীর গোলাপী ঢেউ কথা বলে---তবু কথা বলে,\
+তবু জানি তার কথা কুয়াশায় ফুরায় না---কেউ যেন শুনিতেছে সবি\
+\
+কোন্ রাঙা শাটিনের মেঘে ব'সে---অথবা শোনে না কেউ, শূন্য কুয়াশায়\
+মুছে যায় সব তার; একদিন বর্ণচ্ছটা মুছে যাব আমিও এমন;\
+তবু আজ সবুজ ঘাসের 'পরে ব'সে থাকি; ভালোবাসি; প্রেমের আশায়\
+পায়ের ধ্বনির দিকে কান পেতে থাকি চুপে; কাঁটাবহরের\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+ফল করি আহরণ:
+:::
+
+\
+
+কারে যেন এইগুলো দেব আমি; মৃদু, ঘাসে একা একা ব'সে থাকা যায়\
+এই সব সাধ নিয়ে; যখন আসিবে ঘুম তারপর, ঘুমাব তখন।
+:::
+:::
+:::
+:::
+
+[]{#c52_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%A7">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c52_______________.xhtml#id-61 .pagenum .ws-pagenum page-number="৬১"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%AB"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+বাতাসে ধানের শব্দ শুনিয়াছি---ঝরিতেছে ধীরে ধীরে অপরাহ্ণ ভ'রে;\
+সোনালি রোদের রং দেখিয়াছি---দেহের প্রথম কোন্ প্রেমের মতন\
+রূপ তার---এলোচুল ছড়ায়ে রেখেছে ঢেকে গূঢ় রূপ---আনারস বন;\
+ঘাস আমি দেখিয়াছি; দেখেছি সজনে ফুল চুপে চুপে পড়িতেছে ঝ'রে\
+মৃদু ঘাসে; শান্তি পায়; দেখেছি হলুদ পাখি বহুক্ষণ থাকে চুপ ক'রে,\
+নির্জন আমের ডালে দুলে যায়---দলে যায়---বাতাসের সাথে বহু ক্ষণ;\
+শুধু কথা, গান নয়---নীরবতা রচিতেছে আমাদের সবার জীবন\
+বুঝিয়াছি: শুপুরির সারিগুলো দিনরাত হাওয়ায় যে উঠিতেছে ন'ড়ে,\
+\
+দিনরাত কথা কয়, ক্ষীরের মতন ফুল বুকে ধরে, তাদের উৎসব\
+ফুরায় না; মাছরাঙাটির সাথী ম'রে গেছে---দুপুরের নিঃসঙ্গ বাতাসে\
+তবু ঐ পাখিটির নীল লাল কমলা রঙের ডানা স্ফুট হয়ে ভাসে\
+আম নিম জামরুলে; প্রসন্ন প্রাণের স্রোত---অশ্রু নাই---প্রশ্ন নাই কিছু,\
+ঝিলমিল ডানা নিয়ে উড়ে যায় আকাশের থেকে দূর আকাশের পিছু;\
+চেয়ে দেখি ঘুম নাই---অশ্রু নাই---প্রশ্ন নাই বটফলগন্ধ-মাখা ঘাসে৷
+:::
+:::
+:::
+:::
+
+[]{#c53_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%A8">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c53_______________.xhtml#id-62 .pagenum .ws-pagenum page-number="৬২"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%AC"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+একদিন এই দেহ ঘাস থেকে ধানের আঘ্রাণ থেকে এই বাংলার\
+জেগেছিল; বাঙালী নারীর মুখ দেখে রূপ চিনেছিল দেহ একদিন;\
+বাংলার পথে পথে হেঁটেছিল গাংচিল শালিখের মতন স্বাধীন;\
+বাংলার জল দিয়ে ধুয়েছিল ঘাসের মতন স্ফুট দেহখানি তার;\
+একদিন দেখেছিল ধূসর বকের সাথে ঘরে চ'লে আসে অন্ধকার\
+বাংলার; কাঁচা কাঠ জ্বলে ওঠে---নীল ধোঁয়া নরম মলিন\
+বাতাসে ভাসিয়া যায় কুয়াশার করুণ নদীর মতো ক্ষীণ;\
+ফেনসা ভাতের গন্ধে আমমুকুলের গন্ধ মিশে যায় যেন বার বার;\
+\
+এই সব দেখেছিল; রূপ যেই স্বপ্ন আনে---স্বপ্নে যেই রক্তাক্ততা আছে,\
+শিখেছিল সেই সব একদিন বাংলার চন্দ্রমালা রূপসীর কাছে;\
+তারপর বেত বনে, জোনাকি ঝিঁঝিঁর পথে হিজল আমের অন্ধকারে\
+ঘুরেছে সে সৌন্দর্যের নীল স্বপ্ন বুকে ক'রে,---রূঢ় কোলাহলে\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+গিয়ে তারে---
+:::
+
+\
+
+ঘমন্ত কন্যারে সেই---জাগাতে যায় নি আর---হয়তো সে কন্যার হৃদয়\
+শঙ্খের মতন রুক্ষ, অথবা পদ্মের মতো---ঘুম তবু ভাঙিবার নয়৷
+:::
+:::
+:::
+:::
+
+[]{#c54_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%A9">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c54_______________.xhtml#id-63 .pagenum .ws-pagenum page-number="৬৩"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%AD"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+আজ তারা কই সব? ওখানে হিজল গাছ ছিল এক---পুকুরের জলে\
+বহুদিন মুখ দেখে গেছে তার; তারপর কি যে তার মনে হ'ল কবে\
+কখন সে ঝ'রে গেল, কখন ফুরাল, আহা,---চ'লে গেল কবে যে নীরবে,\
+তাও আর জানি নাকো;---ঠোঁট-ভাঙা দাঁড়কাক ঐ বেলগাছটির তলে\
+রোজ ভোরে দেখা দিত---অন্য সব কাক আর শালিখের হৃষ্ট কোলাহলে\
+তারে আর দেখি নাকো---কতদিন দেখি নাই; সে আমার ছেলেবেলা হবে,\
+জানালার কাছে এক বোলতার চাক ছিল---হৃদয়ের গভীর উৎসবে\
+খেলা ক'রে গেছে তারা কত দিন---ফড়িঙ্ কীটের দিন যত দিন চলে\
+\
+তাহারা নিকটে ছিল---রোদের আনন্দে মেতে---অন্ধকারে শান্ত ঘুম খুঁজে\
+বহুদিন কাছে ছিল;---অনেক কুকুর আজ পথে ঘাটে নড়াচড়া করে\
+তবুও আঁধারে ঢের মৃত কুকুরের মুখ---মৃত বিড়ালের ছায়া ভাসে;\
+কোথায় গিয়েছে তারা? অই দূর আকাশের নীল লাল তারার ভিতরে\
+অথবা মাটির বুকে মাটি হয়ে আছে শুধু---ঘাস হয়ে আছে শুধু ঘাসে?\
+শুধালাম \... উত্তর দিল না কেউ উদাসীন অসীম আকাশে।
+:::
+:::
+:::
+:::
+
+[]{#c55_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%AA">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c55_______________.xhtml#id-64 .pagenum .ws-pagenum page-number="৬৪"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%AE"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+হৃদয়ে প্রেমের দিন কখন যে শেষ হয়---চিতা শুধু, প'ড়ে থাকে তার,\
+আমরা জানি না তাহা;---মনে হয় জীবনে যা আছে আজো তাই শালিধান\
+রূপশালি ধান তাহা\...রূপ, প্রেম\...এই ভাবি\...\
+\...খোসার মতন নষ্ট ম্লান\
+একদিন তাহাদের অসারতা ধরা পড়ে,---যখন সবুজ অন্ধকার,\
+নরম রাত্রির দেশ, নদীর জলের গন্ধ কোন্ এক নবীনাগতার\
+মুখখানা নিয়ে আসে---মনে হয় কোনোদিন পৃথিবীতে প্রেমের আহ্বান\
+এমন গভীর ক'রে পেয়েছি কি: প্রেম যে নক্ষত্র আর নক্ষত্রের গান,\
+প্রাণ যে ব্যাকুল রাত্রি প্রান্তরের গাঢ় নীল অমাবস্যার---\
+\
+চ'লে যায় আকাশের সেই দূর নক্ষত্রের লাল নীল শিখার সন্ধানে,\
+প্রাণ যে আঁধার রাত্রি আমার এ,---আর তুমি স্বাতীর মতন\
+রূপের বিচিত্র বাতি নিয়ে এলে,---তাই প্রেম ধূলায় কাঁটায় যেইখানে\
+মৃত হয়ে প'ড়ে ছিল পৃথিবীর শূন্য পথে পেল সে গভীর শিহরণ;\
+তুমি, সখি, ডুবে যাবে মুহূর্র্তেই রোমহর্ষে---অনিবার অরুণের স্নানে\
+জানি আমি; প্রেম যে তবুও প্রেম: স্বপ্ন নিয়ে বেঁচে র'বে,\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+বাঁচিতে সে জানে।
+:::
+:::
+:::
+:::
+:::
+
+[]{#c56_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%AB">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c56_______________.xhtml#id-65 .pagenum .ws-pagenum page-number="৬৫"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AC%E0%A7%AF"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+কোনোদিন দেখিব না তারে আমি; হেমন্তে পাকিবে ধান, আষাঢ়ের রাতে\
+কালো মেঘ নিঙড়ায়ে সবুজ বাঁশের বন গেয়ে যাবে উচ্ছ্বাসের গান\
+সারারাত,---তবু আমি সাপচরা অন্ধ পথে---বেণুবনে তাহার সন্ধান\
+পাব নাকো: পুকুরের পাড়ে সে যে আসিবে না কোনোদিন হাঁসিনের সাথে,\
+সে কোনো জ্যোৎস্নায় আর আসিবে না---আসিবে না কখনো প্রভাতে,\
+যখন দুপুরে রোদে অপরাজিতার মুখ হয়ে থাকে ম্লান,\
+যখন মেঘের রঙে পথহারা দাঁড়কাক পেয়ে গেছে ঘরের সন্ধান,\
+ধূসর সন্ধ্যায় সেই আসিবে না সে এখানে;---এইখানে ধুন্দুল লতাতে\
+\
+জোনাকি আসিবে শুধু; ঝিঁঝিঁ শব্দ সারারাত কথা\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+ক'বে ঘাসে আর ঘাসে;
+:::
+
+\
+
+বাদুড় উড়িবে শুধু পাখনা ভিজায়ে নিয়ে শান্ত হয়ে রাতের বাতাসে;\
+প্রতিটি নক্ষত্র তার স্থান খুঁজে জেগে র'বে প্রতিটির পাশে\
+নীরব ধূসর কণা লেগে র'বে তুচ্ছ অণুকণাটির শ্বাসে\
+অন্ধকারে;---তুমি, সখি, চ'লে গেলে দূরে তবু;---হৃদয়ের গভীর বিশ্বাসে\
+অশ্বত্থের শাখা ঐ দুলিতেছে: আলো আসে, ভোর হয়ে আসে।
+:::
+:::
+:::
+:::
+
+[]{#c57_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%AC">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c57_______________.xhtml#id-66 .pagenum .ws-pagenum page-number="৬৬"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD%E0%A7%A6"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+ঘাসের ভিতরে যেই চড়ায়ের শাদা ডিম ভেঙে আছে---আমি ভালোবাসি\
+নিস্তব্ধ করুণ মুখ তার এই---কবে যেন ভেঙেছিল---ঢের ধূলো খড়\
+লেগে আছে বুকে তার---বহুক্ষণ চেয়ে থাকি;---তারপর ঘাসের ভিতর\
+শাদা শাদা ধূলোগুলো প'ড়ে আছে, দেখা যায়; খইধান দেখি একরাশি\
+ছড়ায়ে রয়েছে চুপে; নরম বিষণ্ন গন্ধ পুকুরের জল থেকে উঠিতেছে ভাসি;\
+কান পেতে থাক যদি, শোনা যায়, সরপুঁটি চিতলের উদ্ভাসিত স্বর\
+মীনকন্যাদের মতো; সবুজ জলের ফাঁকে তাদের পাতালপুরী ঘর\
+দেখা যায়---রহস্যের কুয়াশায় অপরূপ---রূপালি মাছের\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+দেহ গভীর উদাসী
+:::
+
+\
+
+\
+চ'লে যায় মন্ত্রিকুমারের মতো, কোটাল-ছেলের মতো, রাজার\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+ছেলের মতো মিলে
+:::
+
+\
+
+কোন্ এক আকাঙ্ক্ষার উদ্ঘাটনে কত দূরে;---বহুক্ষণ চেয়ে থাকি একা;\
+অপরাহ্ণ এল বুঝি?---রাঙা রৌদ্রে মাছরাঙা উড়ে যায়---ডানা ঝিলমিলে;\
+এখুনি আসিবে সন্ধ্যা,---পৃথিবীতে ম্রিয়মাণ গোধূলি নামিলে\
+নদীর নরম মুখ দেখা যাবে---মুখে তার দেহে তার কত মৃদু, রেখা\
+তোমারি মুখের মতো:তবুও তোমার সাথে কোনোদিন হবে নাকো দেখা।
+:::
+:::
+:::
+:::
+
+[]{#c58_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%AD">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c58_______________.xhtml#id-67 .pagenum .ws-pagenum page-number="৬৭"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD%E0%A7%A7"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+(এই সব ভালো লাগে): জানালার ফাঁক দিয়ে ভোরের সোনালি রোদ এসে\
+আমারে ঘুমাতে দেখে বিছানায়, আমার কাতর চোখ,\
+
+::: {.wst-running-header .wst-running-header-3 .wst-running-header-default}
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+:::
+
+::: {.wst-running-header-cell}
+আমার বিমর্ষ ম্লান চুল―
+:::
+:::
+
+\
+
+এই নিয়ে খেলা করে: জানে সে যে বহুদিন আগে আমি করেছি কি ভুল\
+পৃথিবীর সব চেয়ে ক্ষমাহীন গাঢ় এক রূপসীর মুখ ভালোবেসে;\
+পউষের শেষ রাতে আজো আমি দেখি চেয়ে আবার সে আমাদের দেশে\
+ফিরে এল; রং তার কেমন তা জানে অই টস্‌টসে ভিজে জামরুল,\
+নরম জামের মতো চুল তার, ঘুঘুর বুকের মতো অস্ফুট আঙুল;\
+পউষের শেষ রাতে নিমপেঁচাটির সাথে আসে সে যে ভেসে\
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+\
+
+কবেকার মৃত কাক: পৃথিবীর পথে আজ নাই সে তো আর;\
+তবুও সে ম্লান জানালার পাশে উড়ে আসে নীরব সোহাগে,\
+মলিন পাখনা তার খড়ের চালের হিম শিশিরে মাখায়;\
+তখন এ পৃথিবীতে কোনো পাখি জেগে এসে বসে নি শাখায়;\
+পৃথিবীও নাই আর;―দাঁড়কাক একা একা সারারাত জাগে;\
+'কি বা, হায়, আসে যায়, তারে যদি কোনোদিন না পাই আবার।'
+:::
+:::
+:::
+:::
+
+[]{#c59_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%AE">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c59_______________.xhtml#id-68 .pagenum .ws-pagenum page-number="৬৮"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD%E0%A7%A8"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+সন্ধ্যা হয়---চারিদিকে শান্ত নীরবতা;\
+খড় মুখে নিয়ে এক শালিখ যেতেছে উড়ে চুপে;\
+গোরুর গাড়িটি যায় মেঠো পথ বেয়ে ধীরে ধীরে;\
+আঙিনা ভরিয়া আছে সোনালি খড়ের ঘন স্তূপে;\
+
+::: {.wst-dhr style="visibility:hidden; line-height:1em;"}
+ 
+:::
+
+\
+
+পৃথিবীর সব ঘুঘু ডাকিতেছে হিজলের বনে;\
+পৃথিবীর সব রূপ লেগে আছে ঘাসে;\
+পৃথিবীর সব প্রেম আমাদের দু'-জনার মনে;\
+আকাশ ছড়ায়ে আছে শান্তি হয়ে আকাশে আকাশে।
+:::
+:::
+:::
+:::
+
+[]{#c60_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AB%E0%A7%AF">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c60_______________.xhtml#id-69 .pagenum .ws-pagenum page-number="৬৯"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD%E0%A7%A9"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+একদিন কুয়াশার এই মাঠে আমারে পাবে না কেউ খুঁজে আর, জানি;\
+হৃদয়ের পথ-চলা শেষ হল সেই দিন---গিয়েছে সে শান্ত হিম ঘরে,\
+অথবা সান্ত্বনা পেতে দেরি হবে কিছু কাল---পৃথিবীর এই মাঠখানি\
+ভুলিতে বিলম্ব হবে কিছু দিন; এ মাঠের কয়েকটা শালিখের তরে\
+\
+আশ্চর্য বিস্ময়ে আমি চেয়ে র'ব কিছু, কাল অন্ধকার বিছানার কোলে,\
+আর সে সোনালি চিল ডানা মেলে দূর থেকে আজো কি মাঠের কুয়াশায়\
+ভেসে আসে? সেই ন্যাড়া অশ্বত্থের পানে আজো চ'লে যায়\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+সন্ধ্যা সোনার মতো হলে?
+:::
+
+\
+
+ধানের নরম শিষে মেঠো ইঁদুরের চোখ নক্ষত্রের দিকে আজো চায়\
+\
+সন্ধ্যা হলে? মউমাছি চাক আজো বাঁধে না কি জামের নিবিড় ঘন ডালে,\
+মউ খাওয়া হয়ে গেলে আজো তারা উড়ে যায় কুয়াশায় সন্ধ্যার বাতাসে---\
+কত দূরে যায়, আহা,\... অথবা হয়তো কেউ চালতার ঝরাপাতা জালে\
+মধুর চাকের নিচে---মাছিগুলো উড়ে যায় \... ঝ'রে পড়ে\... ম'রে\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+থাকে ঘাসে---
+:::
+:::
+:::
+:::
+:::
+
+[]{#c61_______________.xhtml}
+
+::: {.section mw-section-id="0"}
+::: {.prp-pages-output typeof="mw:Extension/pages" about="#mwt2" lang="bn"}
+::: {.wikisource-header-template itemscope="" itemtype="http://schema.org/CreativeWork"}
+`<link itemprop="mainEntityOfPage" href="https://bn.wikisource.org/wiki/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/%E0%A7%AC%E0%A7%A6">`{=html}`</link>`{=html}
+```{=html}
+<meta itemprop="inLanguage" content="bn">
+```
+```{=html}
+</meta>
+```
+:::
+
+[]{#c61_______________.xhtml#id-70 .pagenum .ws-pagenum page-number="৭০"
+title="%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_-_%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%A6%E0%A6%BE%E0%A6%B6.pdf/%E0%A7%AD%E0%A7%AA"}
+
+::: {style="display:table; margin-right:auto; margin-left:auto; width:auto; text-align:justify;"}
+::: {.poem}
+ভেবে ভেবে ব্যথা পাব;---মনে হবে, পৃথিবীর পথে যদি থাকিতাম বেঁচে\
+দেখিতাম সেই লক্ষ্মীপেঁচাটির মুখ যারে কোনোদিন ভালো করে\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+দেখি নাই আমি---
+:::
+
+\
+
+এমনি লাজুক পাখি,---ধূসর ডানা কি তার কুয়াশার ঢেউয়ে ওঠে নেচে;\
+যখন সাতটি তারা ফুটে ওঠে অন্ধকারে গাবের নিবিড় বুকে আসে\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+সে কি নামি?
+:::
+
+\
+
+\
+জিউলির বাবলার আঁধার গলির ফাঁকে জোনাকির কুহকের আলো\
+ঝরে না কি? ঝিঁঝিঁর সবুজ মাংসে ছোট ছোট ছেলেমেয়ে বউদের প্রাণ\
+ভুলে যায়; অন্ধকারে খুঁজে তারে আকন্দবনের ভিড়ে কোথায় হারালো\
+মাকাল লতার তলে শিশিরের নীল জলে কেউ তার পাবে না সন্ধান।\
+\
+আর সেই সোনালি চিলের ডানা---ডানা তার আজো কি মাঠের কুয়াশায়\
+ভেসে আসে?---সেই ন্যাড়া অশ্বত্থের পানে আজো চ'লে যায়\
+
+::: {style="text-align:right; padding-top: 0em; margin-right:0;"}
+সন্ধ্যা সোনার মতো হলে?
+:::
+
+\
+
+ধানের নরম শিষে মেঠো ইঁদুরের চোখ নক্ষত্রের দিকে আজো চায়?\
+আশ্চর্য বিস্ময়ে আমি চেয়ে র'ব কিছু কাল অন্ধকার বিছানার কোলে।
+:::
+:::
+
+::: {.wst-dhr style="visibility:hidden; line-height:2em;"}
+ 
+:::
+:::
+:::
+
+[]{#about.xhtml}
+
+::: {.section mw-section-id="0"}
+:::
+
+::: {.section mw-section-id="-1"}
+[]{#about.xhtml#id-.E0.A6.8F.E0.A6.87_.E0.A6.A1.E0.A6.BF.E0.A6.9C.E0.A6.BF.E0.A6.9F.E0.A6.BE.E0.A6.B2_.E0.A6.B8.E0.A6.82.E0.A6.B8.E0.A7.8D.E0.A6.95.E0.A6.B0.E0.A6.A3_.E0.A6.B8.E0.A6.AE.E0.A7.8D.E0.A6.AA.E0.A6.B0.E0.A7.8D.E0.A6.95.E0.A7.87 typeof="mw:FallbackId"}এই ডিজিটাল সংস্করণ সম্পর্কে {#about.xhtml#e_i_dijitala_sanskarana_samparke}
+=================================================================================================================================================================================================================================================================================================
+
+এই ই-বই অনলাইন গ্রন্থাগার
+[উইকিসংকলন](https://bn.wikisource.org/wiki/প্রধান_পাতা "প্রধান পাতা"){.mw-redirect}^[[\[1\]]{.mw-reflink-text}](#about.xhtml#cite_note-1)^
+হতে প্রাপ্ত। স্বেচ্ছাসেবীদের দ্বারা নির্মিত এই বহুভাষী ডিজিটাল
+গ্রন্থাগার উপন্যাস, কবিতা, পত্র-পত্রিকা ইত্যাদি সমস্ত ধরণের প্রকাশনার
+মুক্ত সংকলন গড়ে তোলার জন্য অঙ্গীকারবদ্ধ।
+
+আমরা কপিরাইটমুক্ত অথবা মুক্ত লাইসেন্সের অধীনে প্রকাশিত বইগুলিকে
+বিনামূল্যে প্রদান করে থাকি। আপনি আমাদের ই-বইগুলিকে [ক্রিয়েটিভ কমন্স
+অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক ৩.০
+আনপোর্টেড](https://creativecommons.org/licenses/by-sa/3.0/deed.bn){.external
+.text} লাইসেন্স^[[\[2\]]{.mw-reflink-text}](#about.xhtml#cite_note-2)^
+বা [জিএনইউ ফ্রি ডকুমেন্টশন
+লাইসেন্সের](http://www.gnu.org/copyleft/fdl.html){.external
+.text}^[[\[3\]]{.mw-reflink-text}](#about.xhtml#cite_note-3)^ শর্তাধীনে
+বাণিজ্যিক উদ্দেশ্য সহ যে কোন উদ্দেশ্যে ব্যবহার করতে পারেন।
+
+উইকিসংকলন সর্বদা নতুন সদস্যদের জন্য উন্মুক্ত। এই ই-বইয়ে কিছু ভুল
+ভ্রান্তি থেকে যাওয়া সম্ভব, সেক্ষেত্রে আপনি [এই
+পাতায়](https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা "উইকিসংকলন:লিপিশালা")
+জানাতে পারেন^[[\[4\]]{.mw-reflink-text}](#about.xhtml#cite_note-4)^।
+
+নিম্নে তালিকাভুক্ত ব্যবহারকারীরা এই ই-বইয়ে অবদান রেখেছেন:
+
+::: {#about.xhtml#ws-contributor}
+-   Salil Kumar Mukherjee
+-   DoraShin15
+-   Integrity2020
+-   Bodhisattwa
+-   Sumasa
+-   Tahmid
+:::
+
+\
+
+------------------------------------------------------------------------
+
+1.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-1)
+    [https://bn.wikisource.org]{.mw-reference-text}]{#about.xhtml#cite_note-1}
+2.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-2)
+    [https://creativecommons.org/licenses/by-sa/3.0/deed.bn]{.mw-reference-text}]{#about.xhtml#cite_note-2}
+3.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-3)
+    [http://www.gnu.org/copyleft/fdl.html]{.mw-reference-text}]{#about.xhtml#cite_note-3}
+4.  [[[↑ ]{.mw-linkback-text}](#about.xhtml#cite_ref-4)
+    [https://bn.wikisource.org/wiki/উইকিসংকলন:লিপিশালা]{.mw-reference-text}]{#about.xhtml#cite_note-4}
+:::
